@@ -155,8 +155,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Evolved Deck": {
-            "title": "Evolved Deck",
+          "Evolve Deck": {
+            "title": "Evolve Deck",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
