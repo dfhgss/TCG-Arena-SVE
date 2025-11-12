@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://dfhgss.github.io/TCG-Arena-SVE/1/BCS2025_SVEE_Top8_playmat.jpg"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
