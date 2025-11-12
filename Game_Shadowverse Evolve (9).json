@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/cards.json",
+    "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
     "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg"
   },
   "deckBuilding": {
