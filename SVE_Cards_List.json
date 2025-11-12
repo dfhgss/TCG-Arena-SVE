@@ -3757,7 +3757,7 @@
         "name": "Tsubaki",
         "type": "Follower",
         "cost": 6,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "6"
     },
@@ -3776,7 +3776,7 @@
         "name": "Latham, Vanguard Captain",
         "type": "Follower",
         "cost": 2,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "2"
     },
@@ -3795,7 +3795,7 @@
         "name": "Floral Fencer",
         "type": "Follower",
         "cost": 3,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "3"
     },
@@ -3814,7 +3814,7 @@
         "name": "Floral Fencer",
         "type": "Follower / Evolved",
         "cost": 0,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": ""
     },
@@ -3833,7 +3833,7 @@
         "name": "Moonlight Assassin",
         "type": "Follower",
         "cost": 2,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "2"
     },
@@ -3852,7 +3852,7 @@
         "name": "White General",
         "type": "Follower",
         "cost": 4,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "4"
     },
@@ -3871,7 +3871,7 @@
         "name": "Fencer",
         "type": "Follower",
         "cost": 3,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "3"
     },
@@ -3890,10 +3890,29 @@
         "name": "Oathless Knight",
         "type": "Follower",
         "cost": 2,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "2"
     },
+    "SD02-011EN": {
+        "id": "SD02-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Oathless Knight",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-011EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Oathless Knight",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
+        "Class": "Swordcraft",
+        "Cost": ""
+    }
     "SD02-012EN": {
         "id": "SD02-012EN",
         "isToken": false,
@@ -3909,7 +3928,7 @@
         "name": "Quickblader",
         "type": "Follower",
         "cost": 1,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "1"
     },
@@ -3928,7 +3947,7 @@
         "name": "Quickblader",
         "type": "Follower / Evolved",
         "cost": 0,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": ""
     },
@@ -3947,7 +3966,7 @@
         "name": "Unbridled Fury",
         "type": "Spell",
         "cost": 1,
-        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Card Set": "Starter Deck #2 “Blade of Resentment”",
         "Class": "Swordcraft",
         "Cost": "1"
     }
