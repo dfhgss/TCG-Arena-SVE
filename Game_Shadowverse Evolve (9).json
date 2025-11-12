@@ -17,8 +17,7 @@
     "mainFilters": [
       "Type",
       "Class",
-      "Card Set",
-      "Cost"
+      "Card Set"
     ],
     "formats": [
       {
