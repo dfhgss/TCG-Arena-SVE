@@ -1,0 +1,3954 @@
+{
+    "BP01-001EN": {
+        "id": "BP01-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rose Queen",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rose Queen",
+        "type": "Follower",
+        "cost": 8,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "8"
+    },
+    "BP01-002EN": {
+        "id": "BP01-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ancient Elf",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-002EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ancient Elf",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-003EN": {
+        "id": "BP01-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ancient Elf",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ancient Elf",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": ""
+    },
+    "BP01-004EN": {
+        "id": "BP01-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rhinoceroach",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-004EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rhinoceroach",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-005EN": {
+        "id": "BP01-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rhinoceroach",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-005EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rhinoceroach",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": ""
+    },
+    "BP01-006EN": {
+        "id": "BP01-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Robin Hood",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-006EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Robin Hood",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "5"
+    },
+    "BP01-007EN": {
+        "id": "BP01-007EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Silver Bolt",
+                "type": "Spell",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-007EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Silver Bolt",
+        "type": "Spell",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "7"
+    },
+    "BP01-008EN": {
+        "id": "BP01-008EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Homecoming",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-008EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Homecoming",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "3"
+    },
+    "BP01-009EN": {
+        "id": "BP01-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elven Princess Mage",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-009EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elven Princess Mage",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "3"
+    },
+    "BP01-010EN": {
+        "id": "BP01-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elven Princess Mage",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elven Princess Mage",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": ""
+    },
+    "BP01-011EN": {
+        "id": "BP01-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blessed Fairy Dancer",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-011EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blessed Fairy Dancer",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-012EN": {
+        "id": "BP01-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elf Child May",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-012EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elf Child May",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "1"
+    },
+    "BP01-013EN": {
+        "id": "BP01-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy Beast",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-013EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy Beast",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "5"
+    },
+    "BP01-014EN": {
+        "id": "BP01-014EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Noble Fairy",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-014EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Noble Fairy",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "3"
+    },
+    "BP01-015EN": {
+        "id": "BP01-015EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nature's Guidance",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-015EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nature's Guidance",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "1"
+    },
+    "BP01-016EN": {
+        "id": "BP01-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Harvest Festival",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-016EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Harvest Festival",
+        "type": "Amulet",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "1"
+    },
+    "BP01-017EN": {
+        "id": "BP01-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elf Metallurgist",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-017EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elf Metallurgist",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-018EN": {
+        "id": "BP01-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Archer",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-018EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Archer",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-019EN": {
+        "id": "BP01-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Archer",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-019EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Archer",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": ""
+    },
+    "BP01-020EN": {
+        "id": "BP01-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy Whisperer",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-020EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy Whisperer",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-021EN": {
+        "id": "BP01-021EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Okami",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-021EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Okami",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "4"
+    },
+    "BP01-022EN": {
+        "id": "BP01-022EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mana Elk",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-022EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mana Elk",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "4"
+    },
+    "BP01-023EN": {
+        "id": "BP01-023EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy Circle",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-023EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy Circle",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "1"
+    },
+    "BP01-024EN": {
+        "id": "BP01-024EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Woodkin Curse",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-024EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Woodkin Curse",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-025EN": {
+        "id": "BP01-025EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Woodland Refuge",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-025EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Woodland Refuge",
+        "type": "Amulet",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "1"
+    },
+    "BP01-026EN": {
+        "id": "BP01-026EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sea Queen Otohime",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-026EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sea Queen Otohime",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "4"
+    },
+    "BP01-027EN": {
+        "id": "BP01-027EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sea Queen Otohime",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-027EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sea Queen Otohime",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": ""
+    },
+    "BP01-028EN": {
+        "id": "BP01-028EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aurelia, Regal Saber",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-028EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aurelia, Regal Saber",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "5"
+    },
+    "BP01-029EN": {
+        "id": "BP01-029EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shadowed Assassin",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-029EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shadowed Assassin",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "4"
+    },
+    "BP01-030EN": {
+        "id": "BP01-030EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shadowed Assassin",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-030EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shadowed Assassin",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": ""
+    },
+    "BP01-031EN": {
+        "id": "BP01-031EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Frontguard General",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-031EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Frontguard General",
+        "type": "Follower",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "7"
+    },
+    "BP01-032EN": {
+        "id": "BP01-032EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Alwida's Command",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-032EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Alwida's Command",
+        "type": "Spell",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "5"
+    },
+    "BP01-033EN": {
+        "id": "BP01-033EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Royal Banner",
+                "type": "Amulet",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-033EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Royal Banner",
+        "type": "Amulet",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "4"
+    },
+    "BP01-034EN": {
+        "id": "BP01-034EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maid Leader",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-034EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maid Leader",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    },
+    "BP01-035EN": {
+        "id": "BP01-035EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maid Leader",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-035EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maid Leader",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": ""
+    },
+    "BP01-036EN": {
+        "id": "BP01-036EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gemstaff Commander",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-036EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gemstaff Commander",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "BP01-037EN": {
+        "id": "BP01-037EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sage Commander",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-037EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sage Commander",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "5"
+    },
+    "BP01-038EN": {
+        "id": "BP01-038EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Swordsman",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-038EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Swordsman",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    },
+    "BP01-039EN": {
+        "id": "BP01-039EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pompous Princess",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-039EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pompous Princess",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "BP01-040EN": {
+        "id": "BP01-040EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ninja Master",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-040EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ninja Master",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "4"
+    },
+    "BP01-041EN": {
+        "id": "BP01-041EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arthurian Light",
+                "type": "Amulet",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-041EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arthurian Light",
+        "type": "Amulet",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-042EN": {
+        "id": "BP01-042EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ninja Trainee",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-042EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ninja Trainee",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    },
+    "BP01-043EN": {
+        "id": "BP01-043EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fervid Soldier",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-043EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fervid Soldier",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-044EN": {
+        "id": "BP01-044EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fervid Soldier",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-044EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fervid Soldier",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": ""
+    },
+    "BP01-045EN": {
+        "id": "BP01-045EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Luminous Knight",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-045EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Luminous Knight",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-046EN": {
+        "id": "BP01-046EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Veteran Lancer",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-046EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Veteran Lancer",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-047EN": {
+        "id": "BP01-047EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Navy Lieutenant",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-047EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Navy Lieutenant",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-048EN": {
+        "id": "BP01-048EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Novice Trooper",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-048EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Novice Trooper",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "BP01-049EN": {
+        "id": "BP01-049EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Forge Weaponry",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-049EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forge Weaponry",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-050EN": {
+        "id": "BP01-050EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Onslaught",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-050EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Onslaught",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "BP01-051EN": {
+        "id": "BP01-051EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arch Summoner Erasmus",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-051EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arch Summoner Erasmus",
+        "type": "Follower",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "7"
+    },
+    "BP01-052EN": {
+        "id": "BP01-052EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Merlin",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-052EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Merlin",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "3"
+    },
+    "BP01-053EN": {
+        "id": "BP01-053EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Merlin",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-053EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Merlin",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": ""
+    },
+    "BP01-054EN": {
+        "id": "BP01-054EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ancient Alchemist",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-054EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ancient Alchemist",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "3"
+    },
+    "BP01-055EN": {
+        "id": "BP01-055EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ancient Alchemist",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-055EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ancient Alchemist",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": ""
+    },
+    "BP01-056EN": {
+        "id": "BP01-056EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arcane Enlightenment",
+                "type": "Spell",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-056EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arcane Enlightenment",
+        "type": "Spell",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "4"
+    },
+    "BP01-057EN": {
+        "id": "BP01-057EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dimension Shift",
+                "type": "Spell",
+                "cost": 12,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-057EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dimension Shift",
+        "type": "Spell",
+        "cost": 12,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "12"
+    },
+    "BP01-058EN": {
+        "id": "BP01-058EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Juno's Secret Laboratory",
+                "type": "Amulet",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-058EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Juno's Secret Laboratory",
+        "type": "Amulet",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "5"
+    },
+    "BP01-059EN": {
+        "id": "BP01-059EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spectral Wizard",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-059EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spectral Wizard",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "2"
+    },
+    "BP01-060EN": {
+        "id": "BP01-060EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spectral Wizard",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-060EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spectral Wizard",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": ""
+    },
+    "BP01-061EN": {
+        "id": "BP01-061EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Flame Destroyer",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-061EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Flame Destroyer",
+        "type": "Follower",
+        "cost": 9,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "9"
+    },
+    "BP01-062EN": {
+        "id": "BP01-062EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragonbond Mage",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-062EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragonbond Mage",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "3"
+    },
+    "BP01-063EN": {
+        "id": "BP01-063EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Golem Protection",
+                "type": "Spell",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-063EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Golem Protection",
+        "type": "Spell",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "4"
+    },
+    "BP01-064EN": {
+        "id": "BP01-064EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Alchemical Lore",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-064EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Alchemical Lore",
+        "type": "Spell",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "5"
+    },
+    "BP01-065EN": {
+        "id": "BP01-065EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fate's Hand",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-065EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fate's Hand",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "3"
+    },
+    "BP01-066EN": {
+        "id": "BP01-066EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Price of Magic",
+                "type": "Amulet",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-066EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Price of Magic",
+        "type": "Amulet",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "3"
+    },
+    "BP01-067EN": {
+        "id": "BP01-067EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Runic Guardian",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-067EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Runic Guardian",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "3"
+    },
+    "BP01-068EN": {
+        "id": "BP01-068EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crafty Warlock",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-068EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crafty Warlock",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "2"
+    },
+    "BP01-069EN": {
+        "id": "BP01-069EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crafty Warlock",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-069EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crafty Warlock",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": ""
+    },
+    "BP01-070EN": {
+        "id": "BP01-070EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lightning Shooter",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-070EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lightning Shooter",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "4"
+    },
+    "BP01-071EN": {
+        "id": "BP01-071EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wind Blast",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-071EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wind Blast",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "1"
+    },
+    "BP01-072EN": {
+        "id": "BP01-072EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sorcery Cache",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-072EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sorcery Cache",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "2"
+    },
+    "BP01-073EN": {
+        "id": "BP01-073EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fiery Embrace",
+                "type": "Spell",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-073EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fiery Embrace",
+        "type": "Spell",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "4"
+    },
+    "BP01-074EN": {
+        "id": "BP01-074EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Alchemist's Workshop",
+                "type": "Amulet",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-074EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Alchemist's Workshop",
+        "type": "Amulet",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "2"
+    },
+    "BP01-075EN": {
+        "id": "BP01-075EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Teachings of Creation",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-075EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Teachings of Creation",
+        "type": "Amulet",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "1"
+    },
+    "BP01-076EN": {
+        "id": "BP01-076EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Dragoon Forte",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-076EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Dragoon Forte",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "4"
+    },
+    "BP01-077EN": {
+        "id": "BP01-077EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Dragoon Forte",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-077EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Dragoon Forte",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": ""
+    },
+    "BP01-078EN": {
+        "id": "BP01-078EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zirnitra",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-078EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zirnitra",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "3"
+    },
+    "BP01-079EN": {
+        "id": "BP01-079EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aiela, Dragon Knight",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-079EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aiela, Dragon Knight",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "3"
+    },
+    "BP01-080EN": {
+        "id": "BP01-080EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Genesis Dragon",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-080EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Genesis Dragon",
+        "type": "Follower",
+        "cost": 9,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "9"
+    },
+    "BP01-081EN": {
+        "id": "BP01-081EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shapeshifting Mage",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-081EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shapeshifting Mage",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "2"
+    },
+    "BP01-082EN": {
+        "id": "BP01-082EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shapeshifting Mage",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-082EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shapeshifting Mage",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": ""
+    },
+    "BP01-083EN": {
+        "id": "BP01-083EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Phoenix Roost",
+                "type": "Amulet",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-083EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Phoenix Roost",
+        "type": "Amulet",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "5"
+    },
+    "BP01-084EN": {
+        "id": "BP01-084EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wyvern Cavalier",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-084EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wyvern Cavalier",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "5"
+    },
+    "BP01-085EN": {
+        "id": "BP01-085EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragonewt Scholar",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-085EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragonewt Scholar",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "2"
+    },
+    "BP01-086EN": {
+        "id": "BP01-086EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shenlong",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-086EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shenlong",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "5"
+    },
+    "BP01-087EN": {
+        "id": "BP01-087EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shenlong",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-087EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shenlong",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": ""
+    },
+    "BP01-088EN": {
+        "id": "BP01-088EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Imprisoned Dragon",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-088EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Imprisoned Dragon",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "3"
+    },
+    "BP01-089EN": {
+        "id": "BP01-089EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Conflagration",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-089EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Conflagration",
+        "type": "Spell",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "5"
+    },
+    "BP01-090EN": {
+        "id": "BP01-090EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Serpent Wrath",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-090EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Serpent Wrath",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "3"
+    },
+    "BP01-091EN": {
+        "id": "BP01-091EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wyrm Spire",
+                "type": "Amulet",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-091EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wyrm Spire",
+        "type": "Amulet",
+        "cost": 6,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "6"
+    },
+    "BP01-092EN": {
+        "id": "BP01-092EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ivory Dragon",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-092EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ivory Dragon",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "1"
+    },
+    "BP01-093EN": {
+        "id": "BP01-093EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ivory Dragon",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-093EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ivory Dragon",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": ""
+    },
+    "BP01-094EN": {
+        "id": "BP01-094EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fire Lizard",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-094EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fire Lizard",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "2"
+    },
+    "BP01-095EN": {
+        "id": "BP01-095EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ace Dragoon",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-095EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ace Dragoon",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "2"
+    },
+    "BP01-096EN": {
+        "id": "BP01-096EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mist Dragon",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-096EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mist Dragon",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "4"
+    },
+    "BP01-097EN": {
+        "id": "BP01-097EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dread Dragon",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-097EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dread Dragon",
+        "type": "Follower",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "7"
+    },
+    "BP01-098EN": {
+        "id": "BP01-098EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blazing Breath",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-098EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blazing Breath",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "1"
+    },
+    "BP01-099EN": {
+        "id": "BP01-099EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragon Wings",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-099EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragon Wings",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "3"
+    },
+    "BP01-100EN": {
+        "id": "BP01-100EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragon Emissary",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-100EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragon Emissary",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "1"
+    },
+    "BP01-101EN": {
+        "id": "BP01-101EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cerberus",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-101EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cerberus",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "4"
+    },
+    "BP01-102EN": {
+        "id": "BP01-102EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cerberus",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-102EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cerberus",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": ""
+    },
+    "BP01-103EN": {
+        "id": "BP01-103EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lord Atomy",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-103EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lord Atomy",
+        "type": "Follower",
+        "cost": 9,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "9"
+    },
+    "BP01-104EN": {
+        "id": "BP01-104EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Medusa",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-104EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Medusa",
+        "type": "Follower",
+        "cost": 6,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "6"
+    },
+    "BP01-105EN": {
+        "id": "BP01-105EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Righteous Devil",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-105EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Righteous Devil",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "4"
+    },
+    "BP01-106EN": {
+        "id": "BP01-106EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Righteous Devil",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-106EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Righteous Devil",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": ""
+    },
+    "BP01-107EN": {
+        "id": "BP01-107EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mordecai the Duelist",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-107EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mordecai the Duelist",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "5"
+    },
+    "BP01-108EN": {
+        "id": "BP01-108EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dire Bond",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-108EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dire Bond",
+        "type": "Amulet",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "1"
+    },
+    "BP01-109EN": {
+        "id": "BP01-109EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hell's Unleasher",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-109EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hell's Unleasher",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "2"
+    },
+    "BP01-110EN": {
+        "id": "BP01-110EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crazed Executioner",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-110EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crazed Executioner",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "3"
+    },
+    "BP01-111EN": {
+        "id": "BP01-111EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crazed Executioner",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-111EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crazed Executioner",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": ""
+    },
+    "BP01-112EN": {
+        "id": "BP01-112EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Summoner",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-112EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Summoner",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "2"
+    },
+    "BP01-113EN": {
+        "id": "BP01-113EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark General",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-113EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark General",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "4"
+    },
+    "BP01-114EN": {
+        "id": "BP01-114EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Phantom Howl",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-114EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Phantom Howl",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "3"
+    },
+    "BP01-115EN": {
+        "id": "BP01-115EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Death's Breath",
+                "type": "Spell",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-115EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Death's Breath",
+        "type": "Spell",
+        "cost": 6,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "6"
+    },
+    "BP01-116EN": {
+        "id": "BP01-116EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Soul Conversion",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-116EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Soul Conversion",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "1"
+    },
+    "BP01-117EN": {
+        "id": "BP01-117EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Skeleton Fighter",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-117EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Skeleton Fighter",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "1"
+    },
+    "BP01-118EN": {
+        "id": "BP01-118EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ambling Wraith",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-118EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ambling Wraith",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "1"
+    },
+    "BP01-119EN": {
+        "id": "BP01-119EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spectre",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-119EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spectre",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "2"
+    },
+    "BP01-120EN": {
+        "id": "BP01-120EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spartoi Sergeant",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-120EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spartoi Sergeant",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "2"
+    },
+    "BP01-121EN": {
+        "id": "BP01-121EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rabbit Necromancer",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-121EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rabbit Necromancer",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "3"
+    },
+    "BP01-122EN": {
+        "id": "BP01-122EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wardrobe Raider",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-122EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wardrobe Raider",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "3"
+    },
+    "BP01-123EN": {
+        "id": "BP01-123EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wardrobe Raider",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-123EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wardrobe Raider",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": ""
+    },
+    "BP01-124EN": {
+        "id": "BP01-124EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Undead King",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-124EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Undead King",
+        "type": "Follower",
+        "cost": 6,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "6"
+    },
+    "BP01-125EN": {
+        "id": "BP01-125EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Razory Claw",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-125EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Razory Claw",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "2"
+    },
+    "BP01-126EN": {
+        "id": "BP01-126EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Moon Al-mi'raj",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-126EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Moon Al-mi'raj",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "5"
+    },
+    "BP01-127EN": {
+        "id": "BP01-127EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jeanne d'Arc",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-127EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jeanne d'Arc",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "4"
+    },
+    "BP01-128EN": {
+        "id": "BP01-128EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jeanne d'Arc",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-128EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jeanne d'Arc",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": ""
+    },
+    "BP01-129EN": {
+        "id": "BP01-129EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arch Priestess Laelia",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-129EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arch Priestess Laelia",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "4"
+    },
+    "BP01-130EN": {
+        "id": "BP01-130EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arch Priestess Laelia",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-130EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arch Priestess Laelia",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": ""
+    },
+    "BP01-131EN": {
+        "id": "BP01-131EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Themis's Decree",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-131EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Themis's Decree",
+        "type": "Spell",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "5"
+    },
+    "BP01-132EN": {
+        "id": "BP01-132EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chorus of Prayer",
+                "type": "Spell",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-132EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chorus of Prayer",
+        "type": "Spell",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "7"
+    },
+    "BP01-133EN": {
+        "id": "BP01-133EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sacred Plea",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-133EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sacred Plea",
+        "type": "Amulet",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "1"
+    },
+    "BP01-134EN": {
+        "id": "BP01-134EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Temple Defender",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-134EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Temple Defender",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "3"
+    },
+    "BP01-135EN": {
+        "id": "BP01-135EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prism Priestess",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-135EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prism Priestess",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "1"
+    },
+    "BP01-136EN": {
+        "id": "BP01-136EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prism Priestess",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-136EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prism Priestess",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": ""
+    },
+    "BP01-137EN": {
+        "id": "BP01-137EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cleric Lancer",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-137EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cleric Lancer",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "4"
+    },
+    "BP01-138EN": {
+        "id": "BP01-138EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shrine Knight Maiden",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-138EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shrine Knight Maiden",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "5"
+    },
+    "BP01-139EN": {
+        "id": "BP01-139EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blackened Scripture",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-139EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blackened Scripture",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "2"
+    },
+    "BP01-140EN": {
+        "id": "BP01-140EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Offering",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-140EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Offering",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "1"
+    },
+    "BP01-141EN": {
+        "id": "BP01-141EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Sentinel",
+                "type": "Amulet",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-141EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Sentinel",
+        "type": "Amulet",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "5"
+    },
+    "BP01-142EN": {
+        "id": "BP01-142EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cruel Priestess",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-142EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cruel Priestess",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "4"
+    },
+    "BP01-143EN": {
+        "id": "BP01-143EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sister Initiate",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-143EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sister Initiate",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "2"
+    },
+    "BP01-144EN": {
+        "id": "BP01-144EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mainyu",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-144EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mainyu",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "2"
+    },
+    "BP01-145EN": {
+        "id": "BP01-145EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mainyu",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-145EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mainyu",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": ""
+    },
+    "BP01-146EN": {
+        "id": "BP01-146EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Snake Priestess",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-146EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Snake Priestess",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "1"
+    },
+    "BP01-147EN": {
+        "id": "BP01-147EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Curate",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-147EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Curate",
+        "type": "Follower",
+        "cost": 6,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "6"
+    },
+    "BP01-148EN": {
+        "id": "BP01-148EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hallowed Dogma",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-148EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hallowed Dogma",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "1"
+    },
+    "BP01-149EN": {
+        "id": "BP01-149EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Guardian Sun",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-149EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Guardian Sun",
+        "type": "Amulet",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "1"
+    },
+    "BP01-150EN": {
+        "id": "BP01-150EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Death Sentence",
+                "type": "Amulet",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-150EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Death Sentence",
+        "type": "Amulet",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "3"
+    },
+    "BP01-151EN": {
+        "id": "BP01-151EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gabriel",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-151EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gabriel",
+        "type": "Follower",
+        "cost": 6,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "6"
+    },
+    "BP01-152EN": {
+        "id": "BP01-152EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lucifer",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-152EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lucifer",
+        "type": "Follower",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "7"
+    },
+    "BP01-153EN": {
+        "id": "BP01-153EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lucifer",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-153EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lucifer",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-154EN": {
+        "id": "BP01-154EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Flame and Glass",
+                "type": "Follower",
+                "cost": 10,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-154EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Flame and Glass",
+        "type": "Follower",
+        "cost": 10,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "10"
+    },
+    "BP01-155EN": {
+        "id": "BP01-155EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Urd",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-155EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Urd",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "4"
+    },
+    "BP01-156EN": {
+        "id": "BP01-156EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Urd",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-156EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Urd",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-157EN": {
+        "id": "BP01-157EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wind God",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-157EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wind God",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "4"
+    },
+    "BP01-158EN": {
+        "id": "BP01-158EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gilgamesh",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-158EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gilgamesh",
+        "type": "Follower",
+        "cost": 7,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "7"
+    },
+    "BP01-159EN": {
+        "id": "BP01-159EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bellringer Angel",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-159EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bellringer Angel",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "1"
+    },
+    "BP01-160EN": {
+        "id": "BP01-160EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bellringer Angel",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-160EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bellringer Angel",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-161EN": {
+        "id": "BP01-161EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Altered Fate",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-161EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Altered Fate",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "2"
+    },
+    "BP01-162EN": {
+        "id": "BP01-162EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Path to Purgatory",
+                "type": "Amulet",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-162EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Path to Purgatory",
+        "type": "Amulet",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-163EN": {
+        "id": "BP01-163EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lizardman",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-163EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lizardman",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-164EN": {
+        "id": "BP01-164EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblinmount Demon",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-164EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblinmount Demon",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "5"
+    },
+    "BP01-165EN": {
+        "id": "BP01-165EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblinmount Demon",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-165EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblinmount Demon",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-166EN": {
+        "id": "BP01-166EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Harnessed Flame",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-166EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Harnessed Flame",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-167EN": {
+        "id": "BP01-167EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Harnessed Glass",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-167EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Harnessed Glass",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-168EN": {
+        "id": "BP01-168EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Demonic Strike",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-168EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Demonic Strike",
+        "type": "Spell",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-169EN": {
+        "id": "BP01-169EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Execution",
+                "type": "Spell",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-169EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Execution",
+        "type": "Spell",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "4"
+    },
+    "BP01-170EN": {
+        "id": "BP01-170EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Trail of Light",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-170EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Trail of Light",
+        "type": "Spell",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "2"
+    },
+    "BP01-171EN": {
+        "id": "BP01-171EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-171EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "1"
+    },
+    "BP01-172EN": {
+        "id": "BP01-172EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-172EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-173EN": {
+        "id": "BP01-173EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fighter",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-173EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fighter",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "2"
+    },
+    "BP01-174EN": {
+        "id": "BP01-174EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goliath",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-174EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goliath",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-175EN": {
+        "id": "BP01-175EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goliath",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-175EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goliath",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-176EN": {
+        "id": "BP01-176EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Angelic Sword Maiden",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-176EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Angelic Sword Maiden",
+        "type": "Follower",
+        "cost": 5,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "5"
+    },
+    "BP01-177EN": {
+        "id": "BP01-177EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Healing Angel",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-177EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Healing Angel",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "3"
+    },
+    "BP01-178EN": {
+        "id": "BP01-178EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Healing Angel",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-178EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Healing Angel",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": ""
+    },
+    "BP01-179EN": {
+        "id": "BP01-179EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Angelic Snipe",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-179EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Angelic Snipe",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "1"
+    },
+    "BP01-180EN": {
+        "id": "BP01-180EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Angelic Barrage",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-180EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Angelic Barrage",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Neutral",
+        "Cost": "1"
+    },
+    "BP01-T01EN": {
+        "id": "BP01-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Thorn Burst",
+                "type": "Spell / Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Thorn Burst",
+        "type": "Spell / Token",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "2"
+    },
+    "BP01-T02EN": {
+        "id": "BP01-T02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy Wisp",
+                "type": "Follower / Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy Wisp",
+        "type": "Follower / Token",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "0"
+    },
+    "BP01-T03EN": {
+        "id": "BP01-T03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy",
+                "type": "Follower / Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy",
+        "type": "Follower / Token",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Forestcraft",
+        "Cost": "1"
+    },
+    "BP01-T04EN": {
+        "id": "BP01-T04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Otohime's Bodyguard",
+                "type": "Follower / Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Otohime's Bodyguard",
+        "type": "Follower / Token",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    },
+    "BP01-T05EN": {
+        "id": "BP01-T05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Knight",
+                "type": "Follower / Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Knight",
+        "type": "Follower / Token",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    },
+    "BP01-T06EN": {
+        "id": "BP01-T06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Viking",
+                "type": "Follower / Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Viking",
+        "type": "Follower / Token",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "BP01-T07EN": {
+        "id": "BP01-T07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Steelclad Knight",
+                "type": "Follower / Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Steelclad Knight",
+        "type": "Follower / Token",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "BP01-T08EN": {
+        "id": "BP01-T08EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Strikeform Golem",
+                "type": "Follower / Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Strikeform Golem",
+        "type": "Follower / Token",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "2"
+    },
+    "BP01-T09EN": {
+        "id": "BP01-T09EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Guardform Golem",
+                "type": "Follower / Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Guardform Golem",
+        "type": "Follower / Token",
+        "cost": 2,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "2"
+    },
+    "BP01-T10EN": {
+        "id": "BP01-T10EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magic Sediment",
+                "type": "Amulet / Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magic Sediment",
+        "type": "Amulet / Token",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Runecraft",
+        "Cost": "1"
+    },
+    "BP01-T11EN": {
+        "id": "BP01-T11EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragon",
+                "type": "Follower / Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T11EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragon",
+        "type": "Follower / Token",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Dragoncraft",
+        "Cost": "4"
+    },
+    "BP01-T12EN": {
+        "id": "BP01-T12EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mimi",
+                "type": "Spell / Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mimi",
+        "type": "Spell / Token",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "0"
+    },
+    "BP01-T13EN": {
+        "id": "BP01-T13EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Coco",
+                "type": "Spell / Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coco",
+        "type": "Spell / Token",
+        "cost": 0,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "0"
+    },
+    "BP01-T14EN": {
+        "id": "BP01-T14EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ghost",
+                "type": "Follower / Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T14EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ghost",
+        "type": "Follower / Token",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "1"
+    },
+    "BP01-T15EN": {
+        "id": "BP01-T15EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Forest Bat",
+                "type": "Follower / Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forest Bat",
+        "type": "Follower / Token",
+        "cost": 1,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Abysscraft",
+        "Cost": "1"
+    },
+    "BP01-T16EN": {
+        "id": "BP01-T16EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Falcon",
+                "type": "Follower / Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T16EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Falcon",
+        "type": "Follower / Token",
+        "cost": 3,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "3"
+    },
+    "BP01-T17EN": {
+        "id": "BP01-T17EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Tiger",
+                "type": "Follower / Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T17EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Tiger",
+        "type": "Follower / Token",
+        "cost": 4,
+        "Card Set": "Booster Set #1 “Advent of Genesis”",
+        "Class": "Havencraft",
+        "Cost": "4"
+    },
+    "SD02-001EN": {
+        "id": "SD02-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tsubaki",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tsubaki",
+        "type": "Follower",
+        "cost": 6,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "6"
+    },
+    "SD02-002EN": {
+        "id": "SD02-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Latham, Vanguard Captain",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-002EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Latham, Vanguard Captain",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "SD02-003EN": {
+        "id": "SD02-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Floral Fencer",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Floral Fencer",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "SD02-004EN": {
+        "id": "SD02-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Floral Fencer",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-004EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Floral Fencer",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": ""
+    },
+    "SD02-005EN": {
+        "id": "SD02-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Moonlight Assassin",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-005EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Moonlight Assassin",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "SD02-006EN": {
+        "id": "SD02-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "White General",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-006EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "White General",
+        "type": "Follower",
+        "cost": 4,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "4"
+    },
+    "SD02-009EN": {
+        "id": "SD02-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fencer",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-009EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fencer",
+        "type": "Follower",
+        "cost": 3,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "3"
+    },
+    "SD02-010EN": {
+        "id": "SD02-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Oathless Knight",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Oathless Knight",
+        "type": "Follower",
+        "cost": 2,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "2"
+    },
+    "SD02-012EN": {
+        "id": "SD02-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Quickblader",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-012EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Quickblader",
+        "type": "Follower",
+        "cost": 1,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    },
+    "SD02-013EN": {
+        "id": "SD02-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Quickblader",
+                "type": "Follower / Evolved",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-013EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Quickblader",
+        "type": "Follower / Evolved",
+        "cost": 0,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": ""
+    },
+    "SD02-016EN": {
+        "id": "SD02-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Unbridled Fury",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-016EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Unbridled Fury",
+        "type": "Spell",
+        "cost": 1,
+        "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
+        "Class": "Swordcraft",
+        "Cost": "1"
+    }
+}
