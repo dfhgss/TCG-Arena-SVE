@@ -24,7 +24,9 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "Evolve Deck"
+        ]
       }
     ]
   },
@@ -53,8 +55,6 @@
         "customSections": [
           "Field",
           "EX Area",
-          "PP Deck",
-          "PP",
           "Evolve Deck",
           "Used Evolved"
         ],
@@ -98,18 +98,6 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "PP Deck",
-                      "style": {
-                        "width": "10vh"
-                      }
-                    },
-                    {
-                      "section": "PP",
-                      "style": {
-                        "width": "40vh"
-                      }
-                    },
-                    {
                       "section": "EX Area",
                       "style": {
                         "width": "71vh",
@@ -126,8 +114,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Evolve Deck",
-          "PP Deck"
+          "Evolve Deck"
         ],
         "autoPlayFromHand": {
           "Follower": "Field",
@@ -166,38 +153,6 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "PP Deck": {
-            "title": "PP Deck",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "PP": {
-            "title": "PP",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Evolved Deck": {
