@@ -1,19 +1,19 @@
-]
 {
-  "title": "Starter Deck #2 “Blade of Resentment”",
-  "id": "18ad9af6-93ba-4952-b6b1-eb3be780c989",
+  "title": "Starter Deck #2: Blade of Resentment",
+  "id": "1b370009-3959-44c4-a804-81c2958b2114",
   "game": "Shadowverse Evolve",
   "format": [
     "Classic"
   ],
-  "cardCount": 60,
-  "createdAt": "2025-11-13T18:55:01.471Z",
-  "lastModifiedAt": "2025-11-13T18:55:01.471Z",
+  "cardCount": 63,
+  "createdAt": "2025-11-13T20:00:09.966Z",
+  "lastModifiedAt": "2025-11-13T20:02:05.236Z",
   "deckList": {
     "categoriesOrder": [
       "Follower",
       "Evolve Deck",
       "Spell",
+      "EP",
       "PP"
     ],
     "Sideboard": [],
@@ -81,12 +81,12 @@
         "id": "SD02-013EN"
       },
       {
-        "count": 1,
-        "id": "BP01-172EN"
-      },
-      {
         "count": 3,
         "id": "SD02-004EN"
+      },
+      {
+        "count": 1,
+        "id": "BP01-172EN"
       }
     ],
     "Spell": [
@@ -103,120 +103,17 @@
         "id": "SD02-016EN"
       }
     ],
-    "PP": [
-      {
-        "count": 10,
-        "id": "PP"
-      }
-    ]
-  }
-},
-{
-  "title": "Starter 2",
-  "id": "a8a0dc26-1830-4a97-b29f-79b53b52d653",
-  "game": "Shadowverse Evolve",
-  "format": [
-    "Classic"
-  ],
-  "cardCount": 60,
-  "createdAt": "2025-11-13T19:00:39.282Z",
-  "lastModifiedAt": "2025-11-13T19:06:03.016Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Follower",
-      "Evolve Deck",
-      "PP",
-      "Spell"
-    ],
-    "Sideboard": [],
-    "Follower": [
+    "EP": [
       {
         "count": 3,
-        "id": "BP01-001EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-002EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-004EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-006EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-014EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-013EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-012EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-011EN"
-      },
-      {
-        "count": 2,
-        "id": "BP01-009EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-018EN"
-      },
-      {
-        "count": 1,
-        "id": "BP01-152EN"
-      },
-      {
-        "count": 1,
-        "id": "BP01-157EN"
-      }
-    ],
-    "Evolve Deck": [
-      {
-        "count": 3,
-        "id": "BP01-005EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-003EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-019EN"
-      },
-      {
-        "count": 1,
-        "id": "BP01-153EN"
+        "id": "EP"
       }
     ],
     "PP": [
       {
         "count": 10,
         "id": "PP"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 3,
-        "id": "BP01-007EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-008EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-015EN"
       }
     ]
   }
 }
-]
