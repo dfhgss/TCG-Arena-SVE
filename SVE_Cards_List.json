@@ -3988,5 +3988,24 @@
         "Card Set": "PP",
         "Class": "Neutral",
         "Cost": "0"
+    },
+    "EP": {
+        "id": "EP",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "EP",
+                "type": "EP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-T38EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "EP",
+        "type": "EP",
+        "cost": 0,
+        "Card Set": "EP",
+        "Class": "Neutral",
+        "Cost": "0"
     }
 }
