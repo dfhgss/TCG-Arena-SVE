@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://dfhgss.github.io/TCG-Arena-SVE/1/banner.jpg",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_StarterDecks.json"
+    "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_StarterDeck.json"
   },
   "customHelp": "",
   "cardRotation": "90",
