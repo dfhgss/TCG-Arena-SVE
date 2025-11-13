@@ -326,7 +326,7 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "PP": {
@@ -358,7 +358,7 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "EP": {
