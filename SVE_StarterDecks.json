@@ -1,0 +1,112 @@
+{
+  "title": "Starter Deck #2 “Blade of Resentment”",
+  "id": "18ad9af6-93ba-4952-b6b1-eb3be780c989",
+  "game": "Shadowverse Evolve",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 60,
+  "createdAt": "2025-11-13T18:55:01.471Z",
+  "lastModifiedAt": "2025-11-13T18:55:01.471Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Follower",
+      "Evolve Deck",
+      "Spell",
+      "PP"
+    ],
+    "Sideboard": [],
+    "Follower": [
+      {
+        "count": 3,
+        "id": "SD02-001EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-002EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-003EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-005EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-006EN"
+      },
+      {
+        "count": 2,
+        "id": "BP01-042EN"
+      },
+      {
+        "count": 2,
+        "id": "BP01-046EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-009EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-010EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-012EN"
+      },
+      {
+        "count": 2,
+        "id": "BP01-171EN"
+      },
+      {
+        "count": 1,
+        "id": "BP01-173EN"
+      },
+      {
+        "count": 2,
+        "id": "BP01-176EN"
+      }
+    ],
+    "Evolve Deck": [
+      {
+        "count": 3,
+        "id": "SD02-011EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-013EN"
+      },
+      {
+        "count": 1,
+        "id": "BP01-172EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-004EN"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "BP01-049EN"
+      },
+      {
+        "count": 2,
+        "id": "BP01-050EN"
+      },
+      {
+        "count": 3,
+        "id": "SD02-016EN"
+      }
+    ],
+    "PP": [
+      {
+        "count": 10,
+        "id": "PP"
+      }
+    ]
+  }
+}
