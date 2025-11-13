@@ -2,9 +2,7 @@
   "title": "Starter Deck #2: Blade of Resentment",
   "id": "1b370009-3959-44c4-a804-81c2958b2114",
   "game": "Shadowverse Evolve",
-  "format": [
-    "Classic"
-  ],
+  "format": "Classic",
   "cardCount": 63,
   "createdAt": "2025-11-13T20:00:09.966Z",
   "lastModifiedAt": "2025-11-13T20:02:05.236Z",
@@ -116,4 +114,5 @@
       }
     ]
   }
+
 }
