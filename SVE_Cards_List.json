@@ -3421,7 +3421,7 @@
     },
     "BP01-T01EN": {
         "id": "BP01-T01EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Thorn Burst",
@@ -3440,7 +3440,7 @@
     },
     "BP01-T02EN": {
         "id": "BP01-T02EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Fairy Wisp",
@@ -3459,7 +3459,7 @@
     },
     "BP01-T03EN": {
         "id": "BP01-T03EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Fairy",
@@ -3478,7 +3478,7 @@
     },
     "BP01-T04EN": {
         "id": "BP01-T04EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Otohime's Bodyguard",
@@ -3497,7 +3497,7 @@
     },
     "BP01-T05EN": {
         "id": "BP01-T05EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Knight",
@@ -3516,7 +3516,7 @@
     },
     "BP01-T06EN": {
         "id": "BP01-T06EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Viking",
@@ -3535,7 +3535,7 @@
     },
     "BP01-T07EN": {
         "id": "BP01-T07EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Steelclad Knight",
@@ -3554,7 +3554,7 @@
     },
     "BP01-T08EN": {
         "id": "BP01-T08EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Strikeform Golem",
@@ -3573,7 +3573,7 @@
     },
     "BP01-T09EN": {
         "id": "BP01-T09EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Guardform Golem",
@@ -3592,7 +3592,7 @@
     },
     "BP01-T10EN": {
         "id": "BP01-T10EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Magic Sediment",
@@ -3611,7 +3611,7 @@
     },
     "BP01-T11EN": {
         "id": "BP01-T11EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Dragon",
@@ -3630,7 +3630,7 @@
     },
     "BP01-T12EN": {
         "id": "BP01-T12EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Mimi",
@@ -3649,7 +3649,7 @@
     },
     "BP01-T13EN": {
         "id": "BP01-T13EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Coco",
@@ -3668,7 +3668,7 @@
     },
     "BP01-T14EN": {
         "id": "BP01-T14EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Ghost",
@@ -3687,7 +3687,7 @@
     },
     "BP01-T15EN": {
         "id": "BP01-T15EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Forest Bat",
@@ -3706,7 +3706,7 @@
     },
     "BP01-T16EN": {
         "id": "BP01-T16EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Holy Falcon",
@@ -3725,7 +3725,7 @@
     },
     "BP01-T17EN": {
         "id": "BP01-T17EN",
-        "isToken": false,
+        "isToken": true,
         "face": {
             "front": {
                 "name": "Holy Tiger",
@@ -3969,5 +3969,24 @@
         "Card Set": "Starter Deck #2 “Blade of Resentment”\nWorlds Beyond Swordcraft Starter Set",
         "Class": "Swordcraft",
         "Cost": "1"
+    },
+    "PP": {
+        "id": "PP",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "PP",
+                "type": "PP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/NY2024-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "PP",
+        "type": "PP",
+        "cost": 0,
+        "Card Set": "PP",
+        "Class": "Neutral",
+        "Cost": "0"
     }
 }
