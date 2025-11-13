@@ -141,6 +141,7 @@
         "autoPlayFromStack": {
           "Follower": "Field",
           "Amulet": "Field",
+          "Evolve Deck": "Field",
           "Spell": "Discard"
         },
         "sectionsDict": {
