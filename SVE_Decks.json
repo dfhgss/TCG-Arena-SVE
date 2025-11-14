@@ -1,0 +1,259 @@
+[
+{
+  "title": "Academic",
+  "id": "bd98677c-6612-4d3c-b6dd-e49e53aeb250",
+  "game": "Shadowverse Evolve",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 63,
+  "createdAt": "2025-11-14T21:07:26.194Z",
+  "lastModifiedAt": "2025-11-14T21:09:36.482Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Follower",
+      "Spell",
+      "Evolve Deck",
+      "EP",
+      "PP"
+    ],
+    "Sideboard": [],
+    "Follower": [
+      {
+        "count": 3,
+        "id": "BP09-038EN"
+      },
+      {
+        "count": 3,
+        "id": "SP01-019EN"
+      },
+      {
+        "count": 2,
+        "id": "BP02-046EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-041EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-044EN"
+      },
+      {
+        "count": 2,
+        "id": "BP09-059EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-039EN"
+      },
+      {
+        "count": 3,
+        "id": "BP06-036EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-050EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-060EN"
+      },
+      {
+        "count": 1,
+        "id": "BP05-040EN"
+      },
+      {
+        "count": 2,
+        "id": "BP09-051EN"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "BP09-046EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-047EN"
+      },
+      {
+        "count": 1,
+        "id": "BP11-051EN"
+      },
+      {
+        "count": 2,
+        "id": "BP05-044EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-053EN"
+      }
+    ],
+    "Evolve Deck": [
+      {
+        "count": 1,
+        "id": "BP02-047EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-042EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-042uEN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-040EN"
+      },
+      {
+        "count": 2,
+        "id": "BP06-037EN"
+      },
+      {
+        "count": 2,
+        "id": "BP09-052EN"
+      }
+    ],
+    "EP": [
+      {
+        "count": 3,
+        "id": "EP"
+      }
+    ],
+    "PP": [
+      {
+        "count": 10,
+        "id": "PP"
+      }
+    ]
+  }
+},
+{
+  "title": "Wasteland Haven",
+  "id": "30aa4700-ac3d-4b17-96f5-ba4f4e99a100",
+  "game": "Shadowverse Evolve",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 63,
+  "createdAt": "2025-11-14T21:10:55.772Z",
+  "lastModifiedAt": "2025-11-14T21:12:48.668Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Follower",
+      "Evolve Deck",
+      "Spell",
+      "Amulet",
+      "EP",
+      "PP"
+    ],
+    "Sideboard": [],
+    "Follower": [
+      {
+        "count": 3,
+        "id": "BP11-087EN"
+      },
+      {
+        "count": 2,
+        "id": "BP10-105EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-099EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-115EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-109EN"
+      },
+      {
+        "count": 3,
+        "id": "BP10-094EN"
+      },
+      {
+        "count": 2,
+        "id": "BP08-087EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-105EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-095EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-086EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-089EN"
+      },
+      {
+        "count": 2,
+        "id": "BP10-109EN"
+      }
+    ],
+    "Evolve Deck": [
+      {
+        "count": 2,
+        "id": "BP11-088EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-110EN"
+      },
+      {
+        "count": 2,
+        "id": "BP08-088EN"
+      },
+      {
+        "count": 1,
+        "id": "BP11-106EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-090EN"
+      },
+      {
+        "count": 1,
+        "id": "BP10-110EN"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "BP11-096EN"
+      },
+      {
+        "count": 3,
+        "id": "BP08-092EN"
+      }
+    ],
+    "Amulet": [
+      {
+        "count": 1,
+        "id": "BP09-115EN"
+      }
+    ],
+    "EP": [
+      {
+        "count": 3,
+        "id": "EP"
+      }
+    ],
+    "PP": [
+      {
+        "count": 10,
+        "id": "PP"
+      }
+    ]
+  }
+}
+]
