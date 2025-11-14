@@ -3,12 +3,12 @@
   "menuBackgroundImage": "https://dfhgss.github.io/TCG-Arena-SVE/1/banner.jpg",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_StarterDeck.json"
+    "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
+    "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json",
     "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg"
   },
   "deckBuilding": {
