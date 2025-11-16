@@ -96,7 +96,8 @@
                       "section": "Used Evolved",
                       "style": {
                         "borderRadius": "1vh",
-                        "marginTop": "auto"
+                        "marginTop": "auto",
+                        "width": "51vh"
                       }
                     }
                   ]
