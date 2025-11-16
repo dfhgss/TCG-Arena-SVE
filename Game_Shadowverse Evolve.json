@@ -89,14 +89,12 @@
                         "position": "absolute",
                         "top": "0",
                         "left": "25%",
-                        "translate": "-75% -3.25vh"
+                        "translate": "-72% -3.25vh"
                       }
                     },
                     {
                       "section": "Used Evolved",
                       "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto",
                         "width": "51vh"
                       }
                     }
@@ -105,10 +103,7 @@
                 },
                 {
                   "section": "Field",
-                  "style": {
-                    "borderRadius": "1vh",
-                    "marginTop": "auto"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
