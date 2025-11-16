@@ -2,7 +2,9 @@
   "name": "Shadowverse Evolve",
   "menuBackgroundImage": "https://dfhgss.github.io/TCG-Arena-SVE/1/banner.jpg",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background1.png"
+    ],
     "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
   },
   "customHelp": "",
