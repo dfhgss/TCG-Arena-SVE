@@ -119,7 +119,7 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 }
               ],
               "isSymetricalForOpponents": false
@@ -311,7 +311,8 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#e0e0e0"
           },
           "Used Evolved": {
             "title": "Used Evolved",
@@ -344,7 +345,8 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#D6A298"
           },
           "Mana": {
             "title": "Mana",
