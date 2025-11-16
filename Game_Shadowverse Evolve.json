@@ -66,11 +66,11 @@
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
-                  "direction": "column",
+                  "direction": "row",
                   "style": {
                     "height": "24.25vh",
                     "margin": "0.25vh"
@@ -88,28 +88,26 @@
                       }
                     },
                     {
-                      "direction": "row",
+                      "section": "Evolve Deck",
                       "style": {
                         "borderRadius": "1vh",
                         "marginTop": "auto"
-                      },
-                      "content": [
-                        {
-                          "section": "Evolve Deck",
-                          "style": false
-                        },
-                        {
-                          "section": "Used Evolved",
-                          "style": {
-                            "width": "35%"
-                          }
-                        },
-                        {
-                          "section": "Field",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": true
+                      }
+                    },
+                    {
+                      "section": "Used Evolved",
+                      "style": {
+                        "borderRadius": "1vh",
+                        "width": "35%",
+                        "marginTop": "auto"
+                      }
+                    },
+                    {
+                      "section": "Field",
+                      "style": {
+                        "borderRadius": "1vh",
+                        "marginTop": "auto"
+                      }
                     }
                   ]
                 }
