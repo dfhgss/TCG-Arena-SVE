@@ -66,7 +66,7 @@
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
@@ -88,38 +88,20 @@
                     },
                     {
                       "section": "Evolve Deck",
-                      "style": {
-                        "marginTop": "auto",
-                        "width": "10.2vh"
-                      }
+                      "style": false
                     },
                     {
                       "section": "Used Evolved",
                       "style": {
-                        "borderRadius": "1vh",
-                        "width": "51vh",
-                        "marginTop": "auto"
+                        "width": "51vh"
                       }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
-                },
-                {
-                  "direction": "column",
-                  "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
+                    },
                     {
                       "section": "Field",
-                      "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto"
-                      }
+                      "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -129,10 +111,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "PP",
-                  "style": {
-                    "width": "10.2vh"
-                  }
+                  "section": "PP"
                 },
                 {
                   "section": "Mana",
@@ -141,21 +120,7 @@
                   }
                 },
                 {
-                  "direction": "column",
-                  "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
-                    {
-                      "section": "EX Area",
-                      "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "EX Area"
                 }
               ],
               "isSymetricalForOpponents": false
