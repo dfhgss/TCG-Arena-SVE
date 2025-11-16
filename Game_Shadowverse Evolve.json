@@ -11,7 +11,7 @@
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
     "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg",
     "extraCardBacks": {
-        "PP": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg.jpg"
+        "PP": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
       }
   },
   "deckBuilding": {
