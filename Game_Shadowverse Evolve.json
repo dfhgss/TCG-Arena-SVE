@@ -63,7 +63,7 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "column",
@@ -270,8 +270,8 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "opponentAlignment": "false",
+            "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Field",
             "enterTapped": false,
