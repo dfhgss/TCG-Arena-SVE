@@ -111,7 +111,7 @@
                     {
                       "section": "Mana",
                       "style": {
-                        "width": "45%"
+                        "width": "47%"
                       }
                     },
                     {
@@ -270,7 +270,7 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "START",
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Field",
