@@ -63,29 +63,12 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
               "style": false,
               "content": [
-                {
-                  "direction": "row",
-                  "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
-                    {
-                      "section": "Evolve Deck",
-                      "style": {
-                        "marginTop": "auto",
-                        "width": "10.2vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
-                },
                 {
                   "direction": "row",
                   "style": {
@@ -101,6 +84,13 @@
                         "top": "0",
                         "left": "50%",
                         "translate": "-50% -3.25vh"
+                      }
+                    },
+                    {
+                      "section": "Evolve Deck",
+                      "style": {
+                        "marginTop": "auto",
+                        "width": "10.2vh"
                       }
                     },
                     {
@@ -132,7 +122,7 @@
                   "isSymetricalForOpponents": true
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
@@ -151,14 +141,24 @@
                   }
                 },
                 {
-                  "section": "EX Area",
+                  "direction": "column",
                   "style": {
-                    "borderRadius": "1vh",
-                    "marginTop": "auto"
-                  }
+                    "height": "24.25vh",
+                    "margin": "0.25vh"
+                  },
+                  "content": [
+                    {
+                      "section": "EX Area",
+                      "style": {
+                        "borderRadius": "1vh",
+                        "marginTop": "auto"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
