@@ -62,64 +62,97 @@
           "EP"
         ],
         "layout": {
-          "direction": "row",
-          "isSymetricalForOpponents": true,
+          "direction": "column",
+          "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "column",
+              "direction": "row",
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
+                  "direction": "column",
+                  "style": {
+                    "height": "24.25vh",
+                    "margin": "0.25vh"
+                  },
                   "content": [
                     {
-                      "section": "Evolve Deck",
+                      "section": "B1",
                       "style": {
-                        "width": "10.2vh"
+                        "borderRadius": "1vh",
+                        "marginTop": "auto"
                       }
-                    },
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
+                  "style": {
+                    "height": "24.25vh",
+                    "margin": "0.25vh"
+                  },
+                  "content": [
                     {
-                      "section": "Used Evolved",
+                      "section": "jfghfghfghf",
                       "style": {
-                        "width": "51vh"
+                        "width": "30vh",
+                        "scale": "0.68",
+                        "position": "absolute",
+                        "top": "0",
+                        "left": "50%",
+                        "translate": "-50% -3.25vh"
                       }
-                    },
-                    {
-                      "section": "EP",
-                      "style": {
-                        "width": "24.48vh"
-                      }
-                    },
-                    {
-                      "section": "Field",
-                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
                 },
                 {
-                  "direction": "row",
-                  "style": false,
+                  "direction": "column",
+                  "style": {
+                    "height": "24.25vh",
+                    "margin": "0.25vh"
+                  },
                   "content": [
                     {
-                      "section": "PP",
+                      "section": "B2",
                       "style": {
-                        "width": "10.2vh"
+                        "borderRadius": "1vh",
+                        "marginTop": "auto"
                       }
-                    },
-                    {
-                      "section": "Mana",
-                      "style": {
-                        "width": "75.48vh"
-                      }
-                    },
-                    {
-                      "section": "EX Area",
-                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Runes"
+                },
+                {
+                  "section": "Mana",
+                  "style": {
+                    "width": "35%"
+                  }
+                },
+                {
+                  "section": "Base"
+                },
+                {
+                  "section": "Legend",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                },
+                {
+                  "section": "Chosen_Champion",
+                  "style": {
+                    "width": "10.2vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
