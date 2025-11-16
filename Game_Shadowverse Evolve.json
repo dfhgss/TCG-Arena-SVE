@@ -82,7 +82,7 @@
                     {
                       "section": "Used Evolved",
                       "style": {
-                        "width": "30%"
+                        "width": "51vh"
                       }
                     },
                     {
@@ -111,7 +111,7 @@
                     {
                       "section": "Mana",
                       "style": {
-                        "width": "47%"
+                        "width": "75.48vh"
                       }
                     },
                     {
@@ -270,7 +270,7 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": "START",
+            "opponentAlignment": "END",
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Field",
