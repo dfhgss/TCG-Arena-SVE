@@ -304,7 +304,7 @@
           "Field": {
             "title": "Field",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": "false",
             "noAutoPayTo": "true",
@@ -320,7 +320,7 @@
           "EX Area": {
             "title": "EX Area",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
