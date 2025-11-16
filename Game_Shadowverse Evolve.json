@@ -77,6 +77,13 @@
                   },
                   "content": [
                     {
+                      "section": "EP",
+                      "style": {
+                        "marginTop": "auto",
+                        "width": "10.2vh"
+                      }
+                    },
+                    {
                       "section": "Evolve Deck",
                       "style": {
                         "marginTop": "auto",
@@ -93,16 +100,6 @@
                     "margin": "0.25vh"
                   },
                   "content": [
-                    {
-                      "section": "EP",
-                      "style": {
-                        "width": "30vh",
-                        "position": "absolute",
-                        "top": "0",
-                        "left": "50%",
-                        "translate": "-50% -3.25vh"
-                      }
-                    },
                     {
                       "section": "Used Evolved",
                       "style": {
