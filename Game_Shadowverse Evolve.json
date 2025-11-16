@@ -77,19 +77,8 @@
                   },
                   "content": [
                     {
-                      "section": "EP",
-                      "style": {
-                        "width": "30vh",
-                        "position": "absolute",
-                        "top": "0",
-                        "left": "50%",
-                        "translate": "-50% -3.25vh"
-                      }
-                    },
-                    {
                       "section": "Evolve Deck",
                       "style": {
-                        "borderRadius": "1vh",
                         "marginTop": "auto",
                         "width": "10.2vh"
                       }
@@ -104,6 +93,16 @@
                     "margin": "0.25vh"
                   },
                   "content": [
+                    {
+                      "section": "EP",
+                      "style": {
+                        "width": "30vh",
+                        "position": "absolute",
+                        "top": "0",
+                        "left": "50%",
+                        "translate": "-50% -3.25vh"
+                      }
+                    },
                     {
                       "section": "Used Evolved",
                       "style": {
@@ -152,7 +151,11 @@
                   }
                 },
                 {
-                  "section": "EX Area"
+                  "section": "EX Area",
+                  "style": {
+                    "borderRadius": "1vh",
+                    "marginTop": "auto"
+                  }
                 }
               ],
               "isSymetricalForOpponents": true
@@ -303,8 +306,8 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "opponentAlignment": "false",
+            "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Field",
             "enterTapped": false,
