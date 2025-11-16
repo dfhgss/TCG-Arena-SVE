@@ -70,19 +70,12 @@
               "style": false,
               "content": [
                 {
-                  "direction": "column",
+                  "direction": "row",
                   "style": {
                     "height": "24.25vh",
                     "margin": "0.25vh"
                   },
                   "content": [
-                    {
-                      "section": "EP",
-                      "style": {
-                        "marginTop": "auto",
-                        "width": "10.2vh"
-                      }
-                    },
                     {
                       "section": "Evolve Deck",
                       "style": {
@@ -94,12 +87,22 @@
                   "isSymetricalForOpponents": true
                 },
                 {
-                  "direction": "column",
+                  "direction": "row",
                   "style": {
                     "height": "24.25vh",
                     "margin": "0.25vh"
                   },
                   "content": [
+                    {
+                      "section": "EP",
+                      "style": {
+                        "width": "30vh",
+                        "position": "absolute",
+                        "top": "0",
+                        "left": "50%",
+                        "translate": "-50% -3.25vh"
+                      }
+                    },
                     {
                       "section": "Used Evolved",
                       "style": {
