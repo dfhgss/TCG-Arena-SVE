@@ -89,29 +89,24 @@
                     },
                     {
                       "direction": "row",
-                      "style": false,
+                      "style": {
+                        "borderRadius": "1vh",
+                        "marginTop": "auto"
+                      },
                       "content": [
                         {
                           "section": "Evolve Deck",
-                          "style": {
-                            "borderRadius": "1vh",
-                            "marginTop": "auto"
-                          }
+                          "style": false
                         },
                         {
                           "section": "Used Evolved",
                           "style": {
-                            "borderRadius": "1vh",
-                            "width": "35%",
-                            "marginTop": "auto"
+                            "width": "35%"
                           }
                         },
                         {
                           "section": "Field",
-                          "style": {
-                            "borderRadius": "1vh",
-                            "marginTop": "auto"
-                          }
+                          "style": false
                         }
                       ],
                       "isSymetricalForOpponents": true
