@@ -9,7 +9,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
-    "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg"
+    "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg",
+    "extraCardBacks": {
+        "PP": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg.jpg"
+      }
   },
   "deckBuilding": {
     "mainFilters": [
@@ -346,7 +349,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "cardBackColor": "#D6A298"
+            "cardBackColor": "#e0e0e0"
           },
           "Mana": {
             "title": "Mana",
