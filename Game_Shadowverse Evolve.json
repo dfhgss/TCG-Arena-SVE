@@ -80,7 +80,6 @@
                       "section": "EP",
                       "style": {
                         "width": "30vh",
-                        "scale": "0.68",
                         "position": "absolute",
                         "top": "0",
                         "left": "50%",
@@ -109,7 +108,8 @@
                         "marginTop": "auto"
                       }
                     }
-                  ]
+                  ],
+                  "isSymetricalForOpponents": true
                 }
               ],
               "isSymetricalForOpponents": false
@@ -277,9 +277,9 @@
           "Field": {
             "title": "Field",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "16",
             "alignment": "CENTER",
-            "opponentAlignment": "END",
+            "opponentAlignment": "false",
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Field",
@@ -293,7 +293,7 @@
           "EX Area": {
             "title": "EX Area",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "16",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -386,6 +386,9 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
+            "cardStyle": {
+                "marginTop": "-2vh"
+            }
           }
         }
       }
