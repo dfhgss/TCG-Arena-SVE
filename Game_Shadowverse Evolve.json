@@ -70,7 +70,7 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
+                  "direction": "column",
                   "style": {
                     "height": "24.25vh",
                     "margin": "0.25vh"
@@ -80,14 +80,43 @@
                       "section": "EP",
                       "style": {
                         "width": "30vh",
+                        "scale": "0.68",
                         "position": "absolute",
                         "top": "0",
                         "left": "50%",
                         "translate": "-50% -3.25vh"
                       }
+                    },
+                    {
+                      "direction": "row",
+                      "style": false,
+                      "content": [
+                        {
+                          "section": "Evolve Deck",
+                          "style": {
+                            "borderRadius": "1vh",
+                            "marginTop": "auto"
+                          }
+                        },
+                        {
+                          "section": "Used Evolved",
+                          "style": {
+                            "borderRadius": "1vh",
+                            "width": "35%",
+                            "marginTop": "auto"
+                          }
+                        },
+                        {
+                          "section": "Field",
+                          "style": {
+                            "borderRadius": "1vh",
+                            "marginTop": "auto"
+                          }
+                        }
+                      ],
+                      "isSymetricalForOpponents": true
                     }
-                  ],
-                  "isSymetricalForOpponents": false
+                  ]
                 }
               ],
               "isSymetricalForOpponents": false
@@ -97,86 +126,19 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Evolve Deck",
-                      "style": {
-                        "width": "10.2vh"
-                      }
-                    },
-                    {
-                      "section": "Used Evolved",
-                      "style": {
-                        "width": "51vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "PP"
                 },
                 {
-                  "direction": "column",
+                  "section": "Mana",
                   "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
-                    {
-                      "section": "Field",
-                      "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "PP",
-                      "style": {
-                        "width": "10.2vh"
-                      }
-                    },
-                    {
-                      "section": "Mana",
-                      "style": {
-                        "width": "51vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                    "width": "35%"
+                  }
                 },
                 {
-                  "direction": "column",
-                  "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
-                    {
-                      "section": "EX Area",
-                      "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "section": "EX Area"
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
