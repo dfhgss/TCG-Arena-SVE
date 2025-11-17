@@ -18,8 +18,8 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "type",
-      "class",
+      "Type",
+      "Class",
       "Cardset",
       "Cost"
     ],
