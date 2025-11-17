@@ -20,7 +20,7 @@
     "mainFilters": [
       "type",
       "Class",
-      "set",
+      "Set",
       "Cost"
     ],
     "formats": [
