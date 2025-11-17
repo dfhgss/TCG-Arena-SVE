@@ -19,9 +19,9 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
+      "cost",
       "Class",
-      "Set",
-      "Cost"
+      "Set"
     ],
     "formats": [
       {
