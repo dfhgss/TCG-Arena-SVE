@@ -52,7 +52,7 @@
     "name": "Ancient Elf [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["Booster Set #1 “Advent of Genesis”"],
+    "Card Set": "Booster Set #1 “Advent of Genesis”",
     "Class": "Forestcraft",
     "Cost": ""
   },
