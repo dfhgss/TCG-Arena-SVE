@@ -1,4 +1,8 @@
 {
+  "set": {
+    "label": "Set",
+    "type": "text-array"
+  },
   "BP01-001EN": {
     "id": "BP01-001EN",
     "isToken": false,
