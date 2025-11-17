@@ -20,7 +20,7 @@
     "mainFilters": [
       "type",
       "class",
-      "cardset",
+      "Cardset",
       "Cost"
     ],
     "formats": [
