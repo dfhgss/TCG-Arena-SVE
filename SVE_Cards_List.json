@@ -16,7 +16,7 @@
     "cost": 8,
     "Class": "Forestcraft",
     "Set": [
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      "AAA"
     ]
   },
   "BP01-002EN": {
@@ -36,7 +36,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      "BP01"
     ]
   },
   "BP01-003EN": {
@@ -56,7 +56,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      "BP01"
     ]
   },
   "BP01-004EN": {
@@ -76,7 +76,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      "AAA"
     ]
   },
   "BP01-005EN": {
@@ -96,7 +96,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BBB"
     ]
   },
   "BP01-006EN": {
