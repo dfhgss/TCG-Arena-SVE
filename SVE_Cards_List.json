@@ -16,7 +16,7 @@
     "cost": 8,
     "Class": "Forestcraft",
     "Set": [
-      "AAA"
+      "BP01"
     ]
   },
   "BP01-002EN": {
@@ -76,7 +76,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      "AAA"
+      "BP01"
     ]
   },
   "BP01-005EN": {
@@ -96,7 +96,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      "BBB"
+      "BP01"
     ]
   },
   "BP01-006EN": {
@@ -116,7 +116,7 @@
     "cost": 5,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-007EN": {
@@ -136,7 +136,7 @@
     "cost": 7,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-008EN": {
@@ -156,7 +156,7 @@
     "cost": 3,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-009EN": {
@@ -176,7 +176,7 @@
     "cost": 3,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-010EN": {
@@ -196,7 +196,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-011EN": {
@@ -216,7 +216,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-012EN": {
@@ -236,7 +236,7 @@
     "cost": 1,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-013EN": {
@@ -256,7 +256,7 @@
     "cost": 5,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-014EN": {
@@ -276,7 +276,7 @@
     "cost": 3,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-015EN": {
@@ -296,7 +296,7 @@
     "cost": 1,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-016EN": {
@@ -316,7 +316,7 @@
     "cost": 1,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-017EN": {
@@ -336,7 +336,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-018EN": {
@@ -356,7 +356,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-019EN": {
@@ -376,7 +376,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-020EN": {
@@ -396,7 +396,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-021EN": {
@@ -416,7 +416,7 @@
     "cost": 4,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-022EN": {
@@ -436,7 +436,7 @@
     "cost": 4,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-023EN": {
@@ -456,7 +456,7 @@
     "cost": 1,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-024EN": {
@@ -476,7 +476,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-025EN": {
@@ -496,7 +496,7 @@
     "cost": 1,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-026EN": {
@@ -516,7 +516,7 @@
     "cost": 4,
     "Class": "Swordcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-027EN": {
@@ -536,7 +536,7 @@
     "cost": 0,
     "Class": "Swordcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-028EN": {
@@ -556,7 +556,7 @@
     "cost": 5,
     "Class": "Swordcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-029EN": {
@@ -576,7 +576,7 @@
     "cost": 4,
     "Class": "Swordcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-030EN": {
@@ -596,7 +596,7 @@
     "cost": 0,
     "Class": "Swordcraft",
     "Set": [
-      ""
+      "BP01"
     ]
   },
   "BP01-031EN": {
@@ -6416,7 +6416,7 @@
     "cost": 1,
     "Class": "Runecraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-051EN": {
@@ -6436,7 +6436,7 @@
     "cost": 2,
     "Class": "Runecraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-052EN": {
@@ -6456,7 +6456,7 @@
     "cost": 8,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-053EN": {
@@ -6476,7 +6476,7 @@
     "cost": 0,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-054EN": {
@@ -6496,7 +6496,7 @@
     "cost": 1,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-055EN": {
@@ -6516,7 +6516,7 @@
     "cost": 5,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-056EN": {
@@ -6536,7 +6536,7 @@
     "cost": 0,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-057EN": {
@@ -6556,7 +6556,7 @@
     "cost": 5,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-058EN": {
@@ -6576,7 +6576,7 @@
     "cost": 5,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-059EN": {
@@ -6596,7 +6596,7 @@
     "cost": 4,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "BP02"
     ]
   },
   "BP02-060EN": {
@@ -8896,7 +8896,7 @@
     "cost": 3,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "CP01"
     ]
   },
   "CP01-050EN": {
@@ -8916,7 +8916,7 @@
     "cost": 5,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "CP01"
     ]
   },
   "CP01-051EN": {
@@ -8936,7 +8936,7 @@
     "cost": 6,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "CP01"
     ]
   },
   "CP01-052EN": {
@@ -8956,7 +8956,7 @@
     "cost": 10,
     "Class": "Dragoncraft",
     "Set": [
-      ""
+      "CP01"
     ]
   },
   "CP01-053EN": {
@@ -11316,7 +11316,7 @@
     "cost": 0,
     "Class": "Abysscraft",
     "Set": [
-      ""
+      "BP03"
     ]
   },
   "BP03-083EN": {
@@ -11336,7 +11336,7 @@
     "cost": 1,
     "Class": "Abysscraft",
     "Set": [
-      ""
+      "BP03"
     ]
   },
   "BP03-084EN": {
@@ -11356,7 +11356,7 @@
     "cost": 3,
     "Class": "Abysscraft",
     "Set": [
-      ""
+      "BP03"
     ]
   },
   "BP03-085EN": {
@@ -11376,7 +11376,7 @@
     "cost": 7,
     "Class": "Abysscraft",
     "Set": [
-      ""
+      "BP03"
     ]
   },
   "BP03-086EN": {
@@ -14796,7 +14796,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP05"
     ]
   },
   "BP05-006EN": {
@@ -14816,7 +14816,7 @@
     "cost": 3,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP05"
     ]
   },
   "BP05-007EN": {
@@ -14836,7 +14836,7 @@
     "cost": 1,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP05"
     ]
   },
   "BP05-008EN": {
@@ -14856,7 +14856,7 @@
     "cost": 2,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP05"
     ]
   },
   "BP05-009EN": {
@@ -14876,7 +14876,7 @@
     "cost": 5,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP05"
     ]
   },
   "BP05-010EN": {
@@ -14896,7 +14896,7 @@
     "cost": 0,
     "Class": "Forestcraft",
     "Set": [
-      ""
+      "BP05"
     ]
   },
   "BP05-011EN": {
