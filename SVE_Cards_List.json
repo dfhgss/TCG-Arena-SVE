@@ -1,6 +1,6 @@
 {
   "set": {
-    "label": "Set",
+    "label": "set",
     "type": "text-array"
   },
   "BP01-001EN": {
@@ -43342,3 +43342,4 @@
     "Class": "Neutral"
   }
 }
+
