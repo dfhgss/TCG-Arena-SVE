@@ -36551,7 +36551,7 @@
     "name": "Awakened Gaia",
     "type": "Follower",
     "cost": 11,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "11"
   },
@@ -36570,7 +36570,7 @@
     "name": "Elf Queen of Abundant Life",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -36589,7 +36589,7 @@
     "name": "Elf Queen of Abundant Life [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -36608,7 +36608,7 @@
     "name": "Carbuncle, Immortal Jewel",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "4"
   },
@@ -36627,7 +36627,7 @@
     "name": "Carbuncle, Immortal Jewel [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -36646,7 +36646,7 @@
     "name": "Irene, Harvest Defender",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "6"
   },
@@ -36665,7 +36665,7 @@
     "name": "Intertwined Resolve",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "1"
   },
@@ -36684,7 +36684,7 @@
     "name": "Forest Defender",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "4"
   },
@@ -36703,7 +36703,7 @@
     "name": "Forest Defender [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -36722,7 +36722,7 @@
     "name": "Windfall Fay",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "1"
   },
@@ -36741,7 +36741,7 @@
     "name": "Aria's Whirlwind",
     "type": "Spell",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "4"
   },
@@ -36760,7 +36760,7 @@
     "name": "Forest Hatcheteer",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "3"
   },
@@ -36779,7 +36779,7 @@
     "name": "Forest Hatcheteer [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -36798,7 +36798,7 @@
     "name": "Springleaf Sprite",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "1"
   },
@@ -36817,7 +36817,7 @@
     "name": "Elven Pikeman",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -36836,7 +36836,7 @@
     "name": "Fairy Officer",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "4"
   },
@@ -36855,7 +36855,7 @@
     "name": "Fairy Menhir",
     "type": "Amulet",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "1"
   },
@@ -36874,7 +36874,7 @@
     "name": "Patrick, Rhiceros Knight",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "5"
   },
@@ -36893,7 +36893,7 @@
     "name": "Patrick, Rhiceros Knight [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -36912,7 +36912,7 @@
     "name": "Lecia, Sky Saber",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "3"
   },
@@ -36931,7 +36931,7 @@
     "name": "Ironfist Beast Warrior",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "5"
   },
@@ -36950,7 +36950,7 @@
     "name": "Ironfist Beast Warrior [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -36969,7 +36969,7 @@
     "name": "Alwida, Pirate Queen",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "5"
   },
@@ -36988,7 +36988,7 @@
     "name": "Stroke of Conviction",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37007,7 +37007,7 @@
     "name": "Nano, the Dawnblade",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "1"
   },
@@ -37026,7 +37026,7 @@
     "name": "Nano, the Dawnblade [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -37045,7 +37045,7 @@
     "name": "Panther Scout",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37064,7 +37064,7 @@
     "name": "King's Welcome",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37083,7 +37083,7 @@
     "name": "Lilje, Butler of the Mists",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37102,7 +37102,7 @@
     "name": "Lilje, Butler of the Mists [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -37121,7 +37121,7 @@
     "name": "Sheena, Maid of the Mists",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37140,7 +37140,7 @@
     "name": "Wolf Fang Swordsman",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37159,7 +37159,7 @@
     "name": "Splendid Fencer",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "3"
   },
@@ -37178,7 +37178,7 @@
     "name": "Ivory Sword Dance",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -37197,7 +37197,7 @@
     "name": "Belphomet, Worldreaver",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "6"
   },
@@ -37216,7 +37216,7 @@
     "name": "Belphomet, Worldreaver [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -37235,7 +37235,7 @@
     "name": "Daria, Infinity Witch",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -37254,7 +37254,7 @@
     "name": "Regalore, Steel Chimera",
     "type": "Follower",
     "cost": 14,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "14"
   },
@@ -37273,7 +37273,7 @@
     "name": "Regalore, Steel Chimera [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -37292,7 +37292,7 @@
     "name": "Melvie, Princess Witch",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "1"
   },
@@ -37311,7 +37311,7 @@
     "name": "Sorcery in Solidarity",
     "type": "Spell",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -37330,7 +37330,7 @@
     "name": "Chaos Wielder",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -37349,7 +37349,7 @@
     "name": "Chaos Wielder [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -37368,7 +37368,7 @@
     "name": "Rebel Against Fate",
     "type": "Spell",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "7"
   },
@@ -37387,7 +37387,7 @@
     "name": "Arcane Item Shop",
     "type": "Amulet",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "7"
   },
@@ -37406,7 +37406,7 @@
     "name": "Gigahand Golem",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -37425,7 +37425,7 @@
     "name": "Gigahand Golem [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -37444,7 +37444,7 @@
     "name": "Device Diviner",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -37463,7 +37463,7 @@
     "name": "Mechabook Sorcerer",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -37482,7 +37482,7 @@
     "name": "Chain Lightning",
     "type": "Spell",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -37501,7 +37501,7 @@
     "name": "Mystic Absorption",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -37520,7 +37520,7 @@
     "name": "Shipsbane Plesiosaurus",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "5"
   },
@@ -37539,7 +37539,7 @@
     "name": "Shipsbane Plesiosaurus [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -37558,7 +37558,7 @@
     "name": "Jerva, Wyrm Transcendent",
     "type": "Follower",
     "cost": 9,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "9"
   },
@@ -37577,7 +37577,7 @@
     "name": "Steelcap Pachycephalosaurus",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -37596,7 +37596,7 @@
     "name": "Steelcap Pachycephalosaurus [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -37615,7 +37615,7 @@
     "name": "Giselle, Mermaid Healer",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "1"
   },
@@ -37634,7 +37634,7 @@
     "name": "Cursed Furor",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -37653,7 +37653,7 @@
     "name": "Assault Dragoon",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -37672,7 +37672,7 @@
     "name": "Assault Dragoon [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -37691,7 +37691,7 @@
     "name": "Petalspine Stegosaurus",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "5"
   },
@@ -37710,7 +37710,7 @@
     "name": "Phoenix Howl",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "1"
   },
@@ -37729,7 +37729,7 @@
     "name": "Dragoon Medic",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "1"
   },
@@ -37748,7 +37748,7 @@
     "name": "Dragoon Medic [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -37767,7 +37767,7 @@
     "name": "Rockback Ankylosaurus",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -37786,7 +37786,7 @@
     "name": "Ruinous Dragon",
     "type": "Follower",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "7"
   },
@@ -37805,7 +37805,7 @@
     "name": "Dragon Aficionado",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -37824,7 +37824,7 @@
     "name": "Overwhelming Crush",
     "type": "Spell",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "5"
   },
@@ -37843,7 +37843,7 @@
     "name": "Neun, Daybreak Vampire",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -37862,7 +37862,7 @@
     "name": "Neun, Daybreak Vampire [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -37881,7 +37881,7 @@
     "name": "Gremory, Death Teller",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -37900,7 +37900,7 @@
     "name": "Jackshovel Gravedigger",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -37919,7 +37919,7 @@
     "name": "Jackshovel Gravedigger [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -37938,7 +37938,7 @@
     "name": "Medusa, Evil-Eyed Serpent",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -37957,7 +37957,7 @@
     "name": "Friends Forever",
     "type": "Spell",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "5"
   },
@@ -37976,7 +37976,7 @@
     "name": "Liberté, Werewolf Pup",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -37995,7 +37995,7 @@
     "name": "Liberté, Werewolf Pup [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -38014,7 +38014,7 @@
     "name": "Hellfire Hound",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "4"
   },
@@ -38033,7 +38033,7 @@
     "name": "Garnet Waltz",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -38052,7 +38052,7 @@
     "name": "Bloodstained Berserker",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "6"
   },
@@ -38071,7 +38071,7 @@
     "name": "Bloodstained Berserker [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -38090,7 +38090,7 @@
     "name": "Roly-Poly Mk I",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -38109,7 +38109,7 @@
     "name": "Mechasaw Deathbringer",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -38128,7 +38128,7 @@
     "name": "Ghoul",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -38147,7 +38147,7 @@
     "name": "Viper Lash",
     "type": "Spell",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -38166,7 +38166,7 @@
     "name": "Rola, Inferno Dragoon",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -38185,7 +38185,7 @@
     "name": "Rola, Inferno Dragoon [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -38204,7 +38204,7 @@
     "name": "Charaton, Iceflame Priest",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "5"
   },
@@ -38223,7 +38223,7 @@
     "name": "Gullias, Silverbeast Lord",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "6"
   },
@@ -38242,7 +38242,7 @@
     "name": "Gullias, Silverbeast Lord [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -38261,7 +38261,7 @@
     "name": "Robowhip Reverend",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -38280,7 +38280,7 @@
     "name": "Major Prayers",
     "type": "Spell",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "3"
   },
@@ -38299,7 +38299,7 @@
     "name": "Holylight Convert",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "4"
   },
@@ -38318,7 +38318,7 @@
     "name": "Holylight Convert [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -38337,7 +38337,7 @@
     "name": "Smilecure Priest",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "3"
   },
@@ -38356,7 +38356,7 @@
     "name": "Salvation Ex Limonia",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -38375,7 +38375,7 @@
     "name": "Sol Sister",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "4"
   },
@@ -38394,7 +38394,7 @@
     "name": "Sol Sister [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -38413,7 +38413,7 @@
     "name": "Robowing Precant",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -38432,7 +38432,7 @@
     "name": "Fortune Fowl",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "3"
   },
@@ -38451,7 +38451,7 @@
     "name": "Pilgrims' Path",
     "type": "Amulet",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "1"
   },
@@ -38470,7 +38470,7 @@
     "name": "Fiery Paean",
     "type": "Amulet",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -38489,7 +38489,7 @@
     "name": "Natur Al'machinus",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "5"
   },
@@ -38508,7 +38508,7 @@
     "name": "Changewing Cherub",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "1"
   },
@@ -38527,7 +38527,7 @@
     "name": "Changewing Cherub [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -38546,7 +38546,7 @@
     "name": "Seraphic Blade",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "2"
   },
@@ -38565,7 +38565,7 @@
     "name": "Travelers' Respite",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "1"
   },
@@ -38584,7 +38584,7 @@
     "name": "Romantic Chanteuse",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "3"
   },
@@ -38603,7 +38603,7 @@
     "name": "Romantic Chanteuse [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -38622,7 +38622,7 @@
     "name": "Giving Gourmet",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "4"
   },
@@ -38641,7 +38641,7 @@
     "name": "Goblin Warpack",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "2"
   },
@@ -38660,7 +38660,7 @@
     "name": "Plucky Treasure Hunter",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "2"
   },
@@ -38679,7 +38679,7 @@
     "name": "Plucky Treasure Hunter [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -38698,7 +38698,7 @@
     "name": "Wayfaring Illustrator",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "3"
   },
@@ -38717,7 +38717,7 @@
     "name": "We've Got a Case!",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "2"
   },
@@ -38736,7 +38736,7 @@
     "name": "Carbuncle's Sparkle",
     "type": "Spell / Token",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -38755,7 +38755,7 @@
     "name": "Twilight Blade",
     "type": "Spell / Token",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "5"
   },
@@ -38774,7 +38774,7 @@
     "name": "Armored Tentacle",
     "type": "Follower / Token",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -38793,7 +38793,7 @@
     "name": "Assault Tentacle",
     "type": "Follower / Token",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -38812,7 +38812,7 @@
     "name": "Medusiana",
     "type": "Follower / Token",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -38831,7 +38831,7 @@
     "name": "Sekka, Fatebound Fox",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "1"
   },
@@ -38850,7 +38850,7 @@
     "name": "Sekka, Ninefold Blaze [A]",
     "type": "Evolve Deck",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "3"
   },
@@ -38869,7 +38869,7 @@
     "name": "Aria, Miasma Fairy",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "3"
   },
@@ -38888,7 +38888,7 @@
     "name": "Aria, Miasma Fairy [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -38907,7 +38907,7 @@
     "name": "Nelcha, Fashion Hazard",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -38926,7 +38926,7 @@
     "name": "Nelcha, Fashion Hazard [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -38945,7 +38945,7 @@
     "name": "Spinaria, Keeper of the End",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "5"
   },
@@ -38964,7 +38964,7 @@
     "name": "Resolve of the Nine-Tailed Fox",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "1"
   },
@@ -38983,7 +38983,7 @@
     "name": "Sunbright Elf",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "3"
   },
@@ -39002,7 +39002,7 @@
     "name": "Sunbright Elf [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -39021,7 +39021,7 @@
     "name": "Wildwood Warrior",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "5"
   },
@@ -39040,7 +39040,7 @@
     "name": "Tree of Wonders",
     "type": "Amulet",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -39059,7 +39059,7 @@
     "name": "Fairy Slugger",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -39078,7 +39078,7 @@
     "name": "Fairy Slugger [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": ""
   },
@@ -39097,7 +39097,7 @@
     "name": "Edgy Elf",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "3"
   },
@@ -39116,7 +39116,7 @@
     "name": "Gazania Fox",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -39135,7 +39135,7 @@
     "name": "Tower Root Giant",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "6"
   },
@@ -39154,7 +39154,7 @@
     "name": "Feybolt Archer",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Forestcraft",
     "Cost": "2"
   },
@@ -39173,7 +39173,7 @@
     "name": "Albert, Thunderous Doom",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "6"
   },
@@ -39192,7 +39192,7 @@
     "name": "Albert, Thunderous Doom [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -39211,7 +39211,7 @@
     "name": "Magna Zero",
     "type": "Follower",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "7"
   },
@@ -39230,7 +39230,7 @@
     "name": "Sera, Maiden of the Dawn",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "4"
   },
@@ -39249,7 +39249,7 @@
     "name": "Sera, Maiden of the Dawn [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -39268,7 +39268,7 @@
     "name": "Homebound Infantryman",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "1"
   },
@@ -39287,7 +39287,7 @@
     "name": "Levin Justice",
     "type": "Spell",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "3"
   },
@@ -39306,7 +39306,7 @@
     "name": "Lounes, Levin Apprentice",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "1"
   },
@@ -39325,7 +39325,7 @@
     "name": "Lounes, Levin Apprentice [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -39344,7 +39344,7 @@
     "name": "Jeno, Fanged Tyrant",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "4"
   },
@@ -39363,7 +39363,7 @@
     "name": "Cat Admiral",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "1"
   },
@@ -39382,7 +39382,7 @@
     "name": "Mina, Levin Vice Leader",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -39401,7 +39401,7 @@
     "name": "Mina, Levin Vice Leader [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": ""
   },
@@ -39420,7 +39420,7 @@
     "name": "Mona, Levin Mage",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "1"
   },
@@ -39439,7 +39439,7 @@
     "name": "Mena, Levin Duelist",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -39458,7 +39458,7 @@
     "name": "Icyclone",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "2"
   },
@@ -39477,7 +39477,7 @@
     "name": "Meet the Levin Sisters!",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Swordcraft",
     "Cost": "1"
   },
@@ -39496,7 +39496,7 @@
     "name": "Anne, Mysterian Imperatrix",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -39515,7 +39515,7 @@
     "name": "Ghios, Sparkling Prism",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -39534,7 +39534,7 @@
     "name": "Ghios, Sparkling Prism [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -39553,7 +39553,7 @@
     "name": "Rending Blast [A]",
     "type": "Spell / Advanced",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -39572,7 +39572,7 @@
     "name": "Mileka, Celestial Seer",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "1"
   },
@@ -39591,7 +39591,7 @@
     "name": "Mileka, Celestial Seer [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -39610,7 +39610,7 @@
     "name": "Grea, Scorching Fury",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -39629,7 +39629,7 @@
     "name": "Whims of Chaos",
     "type": "Spell",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "6"
   },
@@ -39648,7 +39648,7 @@
     "name": "Grimoire Sorcerer",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -39667,7 +39667,7 @@
     "name": "Grimoire Sorcerer [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -39686,7 +39686,7 @@
     "name": "Hurricane Golem",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "6"
   },
@@ -39705,7 +39705,7 @@
     "name": "Riven Earth",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "1"
   },
@@ -39724,7 +39724,7 @@
     "name": "Magical Squirrel",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -39743,7 +39743,7 @@
     "name": "Magical Squirrel [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": ""
   },
@@ -39762,7 +39762,7 @@
     "name": "Art Society Magus",
     "type": "Follower",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "5"
   },
@@ -39781,7 +39781,7 @@
     "name": "Cat Summoner",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "3"
   },
@@ -39800,7 +39800,7 @@
     "name": "Arcane Duplication",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -39819,7 +39819,7 @@
     "name": "Sacrifice",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -39838,7 +39838,7 @@
     "name": "Drache, Fiery Dragonlord",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "4"
   },
@@ -39857,7 +39857,7 @@
     "name": "Drache, Fiery Dragonlord [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -39876,7 +39876,7 @@
     "name": "Forte, Sovereign Supreme",
     "type": "Follower",
     "cost": 10,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "10"
   },
@@ -39895,7 +39895,7 @@
     "name": "Godfire Phoenix",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -39914,7 +39914,7 @@
     "name": "Godfire Phoenix [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -39933,7 +39933,7 @@
     "name": "Roy, Dragonreaver",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "3"
   },
@@ -39952,7 +39952,7 @@
     "name": "Howling Conflagration",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -39971,7 +39971,7 @@
     "name": "Flame Pillar Dragonewt",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "4"
   },
@@ -39990,7 +39990,7 @@
     "name": "Flame Pillar Dragonewt [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -40009,7 +40009,7 @@
     "name": "Empyreal Dragon",
     "type": "Follower",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "7"
   },
@@ -40028,7 +40028,7 @@
     "name": "Scalebound Plight",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "1"
   },
@@ -40047,7 +40047,7 @@
     "name": "Margarite Mermaid",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -40066,7 +40066,7 @@
     "name": "Margarite Mermaid [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": ""
   },
@@ -40085,7 +40085,7 @@
     "name": "Earthen Dragonewt",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -40104,7 +40104,7 @@
     "name": "Twinblade Dragonfolk",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "1"
   },
@@ -40123,7 +40123,7 @@
     "name": "Coral Shark",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "2"
   },
@@ -40142,7 +40142,7 @@
     "name": "Beating of the Dragonwings",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Dragoncraft",
     "Cost": "1"
   },
@@ -40161,7 +40161,7 @@
     "name": "Aluzard, Timeworn Vampire",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -40180,7 +40180,7 @@
     "name": "Aluzard, Timeworn Vampire [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -40199,7 +40199,7 @@
     "name": "Laura, Crimson Strife",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -40218,7 +40218,7 @@
     "name": "Ceres, Bride of the Night",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -40237,7 +40237,7 @@
     "name": "Ceres, Bride of the Night [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -40256,7 +40256,7 @@
     "name": "Kagero, Swordbound Soul",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -40275,7 +40275,7 @@
     "name": "Chris, Beyond the Patch",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "4"
   },
@@ -40294,7 +40294,7 @@
     "name": "Liberté, Unchained Wolf",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -40313,7 +40313,7 @@
     "name": "Liberté, Unchained Wolf [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -40332,7 +40332,7 @@
     "name": "Silversteel Blader",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -40351,7 +40351,7 @@
     "name": "Soulstrike",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "2"
   },
@@ -40370,7 +40370,7 @@
     "name": "Linkstaff Necromancer",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "3"
   },
@@ -40389,7 +40389,7 @@
     "name": "Linkstaff Necromancer [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": ""
   },
@@ -40408,7 +40408,7 @@
     "name": "Noble Phantom",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -40427,7 +40427,7 @@
     "name": "Bandage Connoisseur",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "6"
   },
@@ -40446,7 +40446,7 @@
     "name": "Ghastly Banishment",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -40465,7 +40465,7 @@
     "name": "Sanguine Necklace",
     "type": "Amulet",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -40484,7 +40484,7 @@
     "name": "Jeanne, Despair's Maiden",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -40503,7 +40503,7 @@
     "name": "Jeanne, Despair's Maiden [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -40522,7 +40522,7 @@
     "name": "Jatelant, God of Prosperity",
     "type": "Follower",
     "cost": 6,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "6"
   },
@@ -40541,7 +40541,7 @@
     "name": "Lunerian Paladin",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -40560,7 +40560,7 @@
     "name": "Lunerian Paladin [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -40579,7 +40579,7 @@
     "name": "Absolute Tolerance",
     "type": "Follower",
     "cost": 15,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "15"
   },
@@ -40598,7 +40598,7 @@
     "name": "Westmuenster Abbey",
     "type": "Amulet",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "3"
   },
@@ -40617,7 +40617,7 @@
     "name": "Pyne, Twisted Justice",
     "type": "Follower",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "1"
   },
@@ -40636,7 +40636,7 @@
     "name": "Pyne, Twisted Justice [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -40655,7 +40655,7 @@
     "name": "Thornclad Arbiter",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "3"
   },
@@ -40674,7 +40674,7 @@
     "name": "Gods' Loving Smite",
     "type": "Spell",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -40693,7 +40693,7 @@
     "name": "Charitable Al-mi'raj",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -40712,7 +40712,7 @@
     "name": "Charitable Al-mi'raj [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": ""
   },
@@ -40731,7 +40731,7 @@
     "name": "Prismawing Featherfolk",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -40750,7 +40750,7 @@
     "name": "Turquoise Sister",
     "type": "Follower",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "7"
   },
@@ -40769,7 +40769,7 @@
     "name": "Sacred Groundskeeper",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "2"
   },
@@ -40788,7 +40788,7 @@
     "name": "Sealed Tome",
     "type": "Amulet",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Havencraft",
     "Cost": "1"
   },
@@ -40807,7 +40807,7 @@
     "name": "Sahaquiel & Israfil",
     "type": "Follower",
     "cost": 7,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "7"
   },
@@ -40826,7 +40826,7 @@
     "name": "Sahaquiel & Israfil [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -40845,7 +40845,7 @@
     "name": "Planetary Fracture",
     "type": "Spell",
     "cost": 8,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "8"
   },
@@ -40864,7 +40864,7 @@
     "name": "Miriam, Mutinous Being",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "2"
   },
@@ -40883,7 +40883,7 @@
     "name": "Miriam, Mutinous Being [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -40902,7 +40902,7 @@
     "name": "Grimnir, Voidwrought Wind",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "3"
   },
@@ -40921,7 +40921,7 @@
     "name": "Frostfire",
     "type": "Spell",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "4"
   },
@@ -40940,7 +40940,7 @@
     "name": "Managrocer",
     "type": "Follower",
     "cost": 4,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "4"
   },
@@ -40959,7 +40959,7 @@
     "name": "Managrocer [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -40978,7 +40978,7 @@
     "name": "Goddess of Rebirth",
     "type": "Follower",
     "cost": 10,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "10"
   },
@@ -40997,7 +40997,7 @@
     "name": "Dogged Detective",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "3"
   },
@@ -41016,7 +41016,7 @@
     "name": "Armored Goblin",
     "type": "Follower",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "2"
   },
@@ -41035,7 +41035,7 @@
     "name": "Armored Goblin [E]",
     "type": "Evolve Deck",
     "cost": 0,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": ""
   },
@@ -41054,7 +41054,7 @@
     "name": "Fallen Harpist",
     "type": "Follower",
     "cost": 3,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "3"
   },
@@ -41073,7 +41073,7 @@
     "name": "Retracing the Past",
     "type": "Spell",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "1"
   },
@@ -41092,7 +41092,7 @@
     "name": "Anne's Summoning",
     "type": "Follower / Token",
     "cost": 2,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "2"
   },
@@ -41111,7 +41111,7 @@
     "name": "Resentful Blaze",
     "type": "Spell / Token",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Runecraft",
     "Cost": "1"
   },
@@ -41130,7 +41130,7 @@
     "name": "Blood Arts",
     "type": "Spell / Token",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -41149,7 +41149,7 @@
     "name": "Darkest Desire",
     "type": "Spell / Token",
     "cost": 1,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Abysscraft",
     "Cost": "1"
   },
@@ -41168,7 +41168,7 @@
     "name": "Keenedge Artifact",
     "type": "Follower / Token",
     "cost": 5,
-    "Card Set": ["BP12&13"],
+    "Card Set": "BP12&13",
     "Class": "Neutral",
     "Cost": "5"
   }
