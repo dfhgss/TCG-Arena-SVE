@@ -19,8 +19,8 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "Class",
-      "cardSet",
+      "class",
+      "cardset",
       "Cost"
     ],
     "formats": [
