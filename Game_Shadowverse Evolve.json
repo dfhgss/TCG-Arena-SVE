@@ -61,7 +61,7 @@
           "Field",
           "EX Area",
           "Evolve Deck",
-          "Used Evolved",
+          "Used Evolved Cards",
           "Mana",
           "PP",
           "EP"
@@ -85,7 +85,7 @@
                       }
                     },
                     {
-                      "section": "Used Evolved",
+                      "section": "Used Evolved Cards",
                       "style": {
                         "width": "26.52vh"
                       }
@@ -319,15 +319,15 @@
             "showHiddenCardInHistory": false,
             "cardBackColor": "#e0e0e0"
           },
-          "Used Evolved": {
-            "title": "Used Evolved",
+          "Used Evolved Cards": {
+            "title": "Used Evolved Cards",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Used Evolved",
+            "displayedTitle": "Used Evolved Cards",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
