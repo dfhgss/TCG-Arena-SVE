@@ -20,7 +20,8 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Verdant"
+        "Trait": "Verdant",
+        "tokens": ["BP01-T01EN"]
     },
     "BP01-002EN": {
         "id": "BP01-002EN",
