@@ -756,7 +756,7 @@
         ],
         "Trait": "Thief",
         "tokens": [
-            ""BP01-T06EN","BP01-T07EN","BP01-T05EN""
+            "BP01-T06EN,BP01-T07EN,BP01-T05EN"
         ]
     },
     "BP01-033EN": {
