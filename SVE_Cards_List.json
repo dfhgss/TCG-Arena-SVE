@@ -20,10 +20,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Verdant",
-        "tokens": [
-            "BP01-T01EN"
-        ]
+        "Trait": "Verdant"
     },
     "BP01-002EN": {
         "id": "BP01-002EN",
@@ -230,10 +227,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Elf / Princess",
-        "tokens": [
-            "BP01-T02EN"
-        ]
+        "Trait": "Elf / Princess"
     },
     "BP01-011EN": {
         "id": "BP01-011EN",
@@ -463,10 +457,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Elf",
-        "tokens": [
-            "BP01-T03EN"
-        ]
+        "Trait": "Elf"
     },
     "BP01-021EN": {
         "id": "BP01-021EN",
@@ -535,10 +526,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Pixie",
-        "tokens": [
-            "BP01-T03EN"
-        ]
+        "Trait": "Pixie"
     },
     "BP01-024EN": {
         "id": "BP01-024EN",
@@ -607,10 +595,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Commander / Princess",
-        "tokens": [
-            "BP01-T04EN"
-        ]
+        "Trait": "Commander / Princess"
     },
     "BP01-027EN": {
         "id": "BP01-027EN",
@@ -633,10 +618,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Commander / Princess",
-        "tokens": [
-            "BP01-T04EN"
-        ]
+        "Trait": "Commander / Princess"
     },
     "BP01-028EN": {
         "id": "BP01-028EN",
@@ -728,10 +710,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Commander",
-        "tokens": [
-            "BP01-T07EN"
-        ]
+        "Trait": "Commander"
     },
     "BP01-032EN": {
         "id": "BP01-032EN",
@@ -754,10 +733,7 @@
         "Set": [
             "BP01-03"
         ],
-        "Trait": "Thief",
-        "tokens": [
-            "BP01-T06EN,BP01-T07EN,BP01-T05EN"
-        ]
+        "Trait": "Thief"
     },
     "BP01-033EN": {
         "id": "BP01-033EN",
@@ -12425,14 +12401,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon",
+                "name": "L\u00e6vateinn Dragon",
                 "type": "Follower",
                 "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-056EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon",
+        "name": "L\u00e6vateinn Dragon",
         "type": "Follower",
         "cost": 6,
         "Class": [
@@ -12448,14 +12424,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon",
+                "name": "L\u00e6vateinn Dragon",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-057EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon [E]",
+        "name": "L\u00e6vateinn Dragon [E]",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
@@ -12471,14 +12447,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon, Attack Form",
+                "name": "L\u00e6vateinn Dragon, Attack Form",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-058EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon, Attack Form [E]",
+        "name": "L\u00e6vateinn Dragon, Attack Form [E]",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
@@ -15323,14 +15299,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon, Defense Form",
+                "name": "L\u00e6vateinn Dragon, Defense Form",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-061EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon, Defense Form [E]",
+        "name": "L\u00e6vateinn Dragon, Defense Form [E]",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
@@ -15346,14 +15322,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon, Blast Form",
+                "name": "L\u00e6vateinn Dragon, Blast Form",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-062EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon, Blast Form [E]",
+        "name": "L\u00e6vateinn Dragon, Blast Form [E]",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
@@ -23120,14 +23096,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Sparkling☆Days",
+                "name": "Sparkling\u2606Days",
                 "type": "Spell",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-028EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Sparkling☆Days",
+        "name": "Sparkling\u2606Days",
         "type": "Spell",
         "cost": 1,
         "Class": [
@@ -24684,14 +24660,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Psychic☆Maiden",
+                "name": "Psychic\u2606Maiden",
                 "type": "Amulet",
                 "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-096EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Psychic☆Maiden",
+        "name": "Psychic\u2606Maiden",
         "type": "Amulet",
         "cost": 3,
         "Class": [
@@ -36299,14 +36275,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon, Dual Form α",
+                "name": "L\u00e6vateinn Dragon, Dual Form \u03b1",
                 "type": "Evolve Deck",
                 "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-057EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon, Dual Form α [A]",
+        "name": "L\u00e6vateinn Dragon, Dual Form \u03b1 [A]",
         "type": "Evolve Deck",
         "cost": 6,
         "Class": [
@@ -36322,14 +36298,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon, Dual Form β",
+                "name": "L\u00e6vateinn Dragon, Dual Form \u03b2",
                 "type": "Evolve Deck",
                 "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-058EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon, Dual Form β [A]",
+        "name": "L\u00e6vateinn Dragon, Dual Form \u03b2 [A]",
         "type": "Evolve Deck",
         "cost": 6,
         "Class": [
@@ -36345,14 +36321,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lævateinn Dragon, Dual Form γ",
+                "name": "L\u00e6vateinn Dragon, Dual Form \u03b3",
                 "type": "Evolve Deck",
                 "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-059EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Lævateinn Dragon, Dual Form γ [A]",
+        "name": "L\u00e6vateinn Dragon, Dual Form \u03b3 [A]",
         "type": "Evolve Deck",
         "cost": 6,
         "Class": [
@@ -45982,14 +45958,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Liberté, Werewolf Pup",
+                "name": "Libert\u00e9, Werewolf Pup",
                 "type": "Follower",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-076EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Liberté, Werewolf Pup",
+        "name": "Libert\u00e9, Werewolf Pup",
         "type": "Follower",
         "cost": 1,
         "Class": [
@@ -46005,14 +45981,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Liberté, Werewolf Pup",
+                "name": "Libert\u00e9, Werewolf Pup",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-077EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Liberté, Werewolf Pup [E]",
+        "name": "Libert\u00e9, Werewolf Pup [E]",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
@@ -48788,14 +48764,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Liberté, Unchained Wolf",
+                "name": "Libert\u00e9, Unchained Wolf",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-078EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Liberté, Unchained Wolf",
+        "name": "Libert\u00e9, Unchained Wolf",
         "type": "Follower",
         "cost": 2,
         "Class": [
@@ -48811,14 +48787,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Liberté, Unchained Wolf",
+                "name": "Libert\u00e9, Unchained Wolf",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-079EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Liberté, Unchained Wolf [E]",
+        "name": "Libert\u00e9, Unchained Wolf [E]",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
