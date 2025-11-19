@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
   },
-  "customHelp": "I. To track stat changes or add counters, use C + click and Ctrl + C + click or the right-click menu.\nII. To turn a card face down, press Z and left-click it. Repeat the action to reveal it.\nIII. To evolve a card, right-click the base card and choose Group (attach), then left-click the evolved card you placed on the field from your Evolve Deck.\nIV. Shadowverse Evolve Discord servers: FR :https://discord.gg/Qcc2Hfd3m7, International: https://discord.gg/NhJ6qH2Pfd",
+  "customHelp": "I. To track stat changes or add counters, use C + click and Ctrl + C + click or the right-click menu.\nII. To turn a card face down, press Z and left-click it. Repeat the action to reveal it.\nIII. To evolve a card, right-click the base card and choose Group (attach), then left-click the evolved card you placed on the field from your Evolve Deck.\nIV. Shadowverse Evolve Discord servers: FR: https://discord.gg/Qcc2Hfd3m7 | International: https://discord.gg/NhJ6qH2Pfd",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
