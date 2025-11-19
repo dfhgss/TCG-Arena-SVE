@@ -96,7 +96,7 @@
                   "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             },
             {
               "direction": "row",
@@ -119,7 +119,7 @@
                   "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"50%"}
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
