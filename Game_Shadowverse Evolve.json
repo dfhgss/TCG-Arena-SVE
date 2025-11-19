@@ -86,11 +86,15 @@
                 {
                   "section": "Used Evolved Cards",
                   "style": 
-		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolvedCards.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+                },
+                {
+                  "section": "EP",
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
                 },
                 {
                   "section": "Field",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"45%"}
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"50%"}
                 }
               ],
               "isSymetricalForOpponents": false
@@ -113,12 +117,8 @@
                   "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
                 },
                 {
-                  "section": "EP",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
-                },
-                {
                   "section": "EX Area",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"45%"}
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"50%"}
                 }
               ],
               "isSymetricalForOpponents": false
