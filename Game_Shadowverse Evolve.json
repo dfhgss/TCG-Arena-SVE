@@ -38,7 +38,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Either keep your hand or perform a mulligan: place the 4 cards on the bottom of your deck and draw 4 new cards.",
+        "info": "Either keep your hand or perform a mulligan: select the 4 cards and click the ‘Put selected cards at the bottom and start’ button at the bottom right of this window. Then draw 4 new cards manually.",
         "startingHandSize": "4",
         "drawNewHand": false,
         "putSelectionAtBottom": true,
