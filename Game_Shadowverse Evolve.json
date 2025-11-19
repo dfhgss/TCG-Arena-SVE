@@ -85,15 +85,15 @@
                 {
                   "section": "Used Evolved Cards",
                   "style": 
-		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolvedCards.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolvedCards.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center",}
                 },
                 {
                   "section": "EP",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"15%"}
                 },
                 {
                   "section": "Field",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"50%"}
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
                 }
               ],
               "isSymetricalForOpponents": false
