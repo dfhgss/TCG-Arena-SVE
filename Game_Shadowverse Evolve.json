@@ -67,83 +67,58 @@
           "EP"
         ],
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "column",
-              "style": false,
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Evolve Deck",
-                      "style": {
-                        "width": "10.2vh"
-                      }
-                    },
-                    {
-                      "section": "Used Evolved Cards",
-                      "style": {
-                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolvedCards.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                      }
-                    },
-                    {
-                      "section": "EP",
-                      "style": {
-                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                      }
-                    },
-                    {
-                      "section": "Field",
-                      "style": {
-                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "section": "Evolve Deck",
+                  "style": {
+                    "width": "13.9vh",
+                    "margin-right": "2vh"
+                  }
                 },
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "PP",
-                      "style": {
-                        "width": "10.2vh"
-                      }
-                    },
-                    {
-                      "section": "Mana",
-                      "style": {
-                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                      }
-                    },
-                    {
-                      "section": "EX Area",
-                      "style": {
-                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "section": "Used Evolved Cards",
+                  "style": 
+		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+                },
+                {
+                  "section": "Field",
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"45%"}
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "PP",
+                  "style": {
+                    "width": "13.9vh",
+                    "margin-right": "2vh"
+                  }
+                },
+                {
+                  "section": "Mana",
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+                },
+                {
+                  "section": "EP",
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
+                },
+                {
+                  "section": "EX Area",
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"45%"}
                 }
               ],
               "isSymetricalForOpponents": false
