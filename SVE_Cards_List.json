@@ -47868,14 +47868,14 @@
         "face": {
             "front": {
                 "name": "Rending Blast",
-                "type": "Spell / Advanced",
+                "type": "Evolve Deck",
                 "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-039EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Rending Blast [A]",
-        "type": "Spell / Advanced",
+        "type": "Evolve Deck",
         "cost": 3,
         "Class": [
             "Runecraft"
