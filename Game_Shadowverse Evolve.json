@@ -85,7 +85,7 @@
                 {
                   "section": "Used Evolved Cards",
                   "style": 
-		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolvedCards.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
+		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolveDeck.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
                 },
                 {
                   "section": "EP",
