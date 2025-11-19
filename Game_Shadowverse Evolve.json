@@ -80,7 +80,6 @@
                   "section": "Evolve Deck",
                   "style": {
                     "width": "13.9vh",
-                    "margin-right": "2vh"
                   }
                 },
                 {
@@ -90,7 +89,7 @@
                 },
                 {
                   "section": "EP",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
+                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
                 },
                 {
                   "section": "Field",
@@ -109,7 +108,6 @@
                   "section": "PP",
                   "style": {
                     "width": "13.9vh",
-                    "margin-right": "2vh"
                   }
                 },
                 {
@@ -267,7 +265,7 @@
           "Field": {
             "title": "Field",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -283,7 +281,7 @@
           "EX Area": {
             "title": "EX Area",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -299,7 +297,7 @@
           "Evolve Deck": {
             "title": "Evolve Deck",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -316,7 +314,7 @@
           "Used Evolved Cards": {
             "title": "Used Evolved Cards",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -332,7 +330,7 @@
           "PP": {
             "title": "PP",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "DECK",
             "drawPerTurn": 1,
             "opponentAlignment": false,
@@ -350,7 +348,7 @@
           "Mana": {
             "title": "Mana",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -366,7 +364,7 @@
           "EP": {
             "title": "EP",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
