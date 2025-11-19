@@ -4806,19 +4806,134 @@
         ],
         "Trait": "Officer"
     },
-    "PP": {
-        "id": "PP",
+    "PP1": {
+        "id": "PP1",
         "isToken": false,
         "face": {
             "front": {
-                "name": "PP",
+                "name": "PP1",
                 "type": "PP",
                 "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/NY2024-001EN.png",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD01EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "PP",
+        "name": "PP1",
+        "type": "PP",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            ""
+        ],
+        "Trait": ""
+    },
+    "PP2": {
+        "id": "PP2",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "PP2",
+                "type": "PP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "PP2",
+        "type": "PP",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            ""
+        ],
+        "Trait": ""
+    },
+    "PP3": {
+        "id": "PP3",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "PP3",
+                "type": "PP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "PP3",
+        "type": "PP",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            ""
+        ],
+        "Trait": ""
+    },
+    "PP4": {
+        "id": "PP4",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "PP4",
+                "type": "PP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "PP4",
+        "type": "PP",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            ""
+        ],
+        "Trait": ""
+    },
+    "PP5": {
+        "id": "PP5",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "PP5",
+                "type": "PP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "PP5",
+        "type": "PP",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            ""
+        ],
+        "Trait": ""
+    },
+    "PP6": {
+        "id": "PP6",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "PP6",
+                "type": "PP",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD11EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "PP6",
         "type": "PP",
         "cost": 0,
         "Class": [
