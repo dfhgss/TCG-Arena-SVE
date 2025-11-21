@@ -49955,15 +49955,15 @@
         ],
         "Trait": "Supreme"
     },
-    "Collab-001EN": {
-        "id": "Collab-001EN",
+    "ECP01-001EN": {
+        "id": "ECP01-001EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Hokko Tarumae",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-001.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-001.jpg",
                 "isHorizontal": false
             }
         },
@@ -49978,15 +49978,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-002EN": {
-        "id": "Collab-002EN",
+    "ECP01-002EN": {
+        "id": "ECP01-002EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Hokko Tarumae",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-002.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-002.jpg",
                 "isHorizontal": false
             }
         },
@@ -50001,15 +50001,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-003EN": {
-        "id": "Collab-003EN",
+    "ECP01-003EN": {
+        "id": "ECP01-003EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sakura Laurel",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-003.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-003.png",
                 "isHorizontal": false
             }
         },
@@ -50024,15 +50024,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-004EN": {
-        "id": "Collab-004EN",
+    "ECP01-004EN": {
+        "id": "ECP01-004EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sounds of Earth",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-004.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-004.png",
                 "isHorizontal": false
             }
         },
@@ -50047,15 +50047,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-005EN": {
-        "id": "Collab-005EN",
+    "ECP01-005EN": {
+        "id": "ECP01-005EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Haru Urara [Uraraka Passion ♪]",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-005.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-005.png",
                 "isHorizontal": false
             }
         },
@@ -50070,15 +50070,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-006EN": {
-        "id": "Collab-006EN",
+    "ECP01-006EN": {
+        "id": "ECP01-006EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Yamamin Zephyr",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-006.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-006.png",
                 "isHorizontal": false
             }
         },
@@ -50093,15 +50093,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-007EN": {
-        "id": "Collab-007EN",
+    "ECP01-007EN": {
+        "id": "ECP01-007EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sakura Bakushin O",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-007.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-007.png",
                 "isHorizontal": false
             }
         },
@@ -50116,15 +50116,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-008EN": {
-        "id": "Collab-008EN",
+    "ECP01-008EN": {
+        "id": "ECP01-008EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Mihono Bourbon",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-008.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-008.png",
                 "isHorizontal": false
             }
         },
@@ -50139,15 +50139,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-009EN": {
-        "id": "Collab-009EN",
+    "ECP01-009EN": {
+        "id": "ECP01-009EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "A More Marvelous ☆ World!",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-009.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-009.png",
                 "isHorizontal": false
             }
         },
@@ -50162,15 +50162,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-010EN": {
-        "id": "Collab-010EN",
+    "ECP01-010EN": {
+        "id": "ECP01-010EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Gentildonna",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-010.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-010.jpg",
                 "isHorizontal": false
             }
         },
@@ -50185,15 +50185,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-011EN": {
-        "id": "Collab-011EN",
+    "ECP01-011EN": {
+        "id": "ECP01-011EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Gentildonna",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-011.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-011.jpg",
                 "isHorizontal": false
             }
         },
@@ -50208,15 +50208,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-012EN": {
-        "id": "Collab-012EN",
+    "ECP01-012EN": {
+        "id": "ECP01-012EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Symboli Rudolf [Enchaînement]",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-012.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-012.png",
                 "isHorizontal": false
             }
         },
@@ -50231,15 +50231,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-013EN": {
-        "id": "Collab-013EN",
+    "ECP01-013EN": {
+        "id": "ECP01-013EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sirius Symboli [Escorte étoile]",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-013.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-013.png",
                 "isHorizontal": false
             }
         },
@@ -50254,15 +50254,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-014EN": {
-        "id": "Collab-014EN",
+    "ECP01-014EN": {
+        "id": "ECP01-014EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Aston Machan",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-014.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-014.png",
                 "isHorizontal": false
             }
         },
@@ -50277,15 +50277,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-015EN": {
-        "id": "Collab-015EN",
+    "ECP01-015EN": {
+        "id": "ECP01-015EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Symboli Kris S",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-015.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-015.png",
                 "isHorizontal": false
             }
         },
@@ -50300,15 +50300,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-016EN": {
-        "id": "Collab-016EN",
+    "ECP01-016EN": {
+        "id": "ECP01-016EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Tap Dance City",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-016.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-016.png",
                 "isHorizontal": false
             }
         },
@@ -50323,15 +50323,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-017EN": {
-        "id": "Collab-017EN",
+    "ECP01-017EN": {
+        "id": "ECP01-017EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Biwa Hayahide",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-017.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-017.png",
                 "isHorizontal": false
             }
         },
@@ -50346,15 +50346,15 @@
         ],
         "Trait": "Umamusume / BNW"
     },
-    "Collab-018EN": {
-        "id": "Collab-018EN",
+    "ECP01-018EN": {
+        "id": "ECP01-018EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Teio! Teio! Tei-Teio!",
                 "type": "Spell",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-018.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-018.png",
                 "isHorizontal": false
             }
         },
@@ -50369,15 +50369,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-019EN": {
-        "id": "Collab-019EN",
+    "ECP01-019EN": {
+        "id": "ECP01-019EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Cheval Grand",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-019.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-019.jpg",
                 "isHorizontal": false
             }
         },
@@ -50392,15 +50392,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-020EN": {
-        "id": "Collab-020EN",
+    "ECP01-020EN": {
+        "id": "ECP01-020EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Cheval Grand",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-020.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-020.png",
                 "isHorizontal": false
             }
         },
@@ -50415,15 +50415,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-021EN": {
-        "id": "Collab-021EN",
+    "ECP01-021EN": {
+        "id": "ECP01-021EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Tanino Gimlet",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-021.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-021.png",
                 "isHorizontal": false
             }
         },
@@ -50438,15 +50438,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-022EN": {
-        "id": "Collab-022EN",
+    "ECP01-022EN": {
+        "id": "ECP01-022EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Narita Top Road [Pink Back Shot]",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-022.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-022.png",
                 "isHorizontal": false
             }
         },
@@ -50461,15 +50461,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-023EN": {
-        "id": "Collab-023EN",
+    "ECP01-023EN": {
+        "id": "ECP01-023EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Verxina",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-023.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-023.png",
                 "isHorizontal": false
             }
         },
@@ -50484,15 +50484,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-024EN": {
-        "id": "Collab-024EN",
+    "ECP01-024EN": {
+        "id": "ECP01-024EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Vivlos",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-024.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-024.png",
                 "isHorizontal": false
             }
         },
@@ -50507,15 +50507,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-025EN": {
-        "id": "Collab-025EN",
+    "ECP01-025EN": {
+        "id": "ECP01-025EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Daitaku Helios",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-025.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-025.png",
                 "isHorizontal": false
             }
         },
@@ -50530,15 +50530,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-026EN": {
-        "id": "Collab-026EN",
+    "ECP01-026EN": {
+        "id": "ECP01-026EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sweep Tosho",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-026.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-026.png",
                 "isHorizontal": false
             }
         },
@@ -50553,15 +50553,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-027EN": {
-        "id": "Collab-027EN",
+    "ECP01-027EN": {
+        "id": "ECP01-027EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Night's Dawn and the Auspicious Star",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-027.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-027.png",
                 "isHorizontal": false
             }
         },
@@ -50576,15 +50576,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-028EN": {
-        "id": "Collab-028EN",
+    "ECP01-028EN": {
+        "id": "ECP01-028EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Neo Universe",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-028.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-028.jpg",
                 "isHorizontal": false
             }
         },
@@ -50599,15 +50599,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-029EN": {
-        "id": "Collab-029EN",
+    "ECP01-029EN": {
+        "id": "ECP01-029EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Neo Universe",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-029.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-029.png",
                 "isHorizontal": false
             }
         },
@@ -50622,15 +50622,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-030EN": {
-        "id": "Collab-030EN",
+    "ECP01-030EN": {
+        "id": "ECP01-030EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Mr. C.B.",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-030.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-030.png",
                 "isHorizontal": false
             }
         },
@@ -50645,15 +50645,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-031EN": {
-        "id": "Collab-031EN",
+    "ECP01-031EN": {
+        "id": "ECP01-031EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Katsuragi Ace",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-031.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-031.png",
                 "isHorizontal": false
             }
         },
@@ -50668,15 +50668,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-032EN": {
-        "id": "Collab-032EN",
+    "ECP01-032EN": {
+        "id": "ECP01-032EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Super Creek [One Drop of Serenity]",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-032.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-032.png",
                 "isHorizontal": false
             }
         },
@@ -50691,15 +50691,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-033EN": {
-        "id": "Collab-033EN",
+    "ECP01-033EN": {
+        "id": "ECP01-033EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Tsurumaru Tsuyoshi",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-033.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-033.png",
                 "isHorizontal": false
             }
         },
@@ -50714,15 +50714,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-034EN": {
-        "id": "Collab-034EN",
+    "ECP01-034EN": {
+        "id": "ECP01-034EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "El Condor Pasa",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-034.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-034.png",
                 "isHorizontal": false
             }
         },
@@ -50737,15 +50737,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-035EN": {
-        "id": "Collab-035EN",
+    "ECP01-035EN": {
+        "id": "ECP01-035EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Nishino Flower",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-035.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-035.png",
                 "isHorizontal": false
             }
         },
@@ -50760,15 +50760,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-036EN": {
-        "id": "Collab-036EN",
+    "ECP01-036EN": {
+        "id": "ECP01-036EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Prayer's Flame That Burns to Heaven",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-036.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-036.png",
                 "isHorizontal": false
             }
         },
@@ -50783,15 +50783,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-037EN": {
-        "id": "Collab-037EN",
+    "ECP01-037EN": {
+        "id": "ECP01-037EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Hishi Miracle",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-037.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-037.jpg",
                 "isHorizontal": false
             }
         },
@@ -50806,15 +50806,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-038EN": {
-        "id": "Collab-038EN",
+    "ECP01-038EN": {
+        "id": "ECP01-038EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Hishi Miracle",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-038.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-038.jpg",
                 "isHorizontal": false
             }
         },
@@ -50829,15 +50829,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-039EN": {
-        "id": "Collab-039EN",
+    "ECP01-039EN": {
+        "id": "ECP01-039EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Daiichi Ruby",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-039.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-039.png",
                 "isHorizontal": false
             }
         },
@@ -50852,15 +50852,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-040EN": {
-        "id": "Collab-040EN",
+    "ECP01-040EN": {
+        "id": "ECP01-040EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Duramente",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-040.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-040.png",
                 "isHorizontal": false
             }
         },
@@ -50875,15 +50875,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-041EN": {
-        "id": "Collab-041EN",
+    "ECP01-041EN": {
+        "id": "ECP01-041EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Machikanetannhauser [Machitan☆Adventure]",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-041.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-041.png",
                 "isHorizontal": false
             }
         },
@@ -50898,15 +50898,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-042EN": {
-        "id": "Collab-042EN",
+    "ECP01-042EN": {
+        "id": "ECP01-042EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "K.S. Miracle",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-042.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-042.png",
                 "isHorizontal": false
             }
         },
@@ -50921,15 +50921,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-043EN": {
-        "id": "Collab-043EN",
+    "ECP01-043EN": {
+        "id": "ECP01-043EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Air Shakur",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-043.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-043.png",
                 "isHorizontal": false
             }
         },
@@ -50944,15 +50944,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-044EN": {
-        "id": "Collab-044EN",
+    "ECP01-044EN": {
+        "id": "ECP01-044EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Manhattan Cafe",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-044.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-044.png",
                 "isHorizontal": false
             }
         },
@@ -50967,15 +50967,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-045EN": {
-        "id": "Collab-045EN",
+    "ECP01-045EN": {
+        "id": "ECP01-045EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "TT Ignition!",
                 "type": "Spell",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-045.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-045.png",
                 "isHorizontal": false
             }
         },
@@ -50990,15 +50990,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-046EN": {
-        "id": "Collab-046EN",
+    "ECP01-046EN": {
+        "id": "ECP01-046EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Satono Crown",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-046.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-046.jpg",
                 "isHorizontal": false
             }
         },
@@ -51013,15 +51013,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-047EN": {
-        "id": "Collab-047EN",
+    "ECP01-047EN": {
+        "id": "ECP01-047EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Satono Crown",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-047.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-047.jpg",
                 "isHorizontal": false
             }
         },
@@ -51036,15 +51036,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-048EN": {
-        "id": "Collab-048EN",
+    "ECP01-048EN": {
+        "id": "ECP01-048EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Mejiro Ramonu",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-048.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-048.png",
                 "isHorizontal": false
             }
         },
@@ -51059,15 +51059,15 @@
         ],
         "Trait": "Umamusume / Mejiro Family"
     },
-    "Collab-049EN": {
-        "id": "Collab-049EN",
+    "ECP01-049EN": {
+        "id": "ECP01-049EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Jungle Pocket",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-049.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-049.png",
                 "isHorizontal": false
             }
         },
@@ -51082,15 +51082,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-050EN": {
-        "id": "Collab-050EN",
+    "ECP01-050EN": {
+        "id": "ECP01-050EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Wonder Acute",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-050.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-050.png",
                 "isHorizontal": false
             }
         },
@@ -51105,15 +51105,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-051EN": {
-        "id": "Collab-051EN",
+    "ECP01-051EN": {
+        "id": "ECP01-051EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Mejiro Ardan [Prayer's Flower in the Night Wind]",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-051.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-051.png",
                 "isHorizontal": false
             }
         },
@@ -51128,15 +51128,15 @@
         ],
         "Trait": "Umamusume / Mejiro Family"
     },
-    "Collab-052EN": {
-        "id": "Collab-052EN",
+    "ECP01-052EN": {
+        "id": "ECP01-052EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Machikanefukukitaru",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-052.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-052.png",
                 "isHorizontal": false
             }
         },
@@ -51151,15 +51151,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-053EN": {
-        "id": "Collab-053EN",
+    "ECP01-053EN": {
+        "id": "ECP01-053EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Mejiro Palmer [Moonlit Little Devil ♪]",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-053.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-053.png",
                 "isHorizontal": false
             }
         },
@@ -51174,15 +51174,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-054EN": {
-        "id": "Collab-054EN",
+    "ECP01-054EN": {
+        "id": "ECP01-054EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Go for It! Desuwa!?",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-054.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-054.png",
                 "isHorizontal": false
             }
         },
@@ -51197,15 +51197,15 @@
         ],
         "Trait": "Umamusume / Mejiro Family"
     },
-    "Collab-055EN": {
-        "id": "Collab-055EN",
+    "ECP01-055EN": {
+        "id": "ECP01-055EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Thus, Those Who Lead the Way",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-055.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-055.png",
                 "isHorizontal": false
             }
         },
@@ -51220,15 +51220,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-056EN": {
-        "id": "Collab-056EN",
+    "ECP01-056EN": {
+        "id": "ECP01-056EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Balliamo?",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-056.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-056.png",
                 "isHorizontal": false
             }
         },
@@ -51243,15 +51243,15 @@
         ],
         "Trait": "Umamusume"
     },
-    "Collab-057EN": {
-        "id": "Collab-057EN",
+    "ECP01-057EN": {
+        "id": "ECP01-057EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Ryoka Tsurugi",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-057.png",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/ECP01-057.png",
                 "isHorizontal": false
             }
         },
