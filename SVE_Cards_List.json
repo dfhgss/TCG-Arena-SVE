@@ -50001,17 +50001,6 @@
         ],
         "Trait": "Umamusume"
     },
-        "name": "Hokko Tarumae",
-        "type": "Follower",
-        "cost": 4,
-        "Class": [
-            "Forestcraft"
-        ],
-        "Set": [
-            "Collab"
-        ],
-        "Trait": "Umamusume"
-    },
     "Collab-003EN": {
         "id": "Collab-003EN",
         "isToken": false,
@@ -50224,14 +50213,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Symboli Rudolf [Enchainement]",
+                "name": "Symboli Rudolf [Enchaînement]",
                 "type": "Follower",
                 "cost": 4,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-012.png",
                 "isHorizontal": false
             }
         },
-        "name": "Symboli Rudolf [Enchainement]",
+        "name": "Symboli Rudolf [Enchaînement]",
         "type": "Follower",
         "cost": 4,
         "Class": [
@@ -50247,14 +50236,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Sirius Symboli [Escorte etoile]",
+                "name": "Sirius Symboli [Escorte étoile]",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/Collab TEMP 1/Collab-013.png",
                 "isHorizontal": false
             }
         },
-        "name": "Sirius Symboli [Escorte etoile]",
+        "name": "Sirius Symboli [Escorte étoile]",
         "type": "Follower",
         "cost": 2,
         "Class": [
