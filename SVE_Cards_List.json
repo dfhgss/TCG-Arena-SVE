@@ -49954,5 +49954,1327 @@
             "BP12-13"
         ],
         "Trait": "Supreme"
+    },
+    "ECP01-001EN": {
+        "id": "ECP01-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hokko Tarumae",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-001.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hokko Tarumae",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-002EN": {
+        "id": "ECP01-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hokko Tarumae",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-002.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hokko Tarumae [E]",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+        "name": "Hokko Tarumae",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-003EN": {
+        "id": "ECP01-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sakura Laurel",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-003.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sakura Laurel",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-004EN": {
+        "id": "ECP01-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sounds of Earth",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-004.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sounds of Earth",
+        "type": "Follower",
+        "cost": 9,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-005EN": {
+        "id": "ECP01-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Haru Urara [Uraraka Passion ♪]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-005.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Haru Urara [Uraraka Passion ♪]",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-006EN": {
+        "id": "ECP01-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yamamin Zephyr",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-006.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yamamin Zephyr",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-007EN": {
+        "id": "ECP01-007EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sakura Bakushin O",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-007.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sakura Bakushin O",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-008EN": {
+        "id": "ECP01-008EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mihono Bourbon",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-008.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mihono Bourbon",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-009EN": {
+        "id": "ECP01-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "A More Marvelous ☆ World!",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-009.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "A More Marvelous ☆ World!",
+        "type": "Amulet",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-010EN": {
+        "id": "ECP01-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gentildonna",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-010.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gentildonna",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-011EN": {
+        "id": "ECP01-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gentildonna",
+                "type": "Evolve Deck",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-011.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gentildonna [E]",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-012EN": {
+        "id": "ECP01-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Symboli Rudolf [Enchaînement]",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-012.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Symboli Rudolf [Enchaînement]",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-013EN": {
+        "id": "ECP01-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sirius Symboli [Escorte étoile]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-013.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sirius Symboli [Escorte étoile]",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-014EN": {
+        "id": "ECP01-014EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aston Machan",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-014.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aston Machan",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-015EN": {
+        "id": "ECP01-015EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Symboli Kris S",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-015.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Symboli Kris S",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-016EN": {
+        "id": "ECP01-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tap Dance City",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-016.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tap Dance City",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-017EN": {
+        "id": "ECP01-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Biwa Hayahide",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-017.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Biwa Hayahide",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume / BNW"
+    },
+    "ECP01-018EN": {
+        "id": "ECP01-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Teio! Teio! Tei-Teio!",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-018.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Teio! Teio! Tei-Teio!",
+        "type": "Spell",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-019EN": {
+        "id": "ECP01-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cheval Grand",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-019.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cheval Grand",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-020EN": {
+        "id": "ECP01-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cheval Grand",
+                "type": "Evolve Deck",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-020.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cheval Grand [E]",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-021EN": {
+        "id": "ECP01-021EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tanino Gimlet",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-021.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tanino Gimlet",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-022EN": {
+        "id": "ECP01-022EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Narita Top Road [Pink Back Shot]",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-022.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Narita Top Road [Pink Back Shot]",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-023EN": {
+        "id": "ECP01-023EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Verxina",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-023.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Verxina",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-024EN": {
+        "id": "ECP01-024EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vivlos",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-024.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vivlos",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-025EN": {
+        "id": "ECP01-025EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Daitaku Helios",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-025.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Daitaku Helios",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-026EN": {
+        "id": "ECP01-026EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sweep Tosho",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-026.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sweep Tosho",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-027EN": {
+        "id": "ECP01-027EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Night's Dawn and the Auspicious Star",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-027.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Night's Dawn and the Auspicious Star",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-028EN": {
+        "id": "ECP01-028EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Neo Universe",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-028.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Neo Universe",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-029EN": {
+        "id": "ECP01-029EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Neo Universe",
+                "type": "Evolve Deck",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-029.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Neo Universe [E]",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-030EN": {
+        "id": "ECP01-030EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mr. C.B.",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-030.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mr. C.B.",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-031EN": {
+        "id": "ECP01-031EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Katsuragi Ace",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-031.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Katsuragi Ace",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-032EN": {
+        "id": "ECP01-032EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Super Creek [One Drop of Serenity]",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-032.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Super Creek [One Drop of Serenity]",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-033EN": {
+        "id": "ECP01-033EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tsurumaru Tsuyoshi",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-033.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tsurumaru Tsuyoshi",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-034EN": {
+        "id": "ECP01-034EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "El Condor Pasa",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-034.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "El Condor Pasa",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-035EN": {
+        "id": "ECP01-035EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nishino Flower",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-035.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nishino Flower",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-036EN": {
+        "id": "ECP01-036EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prayer's Flame That Burns to Heaven",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-036.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prayer's Flame That Burns to Heaven",
+        "type": "Spell",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-037EN": {
+        "id": "ECP01-037EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hishi Miracle",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-037.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hishi Miracle",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-038EN": {
+        "id": "ECP01-038EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hishi Miracle",
+                "type": "Evolve Deck",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-038.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hishi Miracle [E]",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-039EN": {
+        "id": "ECP01-039EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Daiichi Ruby",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-039.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Daiichi Ruby",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-040EN": {
+        "id": "ECP01-040EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Duramente",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-040.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Duramente",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-041EN": {
+        "id": "ECP01-041EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Machikanetannhauser [Machitan☆Adventure]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-041.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Machikanetannhauser [Machitan☆Adventure]",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-042EN": {
+        "id": "ECP01-042EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "K.S. Miracle",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-042.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "K.S. Miracle",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-043EN": {
+        "id": "ECP01-043EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Air Shakur",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-043.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Air Shakur",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-044EN": {
+        "id": "ECP01-044EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Manhattan Cafe",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-044.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Manhattan Cafe",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-045EN": {
+        "id": "ECP01-045EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "TT Ignition!",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-045.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "TT Ignition!",
+        "type": "Spell",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-046EN": {
+        "id": "ECP01-046EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Satono Crown",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-046.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Satono Crown",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-047EN": {
+        "id": "ECP01-047EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Satono Crown",
+                "type": "Evolve Deck",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-047.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Satono Crown [E]",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-048EN": {
+        "id": "ECP01-048EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mejiro Ramonu",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-048.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mejiro Ramonu",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume / Mejiro Family"
+    },
+    "ECP01-049EN": {
+        "id": "ECP01-049EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jungle Pocket",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-049.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jungle Pocket",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-050EN": {
+        "id": "ECP01-050EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wonder Acute",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-050.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wonder Acute",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-051EN": {
+        "id": "ECP01-051EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mejiro Ardan [Prayer's Flower in the Night Wind]",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-051.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mejiro Ardan [Prayer's Flower in the Night Wind]",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume / Mejiro Family"
+    },
+    "ECP01-052EN": {
+        "id": "ECP01-052EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Machikanefukukitaru",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-052.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Machikanefukukitaru",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-053EN": {
+        "id": "ECP01-053EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mejiro Palmer [Moonlit Little Devil ♪]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-053.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mejiro Palmer [Moonlit Little Devil ♪]",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-054EN": {
+        "id": "ECP01-054EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Go for It! Desuwa!?",
+                "type": "Amulet",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-054.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Go for It! Desuwa!?",
+        "type": "Amulet",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume / Mejiro Family"
+    },
+    "ECP01-055EN": {
+        "id": "ECP01-055EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Thus, Those Who Lead the Way",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-055.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Thus, Those Who Lead the Way",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-056EN": {
+        "id": "ECP01-056EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Balliamo?",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-056.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Balliamo?",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Umamusume"
+    },
+    "ECP01-057EN": {
+        "id": "ECP01-057EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ryoka Tsurugi",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-057.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ryoka Tsurugi",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "ECP01"
+        ],
+        "Trait": "Tracen Academy"
     }
 }
