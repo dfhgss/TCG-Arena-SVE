@@ -61,7 +61,7 @@
           "Field",
           "EX Area",
           "Evolve Deck",
-          "Used Evolved Cards",
+          "Faceup Evolved Advanced",
           "Mana",
           "PP",
           "EP"
@@ -83,9 +83,9 @@
                   }
                 },
                 {
-                  "section": "Used Evolved Cards",
+                  "section": "Faceup Evolved Advanced",
                   "style": 
-		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundUsedEvolveDeck.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
+		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
                 },
                 {
                   "section": "EP",
@@ -311,15 +311,15 @@
             "showHiddenCardInHistory": false,
             "cardBackColor": "#e0e0e0"
           },
-          "Used Evolved Cards": {
-            "title": "Used Evolved Cards",
+          "Faceup Evolved Advanced": {
+            "title": "Faceup Evolved Advanced",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Used Evolved Cards",
+            "displayedTitle": "Faceup Evolved / Advanced",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
