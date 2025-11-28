@@ -57064,7 +57064,7 @@
   },
   "BP15-PR09EN": {
     "id": "BP15-PR09EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Annihilating Onslaught",
@@ -57087,7 +57087,7 @@
   },
   "BP15-PR10EN": {
     "id": "BP15-PR10EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Remnant of Hollowness",
@@ -57110,7 +57110,7 @@
   },
   "BP15-PR11EN": {
     "id": "BP15-PR11EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Ersatz Elimination",
@@ -57133,7 +57133,7 @@
   },
   "BP15-PR12EN": {
     "id": "BP15-PR12EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Melodious Monody",
@@ -57156,7 +57156,7 @@
   },
   "BP15-PR13EN": {
     "id": "BP15-PR13EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Fangs of Ardent Destruction",
@@ -57179,7 +57179,7 @@
   },
   "BP15-PR14EN": {
     "id": "BP15-PR14EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Wings of Desire",
@@ -57202,7 +57202,7 @@
   },
   "BP15-PR15EN": {
     "id": "BP15-PR15EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Scream Diffusion",
@@ -57225,7 +57225,7 @@
   },
   "BP15-PR16EN": {
     "id": "BP15-PR16EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Torrent of Despair",
@@ -57248,7 +57248,7 @@
   },
   "BP15-PR17EN": {
     "id": "BP15-PR17EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Great Testimony",
@@ -57271,7 +57271,7 @@
   },
   "BP15-PR18EN": {
     "id": "BP15-PR18EN",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Ravenous Sweetness",
