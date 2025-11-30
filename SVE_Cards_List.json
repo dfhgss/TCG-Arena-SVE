@@ -64882,7 +64882,7 @@
     ],
     "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
   },
-  " BP18-068EN": {
+  "BP18-068EN": {
     "id": " BP18-068EN",
     "isToken": false,
     "face": {
@@ -64890,7 +64890,7 @@
         "name": "Ian, Dragon Buster",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/ BP18-068EN.png",
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-068.jpg",
         "isHorizontal": false
       }
     },
@@ -64901,7 +64901,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP18-20"
+      "BP16-18"
     ],
     "Trait": "Dragonheart"
   },
