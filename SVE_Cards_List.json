@@ -28469,7 +28469,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "BP07-09"
     ],
     "Trait": "Natura / Lightborne / Beast"
   },
@@ -29757,7 +29757,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "BP07-09"
     ],
     "Trait": "Mage / Gorgon"
   },
@@ -29780,7 +29780,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "BP07-09"
     ],
     "Trait": "Mage / Gorgon"
   },
@@ -44201,7 +44201,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Supreme"
   },
@@ -44224,7 +44224,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Commander"
   },
@@ -44247,7 +44247,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Mage / Academic"
   },
@@ -44270,7 +44270,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Marine"
   },
@@ -44293,7 +44293,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Vampire"
   },
@@ -44316,7 +44316,7 @@
       "Havencraft"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Faith / Princess"
   },
@@ -44339,7 +44339,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP10-11-SP01"
+      "SD-SP-Token"
     ],
     "Trait": "Fable"
   },
@@ -47283,7 +47283,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "BP12-14"
     ],
     "Trait": "Wasteland / Hunter / Beast"
   },
@@ -57300,7 +57300,7 @@
         "name": "Gilded Blade",
         "type": "Spell / Token",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP15-T01EN.png",
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 3/BP15-T01.jpg",
         "isHorizontal": false
       }
     },
