@@ -4145,20 +4145,17 @@
     "face": {
       "front": {
         "name": "Thorn Burst",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Thorn Burst",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Verdant"
   },
@@ -4180,9 +4177,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Pixie"
   },
   "BP01-T03EN": {
@@ -4202,9 +4196,6 @@
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Pixie"
   },
@@ -4226,9 +4217,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Officer"
   },
   "BP01-T05EN": {
@@ -4248,9 +4236,6 @@
     "cost": 1,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Officer"
   },
@@ -4272,9 +4257,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Thief"
   },
   "BP01-T07EN": {
@@ -4294,9 +4276,6 @@
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Officer"
   },
@@ -4318,9 +4297,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Golem"
   },
   "BP01-T09EN": {
@@ -4340,9 +4316,6 @@
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Golem"
   },
@@ -4364,9 +4337,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Earth Sigil"
   },
   "BP01-T11EN": {
@@ -4387,9 +4357,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Wyrmkin"
   },
   "BP01-T12EN": {
@@ -4398,20 +4365,17 @@
     "face": {
       "front": {
         "name": "Mimi",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png",
         "isHorizontal": false
       }
     },
     "name": "Mimi",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Demon"
   },
@@ -4421,20 +4385,17 @@
     "face": {
       "front": {
         "name": "Coco",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png",
         "isHorizontal": false
       }
     },
     "name": "Coco",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Demon"
   },
@@ -4456,9 +4417,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Departed"
   },
   "BP01-T15EN": {
@@ -4478,9 +4436,6 @@
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Vampire"
   },
@@ -4502,9 +4457,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Avian"
   },
   "BP01-T17EN": {
@@ -4524,9 +4476,6 @@
     "cost": 4,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Beast"
   },
@@ -4549,7 +4498,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Assassin / Ninja"
   },
@@ -4572,7 +4521,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Commander"
   },
@@ -4595,7 +4544,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4618,7 +4567,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4641,7 +4590,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Assassin"
   },
@@ -4664,7 +4613,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Commander"
   },
@@ -4687,7 +4636,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Commander / Noble"
   },
@@ -4710,7 +4659,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4733,7 +4682,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4756,7 +4705,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4779,7 +4728,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4802,7 +4751,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer"
   },
@@ -4986,7 +4935,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Pixie / Princess"
   },
@@ -5009,7 +4958,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Pixie / Princess"
   },
@@ -5032,7 +4981,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Verdant"
   },
@@ -5055,7 +5004,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Verdant"
   },
@@ -5078,7 +5027,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Pixie"
   },
@@ -5101,7 +5050,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Elf"
   },
@@ -5124,7 +5073,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Fae-Touched"
   },
@@ -5147,7 +5096,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Fae-Touched"
   },
@@ -5170,7 +5119,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Pixie"
   },
@@ -5193,7 +5142,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Pixie"
   },
@@ -5216,7 +5165,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Elf"
   },
@@ -5239,7 +5188,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Elf"
   },
@@ -5262,7 +5211,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Golem"
   },
@@ -5285,7 +5234,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5308,7 +5257,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5331,7 +5280,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5354,7 +5303,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5377,7 +5326,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5400,7 +5349,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Arcanaform"
   },
@@ -5423,7 +5372,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Arcanaform"
   },
@@ -5446,7 +5395,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5469,7 +5418,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5492,7 +5441,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage"
   },
@@ -5515,7 +5464,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Alchemist"
   },
@@ -5538,7 +5487,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Wyrmkin"
   },
@@ -5561,7 +5510,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Wyrmkin"
   },
@@ -5584,7 +5533,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Wyrmkin"
   },
@@ -5607,7 +5556,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Wyrmkin"
   },
@@ -5630,7 +5579,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Dragonewt / Princess"
   },
@@ -5653,7 +5602,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Dragonheart"
   },
@@ -5676,7 +5625,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Beast"
   },
@@ -5699,7 +5648,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Beast"
   },
@@ -5722,7 +5671,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Wyrmkin"
   },
@@ -5745,7 +5694,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Dragonheart"
   },
@@ -5768,7 +5717,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Dragonheart"
   },
@@ -5791,7 +5740,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Marine"
   },
@@ -5814,7 +5763,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Vampire"
   },
@@ -5837,7 +5786,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Vampire"
   },
@@ -5860,7 +5809,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Necromancer"
   },
@@ -5883,7 +5832,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Necromancer"
   },
@@ -5906,7 +5855,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Vampire"
   },
@@ -5929,7 +5878,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Vampire"
   },
@@ -5952,7 +5901,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Departed"
   },
@@ -5975,7 +5924,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Departed"
   },
@@ -5998,7 +5947,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Demon"
   },
@@ -6021,7 +5970,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Demon"
   },
@@ -6044,7 +5993,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Departed"
   },
@@ -6067,7 +6016,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Vampire"
   },
@@ -6090,7 +6039,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Zealot / Eidolon"
   },
@@ -6113,7 +6062,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6136,7 +6085,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6159,7 +6108,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6182,7 +6131,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6205,7 +6154,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith / Beast"
   },
@@ -6228,7 +6177,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6251,7 +6200,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6274,7 +6223,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6297,7 +6246,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith"
   },
@@ -6320,7 +6269,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith / Avian"
   },
@@ -6343,7 +6292,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith / Beast"
   },
@@ -9056,9 +9005,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Crystalian"
   },
   "BP02-T02EN": {
@@ -9078,9 +9024,6 @@
     "cost": 1,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Officer"
   },
@@ -9102,9 +9045,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Commander"
   },
   "BP02-T04EN": {
@@ -9124,9 +9064,6 @@
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Chess"
   },
@@ -9148,9 +9085,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Marine"
   },
   "BP02-T06EN": {
@@ -9170,9 +9104,6 @@
     "cost": 2,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Wyrmkin"
   },
@@ -9194,9 +9125,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Armed"
   },
   "BP02-T08EN": {
@@ -9216,9 +9144,6 @@
     "cost": 3,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Faith"
   },
@@ -19728,9 +19653,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Omen / Idolatry"
   },
   "BP05-T02EN": {
@@ -19750,9 +19672,6 @@
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Omen / Idolatry"
   },
@@ -19774,9 +19693,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Puppetry"
   },
   "BP05-T04EN": {
@@ -19797,9 +19713,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Supreme"
   },
   "BP05-T05EN": {
@@ -19819,9 +19732,6 @@
     "cost": 3,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Supreme"
   },
@@ -22534,9 +22444,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Shikigami"
   },
   "BP06-T02EN": {
@@ -22557,9 +22464,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Shikigami"
   },
   "BP06-T03EN": {
@@ -22579,9 +22483,6 @@
     "cost": 2,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Yokai"
   },
@@ -25075,20 +24976,17 @@
     "face": {
       "front": {
         "name": "Cute Earrings",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Cute Earrings",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "Collab"
     ],
     "Trait": ""
   },
@@ -28882,9 +28780,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Machina"
   },
   "BP07-T02EN": {
@@ -28893,20 +28788,17 @@
     "face": {
       "front": {
         "name": "Repair Mode",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Repair Mode",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Machina"
   },
@@ -28927,9 +28819,6 @@
     "cost": 1,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Natura"
   },
@@ -31665,9 +31554,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Puppetry"
   },
   "BP08-T02EN": {
@@ -31688,9 +31574,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "SD+SP+Token"
-    ],
     "Trait": "Puppetry / Cutthroat"
   },
   "BP08-T03EN": {
@@ -31710,9 +31593,6 @@
     "cost": 1,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Marine"
   },
@@ -35011,20 +34891,17 @@
     "face": {
       "front": {
         "name": "Instant Poison",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Instant Poison",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Alchemist / Forbidden"
   },
@@ -35034,20 +34911,17 @@
     "face": {
       "front": {
         "name": "Eternal Potion",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Eternal Potion",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Alchemist / Forbidden"
   },
@@ -35057,20 +34931,17 @@
     "face": {
       "front": {
         "name": "Mysterian Missile",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Mysterian Missile",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Mage / Academic"
   },
@@ -35091,9 +34962,6 @@
     "cost": 3,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "SD+SP+Token"
     ],
     "Trait": "Dragonewt / Draconic Duelist"
   },
@@ -37921,9 +37789,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Machina / Officer"
   },
   "BP10-T02EN": {
@@ -37943,9 +37808,6 @@
     "cost": 5,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Wyrmkin"
   },
@@ -44085,9 +43947,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wasteland / Mount"
   },
   "BP11-T02EN": {
@@ -44107,9 +43966,6 @@
     "cost": 5,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Wasteland / Mount"
   },
@@ -44131,9 +43987,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wasteland / Mount / Beast"
   },
   "BP11-T04EN": {
@@ -44154,9 +44007,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wasteland / Mount"
   },
   "BP11-T05EN": {
@@ -44176,9 +44026,6 @@
     "cost": 1,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Wasteland / Mount"
   },
@@ -44201,7 +44048,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Supreme"
   },
@@ -44224,7 +44071,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Commander"
   },
@@ -44247,7 +44094,7 @@
       "Runecraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Mage / Academic"
   },
@@ -44270,7 +44117,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Marine"
   },
@@ -44293,7 +44140,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Vampire"
   },
@@ -44316,7 +44163,7 @@
       "Havencraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Faith / Princess"
   },
@@ -44339,7 +44186,7 @@
       "Neutral"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Fable"
   },
@@ -46994,20 +46841,17 @@
     "face": {
       "front": {
         "name": "Carbuncle's Sparkle",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Carbuncle's Sparkle",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Fae-Touched / Beast"
   },
@@ -47017,20 +46861,17 @@
     "face": {
       "front": {
         "name": "Twilight Blade",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Twilight Blade",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Commander / Officer"
   },
@@ -47052,9 +46893,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Machina / Supreme"
   },
   "BP12-T04EN": {
@@ -47075,9 +46913,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Machina / Supreme"
   },
   "BP12-T05EN": {
@@ -47097,9 +46932,6 @@
     "cost": 3,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Demon / Gorgon"
   },
@@ -49858,9 +49690,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Golem / Arcanaform / Academic"
   },
   "BP13-T02EN": {
@@ -49869,20 +49698,17 @@
     "face": {
       "front": {
         "name": "Resentful Blaze",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Resentful Blaze",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Mage / Academic / Princess / Cutthroat"
   },
@@ -49892,20 +49718,17 @@
     "face": {
       "front": {
         "name": "Blood Arts",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Blood Arts",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Wasteland / Vampire"
   },
@@ -49915,20 +49738,17 @@
     "face": {
       "front": {
         "name": "Darkest Desire",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Darkest Desire",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Departed / Cutthroat"
   },
@@ -49949,9 +49769,6 @@
     "cost": 5,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Supreme"
   },
@@ -54021,9 +53838,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Festive"
   },
   "BP14-T02EN": {
@@ -54032,20 +53846,17 @@
     "face": {
       "front": {
         "name": "Glittering Gold",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Glittering Gold",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Festive / Thief / Loot"
   },
@@ -54067,9 +53878,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Commander / Celestial"
   },
   "BP14-T04EN": {
@@ -54078,20 +53886,17 @@
     "face": {
       "front": {
         "name": "Tidal Tyranny",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Tidal Tyranny",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Festive / Dragonewt"
   },
@@ -54101,20 +53906,17 @@
     "face": {
       "front": {
         "name": "Wolfling's Struggle",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Wolfling's Struggle",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Festive / Demon / Beast"
   },
@@ -54136,9 +53938,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Festive / Zealot / Beast"
   },
   "BP14-T07EN": {
@@ -54147,20 +53946,17 @@
     "face": {
       "front": {
         "name": "Mercurial Might",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "Mercurial Might",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Faith / Supreme"
   },
@@ -57068,20 +56864,17 @@
     "face": {
       "front": {
         "name": "Annihilating Onslaught",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR19.jpg",
         "isHorizontal": false
       }
     },
     "name": "Annihilating Onslaught",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Hunter"
   },
@@ -57091,20 +56884,17 @@
     "face": {
       "front": {
         "name": "Remnant of Hollowness",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR20.jpg",
         "isHorizontal": false
       }
     },
     "name": "Remnant of Hollowness",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Thief / Loot"
   },
@@ -57114,20 +56904,17 @@
     "face": {
       "front": {
         "name": "Ersatz Elimination",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR21.jpg",
         "isHorizontal": false
       }
     },
     "name": "Ersatz Elimination",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Mage"
   },
@@ -57137,20 +56924,17 @@
     "face": {
       "front": {
         "name": "Melodious Monody",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR22.jpg",
         "isHorizontal": false
       }
     },
     "name": "Melodious Monody",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Idolatry"
   },
@@ -57160,20 +56944,17 @@
     "face": {
       "front": {
         "name": "Fangs of Ardent Destruction",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR23.jpg",
         "isHorizontal": false
       }
     },
     "name": "Fangs of Ardent Destruction",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Wyrmkin"
   },
@@ -57183,20 +56964,17 @@
     "face": {
       "front": {
         "name": "Wings of Desire",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR24.jpg",
         "isHorizontal": false
       }
     },
     "name": "Wings of Desire",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Demon"
   },
@@ -57206,20 +56984,17 @@
     "face": {
       "front": {
         "name": "Scream Diffusion",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR25.jpg",
         "isHorizontal": false
       }
     },
     "name": "Scream Diffusion",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Necromancer"
   },
@@ -57229,20 +57004,17 @@
     "face": {
       "front": {
         "name": "Torrent of Despair",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR26.jpg",
         "isHorizontal": false
       }
     },
     "name": "Torrent of Despair",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Zealotry"
   },
@@ -57252,20 +57024,17 @@
     "face": {
       "front": {
         "name": "Great Testimony",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR27.jpg",
         "isHorizontal": false
       }
     },
     "name": "Great Testimony",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen"
   },
@@ -57275,20 +57044,17 @@
     "face": {
       "front": {
         "name": "Ravenous Sweetness",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR28.jpg",
         "isHorizontal": false
       }
     },
     "name": "Ravenous Sweetness",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen"
   },
@@ -57298,20 +57064,17 @@
     "face": {
       "front": {
         "name": "Gilded Blade",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 3/BP15-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gilded Blade",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Loot"
   },
@@ -57321,20 +57084,17 @@
     "face": {
       "front": {
         "name": "Gilded Goblet",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gilded Goblet",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Loot"
   },
@@ -57344,20 +57104,17 @@
     "face": {
       "front": {
         "name": "Gilded Boots",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gilded Boots",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Loot"
   },
@@ -57378,9 +57135,6 @@
     "cost": 2,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Omen / Necromancer"
   },
@@ -58231,7 +57985,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer / Beast / Levin"
   },
@@ -59128,7 +58882,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "SD+SP+Token"
+      "SDs+SP01"
     ],
     "Trait": "Officer / Beast / Levin"
   },
@@ -60231,9 +59985,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Golem"
   },
   "BP16-T02EN": {
@@ -60242,20 +59993,17 @@
     "face": {
       "front": {
         "name": "Looking Smart!",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Looking Smart!",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage / Academic"
   },
@@ -60277,9 +60025,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Wyrmkin"
   },
   "BP16-T04EN": {
@@ -60299,9 +60044,6 @@
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Demon"
   },
@@ -60323,9 +60065,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Demon"
   },
   "BP16-T06EN": {
@@ -60345,9 +60084,6 @@
     "cost": 1,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Archfiend"
   },
@@ -60369,9 +60105,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Archfiend"
   },
   "BP16-T08EN": {
@@ -60392,9 +60125,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Archfiend"
   },
   "BP16-T09EN": {
@@ -60403,20 +60133,17 @@
     "face": {
       "front": {
         "name": "Astaroth's Reckoning",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 10,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T09.jpg",
         "isHorizontal": false
       }
     },
     "name": "Astaroth's Reckoning",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 10,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Archfiend"
   },
@@ -63175,9 +62902,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Puppetry"
   },
   "BP17-T02EN": {
@@ -63186,20 +62910,17 @@
     "face": {
       "front": {
         "name": "Gale Arrow",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gale Arrow",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Elf"
   },
@@ -63209,20 +62930,17 @@
     "face": {
       "front": {
         "name": "Storm Arrow",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Storm Arrow",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Elf"
   },
@@ -63232,20 +62950,17 @@
     "face": {
       "front": {
         "name": "Quadra Magic",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Quadra Magic",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage"
   },
@@ -63255,20 +62970,17 @@
     "face": {
       "front": {
         "name": "Elements of Creation",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Elements of Creation",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage"
   },
@@ -63278,20 +62990,17 @@
     "face": {
       "front": {
         "name": "Curse of the Black Dragon",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Curse of the Black Dragon",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Wyrmkin / Draconic Duelist / Cutthroat"
   },
@@ -63301,20 +63010,17 @@
     "face": {
       "front": {
         "name": "A Horrible Night",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "A Horrible Night",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Vampire"
   },
@@ -63336,9 +63042,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Necromancer / Puppetry"
   },
   "BP17-T09EN": {
@@ -63359,9 +63062,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Faith"
   },
   "BP17-T10EN": {
@@ -63381,9 +63081,6 @@
     "cost": 2,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Faith"
   },
@@ -66291,20 +65988,17 @@
     "face": {
       "front": {
         "name": "Sowing the Seeds of Salvation",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Sowing the Seeds of Salvation",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Verdant"
   },
@@ -66314,20 +66008,17 @@
     "face": {
       "front": {
         "name": "Unlimited Search",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Unlimited Search",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Detective"
   },
@@ -66337,20 +66028,17 @@
     "face": {
       "front": {
         "name": "Jewel Dress Up",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Jewel Dress Up",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Alchemist / Merchant"
   },
@@ -66360,20 +66048,17 @@
     "face": {
       "front": {
         "name": "Ginger's Curse",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Ginger's Curse",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage"
   },
@@ -66383,20 +66068,17 @@
     "face": {
       "front": {
         "name": "Youthful Blow",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Youthful Blow",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
   },
@@ -66418,9 +66100,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Wyrmkin"
   },
   "BP18-T07EN": {
@@ -66429,20 +66108,17 @@
     "face": {
       "front": {
         "name": "Rest Before Nightfall",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "Rest Before Nightfall",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Demon"
   },
@@ -66452,20 +66128,17 @@
     "face": {
       "front": {
         "name": "Conviction of Good Deeds",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T08.jpg",
         "isHorizontal": false
       }
     },
     "name": "Conviction of Good Deeds",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Faith"
   },
@@ -66487,9 +66160,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Zealot / Eidolon"
   },
   "BP18-T10EN": {
@@ -66509,9 +66179,6 @@
     "cost": 6,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / District Office"
   },
@@ -68200,19 +67867,18 @@
     "face": {
       "front": {
         "name": "Thorn Burst",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Thorn Burst",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Forestcraft"
     ],
-    "Set": [],
     "Trait": "Verdant"
   },
   "BP01-T02EN_TOKEN": {
@@ -68233,7 +67899,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [],
     "Trait": "Pixie"
   },
   "BP01-T03EN_TOKEN": {
@@ -68254,7 +67919,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [],
     "Trait": "Pixie"
   },
   "BP01-T04EN_TOKEN": {
@@ -68275,7 +67939,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [],
     "Trait": "Officer"
   },
   "BP01-T05EN_TOKEN": {
@@ -68296,7 +67959,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [],
     "Trait": "Officer"
   },
   "BP01-T06EN_TOKEN": {
@@ -68317,7 +67979,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [],
     "Trait": "Thief"
   },
   "BP01-T07EN_TOKEN": {
@@ -68338,7 +67999,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [],
     "Trait": "Officer"
   },
   "BP01-T08EN_TOKEN": {
@@ -68359,7 +68019,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Golem"
   },
   "BP01-T09EN_TOKEN": {
@@ -68380,7 +68039,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Golem"
   },
   "BP01-T10EN_TOKEN": {
@@ -68401,7 +68059,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Earth Sigil"
   },
   "BP01-T11EN_TOKEN": {
@@ -68422,7 +68079,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [],
     "Trait": "Wyrmkin"
   },
   "BP01-T12EN_TOKEN": {
@@ -68431,19 +68087,18 @@
     "face": {
       "front": {
         "name": "Mimi",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png",
         "isHorizontal": false
       }
     },
     "name": "Mimi",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Abysscraft"
     ],
-    "Set": [],
     "Trait": "Demon"
   },
   "BP01-T13EN_TOKEN": {
@@ -68452,19 +68107,18 @@
     "face": {
       "front": {
         "name": "Coco",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png",
         "isHorizontal": false
       }
     },
     "name": "Coco",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Abysscraft"
     ],
-    "Set": [],
     "Trait": "Demon"
   },
   "BP01-T14EN_TOKEN": {
@@ -68485,7 +68139,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [],
     "Trait": "Departed"
   },
   "BP01-T15EN_TOKEN": {
@@ -68506,7 +68159,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [],
     "Trait": "Vampire"
   },
   "BP01-T16EN_TOKEN": {
@@ -68527,7 +68179,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [],
     "Trait": "Avian"
   },
   "BP01-T17EN_TOKEN": {
@@ -68548,7 +68199,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [],
     "Trait": "Beast"
   },
   "BP02-T01EN_TOKEN": {
@@ -68569,7 +68219,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [],
     "Trait": "Crystalian"
   },
   "BP02-T02EN_TOKEN": {
@@ -68590,7 +68239,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [],
     "Trait": "Officer"
   },
   "BP02-T03EN_TOKEN": {
@@ -68611,7 +68259,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [],
     "Trait": "Commander"
   },
   "BP02-T04EN_TOKEN": {
@@ -68632,7 +68279,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Chess"
   },
   "BP02-T05EN_TOKEN": {
@@ -68653,7 +68299,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [],
     "Trait": "Marine"
   },
   "BP02-T06EN_TOKEN": {
@@ -68674,7 +68319,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [],
     "Trait": "Wyrmkin"
   },
   "BP02-T07EN_TOKEN": {
@@ -68695,7 +68339,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [],
     "Trait": "Armed"
   },
   "BP02-T08EN_TOKEN": {
@@ -68716,7 +68359,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [],
     "Trait": "Faith"
   },
   "BP05-T01EN_TOKEN": {
@@ -68737,7 +68379,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Omen / Idolatry"
   },
   "BP05-T02EN_TOKEN": {
@@ -68758,7 +68399,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Omen / Idolatry"
   },
   "BP05-T03EN_TOKEN": {
@@ -68779,7 +68419,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": "Puppetry"
   },
   "BP05-T04EN_TOKEN": {
@@ -68800,7 +68439,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": "Supreme"
   },
   "BP05-T05EN_TOKEN": {
@@ -68821,7 +68459,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": "Supreme"
   },
   "BP06-T01EN_TOKEN": {
@@ -68842,7 +68479,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Shikigami"
   },
   "BP06-T02EN_TOKEN": {
@@ -68863,7 +68499,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Shikigami"
   },
   "BP06-T03EN_TOKEN": {
@@ -68884,7 +68519,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [],
     "Trait": "Yokai"
   },
   "CP02-T01EN_TOKEN": {
@@ -68893,19 +68527,18 @@
     "face": {
       "front": {
         "name": "Cute Earrings",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Cute Earrings",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": ""
   },
   "BP07-T01EN_TOKEN": {
@@ -68926,7 +68559,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": "Machina"
   },
   "BP07-T02EN_TOKEN": {
@@ -68935,19 +68567,18 @@
     "face": {
       "front": {
         "name": "Repair Mode",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Repair Mode",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": "Machina"
   },
   "BP07-T03EN_TOKEN": {
@@ -68968,7 +68599,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [],
     "Trait": "Natura"
   },
   "BP08-T01EN_TOKEN": {
@@ -68989,7 +68619,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [],
     "Trait": "Puppetry"
   },
   "BP08-T02EN_TOKEN": {
@@ -69010,7 +68639,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [],
     "Trait": "Puppetry / Cutthroat"
   },
   "BP08-T03EN_TOKEN": {
@@ -69031,7 +68659,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [],
     "Trait": "Marine"
   },
   "BP09-T01EN_TOKEN": {
@@ -69040,19 +68667,18 @@
     "face": {
       "front": {
         "name": "Instant Poison",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Instant Poison",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Alchemist / Forbidden"
   },
   "BP09-T02EN_TOKEN": {
@@ -69061,19 +68687,18 @@
     "face": {
       "front": {
         "name": "Eternal Potion",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Eternal Potion",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Alchemist / Forbidden"
   },
   "BP09-T03EN_TOKEN": {
@@ -69082,19 +68707,18 @@
     "face": {
       "front": {
         "name": "Mysterian Missile",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Mysterian Missile",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
     ],
-    "Set": [],
     "Trait": "Mage / Academic"
   },
   "BP09-T04EN_TOKEN": {
@@ -69115,7 +68739,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [],
     "Trait": "Dragonewt / Draconic Duelist"
   },
   "BP10-T01EN_TOKEN": {
@@ -69135,9 +68758,6 @@
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Machina / Officer"
   },
@@ -69159,9 +68779,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wyrmkin"
   },
   "BP11-T01EN_TOKEN": {
@@ -69181,9 +68798,6 @@
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Wasteland / Mount"
   },
@@ -69205,9 +68819,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wasteland / Mount"
   },
   "BP11-T03EN_TOKEN": {
@@ -69227,9 +68838,6 @@
     "cost": 1,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Wasteland / Mount / Beast"
   },
@@ -69251,9 +68859,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wasteland / Mount"
   },
   "BP11-T05EN_TOKEN": {
@@ -69274,9 +68879,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Wasteland / Mount"
   },
   "BP12-T01EN_TOKEN": {
@@ -69285,20 +68887,17 @@
     "face": {
       "front": {
         "name": "Carbuncle's Sparkle",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Carbuncle's Sparkle",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Fae-Touched / Beast"
   },
@@ -69308,20 +68907,17 @@
     "face": {
       "front": {
         "name": "Twilight Blade",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Twilight Blade",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Commander / Officer"
   },
@@ -69343,9 +68939,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Machina / Supreme"
   },
   "BP12-T04EN_TOKEN": {
@@ -69365,9 +68958,6 @@
     "cost": 3,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP10-12"
     ],
     "Trait": "Machina / Supreme"
   },
@@ -69389,9 +68979,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP10-12"
-    ],
     "Trait": "Demon / Gorgon"
   },
   "BP13-T01EN_TOKEN": {
@@ -69412,9 +68999,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Golem / Arcanaform / Academic"
   },
   "BP13-T02EN_TOKEN": {
@@ -69423,20 +69007,17 @@
     "face": {
       "front": {
         "name": "Resentful Blaze",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Resentful Blaze",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Mage / Academic / Princess / Cutthroat"
   },
@@ -69446,20 +69027,17 @@
     "face": {
       "front": {
         "name": "Blood Arts",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Blood Arts",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Wasteland / Vampire"
   },
@@ -69469,20 +69047,17 @@
     "face": {
       "front": {
         "name": "Darkest Desire",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Darkest Desire",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Departed / Cutthroat"
   },
@@ -69504,9 +69079,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Supreme"
   },
   "BP14-T01EN_TOKEN": {
@@ -69527,9 +69099,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Festive"
   },
   "BP14-T02EN_TOKEN": {
@@ -69538,20 +69107,17 @@
     "face": {
       "front": {
         "name": "Glittering Gold",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Glittering Gold",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Festive / Thief / Loot"
   },
@@ -69573,9 +69139,6 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Commander / Celestial"
   },
   "BP14-T04EN_TOKEN": {
@@ -69584,20 +69147,17 @@
     "face": {
       "front": {
         "name": "Tidal Tyranny",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Tidal Tyranny",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Festive / Dragonewt"
   },
@@ -69607,20 +69167,17 @@
     "face": {
       "front": {
         "name": "Wolfling's Struggle",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Wolfling's Struggle",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Festive / Demon / Beast"
   },
@@ -69642,9 +69199,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Festive / Zealot / Beast"
   },
   "BP14-T07EN_TOKEN": {
@@ -69653,20 +69207,17 @@
     "face": {
       "front": {
         "name": "Mercurial Might",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "Mercurial Might",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Faith / Supreme"
   },
@@ -69676,20 +69227,17 @@
     "face": {
       "front": {
         "name": "Gilded Blade",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 3/BP15-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gilded Blade",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Loot"
   },
@@ -69699,20 +69247,17 @@
     "face": {
       "front": {
         "name": "Gilded Goblet",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gilded Goblet",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Loot"
   },
@@ -69722,20 +69267,17 @@
     "face": {
       "front": {
         "name": "Gilded Boots",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gilded Boots",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP13-15"
     ],
     "Trait": "Loot"
   },
@@ -69757,9 +69299,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP13-15"
-    ],
     "Trait": "Omen / Necromancer"
   },
   "BP16-T01EN_TOKEN": {
@@ -69780,9 +69319,6 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Golem"
   },
   "BP16-T02EN_TOKEN": {
@@ -69791,20 +69327,17 @@
     "face": {
       "front": {
         "name": "Looking Smart!",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Looking Smart!",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage / Academic"
   },
@@ -69826,9 +69359,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Wyrmkin"
   },
   "BP16-T04EN_TOKEN": {
@@ -69848,9 +69378,6 @@
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Demon"
   },
@@ -69872,9 +69399,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Demon"
   },
   "BP16-T06EN_TOKEN": {
@@ -69894,9 +69418,6 @@
     "cost": 1,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Archfiend"
   },
@@ -69918,9 +69439,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Archfiend"
   },
   "BP16-T08EN_TOKEN": {
@@ -69941,9 +69459,6 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Archfiend"
   },
   "BP16-T09EN_TOKEN": {
@@ -69952,20 +69467,17 @@
     "face": {
       "front": {
         "name": "Astaroth's Reckoning",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 10,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T09.jpg",
         "isHorizontal": false
       }
     },
     "name": "Astaroth's Reckoning",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 10,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Archfiend"
   },
@@ -69987,9 +69499,6 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Puppetry"
   },
   "BP17-T02EN_TOKEN": {
@@ -69998,20 +69507,17 @@
     "face": {
       "front": {
         "name": "Gale Arrow",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gale Arrow",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Elf"
   },
@@ -70021,20 +69527,17 @@
     "face": {
       "front": {
         "name": "Storm Arrow",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Storm Arrow",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Elf"
   },
@@ -70044,20 +69547,17 @@
     "face": {
       "front": {
         "name": "Quadra Magic",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Quadra Magic",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage"
   },
@@ -70067,20 +69567,17 @@
     "face": {
       "front": {
         "name": "Elements of Creation",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Elements of Creation",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage"
   },
@@ -70090,20 +69587,17 @@
     "face": {
       "front": {
         "name": "Curse of the Black Dragon",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Curse of the Black Dragon",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Wyrmkin / Draconic Duelist / Cutthroat"
   },
@@ -70113,20 +69607,17 @@
     "face": {
       "front": {
         "name": "A Horrible Night",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "A Horrible Night",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Vampire"
   },
@@ -70148,9 +69639,6 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Necromancer / Puppetry"
   },
   "BP17-T09EN_TOKEN": {
@@ -70170,9 +69658,6 @@
     "cost": 2,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Faith"
   },
@@ -70194,9 +69679,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Faith"
   },
   "BP18-T01EN_TOKEN": {
@@ -70205,20 +69687,17 @@
     "face": {
       "front": {
         "name": "Sowing the Seeds of Salvation",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Sowing the Seeds of Salvation",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Verdant"
   },
@@ -70228,20 +69707,17 @@
     "face": {
       "front": {
         "name": "Unlimited Search",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T02.jpg",
         "isHorizontal": false
       }
     },
     "name": "Unlimited Search",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Detective"
   },
@@ -70251,20 +69727,17 @@
     "face": {
       "front": {
         "name": "Jewel Dress Up",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Jewel Dress Up",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Alchemist / Merchant"
   },
@@ -70274,20 +69747,17 @@
     "face": {
       "front": {
         "name": "Ginger's Curse",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Ginger's Curse",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Mage"
   },
@@ -70297,20 +69767,17 @@
     "face": {
       "front": {
         "name": "Youthful Blow",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Youthful Blow",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
   },
@@ -70332,9 +69799,6 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Wyrmkin"
   },
   "BP18-T07EN_TOKEN": {
@@ -70343,20 +69807,17 @@
     "face": {
       "front": {
         "name": "Rest Before Nightfall",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "Rest Before Nightfall",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Demon"
   },
@@ -70366,20 +69827,17 @@
     "face": {
       "front": {
         "name": "Conviction of Good Deeds",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T08.jpg",
         "isHorizontal": false
       }
     },
     "name": "Conviction of Good Deeds",
-    "type": "Spell / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / Faith"
   },
@@ -70401,9 +69859,6 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "BP16-18"
-    ],
     "Trait": "Zealot / Eidolon"
   },
   "BP18-T10EN_TOKEN": {
@@ -70423,9 +69878,6 @@
     "cost": 6,
     "Class": [
       "Neutral"
-    ],
-    "Set": [
-      "BP16-18"
     ],
     "Trait": "Togh Keyoh / District Office"
   }
