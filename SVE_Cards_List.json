@@ -4165,14 +4165,14 @@
     "face": {
       "front": {
         "name": "Fairy Wisp",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Fairy Wisp",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Forestcraft"
@@ -4185,14 +4185,14 @@
     "face": {
       "front": {
         "name": "Fairy",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Fairy",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
@@ -4205,14 +4205,14 @@
     "face": {
       "front": {
         "name": "Otohime's Bodyguard",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Otohime's Bodyguard",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
@@ -4225,14 +4225,14 @@
     "face": {
       "front": {
         "name": "Knight",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Knight",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
@@ -4245,14 +4245,14 @@
     "face": {
       "front": {
         "name": "Viking",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T06EN.png",
         "isHorizontal": false
       }
     },
     "name": "Viking",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Swordcraft"
@@ -4265,14 +4265,14 @@
     "face": {
       "front": {
         "name": "Steelclad Knight",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T07EN.png",
         "isHorizontal": false
       }
     },
     "name": "Steelclad Knight",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -4285,14 +4285,14 @@
     "face": {
       "front": {
         "name": "Strikeform Golem",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T08EN.png",
         "isHorizontal": false
       }
     },
     "name": "Strikeform Golem",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -4305,14 +4305,14 @@
     "face": {
       "front": {
         "name": "Guardform Golem",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T09EN.png",
         "isHorizontal": false
       }
     },
     "name": "Guardform Golem",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -4325,14 +4325,14 @@
     "face": {
       "front": {
         "name": "Magic Sediment",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png",
         "isHorizontal": false
       }
     },
     "name": "Magic Sediment",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
@@ -4345,14 +4345,14 @@
     "face": {
       "front": {
         "name": "Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T11EN.png",
         "isHorizontal": false
       }
     },
     "name": "Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Dragoncraft"
@@ -4405,14 +4405,14 @@
     "face": {
       "front": {
         "name": "Ghost",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T14EN.png",
         "isHorizontal": false
       }
     },
     "name": "Ghost",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -4425,14 +4425,14 @@
     "face": {
       "front": {
         "name": "Forest Bat",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png",
         "isHorizontal": false
       }
     },
     "name": "Forest Bat",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -4445,14 +4445,14 @@
     "face": {
       "front": {
         "name": "Holy Falcon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T16EN.png",
         "isHorizontal": false
       }
     },
     "name": "Holy Falcon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Havencraft"
@@ -4465,14 +4465,14 @@
     "face": {
       "front": {
         "name": "Holy Tiger",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T17EN.png",
         "isHorizontal": false
       }
     },
     "name": "Holy Tiger",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Havencraft"
@@ -8993,14 +8993,14 @@
     "face": {
       "front": {
         "name": "Crystalia Eve",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Crystalia Eve",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Forestcraft"
@@ -9013,14 +9013,14 @@
     "face": {
       "front": {
         "name": "Shield Guardian",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Shield Guardian",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
@@ -9033,14 +9033,14 @@
     "face": {
       "front": {
         "name": "Leonidas's Resolve",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 8,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Leonidas's Resolve",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 8,
     "Class": [
       "Swordcraft"
@@ -9053,14 +9053,14 @@
     "face": {
       "front": {
         "name": "Magical Pawn",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Magical Pawn",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
@@ -9073,14 +9073,14 @@
     "face": {
       "front": {
         "name": "Megalorca",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Megalorca",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
@@ -9093,14 +9093,14 @@
     "face": {
       "front": {
         "name": "Hellflame Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T06EN.png",
         "isHorizontal": false
       }
     },
     "name": "Hellflame Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
@@ -9113,14 +9113,14 @@
     "face": {
       "front": {
         "name": "Draconic Weapon",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T07EN.png",
         "isHorizontal": false
       }
     },
     "name": "Draconic Weapon",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
@@ -9133,14 +9133,14 @@
     "face": {
       "front": {
         "name": "Ephemeral Moon",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T08EN.png",
         "isHorizontal": false
       }
     },
     "name": "Ephemeral Moon",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Havencraft"
@@ -19641,14 +19641,14 @@
     "face": {
       "front": {
         "name": "Destruction in White",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Destruction in White",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
@@ -19661,14 +19661,14 @@
     "face": {
       "front": {
         "name": "Destruction in Black",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Destruction in Black",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -19681,14 +19681,14 @@
     "face": {
       "front": {
         "name": "Puppet",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Puppet",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -19701,14 +19701,14 @@
     "face": {
       "front": {
         "name": "Ancient Artifact",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Ancient Artifact",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -19721,14 +19721,14 @@
     "face": {
       "front": {
         "name": "Mystic Artifact",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Mystic Artifact",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Neutral"
@@ -22432,14 +22432,14 @@
     "face": {
       "front": {
         "name": "Celestial Shikigami",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Celestial Shikigami",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Runecraft"
@@ -22452,14 +22452,14 @@
     "face": {
       "front": {
         "name": "Paper Shikigami",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Paper Shikigami",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -22472,14 +22472,14 @@
     "face": {
       "front": {
         "name": "One-Tailed Fox",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "One-Tailed Fox",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Abysscraft"
@@ -28768,14 +28768,14 @@
     "face": {
       "front": {
         "name": "Assembly Droid",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Assembly Droid",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -28808,14 +28808,14 @@
     "face": {
       "front": {
         "name": "Naterran Great Tree",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Naterran Great Tree",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -31542,14 +31542,14 @@
     "face": {
       "front": {
         "name": "Lloyd",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Lloyd",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Forestcraft"
@@ -31562,14 +31562,14 @@
     "face": {
       "front": {
         "name": "Victoria",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Victoria",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Forestcraft"
@@ -31582,14 +31582,14 @@
     "face": {
       "front": {
         "name": "Otohime's Vanguard",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Otohime's Vanguard",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
@@ -34951,14 +34951,14 @@
     "face": {
       "front": {
         "name": "Aftershock",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Aftershock",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Dragoncraft"
@@ -37777,14 +37777,14 @@
     "face": {
       "front": {
         "name": "Exterminus Weapon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Exterminus Weapon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -37797,14 +37797,14 @@
     "face": {
       "front": {
         "name": "Devoted Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Devoted Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Dragoncraft"
@@ -43935,14 +43935,14 @@
     "face": {
       "front": {
         "name": "Val, Trusty Getaway Car",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Val, Trusty Getaway Car",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -43955,14 +43955,14 @@
     "face": {
       "front": {
         "name": "Magitrain",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Magitrain",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Abysscraft"
@@ -43975,14 +43975,14 @@
     "face": {
       "front": {
         "name": "Dutiful Steed",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Dutiful Steed",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -43995,14 +43995,14 @@
     "face": {
       "front": {
         "name": "Bullet Bike",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Bullet Bike",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -44015,14 +44015,14 @@
     "face": {
       "front": {
         "name": "Arcane Personnel Carrier",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Arcane Personnel Carrier",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -46881,14 +46881,14 @@
     "face": {
       "front": {
         "name": "Armored Tentacle",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Armored Tentacle",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Runecraft"
@@ -46901,14 +46901,14 @@
     "face": {
       "front": {
         "name": "Assault Tentacle",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Assault Tentacle",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Runecraft"
@@ -46921,14 +46921,14 @@
     "face": {
       "front": {
         "name": "Medusiana",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Medusiana",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Abysscraft"
@@ -49678,14 +49678,14 @@
     "face": {
       "front": {
         "name": "Anne's Summoning",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Anne's Summoning",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -49758,14 +49758,14 @@
     "face": {
       "front": {
         "name": "Keenedge Artifact",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Keenedge Artifact",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Neutral"
@@ -53826,14 +53826,14 @@
     "face": {
       "front": {
         "name": "Sootspawn",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Sootspawn",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -53866,14 +53866,14 @@
     "face": {
       "front": {
         "name": "Flame General's Regalia",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Flame General's Regalia",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Swordcraft"
@@ -53926,14 +53926,14 @@
     "face": {
       "front": {
         "name": "Fox of Invitation",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Fox of Invitation",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
@@ -57124,14 +57124,14 @@
     "face": {
       "front": {
         "name": "Rulenye, Screaming Echo",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Rulenye, Screaming Echo",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Abysscraft"
@@ -59973,14 +59973,14 @@
     "face": {
       "front": {
         "name": "Guardian Golem",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Guardian Golem",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Runecraft"
@@ -60013,14 +60013,14 @@
     "face": {
       "front": {
         "name": "Fire Drake Whelp",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Fire Drake Whelp",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
@@ -60033,14 +60033,14 @@
     "face": {
       "front": {
         "name": "Mimi, Right Paw Hellhound",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Mimi, Right Paw Hellhound",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -60053,14 +60053,14 @@
     "face": {
       "front": {
         "name": "Coco, Left Paw Hellhound",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Coco, Left Paw Hellhound",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -60073,14 +60073,14 @@
     "face": {
       "front": {
         "name": "Silent Rider",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Silent Rider",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -60093,14 +60093,14 @@
     "face": {
       "front": {
         "name": "Servant of Cocytus",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "Servant of Cocytus",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -60113,14 +60113,14 @@
     "face": {
       "front": {
         "name": "Demon of Purgatory",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T08.jpg",
         "isHorizontal": false
       }
     },
     "name": "Demon of Purgatory",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -62890,14 +62890,14 @@
     "face": {
       "front": {
         "name": "Lococo's Teddy Bear",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Lococo's Teddy Bear",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Forestcraft"
@@ -63030,14 +63030,14 @@
     "face": {
       "front": {
         "name": "Luna's Doll",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T08.jpg",
         "isHorizontal": false
       }
     },
     "name": "Luna's Doll",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -63050,14 +63050,14 @@
     "face": {
       "front": {
         "name": "Eschamali Adviser",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T09.jpg",
         "isHorizontal": false
       }
     },
     "name": "Eschamali Adviser",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Havencraft"
@@ -63070,14 +63070,14 @@
     "face": {
       "front": {
         "name": "Eschamali Constable",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T10.jpg",
         "isHorizontal": false
       }
     },
     "name": "Eschamali Constable",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Havencraft"
@@ -66088,14 +66088,14 @@
     "face": {
       "front": {
         "name": "Adelle, Jealous Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Adelle, Jealous Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Dragoncraft"
@@ -66148,14 +66148,14 @@
     "face": {
       "front": {
         "name": "Totem of Madness",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T09.jpg",
         "isHorizontal": false
       }
     },
     "name": "Totem of Madness",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Havencraft"
@@ -66168,14 +66168,14 @@
     "face": {
       "front": {
         "name": "Bansai Suzuki, Clone Technique",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 6,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T10.jpg",
         "isHorizontal": false
       }
     },
     "name": "Bansai Suzuki, Clone Technique",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 6,
     "Class": [
       "Neutral"
@@ -67887,14 +67887,14 @@
     "face": {
       "front": {
         "name": "Fairy Wisp",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Fairy Wisp",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Forestcraft"
@@ -67907,14 +67907,14 @@
     "face": {
       "front": {
         "name": "Fairy",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Fairy",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
@@ -67927,14 +67927,14 @@
     "face": {
       "front": {
         "name": "Otohime's Bodyguard",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Otohime's Bodyguard",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
@@ -67947,14 +67947,14 @@
     "face": {
       "front": {
         "name": "Knight",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Knight",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
@@ -67967,14 +67967,14 @@
     "face": {
       "front": {
         "name": "Viking",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T06EN.png",
         "isHorizontal": false
       }
     },
     "name": "Viking",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Swordcraft"
@@ -67987,14 +67987,14 @@
     "face": {
       "front": {
         "name": "Steelclad Knight",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T07EN.png",
         "isHorizontal": false
       }
     },
     "name": "Steelclad Knight",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -68007,14 +68007,14 @@
     "face": {
       "front": {
         "name": "Strikeform Golem",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T08EN.png",
         "isHorizontal": false
       }
     },
     "name": "Strikeform Golem",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -68027,14 +68027,14 @@
     "face": {
       "front": {
         "name": "Guardform Golem",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T09EN.png",
         "isHorizontal": false
       }
     },
     "name": "Guardform Golem",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -68047,14 +68047,14 @@
     "face": {
       "front": {
         "name": "Magic Sediment",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png",
         "isHorizontal": false
       }
     },
     "name": "Magic Sediment",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
@@ -68067,14 +68067,14 @@
     "face": {
       "front": {
         "name": "Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T11EN.png",
         "isHorizontal": false
       }
     },
     "name": "Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Dragoncraft"
@@ -68127,14 +68127,14 @@
     "face": {
       "front": {
         "name": "Ghost",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T14EN.png",
         "isHorizontal": false
       }
     },
     "name": "Ghost",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -68147,14 +68147,14 @@
     "face": {
       "front": {
         "name": "Forest Bat",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png",
         "isHorizontal": false
       }
     },
     "name": "Forest Bat",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -68167,14 +68167,14 @@
     "face": {
       "front": {
         "name": "Holy Falcon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T16EN.png",
         "isHorizontal": false
       }
     },
     "name": "Holy Falcon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Havencraft"
@@ -68187,14 +68187,14 @@
     "face": {
       "front": {
         "name": "Holy Tiger",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T17EN.png",
         "isHorizontal": false
       }
     },
     "name": "Holy Tiger",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Havencraft"
@@ -68207,14 +68207,14 @@
     "face": {
       "front": {
         "name": "Crystalia Eve",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Crystalia Eve",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Forestcraft"
@@ -68227,14 +68227,14 @@
     "face": {
       "front": {
         "name": "Shield Guardian",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Shield Guardian",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
@@ -68247,14 +68247,14 @@
     "face": {
       "front": {
         "name": "Leonidas's Resolve",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 8,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Leonidas's Resolve",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 8,
     "Class": [
       "Swordcraft"
@@ -68267,14 +68267,14 @@
     "face": {
       "front": {
         "name": "Magical Pawn",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Magical Pawn",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
@@ -68287,14 +68287,14 @@
     "face": {
       "front": {
         "name": "Megalorca",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Megalorca",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
@@ -68307,14 +68307,14 @@
     "face": {
       "front": {
         "name": "Hellflame Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T06EN.png",
         "isHorizontal": false
       }
     },
     "name": "Hellflame Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
@@ -68327,14 +68327,14 @@
     "face": {
       "front": {
         "name": "Draconic Weapon",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T07EN.png",
         "isHorizontal": false
       }
     },
     "name": "Draconic Weapon",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
@@ -68347,14 +68347,14 @@
     "face": {
       "front": {
         "name": "Ephemeral Moon",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T08EN.png",
         "isHorizontal": false
       }
     },
     "name": "Ephemeral Moon",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Havencraft"
@@ -68367,14 +68367,14 @@
     "face": {
       "front": {
         "name": "Destruction in White",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Destruction in White",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
@@ -68387,14 +68387,14 @@
     "face": {
       "front": {
         "name": "Destruction in Black",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Destruction in Black",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -68407,14 +68407,14 @@
     "face": {
       "front": {
         "name": "Puppet",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Puppet",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68427,14 +68427,14 @@
     "face": {
       "front": {
         "name": "Ancient Artifact",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Ancient Artifact",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68447,14 +68447,14 @@
     "face": {
       "front": {
         "name": "Mystic Artifact",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Mystic Artifact",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Neutral"
@@ -68467,14 +68467,14 @@
     "face": {
       "front": {
         "name": "Celestial Shikigami",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Celestial Shikigami",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Runecraft"
@@ -68487,14 +68487,14 @@
     "face": {
       "front": {
         "name": "Paper Shikigami",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Paper Shikigami",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -68507,14 +68507,14 @@
     "face": {
       "front": {
         "name": "One-Tailed Fox",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "One-Tailed Fox",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Abysscraft"
@@ -68547,14 +68547,14 @@
     "face": {
       "front": {
         "name": "Assembly Droid",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Assembly Droid",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68587,14 +68587,14 @@
     "face": {
       "front": {
         "name": "Naterran Great Tree",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Naterran Great Tree",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68607,14 +68607,14 @@
     "face": {
       "front": {
         "name": "Lloyd",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Lloyd",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Forestcraft"
@@ -68627,14 +68627,14 @@
     "face": {
       "front": {
         "name": "Victoria",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Victoria",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 0,
     "Class": [
       "Forestcraft"
@@ -68647,14 +68647,14 @@
     "face": {
       "front": {
         "name": "Otohime's Vanguard",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Otohime's Vanguard",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
@@ -68727,14 +68727,14 @@
     "face": {
       "front": {
         "name": "Aftershock",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Aftershock",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Dragoncraft"
@@ -68747,14 +68747,14 @@
     "face": {
       "front": {
         "name": "Exterminus Weapon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Exterminus Weapon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -68767,14 +68767,14 @@
     "face": {
       "front": {
         "name": "Devoted Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Devoted Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Dragoncraft"
@@ -68787,14 +68787,14 @@
     "face": {
       "front": {
         "name": "Val, Trusty Getaway Car",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Val, Trusty Getaway Car",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -68807,14 +68807,14 @@
     "face": {
       "front": {
         "name": "Magitrain",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T02EN.png",
         "isHorizontal": false
       }
     },
     "name": "Magitrain",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Abysscraft"
@@ -68827,14 +68827,14 @@
     "face": {
       "front": {
         "name": "Dutiful Steed",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Dutiful Steed",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68847,14 +68847,14 @@
     "face": {
       "front": {
         "name": "Bullet Bike",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Bullet Bike",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68867,14 +68867,14 @@
     "face": {
       "front": {
         "name": "Arcane Personnel Carrier",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Arcane Personnel Carrier",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -68927,14 +68927,14 @@
     "face": {
       "front": {
         "name": "Armored Tentacle",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T03EN.png",
         "isHorizontal": false
       }
     },
     "name": "Armored Tentacle",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Runecraft"
@@ -68947,14 +68947,14 @@
     "face": {
       "front": {
         "name": "Assault Tentacle",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T04EN.png",
         "isHorizontal": false
       }
     },
     "name": "Assault Tentacle",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Runecraft"
@@ -68967,14 +68967,14 @@
     "face": {
       "front": {
         "name": "Medusiana",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Medusiana",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Abysscraft"
@@ -68987,14 +68987,14 @@
     "face": {
       "front": {
         "name": "Anne's Summoning",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T01EN.png",
         "isHorizontal": false
       }
     },
     "name": "Anne's Summoning",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Runecraft"
@@ -69067,14 +69067,14 @@
     "face": {
       "front": {
         "name": "Keenedge Artifact",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 5,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T05EN.png",
         "isHorizontal": false
       }
     },
     "name": "Keenedge Artifact",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 5,
     "Class": [
       "Neutral"
@@ -69087,14 +69087,14 @@
     "face": {
       "front": {
         "name": "Sootspawn",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Sootspawn",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Swordcraft"
@@ -69127,14 +69127,14 @@
     "face": {
       "front": {
         "name": "Flame General's Regalia",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Flame General's Regalia",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Swordcraft"
@@ -69187,14 +69187,14 @@
     "face": {
       "front": {
         "name": "Fox of Invitation",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Fox of Invitation",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
@@ -69287,14 +69287,14 @@
     "face": {
       "front": {
         "name": "Rulenye, Screaming Echo",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Rulenye, Screaming Echo",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Abysscraft"
@@ -69307,14 +69307,14 @@
     "face": {
       "front": {
         "name": "Guardian Golem",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 3,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Guardian Golem",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 3,
     "Class": [
       "Runecraft"
@@ -69347,14 +69347,14 @@
     "face": {
       "front": {
         "name": "Fire Drake Whelp",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T03.jpg",
         "isHorizontal": false
       }
     },
     "name": "Fire Drake Whelp",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Dragoncraft"
@@ -69367,14 +69367,14 @@
     "face": {
       "front": {
         "name": "Mimi, Right Paw Hellhound",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T04.jpg",
         "isHorizontal": false
       }
     },
     "name": "Mimi, Right Paw Hellhound",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -69387,14 +69387,14 @@
     "face": {
       "front": {
         "name": "Coco, Left Paw Hellhound",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T05.jpg",
         "isHorizontal": false
       }
     },
     "name": "Coco, Left Paw Hellhound",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -69407,14 +69407,14 @@
     "face": {
       "front": {
         "name": "Silent Rider",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Silent Rider",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -69427,14 +69427,14 @@
     "face": {
       "front": {
         "name": "Servant of Cocytus",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T07.jpg",
         "isHorizontal": false
       }
     },
     "name": "Servant of Cocytus",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -69447,14 +69447,14 @@
     "face": {
       "front": {
         "name": "Demon of Purgatory",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T08.jpg",
         "isHorizontal": false
       }
     },
     "name": "Demon of Purgatory",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Neutral"
@@ -69487,14 +69487,14 @@
     "face": {
       "front": {
         "name": "Lococo's Teddy Bear",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T01.jpg",
         "isHorizontal": false
       }
     },
     "name": "Lococo's Teddy Bear",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Forestcraft"
@@ -69627,14 +69627,14 @@
     "face": {
       "front": {
         "name": "Luna's Doll",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 1,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T08.jpg",
         "isHorizontal": false
       }
     },
     "name": "Luna's Doll",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
@@ -69647,14 +69647,14 @@
     "face": {
       "front": {
         "name": "Eschamali Adviser",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T09.jpg",
         "isHorizontal": false
       }
     },
     "name": "Eschamali Adviser",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Havencraft"
@@ -69667,14 +69667,14 @@
     "face": {
       "front": {
         "name": "Eschamali Constable",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T10.jpg",
         "isHorizontal": false
       }
     },
     "name": "Eschamali Constable",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 2,
     "Class": [
       "Havencraft"
@@ -69787,14 +69787,14 @@
     "face": {
       "front": {
         "name": "Adelle, Jealous Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T06.jpg",
         "isHorizontal": false
       }
     },
     "name": "Adelle, Jealous Dragon",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Dragoncraft"
@@ -69847,14 +69847,14 @@
     "face": {
       "front": {
         "name": "Totem of Madness",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 4,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T09.jpg",
         "isHorizontal": false
       }
     },
     "name": "Totem of Madness",
-    "type": "Amulet / Token",
+    "type": "Token",
     "cost": 4,
     "Class": [
       "Havencraft"
@@ -69867,14 +69867,14 @@
     "face": {
       "front": {
         "name": "Bansai Suzuki, Clone Technique",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 6,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T10.jpg",
         "isHorizontal": false
       }
     },
     "name": "Bansai Suzuki, Clone Technique",
-    "type": "Follower / Token",
+    "type": "Token",
     "cost": 6,
     "Class": [
       "Neutral"
