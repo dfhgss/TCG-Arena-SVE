@@ -3,7 +3,11 @@
   "menuBackgroundImage": "https://dfhgss.github.io/TCG-Arena-SVE/1/banner.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_Forte&Albert.png"
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_1.png",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_2.png",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_3.png",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_4.png"
+
     ],
     "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
   },
