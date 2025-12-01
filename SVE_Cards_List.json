@@ -30898,14 +30898,14 @@
     "face": {
       "front": {
         "name": "Eidolon of Madness",
-        "type": "Amulet / Evolved",
+        "type": "Evolve Deck",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-090EN.png",
         "isHorizontal": false
       }
     },
     "name": "Eidolon of Madness [E]",
-    "type": "Amulet / Evolved",
+    "type": "Evolve Deck",
     "cost": 0,
     "Class": [
       "Havencraft"
