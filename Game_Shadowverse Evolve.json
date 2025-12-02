@@ -14,7 +14,7 @@
     ],
     "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
   },
-  "customHelp": "(1). To track stat changes or add counters, use C + click, Ctrl + C + click, or the right-click menu.\n(2). To evolve a card, right-click the base card and choose Group (Attach), then left-click the evolved card you placed on the field from your Evolve Deck.\n(4). To create tokens use the button 'Create tokens and cards' on the bottom left.\n(5). Shadowverse Evolve Discord servers: FR: https://discord.gg/Qcc2Hfd3m7 | EN: https://discord.gg/NhJ6qH2Pfd",
+  "customHelp": "(1). To track stat changes or add counters, use C + click, Ctrl + C + click, or the right-click menu.\n(2). To evolve a card, right-click the base card and choose Group (Attach), then left-click the evolved card you placed on the field from your Evolve Deck.\n(3). To create tokens use the button 'Create tokens and cards' on the bottom left.\n(4). Your leader's defense on the bottom left.\n(5). Shadowverse Evolve Discord servers: FR: https://discord.gg/Qcc2Hfd3m7 | EN: https://discord.gg/NhJ6qH2Pfd",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
