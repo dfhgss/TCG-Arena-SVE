@@ -51,6 +51,16 @@
         "putSelectionAtBottom": true,
         "drawNewSelectedCards": false
       },
+"beforeGameStart": {
+  "initialBoardSetup": {
+    [
+      {
+        "createCardId": "PP6",
+        "count": 10,
+        "destination": "PP"
+      }
+    ]
+  },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
