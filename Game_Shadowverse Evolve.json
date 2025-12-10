@@ -152,7 +152,7 @@
     "initialBoardSetup": {
         "createCardId": "PP6",
         "count": 10,
-        "destination": "PP"
+        "destination": "PP Deck"
   }
 },
         "sectionsDict": {
