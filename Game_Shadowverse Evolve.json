@@ -46,11 +46,9 @@
     "Classic": {
 "beforeGameStart": {
   "initialBoardSetup": {
-      {
         "createCardId": "PP6",
         "count": 10,
-        "destination": "Field"
-      }
+        "destination": "2"
   }
 },
       "mulligan": {
