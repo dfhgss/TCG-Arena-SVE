@@ -63,13 +63,6 @@
         20
       ],
       "hideFacedDownCards": false,
-                  "beforeGameStart": {
-    "initialBoardSetup": {
-        "createCardId": "PP6",
-        "count": 10,
-        "destination": "PP Deck"
-  }
-},
       "sections": {
         "customSections": [
           "Field",
