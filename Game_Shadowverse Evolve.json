@@ -53,13 +53,11 @@
       },
 "beforeGameStart": {
   "initialBoardSetup": {
-    [
       {
         "createCardId": "PP6",
         "count": 10,
         "destination": "PP"
       }
-    ]
   },
       "newTurn": {
         "drawOnStart": false,
