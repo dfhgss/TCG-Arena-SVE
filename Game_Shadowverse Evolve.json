@@ -20,8 +20,8 @@
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
     "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg",
     "extraCardBacks": {
-        "PP": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
-      }
+      "PP": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
@@ -44,6 +44,15 @@
   },
   "gameplay": {
     "Classic": {
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "createCardId": "PP6",
+            "count": 10,
+            "destination": "PP"
+          }
+        ]
+      },
       "mulligan": {
         "info": "Either keep your hand or perform a mulligan: select the 4 cards and click the ‘Put selected cards at the bottom and start’ button at the bottom right of this window. Then draw 4 new cards manually.",
         "startingHandSize": "4",
@@ -91,16 +100,32 @@
                 },
                 {
                   "section": "Faceup Evolved Advanced",
-                  "style": 
-		    {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"20%"}
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "20%"
+                  }
                 },
                 {
                   "section": "EP",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"15%"}
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "15%"
+                  }
                 },
                 {
                   "section": "Field",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
                 }
               ],
               "isSymetricalForOpponents": true
@@ -119,11 +144,22 @@
                 },
                 {
                   "section": "Mana",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center"}
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
                 },
                 {
                   "section": "EX Area",
-                  "style": {"background-image":"url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')","background-size":"contain","background-repeat":"no-repeat","background-position":"center","width":"50%"}
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "50%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": true
@@ -261,8 +297,8 @@
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "opponentAlignment": false,
-            "noAutoPayTo": false,
             "displayedTitle": "",
+            "noAutoPayTo": false,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
