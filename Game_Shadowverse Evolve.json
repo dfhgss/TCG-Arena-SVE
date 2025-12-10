@@ -43,11 +43,11 @@
     ]
   },
   "gameplay": {
-          "beforeGameStart": {
-  "initialBoardSetup": {
+    "beforeGameStart": {
+    "initialBoardSetup": {
         "createCardId": "PP6",
         "count": 10,
-        "destination": "Mana"
+        "destination": "PP"
   }
 },
     "Classic": {
