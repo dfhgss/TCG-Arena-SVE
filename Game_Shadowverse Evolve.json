@@ -51,14 +51,6 @@
         "putSelectionAtBottom": true,
         "drawNewSelectedCards": false
       },
-"beforeGameStart": {
-  "initialBoardSetup": {
-      {
-        "createCardId": "PP6",
-        "count": 10,
-        "destination": "Mana"
-      }
-  },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
