@@ -43,6 +43,13 @@
     ]
   },
   "gameplay": {
+          "beforeGameStart": {
+  "initialBoardSetup": {
+        "createCardId": "PP6",
+        "count": 10,
+        "destination": "Mana"
+  }
+},
     "Classic": {
       "mulligan": {
         "info": "Either keep your hand or perform a mulligan: select the 4 cards and click the ‘Put selected cards at the bottom and start’ button at the bottom right of this window. Then draw 4 new cards manually.",
@@ -51,13 +58,6 @@
         "putSelectionAtBottom": true,
         "drawNewSelectedCards": false
       },
-      "beforeGameStart": {
-  "initialBoardSetup": {
-        "createCardId": "PP6",
-        "count": 10,
-        "destination": "Mana"
-  }
-},
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
