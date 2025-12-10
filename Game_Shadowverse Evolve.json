@@ -63,6 +63,13 @@
         20
       ],
       "hideFacedDownCards": false,
+                  "beforeGameStart": {
+    "initialBoardSetup": {
+        "createCardId": "PP6",
+        "count": 10,
+        "destination": "PP Deck"
+  }
+},
       "sections": {
         "customSections": [
           "Field",
@@ -148,13 +155,6 @@
           "Evolve Deck": "Field",
           "Spell": "Discard"
         },
-            "beforeGameStart": {
-    "initialBoardSetup": {
-        "createCardId": "PP6",
-        "count": 10,
-        "destination": "PP Deck"
-  }
-},
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
