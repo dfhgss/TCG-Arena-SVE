@@ -20,7 +20,7 @@
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
     "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg",
     "extraCardBacks": {
-      "PP8": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
+      "Evolve Deck": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
     }
   },
   "deckBuilding": {
