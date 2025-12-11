@@ -4761,14 +4761,14 @@
     "face": {
       "front": {
         "name": "EP",
-        "type": "false",
+        "type": "",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/img_evolution-point.png",
         "isHorizontal": false
       }
     },
     "name": "EP",
-    "type": "false",
+    "type": "",
     "cost": 0,
     "Class": [],
     "Set": [],
@@ -69752,7 +69752,7 @@
       }
     },
     "name": "PP8",
-    "type": "false",
+    "type": "",
     "cost": 0,
     "Class": false,
     "Set": false,
