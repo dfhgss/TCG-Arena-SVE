@@ -50,6 +50,11 @@
             "createCardId": "PP8",
             "count": 10,
             "destination": "PP"
+          },
+                              {
+            "createCardId": "EP",
+            "count": 3,
+            "destination": "EP"
           }
         ]
       },
