@@ -69439,14 +69439,14 @@
       "front": {
         "name": "SEP",
         "type": "EP",
-        "cost": 0,
+        "cost": ,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
         "isHorizontal": true
       }
     },
     "name": "SEP",
     "type": "EP",
-    "cost": 0,
+    "cost": ,
     "Trait": ""
   }
 }
