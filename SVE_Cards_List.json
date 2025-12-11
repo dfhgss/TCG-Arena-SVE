@@ -69448,28 +69448,5 @@
         "type": "EP",
         "cost": 0,
         "Trait": ""
-    },
-    "PR-120EN": {
-        "id": "PR-120EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Feena, Dynamite Daredevil",
-                "type": "Follower",
-                "cost": 2,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-120EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Feena, Dynamite Daredevil",
-        "type": "Follower",
-        "cost": 2,
-        "Class": [
-            "Neutral"
-        ],
-        "Set": [
-            "BP04-06"
-        ],
-        "Trait": "Mercenary"
     }
 }
