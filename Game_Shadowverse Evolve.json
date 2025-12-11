@@ -92,6 +92,11 @@
                   "id": "aura-token",
                   "name": "Aura",
                   "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Aura.png"
+              },
+                                          {
+                  "id": "drain-token",
+                  "name": "Drain",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Drain.png"
               }
           ],
       "sections": {
