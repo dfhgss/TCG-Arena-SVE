@@ -12345,14 +12345,14 @@
             "front": {
                 "name": "Lævateinn Dragon, Attack Form",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-058EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Lævateinn Dragon, Attack Form [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 6,
         "Class": [
             "Dragoncraft"
         ],
@@ -15197,14 +15197,14 @@
             "front": {
                 "name": "Lævateinn Dragon, Defense Form",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-061EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Lævateinn Dragon, Defense Form [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 6,
         "Class": [
             "Dragoncraft"
         ],
@@ -15220,14 +15220,14 @@
             "front": {
                 "name": "Lævateinn Dragon, Blast Form",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 6,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-062EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Lævateinn Dragon, Blast Form [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 6,
         "Class": [
             "Dragoncraft"
         ],
@@ -25120,7 +25120,7 @@
         "Set": [
             "Collab"
         ],
-        "Trait": ""
+        "Trait": "iM@S CG / Passion"
     },
     "CSD02b-001EN": {
         "id": "CSD02b-001EN",
@@ -28432,14 +28432,14 @@
             "front": {
                 "name": "Orchis, Resolute Puppet",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-003EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Orchis, Resolute Puppet [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Forestcraft"
         ],
@@ -28455,21 +28455,21 @@
             "front": {
                 "name": "Orchis, Vengeful Puppet",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-003_URAEN.png",
                 "isHorizontal": false
             }
         },
         "name": "Orchis, Vengeful Puppet [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Forestcraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Puppetry / Cutthroat"
     },
     "BP08-004EN": {
         "id": "BP08-004EN",
@@ -31252,14 +31252,14 @@
             "front": {
                 "name": "Paula, Gentle Warmth",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-005EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Paula, Gentle Warmth [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Forestcraft"
         ],
@@ -31275,21 +31275,21 @@
             "front": {
                 "name": "Paula, Passionate Warmth",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-005EN_URA.png",
                 "isHorizontal": false
             }
         },
         "name": "Paula, Passionate Warmth [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Forestcraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Pixie"
     },
     "BP09-006EN": {
         "id": "BP09-006EN",
@@ -31597,14 +31597,14 @@
             "front": {
                 "name": "Celia, Hope's Strategist",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-019EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Celia, Hope's Strategist [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 1,
         "Class": [
             "Swordcraft"
         ],
@@ -31620,21 +31620,21 @@
             "front": {
                 "name": "Celia, Despair's Messenger",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-019EN_URA.png",
                 "isHorizontal": false
             }
         },
         "name": "Celia, Despair's Messenger [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 1,
         "Class": [
             "Swordcraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Commander / Cutthroat"
     },
     "BP09-020EN": {
         "id": "BP09-020EN",
@@ -32149,14 +32149,14 @@
             "front": {
                 "name": "Mysterian Whitewyrm",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-042EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Mysterian Whitewyrm [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Runecraft"
         ],
@@ -32172,21 +32172,21 @@
             "front": {
                 "name": "Mysterian Blackwyrm",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-042EN_URA.png",
                 "isHorizontal": false
             }
         },
         "name": "Mysterian Blackwyrm [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Runecraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Academic / Cutthroat"
     },
     "BP09-043EN": {
         "id": "BP09-043EN",
@@ -32793,14 +32793,14 @@
             "front": {
                 "name": "Virtuous Lindworm",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 10,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-069EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Virtuous Lindworm [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 10,
         "Class": [
             "Dragoncraft"
         ],
@@ -32816,21 +32816,21 @@
             "front": {
                 "name": "Iniquitous Lindworm",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 10,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-069EN_URA.png",
                 "isHorizontal": false
             }
         },
         "name": "Iniquitous Lindworm [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 10,
         "Class": [
             "Dragoncraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Wyrmkin / Cutthroat"
     },
     "BP09-070EN": {
         "id": "BP09-070EN",
@@ -33299,14 +33299,14 @@
             "front": {
                 "name": "Vania, Kind Queen",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-090EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Vania, Kind Queen [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Abysscraft"
         ],
@@ -33322,21 +33322,21 @@
             "front": {
                 "name": "Vania, Blood Queen",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-090EN_URA.png",
                 "isHorizontal": false
             }
         },
         "name": "Vania, Blood Queen [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Abysscraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Vampire / Princess / Cutthroat"
     },
     "BP09-091EN": {
         "id": "BP09-091EN",
@@ -33782,14 +33782,14 @@
             "front": {
                 "name": "Ceryneian Lighthind",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-110EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Ceryneian Lighthind [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 4,
         "Class": [
             "Havencraft"
         ],
@@ -33805,21 +33805,21 @@
             "front": {
                 "name": "Ceryneian Darkhind",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-110EN_URA.png",
                 "isHorizontal": false
             }
         },
         "name": "Ceryneian Darkhind [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 4,
         "Class": [
             "Havencraft"
         ],
         "Set": [
             "BP07-09"
         ],
-        "Trait": ""
+        "Trait": "Faith / Beast / Cutthroat"
     },
     "BP09-111EN": {
         "id": "BP09-111EN",
@@ -37398,14 +37398,14 @@
             "front": {
                 "name": "Blue Storm Supreme Dragon, Glory Maelstrom",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-002EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Blue Storm Supreme Dragon, Glory Maelstrom [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Forestcraft"
         ],
@@ -37490,14 +37490,14 @@
             "front": {
                 "name": "Navalgazer Dragon",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-006EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Navalgazer Dragon [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Forestcraft"
         ],
@@ -37950,14 +37950,14 @@
             "front": {
                 "name": "Soul Saver Dragon",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 5,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-026EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Soul Saver Dragon [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 5,
         "Class": [
             "Swordcraft"
         ],
@@ -38433,14 +38433,14 @@
             "front": {
                 "name": "Barking Manticore",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-047EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Barking Manticore [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 4,
         "Class": [
             "Runecraft"
         ],
@@ -38893,14 +38893,14 @@
             "front": {
                 "name": "Blazing Flare Dragon",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-067EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Blazing Flare Dragon [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Dragoncraft"
         ],
@@ -40365,14 +40365,14 @@
             "front": {
                 "name": "Embodiment of Victory, Aleph",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-005EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Embodiment of Victory, Aleph [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Dragoncraft"
         ],
@@ -40572,14 +40572,14 @@
             "front": {
                 "name": "King of Knights, Alfred",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-002EN.png",
                 "isHorizontal": false
             }
         },
         "name": "King of Knights, Alfred [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 4,
         "Class": [
             "Swordcraft"
         ],
@@ -52117,16 +52117,16 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Dragon Breeder (EV) [E]",
+                "name": "Dragon Breeder [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 2/BP14-065.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Dragon Breeder (EV) [E]",
+        "name": "Dragon Breeder [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 1,
         "Class": [
             "Dragoncraft"
         ],
@@ -56884,14 +56884,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Aerin, Crystalian Frostward\n",
+                "name": "Aerin, Crystalian Frostward",
                 "type": "Follower",
                 "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-009.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Aerin, Crystalian Frostward\n",
+        "name": "Aerin, Crystalian Frostward",
         "type": "Follower",
         "cost": 3,
         "Class": [
@@ -56909,14 +56909,14 @@
             "front": {
                 "name": "Aerin, Crystalian Frostward [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-010.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Aerin, Crystalian Frostward [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Forestcraft"
         ],
@@ -65744,14 +65744,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Anastasia [Seize the Light] ",
+                "name": "Anastasia [Seize the Light]",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-001.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Anastasia [Seize the Light] ",
+        "name": "Anastasia [Seize the Light]",
         "type": "Follower",
         "cost": 2,
         "Class": [
@@ -65769,14 +65769,14 @@
             "front": {
                 "name": "Anastasia [Seize the Light] [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-002.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Anastasia [Seize the Light] [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Forestcraft"
         ],
@@ -65790,14 +65790,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Hajime Fujiwara [Blossom Pink Dream] ",
+                "name": "Hajime Fujiwara [Blossom Pink Dream]",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-003.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Hajime Fujiwara [Blossom Pink Dream] ",
+        "name": "Hajime Fujiwara [Blossom Pink Dream]",
         "type": "Follower",
         "cost": 2,
         "Class": [
@@ -65813,14 +65813,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Minami Nitta [Beach Bride] ",
+                "name": "Minami Nitta [Beach Bride]",
                 "type": "Follower",
                 "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-004.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Minami Nitta [Beach Bride] ",
+        "name": "Minami Nitta [Beach Bride]",
         "type": "Follower",
         "cost": 3,
         "Class": [
@@ -65859,14 +65859,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Riina Tada [Wannabe Legend] ",
+                "name": "Riina Tada [Wannabe Legend]",
                 "type": "Follower",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-006.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Riina Tada [Wannabe Legend] ",
+        "name": "Riina Tada [Wannabe Legend]",
         "type": "Follower",
         "cost": 5,
         "Class": [
@@ -65884,14 +65884,14 @@
             "front": {
                 "name": "Riina Tada [Wannabe Legend] [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-007.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Riina Tada [Wannabe Legend] [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 5,
         "Class": [
             "Forestcraft"
         ],
@@ -65905,14 +65905,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Hinako Kita [True Dream] ",
+                "name": "Hinako Kita [True Dream]",
                 "type": "Follower",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-008.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Hinako Kita [True Dream] ",
+        "name": "Hinako Kita [True Dream]",
         "type": "Follower",
         "cost": 1,
         "Class": [
@@ -65930,14 +65930,14 @@
             "front": {
                 "name": "Hinako Kita [True Dream] [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-009.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Hinako Kita [True Dream] [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 1,
         "Class": [
             "Forestcraft"
         ],
@@ -66089,14 +66089,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Karen Hojo [Cinderella Girl] ",
+                "name": "Karen Hojo [Cinderella Girl]",
                 "type": "Follower",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-016.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Karen Hojo [Cinderella Girl] ",
+        "name": "Karen Hojo [Cinderella Girl]",
         "type": "Follower",
         "cost": 1,
         "Class": [
@@ -66112,14 +66112,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Airi Totoki [Cinderella Girl] ",
+                "name": "Airi Totoki [Cinderella Girl]",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-017.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Airi Totoki [Cinderella Girl] ",
+        "name": "Airi Totoki [Cinderella Girl]",
         "type": "Follower",
         "cost": 2,
         "Class": [
@@ -66137,14 +66137,14 @@
             "front": {
                 "name": "Airi Totoki [Cinderella Girl] [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-018.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Airi Totoki [Cinderella Girl] [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 2,
         "Class": [
             "Swordcraft"
         ],
@@ -66158,14 +66158,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Mayu Sakuma [Thoughtful Present] ",
+                "name": "Mayu Sakuma [Thoughtful Present]",
                 "type": "Follower",
                 "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-019.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Mayu Sakuma [Thoughtful Present] ",
+        "name": "Mayu Sakuma [Thoughtful Present]",
         "type": "Follower",
         "cost": 3,
         "Class": [
@@ -66183,14 +66183,14 @@
             "front": {
                 "name": "Mayu Sakuma [Thoughtful Present] [E]",
                 "type": "Evolve Deck",
-                "cost": 0,
+                "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-020.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Mayu Sakuma [Thoughtful Present] [E]",
         "type": "Evolve Deck",
-        "cost": 0,
+        "cost": 3,
         "Class": [
             "Swordcraft"
         ],
