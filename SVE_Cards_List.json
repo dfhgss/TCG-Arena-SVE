@@ -69880,5 +69880,43 @@
       "Neutral"
     ],
     "Trait": "Togh Keyoh / District Office"
+  },
+  "PP7": {
+    "id": "PP7",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "PP7",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "PP7",
+    "type": "Token",
+    "cost": 0,
+    "Class": false,
+    "Set": false,
+    "Trait": ""
+  },
+  "PP8": {
+    "id": "PP8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "PP8",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "PP8",
+    "type": "Token",
+    "cost": 0,
+    "Class": false,
+    "Set": false,
+    "Trait": ""
   }
 }
