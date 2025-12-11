@@ -77,6 +77,13 @@
         20
       ],
       "hideFacedDownCards": false,
+                  "draggableTokens": [
+              {
+                  "id": "drain-token",
+                  "name": "Drain",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/dsxdfsdf.png"
+              }
+          ],
       "sections": {
         "customSections": [
           "Field",
