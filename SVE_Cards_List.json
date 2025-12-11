@@ -65739,23 +65739,6 @@
     ],
     "Trait": "Togh Keyoh / District Office"
   },
-  "SEP": {
-    "id": "SEP",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "SEP",
-        "type": "EP",
-        "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/SEP.png",
-        "isHorizontal": true
-      }
-    },
-    "name": "SEP",
-    "type": "EP",
-    "cost": 0,
-    "Trait": ""
-  },
   "ECP02-001EN": {
     "id": "ECP02-001EN",
     "isToken": false,
