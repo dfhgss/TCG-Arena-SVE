@@ -79,9 +79,19 @@
       "hideFacedDownCards": false,
                   "draggableTokens": [
               {
-                  "id": "drain-token",
-                  "name": "Drain",
-                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/dsxdfsdf.png"
+                  "id": "ward-token",
+                  "name": "Ward",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Ward.png"
+              },
+                            {
+                  "id": "bane-token",
+                  "name": "Bane",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Bane.png"
+              },
+                            {
+                  "id": "aura-token",
+                  "name": "Aura",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Aura.png"
               }
           ],
       "sections": {
