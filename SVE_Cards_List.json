@@ -69887,14 +69887,14 @@
     "face": {
       "front": {
         "name": "PP7",
-        "type": "Token",
+        "type": "false",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP7.png",
         "isHorizontal": false
       }
     },
     "name": "PP7",
-    "type": "Token",
+    "type": "false",
     "cost": 0,
     "Class": false,
     "Set": false,
@@ -69906,14 +69906,14 @@
     "face": {
       "front": {
         "name": "PP8",
-        "type": "Token",
+        "type": "false",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
         "isHorizontal": false
       }
     },
     "name": "PP8",
-    "type": "Token",
+    "type": "false",
     "cost": 0,
     "Class": false,
     "Set": false,
