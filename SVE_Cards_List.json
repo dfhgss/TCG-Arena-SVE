@@ -65754,12 +65754,6 @@
     "name": "SEP",
     "type": "EP",
     "cost": 0,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      ""
-    ],
     "Trait": ""
   },
   "ECP02-001EN": {
