@@ -69887,7 +69887,7 @@
     "face": {
       "front": {
         "name": "PP7",
-        "type": "false",
+        "type": "PP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP7.png",
         "isHorizontal": false
@@ -69906,9 +69906,16 @@
     "face": {
       "front": {
         "name": "PP8",
-        "type": "false",
+        "type": "PP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg",
         "isHorizontal": false
       }
     },
