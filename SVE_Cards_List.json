@@ -69431,5 +69431,22 @@
     "type": "PP",
     "cost": 0,
     "Trait": ""
+  },
+  "SEP": {
+    "id": "SEP",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SEP",
+        "type": "EP",
+        "cost": 0,
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "SEP",
+    "type": "EP",
+    "cost": 0,
+    "Trait": ""
   }
 }
