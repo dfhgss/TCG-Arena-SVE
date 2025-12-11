@@ -47,8 +47,13 @@
       "beforeGameStart": {
         "initialBoardSetup": [
           {
-            "createCardId": "PP6",
-            "count": 10,
+            "createCardId": "PP7",
+            "count": 5,
+            "destination": "PP"
+          },
+                    {
+            "createCardId": "PP8",
+            "count": 5,
             "destination": "PP"
           }
         ]
