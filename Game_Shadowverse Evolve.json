@@ -14,7 +14,7 @@
     ],
     "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
   },
-  "customHelp": "(1). To track stat changes or add counters, use C + click, Ctrl + C + click, or the right-click menu.\n(2). To evolve a card, right-click the base card and choose Group (Attach), then left-click the evolved card you placed on the field from your Evolve Deck.\n(3). To create tokens use the button 'Create tokens and cards' on the bottom left.\n(4). Your leader's defense is on the bottom left.\n(5). Shadowverse Evolve Discord servers: FR: https://discord.gg/Qcc2Hfd3m7 | EN: https://discord.gg/NhJ6qH2Pfd",
+  "customHelp": "(1). To track stat changes or add counters, use C + click, Ctrl + C + click, or the right-click menu.\n(2). To evolve a card, use G + click on the base card, then click on the evolved card or right-click menu and choose Group (Attach).\n(3). To create tokens use the button 'Create tokens and cards' on the bottom left.\n(4). Your leader's defense is on the bottom left.\n(5). Shadowverse Evolve Discord servers: FR: https://discord.gg/Qcc2Hfd3m7 | EN: https://discord.gg/NhJ6qH2Pfd",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
@@ -59,7 +59,7 @@
         ]
       },
       "mulligan": {
-        "info": "Either keep your hand or perform a mulligan: select the 4 cards and click the ‘Put selected cards at the bottom and start’ button at the bottom right of this window. Then draw 4 new cards manually.",
+        "info": "Keep your hand or perform a mulligan: select the 4 cards and click ‘Put selected cards at the bottom and start’ at the bottom right of this window. Then draw 4 new cards manually.",
         "startingHandSize": "4",
         "drawNewHand": false,
         "putSelectionAtBottom": true,
