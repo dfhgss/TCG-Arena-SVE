@@ -50546,7 +50546,7 @@
         "Set": [
             "Collab"
         ],
-        "Trait": "Umamusume"
+        "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-054EN": {
         "id": "ECP01-054EN",
@@ -69448,5 +69448,5 @@
         "type": "EP",
         "cost": 0,
         "Trait": ""
-    }
+    },
 }
