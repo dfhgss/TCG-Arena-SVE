@@ -1,21 +1,245 @@
 [
 {
-  "title": "[Runecraft] Academic BP13",
-  "id": "cdaa2db9-6a64-4782-a302-d52b4e9cf80a",
+  "title": "[Forestcraft] Sekka",
+  "id": "5dd57a84-8a34-477c-a0dd-5ea808edb6b6",
   "game": "Shadowverse Evolve",
   "format": [
     "Classic"
   ],
-  "cardCount": 63,
-  "createdAt": "2025-11-19T00:53:37.123Z",
-  "lastModifiedAt": "2025-11-19T00:56:26.613Z",
+  "cardCount": 50,
+  "createdAt": "2025-12-12T11:15:02.307Z",
+  "lastModifiedAt": "2025-12-12T11:46:41.871Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Follower",
+      "Evolve Deck",
+      "Spell"
+    ],
+    "Sideboard": [],
+    "Follower": [
+      {
+        "count": 3,
+        "id": "BP05-109EN"
+      },
+      {
+        "count": 3,
+        "id": "BP13-001EN"
+      },
+      {
+        "count": 3,
+        "id": "BP12-002EN"
+      },
+      {
+        "count": 3,
+        "id": "BP13-015EN"
+      },
+      {
+        "count": 3,
+        "id": "SP01-001EN"
+      },
+      {
+        "count": 2,
+        "id": "BP13-007EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-003EN"
+      },
+      {
+        "count": 3,
+        "id": "BP10-005EN"
+      },
+      {
+        "count": 2,
+        "id": "BP04-007EN"
+      },
+      {
+        "count": 3,
+        "id": "SP01-045EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-115EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-105EN"
+      },
+      {
+        "count": 2,
+        "id": "BP13-108EN"
+      },
+      {
+        "count": 1,
+        "id": "BP12-006EN"
+      }
+    ],
+    "Evolve Deck": [
+      {
+        "count": 3,
+        "id": "BP13-002EN"
+      },
+      {
+        "count": 2,
+        "id": "BP12-003EN"
+      },
+      {
+        "count": 3,
+        "id": "BP10-006EN"
+      },
+      {
+        "count": 2,
+        "id": "BP13-109EN"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 1,
+        "id": "BP01-015EN"
+      },
+      {
+        "count": 3,
+        "id": "BP13-008EN"
+      }
+    ]
+  }
+},
+{
+  "title": "[Swordcraft] Wasteland",
+  "id": "65e78661-4e5d-4560-800f-9cd3ea853a67",
+  "game": "Shadowverse Evolve",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 50,
+  "createdAt": "2025-12-12T11:09:05.247Z",
+  "lastModifiedAt": "2025-12-12T11:46:50.764Z",
   "deckList": {
     "categoriesOrder": [
       "Follower",
       "Spell",
-      "Evolve Deck",
-      "EP",
-      "PP"
+      "Evolve Deck"
+    ],
+    "Sideboard": [],
+    "Follower": [
+      {
+        "count": 3,
+        "id": "BP11-018EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-019EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-031EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-023EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-027EN"
+      },
+      {
+        "count": 3,
+        "id": "BP11-105EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-115EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-109EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-113EN"
+      },
+      {
+        "count": 3,
+        "id": "BP07-022EN"
+      },
+      {
+        "count": 3,
+        "id": "BP06-019EN"
+      },
+      {
+        "count": 2,
+        "id": "BP09-018EN"
+      },
+      {
+        "count": 1,
+        "id": "BP13-110EN"
+      },
+      {
+        "count": 2,
+        "id": "SP01-010EN"
+      },
+      {
+        "count": 2,
+        "id": "CP02-020EN"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 1,
+        "id": "BP11-028EN"
+      },
+      {
+        "count": 2,
+        "id": "BP11-024EN"
+      }
+    ],
+    "Evolve Deck": [
+      {
+        "count": 2,
+        "id": "BP11-020EN"
+      },
+      {
+        "count": 1,
+        "id": "BP11-110EN"
+      },
+      {
+        "count": 1,
+        "id": "BP11-114EN"
+      },
+      {
+        "count": 2,
+        "id": "BP07-023EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-019EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-019uEN"
+      },
+      {
+        "count": 2,
+        "id": "BP06-020EN"
+      }
+    ]
+  }
+},
+{
+  "title": "[Runecraft] Academic",
+  "id": "07c19530-5f01-4876-bb2e-d1f71a31eb69",
+  "game": "Shadowverse Evolve",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 50,
+  "createdAt": "2025-12-12T11:32:18.823Z",
+  "lastModifiedAt": "2025-12-12T11:46:10.274Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Follower",
+      "Spell",
+      "Evolve Deck"
     ],
     "Sideboard": [],
     "Follower": [
@@ -24,7 +248,7 @@
         "id": "BP09-038EN"
       },
       {
-        "count": 2,
+        "count": 3,
         "id": "BP02-046EN"
       },
       {
@@ -36,7 +260,7 @@
         "id": "BP09-044EN"
       },
       {
-        "count": 3,
+        "count": 2,
         "id": "BP09-059EN"
       },
       {
@@ -53,10 +277,6 @@
       },
       {
         "count": 1,
-        "id": "BP05-040EN"
-      },
-      {
-        "count": 2,
         "id": "BP09-051EN"
       },
       {
@@ -66,11 +286,15 @@
       {
         "count": 3,
         "id": "BP13-036EN"
+      },
+      {
+        "count": 1,
+        "id": "SP01-019EN"
       }
     ],
     "Spell": [
       {
-        "count": 2,
+        "count": 3,
         "id": "BP09-046EN"
       },
       {
@@ -111,39 +335,25 @@
         "count": 2,
         "id": "BP13-039EN"
       }
-    ],
-    "EP": [
-      {
-        "count": 3,
-        "id": "EP"
-      }
-    ],
-    "PP": [
-      {
-        "count": 10,
-        "id": "PP3"
-      }
     ]
   }
 },
 {
-  "title": "[Dragoncraft] Draconic Duelist BP13",
-  "id": "4644a891-dbc3-4b23-bf7c-d4b10a6632e8",
+  "title": "[Dragoncraft] Draconic Duelist",
+  "id": "7430d5fd-01be-4c22-ab2a-692201cab203",
   "game": "Shadowverse Evolve",
   "format": [
     "Classic"
   ],
-  "cardCount": 63,
-  "createdAt": "2025-11-19T00:56:02.960Z",
-  "lastModifiedAt": "2025-11-19T00:56:06.976Z",
+  "cardCount": 50,
+  "createdAt": "2025-12-12T11:31:19.111Z",
+  "lastModifiedAt": "2025-12-12T11:46:23.294Z",
   "deckList": {
     "categoriesOrder": [
       "Follower",
-      "Evolve Deck",
       "Spell",
       "Amulet",
-      "EP",
-      "PP"
+      "Evolve Deck"
     ],
     "Sideboard": [],
     "Follower": [
@@ -176,7 +386,7 @@
         "id": "BP13-054EN"
       },
       {
-        "count": 2,
+        "count": 1,
         "id": "BP13-056EN"
       },
       {
@@ -188,17 +398,37 @@
         "id": "BP13-061EN"
       },
       {
+        "count": 1,
+        "id": "BP11-055EN"
+      },
+      {
         "count": 3,
         "id": "BP13-067EN"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "BP13-060EN"
+      },
+      {
+        "count": 3,
+        "id": "SD04-002EN"
       },
       {
         "count": 2,
-        "id": "BP12-055EN"
+        "id": "BP01-098EN"
+      }
+    ],
+    "Amulet": [
+      {
+        "count": 3,
+        "id": "BP04-078EN"
       }
     ],
     "Evolve Deck": [
       {
-        "count": 3,
+        "count": 2,
         "id": "BP09-066EN"
       },
       {
@@ -210,208 +440,37 @@
         "id": "BP13-055EN"
       },
       {
-        "count": 2,
+        "count": 3,
         "id": "BP13-062EN"
       },
       {
         "count": 1,
-        "id": "BP12-056EN"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 3,
-        "id": "BP13-060EN"
-      },
-      {
-        "count": 3,
-        "id": "SD04-002EN"
-      }
-    ],
-    "Amulet": [
-      {
-        "count": 3,
-        "id": "BP04-078EN"
-      }
-    ],
-    "EP": [
-      {
-        "count": 3,
-        "id": "EP"
-      }
-    ],
-    "PP": [
-      {
-        "count": 10,
-        "id": "PP4"
+        "id": "BP11-056EN"
       }
     ]
   }
 },
 {
-  "title": "[Forestcraft] Fairy BP13",
-  "id": "0decf32d-896a-48c4-921f-57e0091c8dba",
+  "title": "[Abysscraft] Necrocharge",
+  "id": "fc00994e-525d-47fd-8a3b-b7a8d1a16b1d",
   "game": "Shadowverse Evolve",
   "format": [
     "Classic"
   ],
-  "cardCount": 63,
-  "createdAt": "2025-11-19T00:55:45.221Z",
-  "lastModifiedAt": "2025-11-19T00:55:48.675Z",
+  "cardCount": 50,
+  "createdAt": "2025-12-12T11:19:10.990Z",
+  "lastModifiedAt": "2025-12-12T11:46:33.452Z",
   "deckList": {
     "categoriesOrder": [
       "Follower",
-      "Amulet",
       "Spell",
-      "Evolve Deck",
-      "EP",
-      "PP"
+      "Evolve Deck"
     ],
     "Sideboard": [],
     "Follower": [
       {
         "count": 3,
-        "id": "BP06-007EN"
-      },
-      {
-        "count": 3,
-        "id": "BP13-003EN"
-      },
-      {
-        "count": 3,
-        "id": "BP13-013EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-011EN"
-      },
-      {
-        "count": 3,
-        "id": "BP13-018EN"
-      },
-      {
-        "count": 3,
-        "id": "BP06-003EN"
-      },
-      {
-        "count": 3,
-        "id": "BP07-003EN"
-      },
-      {
-        "count": 3,
-        "id": "BP10-005EN"
-      },
-      {
-        "count": 2,
-        "id": "BP13-108EN"
-      }
-    ],
-    "Amulet": [
-      {
-        "count": 1,
-        "id": "BP13-012EN"
-      },
-      {
-        "count": 1,
-        "id": "SD01-002EN"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 3,
-        "id": "BP01-023EN"
-      },
-      {
-        "count": 1,
-        "id": "BP05-007EN"
-      },
-      {
-        "count": 3,
-        "id": "BP06-011EN"
-      },
-      {
-        "count": 2,
-        "id": "BP10-018EN"
-      },
-      {
-        "count": 3,
-        "id": "BP12-007EN"
-      }
-    ],
-    "Evolve Deck": [
-      {
-        "count": 2,
-        "id": "BP13-004EN"
-      },
-      {
-        "count": 3,
-        "id": "BP13-014EN"
-      },
-      {
-        "count": 3,
-        "id": "BP10-006EN"
-      },
-      {
-        "count": 2,
-        "id": "BP13-109EN"
-      }
-    ],
-    "EP": [
-      {
-        "count": 3,
-        "id": "EP"
-      }
-    ],
-    "PP": [
-      {
-        "count": 10,
-        "id": "PP1"
-      }
-    ]
-  }
-},
-{
-  "title": "[Abysscraft] Sanguine Control BP13",
-  "id": "00765df3-8601-4299-9621-51f58be9d206",
-  "game": "Shadowverse Evolve",
-  "format": [
-    "Classic"
-  ],
-  "cardCount": 63,
-  "createdAt": "2025-11-19T00:55:30.265Z",
-  "lastModifiedAt": "2025-11-19T00:55:34.498Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Spell",
-      "Follower",
-      "Evolve Deck",
-      "Amulet",
-      "EP",
-      "PP"
-    ],
-    "Sideboard": [],
-    "Spell": [
-      {
-        "count": 3,
-        "id": "BP11-075EN"
-      },
-      {
-        "count": 2,
-        "id": "CP02-075EN"
-      },
-      {
-        "count": 3,
-        "id": "BP05-078EN"
-      },
-      {
-        "count": 2,
-        "id": "BP12-079EN"
-      }
-    ],
-    "Follower": [
-      {
-        "count": 3,
-        "id": "BP11-072EN"
+        "id": "BP13-077EN"
       },
       {
         "count": 3,
@@ -419,332 +478,187 @@
       },
       {
         "count": 3,
-        "id": "BP10-080EN"
+        "id": "BP11-071EN"
       },
       {
         "count": 3,
-        "id": "BP08-084EN"
+        "id": "BP11-076EN"
       },
       {
         "count": 3,
-        "id": "BP03-077EN"
+        "id": "BP07-073EN"
       },
       {
-        "count": 1,
-        "id": "BP02-072EN"
+        "count": 3,
+        "id": "BP12-071EN"
+      },
+      {
+        "count": 3,
+        "id": "BP13-076EN"
+      },
+      {
+        "count": 2,
+        "id": "BP03-076EN"
       },
       {
         "count": 2,
         "id": "BP10-109EN"
       },
       {
-        "count": 3,
-        "id": "BP13-071EN"
-      },
-      {
-        "count": 3,
-        "id": "BP13-073EN"
-      },
-      {
-        "count": 3,
-        "id": "BP05-075EN"
+        "count": 2,
+        "id": "CP03-086EN"
       }
     ],
     "Evolve Deck": [
-      {
-        "count": 3,
-        "id": "BP11-073EN"
-      },
       {
         "count": 3,
         "id": "BP11-070EN"
       },
       {
         "count": 3,
-        "id": "BP13-072EN"
-      },
-      {
-        "count": 1,
-        "id": "BP10-110EN"
-      }
-    ],
-    "Amulet": [
-      {
-        "count": 3,
-        "id": "BP13-087EN"
-      }
-    ],
-    "EP": [
-      {
-        "count": 3,
-        "id": "EP"
-      }
-    ],
-    "PP": [
-      {
-        "count": 10,
-        "id": "PP5"
-      }
-    ]
-  }
-},
-{
-  "title": "[Swordcraft] Wasteland BP13",
-  "id": "03e56e10-d494-4b38-86dc-1533af273c62",
-  "game": "Shadowverse Evolve",
-  "format": [
-    "Classic"
-  ],
-  "cardCount": 63,
-  "createdAt": "2025-11-19T00:54:32.636Z",
-  "lastModifiedAt": "2025-11-19T00:54:35.417Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Follower",
-      "Evolve Deck",
-      "Spell",
-      "EP",
-      "PP"
-    ],
-    "Sideboard": [],
-    "Follower": [
-      {
-        "count": 3,
-        "id": "BP11-105EN"
+        "id": "BP11-077EN"
       },
       {
         "count": 2,
-        "id": "BP11-109EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-113EN"
+        "id": "BP07-074EN"
       },
       {
         "count": 2,
-        "id": "BP11-115EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-018EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-019EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-023EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-027EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-031EN"
-      },
-      {
-        "count": 3,
-        "id": "BP09-018EN"
-      },
-      {
-        "count": 2,
-        "id": "BP07-022EN"
-      },
-      {
-        "count": 3,
-        "id": "BP06-019EN"
-      },
-      {
-        "count": 1,
-        "id": "CP02-020EN"
-      },
-      {
-        "count": 1,
-        "id": "BP13-110EN"
-      }
-    ],
-    "Evolve Deck": [
-      {
-        "count": 1,
-        "id": "BP11-110EN"
-      },
-      {
-        "count": 1,
-        "id": "BP11-114EN"
-      },
-      {
-        "count": 2,
-        "id": "BP11-020EN"
-      },
-      {
-        "count": 1,
-        "id": "BP09-019EN"
-      },
-      {
-        "count": 1,
-        "id": "BP09-019uEN"
-      },
-      {
-        "count": 2,
-        "id": "BP07-023EN"
-      },
-      {
-        "count": 2,
-        "id": "BP06-020EN"
+        "id": "CP03-087EN"
       }
     ],
     "Spell": [
       {
-        "count": 2,
-        "id": "BP11-024EN"
+        "count": 3,
+        "id": "BP11-075EN"
       },
-      {
-        "count": 1,
-        "id": "BP11-028EN"
-      },
-      {
-        "count": 2,
-        "id": "BP08-034EN"
-      }
-    ],
-    "EP": [
       {
         "count": 3,
-        "id": "EP"
-      }
-    ],
-    "PP": [
+        "id": "BP09-105EN"
+      },
       {
-        "count": 10,
-        "id": "PP2"
+        "count": 2,
+        "id": "BP01-116EN"
+      },
+      {
+        "count": 2,
+        "id": "BP13-081EN"
+      },
+      {
+        "count": 3,
+        "id": "CP02-075EN"
       }
     ]
   }
 },
 {
-  "title": "[Havencraft] Control BP13",
-  "id": "e81d6fb9-8e34-4252-bac6-a909bf31fdb3",
+  "title": "[Havencraft] Amulet",
+  "id": "f675b84a-93d7-421e-8745-286a7bcd4294",
   "game": "Shadowverse Evolve",
   "format": [
     "Classic"
   ],
-  "cardCount": 63,
-  "createdAt": "2025-11-19T01:01:26.912Z",
-  "lastModifiedAt": "2025-11-19T01:13:50.904Z",
+  "cardCount": 50,
+  "createdAt": "2025-12-12T11:37:29.335Z",
+  "lastModifiedAt": "2025-12-12T11:45:58.765Z",
   "deckList": {
     "categoriesOrder": [
-      "Follower",
-      "Evolve Deck",
+      "Spell",
       "Amulet",
-      "Spell",
-      "EP",
-      "PP"
+      "Follower",
+      "Evolve Deck"
     ],
     "Sideboard": [],
-    "Follower": [
-      {
-        "count": 3,
-        "id": "BP05-086EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-093EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-159EN"
-      },
-      {
-        "count": 2,
-        "id": "BP10-109EN"
-      },
-      {
-        "count": 3,
-        "id": "BP09-126EN"
-      },
-      {
-        "count": 1,
-        "id": "BP08-108EN"
-      }
-    ],
-    "Evolve Deck": [
-      {
-        "count": 3,
-        "id": "BP05-087EN"
-      },
-      {
-        "count": 2,
-        "id": "BP10-110EN"
-      },
-      {
-        "count": 3,
-        "id": "BP11-094EN"
-      },
-      {
-        "count": 2,
-        "id": "BP09-127EN"
-      }
-    ],
-    "Amulet": [
-      {
-        "count": 2,
-        "id": "BP11-092EN"
-      },
-      {
-        "count": 2,
-        "id": "CP02-096EN"
-      }
-    ],
     "Spell": [
       {
         "count": 3,
-        "id": "BP05-100EN"
-      },
-      {
-        "count": 3,
-        "id": "SD06-005EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-139EN"
-      },
-      {
-        "count": 3,
-        "id": "BP01-131EN"
+        "id": "BP01-140EN"
       },
       {
         "count": 3,
         "id": "BP08-092EN"
       },
       {
-        "count": 2,
-        "id": "BP12-092EN"
-      },
-      {
-        "count": 2,
-        "id": "BP11-101EN"
-      },
-      {
-        "count": 1,
-        "id": "BP13-107EN"
-      },
-      {
-        "count": 1,
-        "id": "BP11-108EN"
+        "count": 3,
+        "id": "BP01-131EN"
       }
     ],
-    "EP": [
+    "Amulet": [
       {
         "count": 3,
-        "id": "EP"
+        "id": "BP04-115EN"
+      },
+      {
+        "count": 3,
+        "id": "BP01-133EN"
+      },
+      {
+        "count": 3,
+        "id": "CP01-070EN"
+      },
+      {
+        "count": 3,
+        "id": "BP04-104EN"
+      },
+      {
+        "count": 3,
+        "id": "BP09-122EN"
+      },
+      {
+        "count": 2,
+        "id": "SD06-002EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-115EN"
       }
     ],
-    "PP": [
+    "Follower": [
       {
-        "count": 10,
-        "id": "PP6"
+        "count": 3,
+        "id": "BP09-109EN"
+      },
+      {
+        "count": 3,
+        "id": "BP08-089EN"
+      },
+      {
+        "count": 3,
+        "id": "BP06-090EN"
+      },
+      {
+        "count": 3,
+        "id": "BP08-087EN"
+      },
+      {
+        "count": 1,
+        "id": "BP10-109EN"
+      }
+    ],
+    "Evolve Deck": [
+      {
+        "count": 2,
+        "id": "BP08-090EN"
+      },
+      {
+        "count": 2,
+        "id": "BP06-091EN"
+      },
+      {
+        "count": 3,
+        "id": "BP08-088EN"
+      },
+      {
+        "count": 1,
+        "id": "BP10-110EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-110EN"
+      },
+      {
+        "count": 1,
+        "id": "BP09-110uEN"
       }
     ]
   }
