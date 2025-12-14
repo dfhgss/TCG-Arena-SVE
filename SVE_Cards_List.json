@@ -4157,6 +4157,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Verdant"
     },
     "BP01-T02EN": {
@@ -4176,6 +4179,9 @@
         "cost": 0,
         "Class": [
             "Forestcraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Pixie"
     },
@@ -4197,6 +4203,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Pixie"
     },
     "BP01-T04EN": {
@@ -4216,6 +4225,9 @@
         "cost": 1,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Officer"
     },
@@ -4237,6 +4249,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Officer"
     },
     "BP01-T06EN": {
@@ -4256,6 +4271,9 @@
         "cost": 3,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Thief"
     },
@@ -4277,6 +4295,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Officer"
     },
     "BP01-T08EN": {
@@ -4296,6 +4317,9 @@
         "cost": 2,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Golem"
     },
@@ -4317,6 +4341,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Golem"
     },
     "BP01-T10EN": {
@@ -4336,6 +4363,9 @@
         "cost": 1,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Earth Sigil"
     },
@@ -4357,6 +4387,9 @@
         "Class": [
             "Dragoncraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Wyrmkin"
     },
     "BP01-T12EN": {
@@ -4376,6 +4409,9 @@
         "cost": 0,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Demon"
     },
@@ -4397,6 +4433,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Demon"
     },
     "BP01-T14EN": {
@@ -4416,6 +4455,9 @@
         "cost": 1,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Departed"
     },
@@ -4437,6 +4479,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Vampire"
     },
     "BP01-T16EN": {
@@ -4457,6 +4502,9 @@
         "Class": [
             "Havencraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Avian"
     },
     "BP01-T17EN": {
@@ -4476,6 +4524,9 @@
         "cost": 4,
         "Class": [
             "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Beast"
     },
@@ -8861,6 +8912,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Crystalian"
     },
     "BP02-T02EN": {
@@ -8880,6 +8934,9 @@
         "cost": 1,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Officer"
     },
@@ -8901,6 +8958,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Commander"
     },
     "BP02-T04EN": {
@@ -8920,6 +8980,9 @@
         "cost": 1,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Chess"
     },
@@ -8941,6 +9004,9 @@
         "Class": [
             "Dragoncraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Marine"
     },
     "BP02-T06EN": {
@@ -8960,6 +9026,9 @@
         "cost": 2,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Wyrmkin"
     },
@@ -8981,6 +9050,9 @@
         "Class": [
             "Dragoncraft"
         ],
+        "Set": [
+            "BP01-03"
+        ],
         "Trait": "Armed"
     },
     "BP02-T08EN": {
@@ -9000,6 +9072,9 @@
         "cost": 3,
         "Class": [
             "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
         ],
         "Trait": "Faith"
     },
@@ -19509,6 +19584,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP04-06"
+        ],
         "Trait": "Omen / Idolatry"
     },
     "BP05-T02EN": {
@@ -19528,6 +19606,9 @@
         "cost": 2,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
         ],
         "Trait": "Omen / Idolatry"
     },
@@ -19549,6 +19630,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP04-06"
+        ],
         "Trait": "Puppetry"
     },
     "BP05-T04EN": {
@@ -19569,6 +19653,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP04-06"
+        ],
         "Trait": "Supreme"
     },
     "BP05-T05EN": {
@@ -19588,6 +19675,9 @@
         "cost": 3,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP04-06"
         ],
         "Trait": "Supreme"
     },
@@ -22300,6 +22390,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP04-06"
+        ],
         "Trait": "Shikigami"
     },
     "BP06-T02EN": {
@@ -22320,6 +22413,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP04-06"
+        ],
         "Trait": "Shikigami"
     },
     "BP06-T03EN": {
@@ -22339,6 +22435,9 @@
         "cost": 2,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
         ],
         "Trait": "Yokai"
     },
@@ -24843,6 +24942,9 @@
         "cost": 4,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "Collab"
         ],
         "Trait": ""
     },
@@ -28337,6 +28439,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP07-09"
+        ],
         "Trait": "Machina"
     },
     "BP07-T02EN": {
@@ -28357,6 +28462,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP07-09"
+        ],
         "Trait": "Machina"
     },
     "BP07-T03EN": {
@@ -28376,6 +28484,9 @@
         "cost": 1,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
         ],
         "Trait": "Natura"
     },
@@ -31111,6 +31222,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP07-09"
+        ],
         "Trait": "Puppetry"
     },
     "BP08-T02EN": {
@@ -31131,6 +31245,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP07-09"
+        ],
         "Trait": "Puppetry / Cutthroat"
     },
     "BP08-T03EN": {
@@ -31150,6 +31267,9 @@
         "cost": 1,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP07-09"
         ],
         "Trait": "Marine"
     },
@@ -34460,6 +34580,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP07-09"
+        ],
         "Trait": "Alchemist / Forbidden"
     },
     "BP09-T02EN": {
@@ -34479,6 +34602,9 @@
         "cost": 2,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
         ],
         "Trait": "Alchemist / Forbidden"
     },
@@ -34500,6 +34626,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP07-09"
+        ],
         "Trait": "Mage / Academic"
     },
     "BP09-T04EN": {
@@ -34519,6 +34648,9 @@
         "cost": 3,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP07-09"
         ],
         "Trait": "Dragonewt / Draconic Duelist"
     },
@@ -37346,6 +37478,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Machina / Officer"
     },
     "BP10-T02EN": {
@@ -37365,6 +37500,9 @@
         "cost": 5,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP10-12"
         ],
         "Trait": "Wyrmkin"
     },
@@ -43504,6 +43642,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Wasteland / Mount"
     },
     "BP11-T02EN": {
@@ -43523,6 +43664,9 @@
         "cost": 5,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP10-12"
         ],
         "Trait": "Wasteland / Mount"
     },
@@ -43544,6 +43688,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Wasteland / Mount / Beast"
     },
     "BP11-T04EN": {
@@ -43564,6 +43711,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Wasteland / Mount"
     },
     "BP11-T05EN": {
@@ -43583,6 +43733,9 @@
         "cost": 1,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
         ],
         "Trait": "Wasteland / Mount"
     },
@@ -46410,6 +46563,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Fae-Touched / Beast"
     },
     "BP12-T02EN": {
@@ -46429,6 +46585,9 @@
         "cost": 5,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP10-12"
         ],
         "Trait": "Commander / Officer"
     },
@@ -46450,6 +46609,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Machina / Supreme"
     },
     "BP12-T04EN": {
@@ -46470,6 +46632,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP10-12"
+        ],
         "Trait": "Machina / Supreme"
     },
     "BP12-T05EN": {
@@ -46489,6 +46654,9 @@
         "cost": 3,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP10-12"
         ],
         "Trait": "Demon / Gorgon"
     },
@@ -49247,6 +49415,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Golem / Arcanaform / Academic"
     },
     "BP13-T02EN": {
@@ -49266,6 +49437,9 @@
         "cost": 1,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Mage / Academic / Princess / Cutthroat"
     },
@@ -49287,6 +49461,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Wasteland / Vampire"
     },
     "BP13-T04EN": {
@@ -49307,6 +49484,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Departed / Cutthroat"
     },
     "BP13-T05EN": {
@@ -49326,6 +49506,9 @@
         "cost": 5,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Supreme"
     },
@@ -53395,6 +53578,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Festive"
     },
     "BP14-T02EN": {
@@ -53414,6 +53600,9 @@
         "cost": 0,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Festive / Thief / Loot"
     },
@@ -53435,6 +53624,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Commander / Celestial"
     },
     "BP14-T04EN": {
@@ -53454,6 +53646,9 @@
         "cost": 2,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Festive / Dragonewt"
     },
@@ -53475,6 +53670,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Festive / Demon / Beast"
     },
     "BP14-T06EN": {
@@ -53495,6 +53693,9 @@
         "Class": [
             "Havencraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Festive / Zealot / Beast"
     },
     "BP14-T07EN": {
@@ -53514,6 +53715,9 @@
         "cost": 1,
         "Class": [
             "Havencraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Faith / Supreme"
     },
@@ -56433,6 +56637,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Omen / Hunter"
     },
     "BP15-PR20EN": {
@@ -56452,6 +56659,9 @@
         "cost": 2,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Omen / Thief / Loot"
     },
@@ -56473,6 +56683,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Omen / Mage"
     },
     "BP15-PR22EN": {
@@ -56492,6 +56705,9 @@
         "cost": 0,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Omen / Idolatry"
     },
@@ -56513,6 +56729,9 @@
         "Class": [
             "Dragoncraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Omen / Wyrmkin"
     },
     "BP15-PR24EN": {
@@ -56532,6 +56751,9 @@
         "cost": 1,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Omen / Demon"
     },
@@ -56553,6 +56775,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Omen / Necromancer"
     },
     "BP15-PR26EN": {
@@ -56572,6 +56797,9 @@
         "cost": 0,
         "Class": [
             "Havencraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Omen / Zealotry"
     },
@@ -56593,6 +56821,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Omen"
     },
     "BP15-PR28EN": {
@@ -56612,6 +56843,9 @@
         "cost": 5,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Omen"
     },
@@ -56633,6 +56867,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Loot"
     },
     "BP15-T02EN": {
@@ -56652,6 +56889,9 @@
         "cost": 2,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Loot"
     },
@@ -56673,6 +56913,9 @@
         "Class": [
             "Swordcraft"
         ],
+        "Set": [
+            "BP13-15"
+        ],
         "Trait": "Loot"
     },
     "BP15-T04EN": {
@@ -56692,6 +56935,9 @@
         "cost": 2,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP13-15"
         ],
         "Trait": "Omen / Necromancer"
     },
@@ -59542,6 +59788,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Golem"
     },
     "BP16-T02EN": {
@@ -59561,6 +59810,9 @@
         "cost": 0,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Mage / Academic"
     },
@@ -59582,6 +59834,9 @@
         "Class": [
             "Dragoncraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Wyrmkin"
     },
     "BP16-T04EN": {
@@ -59601,6 +59856,9 @@
         "cost": 1,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Demon"
     },
@@ -59622,6 +59880,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Demon"
     },
     "BP16-T06EN": {
@@ -59641,6 +59902,9 @@
         "cost": 1,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Archfiend"
     },
@@ -59662,6 +59926,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Archfiend"
     },
     "BP16-T08EN": {
@@ -59682,6 +59949,9 @@
         "Class": [
             "Neutral"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Archfiend"
     },
     "BP16-T09EN": {
@@ -59701,6 +59971,9 @@
         "cost": 10,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Archfiend"
     },
@@ -62459,6 +62732,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Puppetry"
     },
     "BP17-T02EN": {
@@ -62478,6 +62754,9 @@
         "cost": 1,
         "Class": [
             "Forestcraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Elf"
     },
@@ -62499,6 +62778,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Elf"
     },
     "BP17-T04EN": {
@@ -62518,6 +62800,9 @@
         "cost": 2,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Mage"
     },
@@ -62539,6 +62824,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Mage"
     },
     "BP17-T06EN": {
@@ -62558,6 +62846,9 @@
         "cost": 0,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Wyrmkin / Draconic Duelist / Cutthroat"
     },
@@ -62579,6 +62870,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Vampire"
     },
     "BP17-T08EN": {
@@ -62598,6 +62892,9 @@
         "cost": 1,
         "Class": [
             "Abysscraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Necromancer / Puppetry"
     },
@@ -62619,6 +62916,9 @@
         "Class": [
             "Havencraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Faith"
     },
     "BP17-T10EN": {
@@ -62638,6 +62938,9 @@
         "cost": 2,
         "Class": [
             "Havencraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Faith"
     },
@@ -65557,6 +65860,9 @@
         "Class": [
             "Forestcraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Togh Keyoh / Verdant"
     },
     "BP18-T02EN": {
@@ -65576,6 +65882,9 @@
         "cost": 1,
         "Class": [
             "Swordcraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Togh Keyoh / Detective"
     },
@@ -65597,6 +65906,9 @@
         "Class": [
             "Runecraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Togh Keyoh / Alchemist / Merchant"
     },
     "BP18-T04EN": {
@@ -65616,6 +65928,9 @@
         "cost": 1,
         "Class": [
             "Runecraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Mage"
     },
@@ -65637,6 +65952,9 @@
         "Class": [
             "Dragoncraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
     },
     "BP18-T06EN": {
@@ -65656,6 +65974,9 @@
         "cost": 4,
         "Class": [
             "Dragoncraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Wyrmkin"
     },
@@ -65677,6 +65998,9 @@
         "Class": [
             "Abysscraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Togh Keyoh / Demon"
     },
     "BP18-T08EN": {
@@ -65696,6 +66020,9 @@
         "cost": 1,
         "Class": [
             "Havencraft"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Togh Keyoh / Faith"
     },
@@ -65717,6 +66044,9 @@
         "Class": [
             "Havencraft"
         ],
+        "Set": [
+            "BP16-18"
+        ],
         "Trait": "Zealot / Eidolon"
     },
     "BP18-T10EN": {
@@ -65736,6 +66066,9 @@
         "cost": 6,
         "Class": [
             "Neutral"
+        ],
+        "Set": [
+            "BP16-18"
         ],
         "Trait": "Togh Keyoh / District Office"
     },
