@@ -49520,7 +49520,7 @@
                 "name": "Hokko Tarumae",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-001.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-001EN.png",
                 "isHorizontal": false
             }
         },
@@ -49530,9 +49530,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-002EN": {
@@ -49566,7 +49564,7 @@
                 "name": "Sakura Laurel",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-003.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-003EN.png",
                 "isHorizontal": false
             }
         },
@@ -49576,9 +49574,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-004EN": {
@@ -49589,7 +49585,7 @@
                 "name": "Sounds of Earth",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-004.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-004EN.png",
                 "isHorizontal": false
             }
         },
@@ -49599,9 +49595,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-005EN": {
@@ -49609,22 +49603,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Haru Urara [Uraraka Passion ♪]",
+                "name": "Haru Urara [Sunny Passion ♪]",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-005.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-005EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Haru Urara [Uraraka Passion ♪]",
+        "name": "Haru Urara [Sunny Passion ♪]",
         "type": "Follower",
         "cost": 2,
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-006EN": {
@@ -49632,22 +49624,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Yamamin Zephyr",
+                "name": "Yamanin Zephyr",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-006.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-006EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Yamamin Zephyr",
+        "name": "Yamanin Zephyr",
         "type": "Follower",
         "cost": 4,
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-007EN": {
@@ -49658,7 +49648,7 @@
                 "name": "Sakura Bakushin O",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-007.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-007EN.png",
                 "isHorizontal": false
             }
         },
@@ -49668,9 +49658,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-008EN": {
@@ -49681,7 +49669,7 @@
                 "name": "Mihono Bourbon",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-008.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-008EN.png",
                 "isHorizontal": false
             }
         },
@@ -49691,9 +49679,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-009EN": {
@@ -49701,22 +49687,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "A More Marvelous ☆ World!",
+                "name": "A MORE MARVELOUS WORLD! ☆",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-009.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-009EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "A More Marvelous ☆ World!",
+        "name": "A MORE MARVELOUS WORLD! ☆",
         "type": "Amulet",
         "cost": 1,
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-010EN": {
@@ -49727,7 +49711,7 @@
                 "name": "Gentildonna",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-010.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-010EN.png",
                 "isHorizontal": false
             }
         },
@@ -49737,9 +49721,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-011EN": {
@@ -49747,10 +49729,10 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Gentildonna",
+                "name": "Gentildonna [E]",
                 "type": "Evolve Deck",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-011.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-011EN.png",
                 "isHorizontal": false
             }
         },
@@ -49760,9 +49742,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-012EN": {
@@ -49773,7 +49753,7 @@
                 "name": "Symboli Rudolf [Enchaînement]",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-012.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-012EN.png",
                 "isHorizontal": false
             }
         },
@@ -49783,9 +49763,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-013EN": {
@@ -49793,22 +49771,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Sirius Symboli [Escorte étoile]",
+                "name": "Sirius Symboli [Escorte Étoile]",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-013.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-013EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Sirius Symboli [Escorte étoile]",
+        "name": "Sirius Symboli [Escorte Étoile]",
         "type": "Follower",
         "cost": 2,
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-014EN": {
@@ -49819,7 +49795,7 @@
                 "name": "Aston Machan",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-014.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-014EN.png",
                 "isHorizontal": false
             }
         },
@@ -49829,9 +49805,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-015EN": {
@@ -49842,7 +49816,7 @@
                 "name": "Symboli Kris S",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-015.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-015EN.png",
                 "isHorizontal": false
             }
         },
@@ -49852,9 +49826,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-016EN": {
@@ -49865,7 +49837,7 @@
                 "name": "Tap Dance City",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-016.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-016EN.png",
                 "isHorizontal": false
             }
         },
@@ -49875,9 +49847,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-017EN": {
@@ -49888,7 +49858,7 @@
                 "name": "Biwa Hayahide",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-017.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-017EN.png",
                 "isHorizontal": false
             }
         },
@@ -49898,9 +49868,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume / BNW"
     },
     "ECP01-018EN": {
@@ -49908,22 +49876,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Teio! Teio! Tei-Teio!",
+                "name": "Teio-Oo-Oo!!!",
                 "type": "Spell",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-018.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-018EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Teio! Teio! Tei-Teio!",
+        "name": "Teio-Oo-Oo!!!",
         "type": "Spell",
         "cost": 5,
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-019EN": {
@@ -49934,7 +49900,7 @@
                 "name": "Cheval Grand",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-019.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-019EN.png",
                 "isHorizontal": false
             }
         },
@@ -49944,9 +49910,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-020EN": {
@@ -49954,10 +49918,10 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Cheval Grand",
+                "name": "Cheval Grand [E]",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-020.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-020EN.png",
                 "isHorizontal": false
             }
         },
@@ -49967,9 +49931,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-021EN": {
@@ -49980,7 +49942,7 @@
                 "name": "Tanino Gimlet",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-021.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-021EN.png",
                 "isHorizontal": false
             }
         },
@@ -49990,9 +49952,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-022EN": {
@@ -50000,22 +49960,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Narita Top Road [Pink Back Shot]",
+                "name": "Narita Top Road [Peachy Silhouette]",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-022.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-022EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Narita Top Road [Pink Back Shot]",
+        "name": "Narita Top Road [Peachy Silhouette]",
         "type": "Follower",
         "cost": 5,
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-023EN": {
@@ -50026,7 +49984,7 @@
                 "name": "Verxina",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-023.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-023EN.png",
                 "isHorizontal": false
             }
         },
@@ -50036,9 +49994,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-024EN": {
@@ -50049,7 +50005,7 @@
                 "name": "Vivlos",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-024.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-024EN.png",
                 "isHorizontal": false
             }
         },
@@ -50059,9 +50015,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-025EN": {
@@ -50072,7 +50026,7 @@
                 "name": "Daitaku Helios",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-025.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-025EN.png",
                 "isHorizontal": false
             }
         },
@@ -50082,9 +50036,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-026EN": {
@@ -50095,7 +50047,7 @@
                 "name": "Sweep Tosho",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-026.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-026EN.png",
                 "isHorizontal": false
             }
         },
@@ -50105,9 +50057,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-027EN": {
@@ -50115,22 +50065,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Night's Dawn and the Auspicious Star",
+                "name": "Lucky Star in the Sky",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-027.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-027EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Night's Dawn and the Auspicious Star",
+        "name": "Lucky Star in the Sky",
         "type": "Spell",
         "cost": 1,
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-028EN": {
@@ -50141,7 +50089,7 @@
                 "name": "Neo Universe",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-028.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-028EN.png",
                 "isHorizontal": false
             }
         },
@@ -50151,9 +50099,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-029EN": {
@@ -50161,10 +50107,10 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Neo Universe",
+                "name": "Neo Universe [E]",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-029.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-029EN.png",
                 "isHorizontal": false
             }
         },
@@ -50174,9 +50120,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-030EN": {
@@ -50187,7 +50131,7 @@
                 "name": "Mr. C.B.",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-030.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-030EN.png",
                 "isHorizontal": false
             }
         },
@@ -50197,9 +50141,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-031EN": {
@@ -50210,7 +50152,7 @@
                 "name": "Katsuragi Ace",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-031.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-031EN.png",
                 "isHorizontal": false
             }
         },
@@ -50220,9 +50162,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-032EN": {
@@ -50230,22 +50170,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Super Creek [One Drop of Serenity]",
+                "name": "Super Creek [Piece of Mind]",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-032.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-032EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Super Creek [One Drop of Serenity]",
+        "name": "Super Creek [Piece of Mind]",
         "type": "Follower",
         "cost": 4,
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-033EN": {
@@ -50256,7 +50194,7 @@
                 "name": "Tsurumaru Tsuyoshi",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-033.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-033EN.png",
                 "isHorizontal": false
             }
         },
@@ -50266,9 +50204,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-034EN": {
@@ -50279,7 +50215,7 @@
                 "name": "El Condor Pasa",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-034.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-034EN.png",
                 "isHorizontal": false
             }
         },
@@ -50289,9 +50225,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-035EN": {
@@ -50302,7 +50236,7 @@
                 "name": "Nishino Flower",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-035.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-035EN.png",
                 "isHorizontal": false
             }
         },
@@ -50312,9 +50246,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-036EN": {
@@ -50322,22 +50254,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Prayer's Flame That Burns to Heaven",
+                "name": "Pious Flame, Heavens Scorcher",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-036.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-036EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Prayer's Flame That Burns to Heaven",
+        "name": "Pious Flame, Heavens Scorcher",
         "type": "Spell",
         "cost": 3,
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-037EN": {
@@ -50348,7 +50278,7 @@
                 "name": "Hishi Miracle",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-037.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-037EN.png",
                 "isHorizontal": false
             }
         },
@@ -50358,9 +50288,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-038EN": {
@@ -50368,10 +50296,10 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Hishi Miracle",
+                "name": "Hishi Miracle [E]",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-038.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-038EN.png",
                 "isHorizontal": false
             }
         },
@@ -50381,9 +50309,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-039EN": {
@@ -50394,7 +50320,7 @@
                 "name": "Daiichi Ruby",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-039.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-039EN.png",
                 "isHorizontal": false
             }
         },
@@ -50404,9 +50330,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-040EN": {
@@ -50417,7 +50341,7 @@
                 "name": "Duramente",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-040.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-040EN.png",
                 "isHorizontal": false
             }
         },
@@ -50427,9 +50351,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-041EN": {
@@ -50437,22 +50359,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Machikanetannhauser [Machitan☆Adventure]",
+                "name": "Matikanetannhauser [Machitan☆Adventure]",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-041.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-041EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Machikanetannhauser [Machitan☆Adventure]",
+        "name": "Matikanetannhauser [Machitan☆Adventure]",
         "type": "Follower",
         "cost": 3,
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-042EN": {
@@ -50460,22 +50380,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "K.S. Miracle",
+                "name": "K.S.Miracle",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-042.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-042EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "K.S. Miracle",
+        "name": "K.S.Miracle",
         "type": "Follower",
         "cost": 2,
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-043EN": {
@@ -50486,7 +50404,7 @@
                 "name": "Air Shakur",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-043.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-043EN.png",
                 "isHorizontal": false
             }
         },
@@ -50496,9 +50414,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-044EN": {
@@ -50509,7 +50425,7 @@
                 "name": "Manhattan Cafe",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-044.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-044EN.png",
                 "isHorizontal": false
             }
         },
@@ -50519,9 +50435,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-045EN": {
@@ -50532,7 +50446,7 @@
                 "name": "TT Ignition!",
                 "type": "Spell",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-045.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-045EN.png",
                 "isHorizontal": false
             }
         },
@@ -50542,9 +50456,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-046EN": {
@@ -50555,7 +50467,7 @@
                 "name": "Satono Crown",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-046.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-046EN.png",
                 "isHorizontal": false
             }
         },
@@ -50565,9 +50477,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-047EN": {
@@ -50575,10 +50485,10 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Satono Crown",
+                "name": "Satono Crown [E]",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-047.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-047EN.png",
                 "isHorizontal": false
             }
         },
@@ -50588,9 +50498,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-048EN": {
@@ -50601,7 +50509,7 @@
                 "name": "Mejiro Ramonu",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-048.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-048EN.png",
                 "isHorizontal": false
             }
         },
@@ -50611,9 +50519,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-049EN": {
@@ -50624,7 +50530,7 @@
                 "name": "Jungle Pocket",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-049.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-049EN.png",
                 "isHorizontal": false
             }
         },
@@ -50634,9 +50540,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-050EN": {
@@ -50647,7 +50551,7 @@
                 "name": "Wonder Acute",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-050.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-050EN.png",
                 "isHorizontal": false
             }
         },
@@ -50657,9 +50561,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-051EN": {
@@ -50667,22 +50569,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Mejiro Ardan [Prayer's Flower in the Night Wind]",
+                "name": "Mejiro Ardan [Hopeful Petals Dancing in the Night]",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-051.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-051EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Mejiro Ardan [Prayer's Flower in the Night Wind]",
+        "name": "Mejiro Ardan [Hopeful Petals Dancing in the Night]",
         "type": "Follower",
         "cost": 6,
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-052EN": {
@@ -50690,22 +50590,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Machikanefukukitaru",
+                "name": "Matikanefukukitaru",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-052.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-052EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Machikanefukukitaru",
+        "name": "Matikanefukukitaru",
         "type": "Follower",
         "cost": 7,
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-053EN": {
@@ -50713,22 +50611,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Mejiro Palmer [Moonlit Little Devil ♪]",
+                "name": "Mejiro Palmer [Moonlit Devil ♪]",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-053.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-053EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Mejiro Palmer [Moonlit Little Devil ♪]",
+        "name": "Mejiro Palmer [Moonlit Devil ♪]",
         "type": "Follower",
         "cost": 1,
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-054EN": {
@@ -50736,22 +50632,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Go for It! Desuwa!?",
+                "name": "Bring 'Em Home, Please!",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-054.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-054EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Go for It! Desuwa!?",
+        "name": "Bring 'Em Home, Please!",
         "type": "Amulet",
         "cost": 2,
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-055EN": {
@@ -50759,22 +50653,20 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Thus, Those Who Lead the Way",
+                "name": "Progenitors and Guides",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-055.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-055EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Thus, Those Who Lead the Way",
+        "name": "Progenitors and Guides",
         "type": "Follower",
         "cost": 6,
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-056EN": {
@@ -50785,7 +50677,7 @@
                 "name": "Balliamo?",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-056.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-056EN.png",
                 "isHorizontal": false
             }
         },
@@ -50795,9 +50687,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Umamusume"
     },
     "ECP01-057EN": {
@@ -50808,7 +50698,7 @@
                 "name": "Ryoka Tsurugi",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 2/ECP01-057.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-057EN.png",
                 "isHorizontal": false
             }
         },
@@ -50818,9 +50708,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "Collab"
-        ],
+        "Set": [],
         "Trait": "Tracen Academy"
     },
     "BP14-001EN": {
