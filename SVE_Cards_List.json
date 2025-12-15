@@ -49530,7 +49530,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-002EN": {
@@ -49574,7 +49574,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-004EN": {
@@ -49595,7 +49595,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-005EN": {
@@ -49616,7 +49616,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-006EN": {
@@ -49637,7 +49637,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-007EN": {
@@ -49658,7 +49658,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-008EN": {
@@ -49679,7 +49679,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-009EN": {
@@ -49700,7 +49700,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-010EN": {
@@ -49721,7 +49721,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-011EN": {
@@ -49742,7 +49742,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-012EN": {
@@ -49763,7 +49763,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-013EN": {
@@ -49784,7 +49784,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-014EN": {
@@ -49805,7 +49805,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-015EN": {
@@ -49826,7 +49826,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-016EN": {
@@ -49847,7 +49847,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-017EN": {
@@ -49868,7 +49868,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume / BNW"
     },
     "ECP01-018EN": {
@@ -49889,7 +49889,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-019EN": {
@@ -49910,7 +49910,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-020EN": {
@@ -49931,7 +49931,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-021EN": {
@@ -49952,7 +49952,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-022EN": {
@@ -49973,7 +49973,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-023EN": {
@@ -49994,7 +49994,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-024EN": {
@@ -50015,7 +50015,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-025EN": {
@@ -50036,7 +50036,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-026EN": {
@@ -50057,7 +50057,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-027EN": {
@@ -50078,7 +50078,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-028EN": {
@@ -50099,7 +50099,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-029EN": {
@@ -50120,7 +50120,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-030EN": {
@@ -50141,7 +50141,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-031EN": {
@@ -50162,7 +50162,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-032EN": {
@@ -50183,7 +50183,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-033EN": {
@@ -50204,7 +50204,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-034EN": {
@@ -50225,7 +50225,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-035EN": {
@@ -50246,7 +50246,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-036EN": {
@@ -50267,7 +50267,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-037EN": {
@@ -50288,7 +50288,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-038EN": {
@@ -50309,7 +50309,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-039EN": {
@@ -50330,7 +50330,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-040EN": {
@@ -50351,7 +50351,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-041EN": {
@@ -50372,7 +50372,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-042EN": {
@@ -50393,7 +50393,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-043EN": {
@@ -50414,7 +50414,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-044EN": {
@@ -50435,7 +50435,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-045EN": {
@@ -50456,7 +50456,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-046EN": {
@@ -50477,7 +50477,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-047EN": {
@@ -50498,7 +50498,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-048EN": {
@@ -50519,7 +50519,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-049EN": {
@@ -50540,7 +50540,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-050EN": {
@@ -50561,7 +50561,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-051EN": {
@@ -50582,7 +50582,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-052EN": {
@@ -50603,7 +50603,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-053EN": {
@@ -50624,7 +50624,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-054EN": {
@@ -50645,7 +50645,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume / Mejiro Family"
     },
     "ECP01-055EN": {
@@ -50666,7 +50666,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-056EN": {
@@ -50687,7 +50687,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Umamusume"
     },
     "ECP01-057EN": {
@@ -50708,7 +50708,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [],
+        "Set": ["Collab"],
         "Trait": "Tracen Academy"
     },
     "BP14-001EN": {
