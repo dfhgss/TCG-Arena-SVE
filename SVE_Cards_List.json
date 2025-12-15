@@ -49539,9 +49539,9 @@
         "face": {
             "front": {
                 "name": "Hokko Tarumae",
-                "type": "Follower",
+                "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP01 TEMP 1/ECP01-002.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-002EN.png",
                 "isHorizontal": false
             }
         },
