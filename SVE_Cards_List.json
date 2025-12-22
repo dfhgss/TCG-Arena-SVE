@@ -69669,5 +69669,205 @@
             "Neutral"
         ],
         "Trait": "Togh Keyoh / District Office"
+    },
+    "BP15-PR19EN_TOKEN": {
+        "id": "BP15-PR19EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Annihilating Onslaught",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR19.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Annihilating Onslaught",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Omen / Hunter"
+    },
+    "BP15-PR20EN_TOKEN": {
+        "id": "BP15-PR20EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Remnant of Hollowness",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR20.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Remnant of Hollowness",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Omen / Thief / Loot"
+    },
+    "BP15-PR21EN_TOKEN": {
+        "id": "BP15-PR21EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ersatz Elimination",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR21.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ersatz Elimination",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Omen / Mage"
+    },
+    "BP15-PR22EN_TOKEN": {
+        "id": "BP15-PR22EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Melodious Monody",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR22.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Melodious Monody",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Omen / Idolatry"
+    },
+    "BP15-PR23EN_TOKEN": {
+        "id": "BP15-PR23EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fangs of Ardent Destruction",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR23.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fangs of Ardent Destruction",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Omen / Wyrmkin"
+    },
+    "BP15-PR24EN_TOKEN": {
+        "id": "BP15-PR24EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Wings of Desire",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR24.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wings of Desire",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Omen / Demon"
+    },
+    "BP15-PR25EN_TOKEN": {
+        "id": "BP15-PR25EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Scream Diffusion",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR25.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Scream Diffusion",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Omen / Necromancer"
+    },
+    "BP15-PR26EN_TOKEN": {
+        "id": "BP15-PR26EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Torrent of Despair",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR26.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Torrent of Despair",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Omen / Zealotry"
+    },
+    "BP15-PR27EN_TOKEN": {
+        "id": "BP15-PR27EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Great Testimony",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR27.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Great Testimony",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Omen"
+    },
+    "BP15-PR28EN_TOKEN": {
+        "id": "BP15-PR28EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ravenous Sweetness",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR28.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ravenous Sweetness",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Omen"
     }
 }
