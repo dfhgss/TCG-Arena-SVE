@@ -1,0 +1,454 @@
+{
+  "name": "Shadowverse Evolve",
+  "menuBackgroundImage": "https://dfhgss.github.io/TCG-Arena-SVE/1/banner.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_1.png",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_2.jpg",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_3.jpg",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_4.jpg",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_5.jpg",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_6.jpg",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_7.jpg",
+      "https://dfhgss.github.io/TCG-Arena-SVE/1/Background_8.jpg"
+    ],
+    "decksUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Decks.json"
+  },
+  "customHelp": "(1). To track stat changes or add counters, use C + click, Ctrl + C + click, or the right-click menu.\n(2). To evolve a card, use G + click on the base card, then click on the evolved card or right-click menu and choose Group (Attach).\n(3). To create tokens use the button 'Create tokens and cards' on the bottom left.\n(4). Your leader's defense is on the bottom left.\n(5). Shadowverse Evolve Discord servers: FR: https://discord.gg/Qcc2Hfd3m7 | EN: https://discord.gg/NhJ6qH2Pfd",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List.json",
+    "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg",
+    "extraCardBacks": {
+      "Evolve Deck": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
+    }
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "Class",
+      "Set"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Evolve Deck",
+          "PP",
+          "EP"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "beforeGameStart": {
+        "initialBoardSetup": [
+                    {
+            "createCardId": "PP8",
+            "count": 10,
+            "destination": "PP"
+          },
+                              {
+            "createCardId": "EP",
+            "count": 3,
+            "destination": "EP"
+          }
+        ]
+      },
+      "mulligan": {
+        "info": "Keep your hand or perform a mulligan: select the 4 cards and click ‘Put selected cards at the bottom and start’ at the bottom right of this window. Then draw 4 new cards manually.",
+        "startingHandSize": "4",
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        20
+      ],
+      "hideFacedDownCards": false,
+                  "draggableTokens": [
+              {
+                  "id": "ward-token",
+                  "name": "Ward",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Ward.png"
+              },
+                            {
+                  "id": "bane-token",
+                  "name": "Bane",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Bane.png"
+              },
+                            {
+                  "id": "aura-token",
+                  "name": "Aura",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Aura.png"
+              },
+                                          {
+                  "id": "drain-token",
+                  "name": "Drain",
+                  "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Drain.png"
+              }
+          ],
+      "sections": {
+        "customSections": [
+          "Field",
+          "EX Area",
+          "Evolve Deck",
+          "Faceup Evolved Advanced",
+          "Mana",
+          "PP",
+          "EP"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Evolve Deck",
+                  "style": {
+                    "width": "13.9vh"
+                  }
+                },
+                {
+                  "section": "Faceup Evolved Advanced",
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "20%"
+                  }
+                },
+                {
+                  "section": "EP",
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "15%"
+                  }
+                },
+                {
+                  "section": "Field",
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "PP",
+                  "style": {
+                    "width": "13.9vh"
+                  }
+                },
+                {
+                  "section": "Mana",
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
+                },
+                {
+                  "section": "EX Area",
+                  "style": {
+                    "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "50%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Evolve Deck",
+          "PP",
+          "EP"
+        ],
+        "autoPlayFromHand": {
+          "Follower": "Stack",
+          "Spell": "Stack",
+          "Amulet": "Stack",
+          "PP": "Mana",
+          "Evolve Deck": "Evolve Deck"
+        },
+        "autoPlayFromStack": {
+          "Follower": "Field",
+          "Amulet": "Field",
+          "Evolve Deck": "Field",
+          "Spell": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Field": {
+            "title": "Field",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Field",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "EX Area": {
+            "title": "EX Area",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "EX Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Evolve Deck": {
+            "title": "Evolve Deck",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Evolve Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#e0e0e0"
+          },
+          "Faceup Evolved Advanced": {
+            "title": "Faceup Evolved Advanced",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Faceup Evolved / Advanced",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "PP": {
+            "title": "PP",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+            "drawPerTurn": 1,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "PP Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#e0e0e0"
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "PP",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "EP": {
+            "title": "EP",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "EP",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
