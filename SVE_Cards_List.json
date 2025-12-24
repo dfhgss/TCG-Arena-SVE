@@ -1660,14 +1660,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "EP",
+                "name": "Evolution Point",
                 "type": "EP",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/img_evolution-point.png",
                 "isHorizontal": false
             }
         },
-        "name": "EP",
+        "name": "Evolution Point",
         "type": "EP",
         "cost": 0,
         "Trait": ""
@@ -1694,14 +1694,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "SEP",
+                "name": "Super Evolution Point",
                 "type": "EP",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
                 "isHorizontal": true
             }
         },
-        "name": "SEP",
+        "name": "Super Evolution Point",
         "type": "EP",
         "cost": 0,
         "Trait": ""
