@@ -347,7 +347,11 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": false,
+            "cardActionShortcut": {
+            	"action": "GROUP",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/Ward.png"
+            }
           },
           "EX Area": {
             "title": "EX Area",
