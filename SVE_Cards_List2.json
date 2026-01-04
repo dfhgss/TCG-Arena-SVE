@@ -73183,5 +73183,2225 @@
         "type": "EP",
         "cost": 0,
         "Trait": ""
+    },
+    "BP01-T01EN_TOKEN": {
+        "id": "BP01-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Thorn Burst",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Thorn Burst",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Verdant"
+    },
+    "BP01-T02EN_TOKEN": {
+        "id": "BP01-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fairy Wisp",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy Wisp",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Pixie"
+    },
+    "BP01-T03EN_TOKEN": {
+        "id": "BP01-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fairy",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Pixie"
+    },
+    "BP01-T04EN_TOKEN": {
+        "id": "BP01-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Otohime's Bodyguard",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Otohime's Bodyguard",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Officer"
+    },
+    "BP01-T05EN_TOKEN": {
+        "id": "BP01-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Knight",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Knight",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Officer"
+    },
+    "BP01-T06EN_TOKEN": {
+        "id": "BP01-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Viking",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Viking",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Thief"
+    },
+    "BP01-T07EN_TOKEN": {
+        "id": "BP01-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Steelclad Knight",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Steelclad Knight",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Officer"
+    },
+    "BP01-T08EN_TOKEN": {
+        "id": "BP01-T08EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Strikeform Golem",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Strikeform Golem",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Golem"
+    },
+    "BP01-T09EN_TOKEN": {
+        "id": "BP01-T09EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Guardform Golem",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Guardform Golem",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Golem"
+    },
+    "BP01-T10EN_TOKEN": {
+        "id": "BP01-T10EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magic Sediment",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magic Sediment",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Earth Sigil"
+    },
+    "BP01-T11EN_TOKEN": {
+        "id": "BP01-T11EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Dragon",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T11EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragon",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP01-T12EN_TOKEN": {
+        "id": "BP01-T12EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Mimi",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mimi",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Demon"
+    },
+    "BP01-T13EN_TOKEN": {
+        "id": "BP01-T13EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Coco",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coco",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Demon"
+    },
+    "BP01-T14EN_TOKEN": {
+        "id": "BP01-T14EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ghost",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T14EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ghost",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Departed"
+    },
+    "BP01-T15EN_TOKEN": {
+        "id": "BP01-T15EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Forest Bat",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forest Bat",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Vampire"
+    },
+    "BP01-T16EN_TOKEN": {
+        "id": "BP01-T16EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Holy Falcon",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T16EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Falcon",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Avian"
+    },
+    "BP01-T17EN_TOKEN": {
+        "id": "BP01-T17EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Holy Tiger",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T17EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Tiger",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Beast"
+    },
+    "BP02-T01EN_TOKEN": {
+        "id": "BP02-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Crystalia Eve",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crystalia Eve",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Crystalian"
+    },
+    "BP02-T02EN_TOKEN": {
+        "id": "BP02-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Shield Guardian",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shield Guardian",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Officer"
+    },
+    "BP02-T03EN_TOKEN": {
+        "id": "BP02-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Leonidas's Resolve",
+                "type": "Token",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Leonidas's Resolve",
+        "type": "Token",
+        "cost": 8,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Commander"
+    },
+    "BP02-T04EN_TOKEN": {
+        "id": "BP02-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Pawn",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Pawn",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Chess"
+    },
+    "BP02-T05EN_TOKEN": {
+        "id": "BP02-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Megalorca",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Megalorca",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Marine"
+    },
+    "BP02-T06EN_TOKEN": {
+        "id": "BP02-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Hellflame Dragon",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hellflame Dragon",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP02-T07EN_TOKEN": {
+        "id": "BP02-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Draconic Weapon",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Draconic Weapon",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Armed"
+    },
+    "BP02-T08EN_TOKEN": {
+        "id": "BP02-T08EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ephemeral Moon",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ephemeral Moon",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Faith"
+    },
+    "BP05-T01EN_TOKEN": {
+        "id": "BP05-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Destruction in White",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Destruction in White",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Omen / Idolatry"
+    },
+    "BP05-T02EN_TOKEN": {
+        "id": "BP05-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Destruction in Black",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Destruction in Black",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Omen / Idolatry"
+    },
+    "BP05-T03EN_TOKEN": {
+        "id": "BP05-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Puppet",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Puppet",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Puppetry"
+    },
+    "BP05-T04EN_TOKEN": {
+        "id": "BP05-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ancient Artifact",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ancient Artifact",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP05-T05EN_TOKEN": {
+        "id": "BP05-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Mystic Artifact",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mystic Artifact",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP06-T01EN_TOKEN": {
+        "id": "BP06-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Celestial Shikigami",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Celestial Shikigami",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Shikigami"
+    },
+    "BP06-T02EN_TOKEN": {
+        "id": "BP06-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Paper Shikigami",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Paper Shikigami",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Shikigami"
+    },
+    "BP06-T03EN_TOKEN": {
+        "id": "BP06-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "One-Tailed Fox",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "One-Tailed Fox",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Yokai"
+    },
+    "CP02-T01EN_TOKEN": {
+        "id": "CP02-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Cute Earrings",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cute Earrings",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": ""
+    },
+    "BP07-T01EN_TOKEN": {
+        "id": "BP07-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Assembly Droid",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Assembly Droid",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Machina"
+    },
+    "BP07-T02EN_TOKEN": {
+        "id": "BP07-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Repair Mode",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Repair Mode",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Machina"
+    },
+    "BP07-T03EN_TOKEN": {
+        "id": "BP07-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Naterran Great Tree",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Naterran Great Tree",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Natura"
+    },
+    "BP08-T01EN_TOKEN": {
+        "id": "BP08-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Lloyd",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lloyd",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Puppetry"
+    },
+    "BP08-T02EN_TOKEN": {
+        "id": "BP08-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Victoria",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Victoria",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Puppetry / Cutthroat"
+    },
+    "BP08-T03EN_TOKEN": {
+        "id": "BP08-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Otohime's Vanguard",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Otohime's Vanguard",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Marine"
+    },
+    "BP09-T01EN_TOKEN": {
+        "id": "BP09-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Instant Poison",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Instant Poison",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Alchemist / Forbidden"
+    },
+    "BP09-T02EN_TOKEN": {
+        "id": "BP09-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Eternal Potion",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eternal Potion",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Alchemist / Forbidden"
+    },
+    "BP09-T03EN_TOKEN": {
+        "id": "BP09-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Mysterian Missile",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mysterian Missile",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Mage / Academic"
+    },
+    "BP09-T04EN_TOKEN": {
+        "id": "BP09-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Aftershock",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aftershock",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Dragonewt / Draconic Duelist"
+    },
+    "BP10-T01EN_TOKEN": {
+        "id": "BP10-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Exterminus Weapon",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Exterminus Weapon",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Machina / Officer"
+    },
+    "BP10-T02EN_TOKEN": {
+        "id": "BP10-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Devoted Dragon",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Devoted Dragon",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP11-T01EN_TOKEN": {
+        "id": "BP11-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Val, Trusty Getaway Car",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Val, Trusty Getaway Car",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Wasteland / Mount"
+    },
+    "BP11-T02EN_TOKEN": {
+        "id": "BP11-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magitrain",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magitrain",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Wasteland / Mount"
+    },
+    "BP11-T03EN_TOKEN": {
+        "id": "BP11-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Dutiful Steed",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dutiful Steed",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Wasteland / Mount / Beast"
+    },
+    "BP11-T04EN_TOKEN": {
+        "id": "BP11-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Bullet Bike",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bullet Bike",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Wasteland / Mount"
+    },
+    "BP11-T05EN_TOKEN": {
+        "id": "BP11-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Arcane Personnel Carrier",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arcane Personnel Carrier",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Wasteland / Mount"
+    },
+    "BP12-T01EN_TOKEN": {
+        "id": "BP12-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Carbuncle's Sparkle",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carbuncle's Sparkle",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Fae-Touched / Beast"
+    },
+    "BP12-T02EN_TOKEN": {
+        "id": "BP12-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Twilight Blade",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Twilight Blade",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Commander / Officer"
+    },
+    "BP12-T03EN_TOKEN": {
+        "id": "BP12-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Armored Tentacle",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Armored Tentacle",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Machina / Supreme"
+    },
+    "BP12-T04EN_TOKEN": {
+        "id": "BP12-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Assault Tentacle",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Assault Tentacle",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Machina / Supreme"
+    },
+    "BP12-T05EN_TOKEN": {
+        "id": "BP12-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Medusiana",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Medusiana",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Demon / Gorgon"
+    },
+    "BP13-T01EN_TOKEN": {
+        "id": "BP13-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Anne's Summoning",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Anne's Summoning",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Golem / Arcanaform / Academic"
+    },
+    "BP13-T02EN_TOKEN": {
+        "id": "BP13-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Resentful Blaze",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Resentful Blaze",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Mage / Academic / Princess / Cutthroat"
+    },
+    "BP13-T03EN_TOKEN": {
+        "id": "BP13-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Blood Arts",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blood Arts",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Wasteland / Vampire"
+    },
+    "BP13-T04EN_TOKEN": {
+        "id": "BP13-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Darkest Desire",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Darkest Desire",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Departed / Cutthroat"
+    },
+    "BP13-T05EN_TOKEN": {
+        "id": "BP13-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Keenedge Artifact",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Keenedge Artifact",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP14-T01EN_TOKEN": {
+        "id": "BP14-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Sootspawn",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sootspawn",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Festive"
+    },
+    "BP14-T02EN_TOKEN": {
+        "id": "BP14-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Glittering Gold",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Glittering Gold",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Festive / Thief / Loot"
+    },
+    "BP14-T03EN_TOKEN": {
+        "id": "BP14-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Flame General's Regalia",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Flame General's Regalia",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Commander / Celestial"
+    },
+    "BP14-T04EN_TOKEN": {
+        "id": "BP14-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Tidal Tyranny",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T04.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tidal Tyranny",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Festive / Dragonewt"
+    },
+    "BP14-T05EN_TOKEN": {
+        "id": "BP14-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Wolfling's Struggle",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T05.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wolfling's Struggle",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Festive / Demon / Beast"
+    },
+    "BP14-T06EN_TOKEN": {
+        "id": "BP14-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fox of Invitation",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T06.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fox of Invitation",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Festive / Zealot / Beast"
+    },
+    "BP14-T07EN_TOKEN": {
+        "id": "BP14-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Mercurial Might",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP14 TEMP 3/BP14-T07.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mercurial Might",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Faith / Supreme"
+    },
+    "BP15-T01EN_TOKEN": {
+        "id": "BP15-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Gilded Blade",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 3/BP15-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gilded Blade",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Loot"
+    },
+    "BP15-T02EN_TOKEN": {
+        "id": "BP15-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Gilded Goblet",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gilded Goblet",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Loot"
+    },
+    "BP15-T03EN_TOKEN": {
+        "id": "BP15-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Gilded Boots",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gilded Boots",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Loot"
+    },
+    "BP15-T04EN_TOKEN": {
+        "id": "BP15-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Rulenye, Screaming Echo",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-T04.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rulenye, Screaming Echo",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Omen / Necromancer"
+    },
+    "BP16-T01EN_TOKEN": {
+        "id": "BP16-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Guardian Golem",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Guardian Golem",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Golem"
+    },
+    "BP16-T02EN_TOKEN": {
+        "id": "BP16-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Looking Smart!",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Looking Smart!",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Mage / Academic"
+    },
+    "BP16-T03EN_TOKEN": {
+        "id": "BP16-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fire Drake Whelp",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fire Drake Whelp",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP16-T04EN_TOKEN": {
+        "id": "BP16-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Mimi, Right Paw Hellhound",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T04.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mimi, Right Paw Hellhound",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Demon"
+    },
+    "BP16-T05EN_TOKEN": {
+        "id": "BP16-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Coco, Left Paw Hellhound",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T05.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coco, Left Paw Hellhound",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Demon"
+    },
+    "BP16-T06EN_TOKEN": {
+        "id": "BP16-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Silent Rider",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T06.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Silent Rider",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Archfiend"
+    },
+    "BP16-T07EN_TOKEN": {
+        "id": "BP16-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Servant of Cocytus",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T07.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Servant of Cocytus",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Archfiend"
+    },
+    "BP16-T08EN_TOKEN": {
+        "id": "BP16-T08EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Demon of Purgatory",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T08.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Demon of Purgatory",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Archfiend"
+    },
+    "BP16-T09EN_TOKEN": {
+        "id": "BP16-T09EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Astaroth's Reckoning",
+                "type": "Token",
+                "cost": 10,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T09.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Astaroth's Reckoning",
+        "type": "Token",
+        "cost": 10,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Archfiend"
+    },
+    "BP17-T01EN_TOKEN": {
+        "id": "BP17-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Lococo's Teddy Bear",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lococo's Teddy Bear",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Puppetry"
+    },
+    "BP17-T02EN_TOKEN": {
+        "id": "BP17-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Gale Arrow",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gale Arrow",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Elf"
+    },
+    "BP17-T03EN_TOKEN": {
+        "id": "BP17-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Storm Arrow",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Storm Arrow",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Elf"
+    },
+    "BP17-T04EN_TOKEN": {
+        "id": "BP17-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Quadra Magic",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T04.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Quadra Magic",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Mage"
+    },
+    "BP17-T05EN_TOKEN": {
+        "id": "BP17-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Elements of Creation",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T05.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elements of Creation",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Mage"
+    },
+    "BP17-T06EN_TOKEN": {
+        "id": "BP17-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Curse of the Black Dragon",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T06.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Curse of the Black Dragon",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin / Draconic Duelist / Cutthroat"
+    },
+    "BP17-T07EN_TOKEN": {
+        "id": "BP17-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "A Horrible Night",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T07.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "A Horrible Night",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Vampire"
+    },
+    "BP17-T08EN_TOKEN": {
+        "id": "BP17-T08EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Luna's Doll",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T08.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Luna's Doll",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Necromancer / Puppetry"
+    },
+    "BP17-T09EN_TOKEN": {
+        "id": "BP17-T09EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Eschamali Adviser",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T09.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eschamali Adviser",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Faith"
+    },
+    "BP17-T10EN_TOKEN": {
+        "id": "BP17-T10EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Eschamali Constable",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP17 TEMP 3/BP17-T10.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eschamali Constable",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Faith"
+    },
+    "BP18-T01EN_TOKEN": {
+        "id": "BP18-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Sowing the Seeds of Salvation",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sowing the Seeds of Salvation",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Togh Keyoh / Verdant"
+    },
+    "BP18-T02EN_TOKEN": {
+        "id": "BP18-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Unlimited Search",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Unlimited Search",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Togh Keyoh / Detective"
+    },
+    "BP18-T03EN_TOKEN": {
+        "id": "BP18-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Jewel Dress Up",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jewel Dress Up",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Togh Keyoh / Alchemist / Merchant"
+    },
+    "BP18-T04EN_TOKEN": {
+        "id": "BP18-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ginger's Curse",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T04.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ginger's Curse",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Mage"
+    },
+    "BP18-T05EN_TOKEN": {
+        "id": "BP18-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Youthful Blow",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T05.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Youthful Blow",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
+    },
+    "BP18-T06EN_TOKEN": {
+        "id": "BP18-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Adelle, Jealous Dragon",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T06.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Adelle, Jealous Dragon",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP18-T07EN_TOKEN": {
+        "id": "BP18-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Rest Before Nightfall",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T07.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rest Before Nightfall",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Togh Keyoh / Demon"
+    },
+    "BP18-T08EN_TOKEN": {
+        "id": "BP18-T08EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Conviction of Good Deeds",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T08.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Conviction of Good Deeds",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Togh Keyoh / Faith"
+    },
+    "BP18-T09EN_TOKEN": {
+        "id": "BP18-T09EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Totem of Madness",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T09.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Totem of Madness",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Zealot / Eidolon"
+    },
+    "BP18-T10EN_TOKEN": {
+        "id": "BP18-T10EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Bansai Suzuki, Clone Technique",
+                "type": "Token",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T10.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bansai Suzuki, Clone Technique",
+        "type": "Token",
+        "cost": 6,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Togh Keyoh / District Office"
+    },
+    "BP15-PR19EN_TOKEN": {
+        "id": "BP15-PR19EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Annihilating Onslaught",
+                "type": "Token",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR19.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Annihilating Onslaught",
+        "type": "Token",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Omen / Hunter"
+    },
+    "BP15-PR20EN_TOKEN": {
+        "id": "BP15-PR20EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Remnant of Hollowness",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR20.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Remnant of Hollowness",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Omen / Thief / Loot"
+    },
+    "BP15-PR21EN_TOKEN": {
+        "id": "BP15-PR21EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ersatz Elimination",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR21.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ersatz Elimination",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Omen / Mage"
+    },
+    "BP15-PR22EN_TOKEN": {
+        "id": "BP15-PR22EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Melodious Monody",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR22.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Melodious Monody",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Trait": "Omen / Idolatry"
+    },
+    "BP15-PR23EN_TOKEN": {
+        "id": "BP15-PR23EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fangs of Ardent Destruction",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR23.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fangs of Ardent Destruction",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Omen / Wyrmkin"
+    },
+    "BP15-PR24EN_TOKEN": {
+        "id": "BP15-PR24EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Wings of Desire",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR24.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wings of Desire",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Omen / Demon"
+    },
+    "BP15-PR25EN_TOKEN": {
+        "id": "BP15-PR25EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Scream Diffusion",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR25.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Scream Diffusion",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Omen / Necromancer"
+    },
+    "BP15-PR26EN_TOKEN": {
+        "id": "BP15-PR26EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Torrent of Despair",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR26.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Torrent of Despair",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Havencraft"
+        ],
+        "Trait": "Omen / Zealotry"
+    },
+    "BP15-PR27EN_TOKEN": {
+        "id": "BP15-PR27EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Great Testimony",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR27.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Great Testimony",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Omen"
+    },
+    "BP15-PR28EN_TOKEN": {
+        "id": "BP15-PR28EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Ravenous Sweetness",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP15 TEMP 4/BP15-PR28.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ravenous Sweetness",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Omen"
     }
 }
