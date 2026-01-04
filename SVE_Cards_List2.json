@@ -21608,6 +21608,29 @@
         ],
         "Trait": "Departed / Cutthroat"
     },
+    "BP13-U05EN": {
+        "id": "BP13-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Laura, Crimson Strife",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Laura, Crimson Strife",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP13-15"
+        ],
+        "Trait": "Demon / Cutthroat"
+    },
     "BP13-073EN": {
         "id": "BP13-073EN",
         "isToken": false,
@@ -22022,6 +22045,29 @@
         ],
         "Trait": "Dragonheart / Cutthroat / Draconic Duelist"
     },
+    "BP13-U04EN": {
+        "id": "BP13-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Drache, Fiery Dragonlord",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Drache, Fiery Dragonlord (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP13-15"
+        ],
+        "Trait": "Wasteland / Dragonewt / Draconic Duelist"
+    },
     "BP13-055EN": {
         "id": "BP13-055EN",
         "isToken": false,
@@ -22413,6 +22459,29 @@
         ],
         "Trait": "Mage / Academic / Princess / Cutthroat"
     },
+    "BP13-U03EN": {
+        "id": "BP13-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ghios, Sparkling Prism",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ghios, Sparkling Prism (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP13-15"
+        ],
+        "Trait": "Mage"
+    },
     "BP13-038EN": {
         "id": "BP13-038EN",
         "isToken": false,
@@ -22803,6 +22872,29 @@
             "BP13-15"
         ],
         "Trait": "Commander"
+    },
+    "BP13-U02EN": {
+        "id": "BP13-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magna Zero",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magna Zero",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP13-15"
+        ],
+        "Trait": "Machina / Supreme / Magna / Cutthroat"
     },
     "BP13-021EN": {
         "id": "BP13-021EN",
@@ -23241,6 +23333,29 @@
         ],
         "Trait": "Pixie / Princess / Cutthroat"
     },
+    "BP13-SP01EN": {
+        "id": "BP13-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sekka, Ninefold Blaze",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sekka, Ninefold Blaze [A]",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP13-15"
+        ],
+        "Trait": "Wasteland / Hunter / Beast"
+    },
     "BP13-002EN": {
         "id": "BP13-002EN",
         "isToken": false,
@@ -23256,6 +23371,29 @@
         "name": "Sekka, Ninefold Blaze [A]",
         "type": "Evolve Deck",
         "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP13-15"
+        ],
+        "Trait": "Wasteland / Hunter / Beast"
+    },
+    "BP13-U01EN": {
+        "id": "BP13-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sekka, Fatebound Fox",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sekka, Fatebound Fox",
+        "type": "Follower",
+        "cost": 1,
         "Class": [
             "Forestcraft"
         ],
@@ -23608,6 +23746,29 @@
             "BP10-12"
         ],
         "Trait": "Wasteland / Natura"
+    },
+    "PR-360EN": {
+        "id": "PR-360EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Seraphic Blade",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-360EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Seraphic Blade",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Angel"
     },
     "BP12-106EN": {
         "id": "BP12-106EN",
@@ -24414,6 +24575,29 @@
         ],
         "Trait": "Machina / Necromancer"
     },
+    "BP12-U05EN": {
+        "id": "BP12-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gremory, Death Teller",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gremory, Death Teller",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Demon"
+    },
     "BP12-071EN": {
         "id": "BP12-071EN",
         "isToken": false,
@@ -24828,6 +25012,29 @@
         ],
         "Trait": "Dragonheart"
     },
+    "BP12-U04EN": {
+        "id": "BP12-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shipsbane Plesiosaurus",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shipsbane Plesiosaurus (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Natura / Wyrmkin / Marine"
+    },
     "BP12-053EN": {
         "id": "BP12-053EN",
         "isToken": false,
@@ -25195,6 +25402,29 @@
             "BP10-12"
         ],
         "Trait": "Machina / Arcanaform / Forbidden"
+    },
+    "BP12-U03EN": {
+        "id": "BP12-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Daria, Infinity Witch",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Daria, Infinity Witch",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Mage"
     },
     "BP12-037EN": {
         "id": "BP12-037EN",
@@ -25587,6 +25817,29 @@
         ],
         "Trait": "Commander / Beast"
     },
+    "BP12-U02EN": {
+        "id": "BP12-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lecia, Sky Saber",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lecia, Sky Saber",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Commander"
+    },
     "BP12-020EN": {
         "id": "BP12-020EN",
         "isToken": false,
@@ -25978,6 +26231,29 @@
         ],
         "Trait": "Fae-Touched / Beast"
     },
+    "BP12-U01EN": {
+        "id": "BP12-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elf Queen of Abundant Life",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elf Queen of Abundant Life (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Elf"
+    },
     "BP12-003EN": {
         "id": "BP12-003EN",
         "isToken": false,
@@ -26047,6 +26323,29 @@
         ],
         "Trait": "Natura / Verdant"
     },
+    "SP01-SP31EN": {
+        "id": "SP01-SP31EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Alice, Golden Afternoon",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP31EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Alice, Golden Afternoon",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Fable"
+    },
     "SP01-045EN": {
         "id": "SP01-045EN",
         "isToken": false,
@@ -26069,6 +26368,29 @@
             "SDs+SP01"
         ],
         "Trait": "Fable"
+    },
+    "SP01-SP25EN": {
+        "id": "SP01-SP25EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zoe, Shore's Melody",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP25EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zoe, Shore's Melody",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Faith / Princess"
     },
     "SP01-039EN": {
         "id": "SP01-039EN",
@@ -26093,6 +26415,29 @@
         ],
         "Trait": "Faith / Princess"
     },
+    "SP01-SP20EN": {
+        "id": "SP01-SP20EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Queen Vampire, Sultry Evening",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP20EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Queen Vampire, Sultry Evening",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Vampire"
+    },
     "SP01-032EN": {
         "id": "SP01-032EN",
         "isToken": false,
@@ -26115,6 +26460,29 @@
             "SDs+SP01"
         ],
         "Trait": "Vampire"
+    },
+    "SP01-SP16EN": {
+        "id": "SP01-SP16EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sharon, Seaside Nymph",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP16EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sharon, Seaside Nymph",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Marine"
     },
     "SP01-026EN": {
         "id": "SP01-026EN",
@@ -26139,6 +26507,29 @@
         ],
         "Trait": "Marine"
     },
+    "SP01-SP12EN": {
+        "id": "SP01-SP12EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Falise, Innocent Sea Spray",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP12EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Falise, Innocent Sea Spray",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Mage / Academic"
+    },
     "SP01-019EN": {
         "id": "SP01-019EN",
         "isToken": false,
@@ -26162,6 +26553,29 @@
         ],
         "Trait": "Mage / Academic"
     },
+    "SP01-SP05EN": {
+        "id": "SP01-SP05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Amelia, Sunny Paladin",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Amelia, Sunny Paladin",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Commander"
+    },
     "SP01-010EN": {
         "id": "SP01-010EN",
         "isToken": false,
@@ -26184,6 +26598,29 @@
             "SDs+SP01"
         ],
         "Trait": "Commander"
+    },
+    "SP01-SP02EN": {
+        "id": "SP01-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spinaria, Wavering Will",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spinaria, Wavering Will",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Supreme"
     },
     "SP01-001EN": {
         "id": "SP01-001EN",
@@ -26553,6 +26990,29 @@
         ],
         "Trait": "Goblinoid"
     },
+    "PR-280EN": {
+        "id": "PR-280EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Quixotic Adventurer",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-280EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Quixotic Adventurer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Mercenary"
+    },
     "BP11-106EN": {
         "id": "BP11-106EN",
         "isToken": false,
@@ -26567,6 +27027,29 @@
         },
         "name": "Quixotic Adventurer (Evolved)",
         "type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Mercenary"
+    },
+    "PR-279EN": {
+        "id": "PR-279EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Quixotic Adventurer",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-279EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Quixotic Adventurer",
+        "type": "Follower",
         "cost": 1,
         "Class": [
             "Neutral"
@@ -26598,6 +27081,29 @@
             "BP10-12"
         ],
         "Trait": "Wasteland / Mercenary"
+    },
+    "BP11-U07EN": {
+        "id": "BP11-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sylvia, Grand Arbiter",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sylvia, Grand Arbiter (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Supreme"
     },
     "BP11-104EN": {
         "id": "BP11-104EN",
@@ -27013,6 +27519,29 @@
         ],
         "Trait": "Wasteland / Faith"
     },
+    "BP11-U06EN": {
+        "id": "BP11-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Selena, Sugarkiss Assassin",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Selena, Sugarkiss Assassin",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Faith / Zealot"
+    },
     "BP11-086EN": {
         "id": "BP11-086EN",
         "isToken": false,
@@ -27289,6 +27818,29 @@
         ],
         "Trait": "Wasteland / Departed / Demon"
     },
+    "PR-281EN": {
+        "id": "PR-281EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Greatpick Corpse",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-281EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Greatpick Corpse",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Departed"
+    },
     "BP11-074EN": {
         "id": "BP11-074EN",
         "isToken": false,
@@ -27373,6 +27925,29 @@
         "name": "Illganeau, Horror Astray",
         "type": "Follower",
         "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Departed / Demon"
+    },
+    "BP11-U05EN": {
+        "id": "BP11-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Iceschillendrig, Gilded Autocrat",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Iceschillendrig, Gilded Autocrat (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
         "Class": [
             "Abysscraft"
         ],
@@ -27748,6 +28323,29 @@
             "BP10-12"
         ],
         "Trait": "Wyrmkin / Cutthroat / Draconic Duelist"
+    },
+    "BP11-U04EN": {
+        "id": "BP11-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Resplendent Phoenix",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Resplendent Phoenix",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Phoenix"
     },
     "BP11-054EN": {
         "id": "BP11-054EN",
@@ -28132,6 +28730,29 @@
         "name": "Magical Gunslinger",
         "type": "Follower",
         "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Mage"
+    },
+    "BP11-U03EN": {
+        "id": "BP11-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maiser, Neighborhood Hero",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maiser, Neighborhood Hero",
+        "type": "Follower",
+        "cost": 2,
         "Class": [
             "Runecraft"
         ],
@@ -28554,6 +29175,29 @@
         ],
         "Trait": "Wasteland / Thief"
     },
+    "PR-300EN": {
+        "id": "PR-300EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bunny & Baron, Specter Duo",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-300EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bunny & Baron, Specter Duo",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Thief"
+    },
     "BP11-019EN": {
         "id": "BP11-019EN",
         "isToken": false,
@@ -28576,6 +29220,29 @@
             "BP10-12"
         ],
         "Trait": "Wasteland / Thief"
+    },
+    "BP11-SP01EN": {
+        "id": "BP11-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nahtnaught, Cursed Queen",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nahtnaught, Cursed Queen",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Commander"
     },
     "BP11-018EN": {
         "id": "BP11-018EN",
@@ -28921,6 +29588,29 @@
             "BP10-12"
         ],
         "Trait": "Fae-Touched"
+    },
+    "BP11-U01EN": {
+        "id": "BP11-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shamu & Shama, Posh Felines",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shamu & Shama, Posh Felines",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Hunter / Beast"
     },
     "BP11-003EN": {
         "id": "BP11-003EN",
@@ -29497,6 +30187,29 @@
         ],
         "Trait": "Vanguard / Kagero"
     },
+    "PR-283EN": {
+        "id": "PR-283EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragonic Overlord",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-283EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragonic Overlord (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Kagero"
+    },
     "CSD03b-002EN": {
         "id": "CSD03b-002EN",
         "isToken": false,
@@ -29865,6 +30578,29 @@
         ],
         "Trait": "Vanguard / Oracle Think Tank"
     },
+    "PR-338EN": {
+        "id": "PR-338EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Battle Sister, Cocoa",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-338EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Battle Sister, Cocoa",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Oracle Think Tank"
+    },
     "CP03-112EN": {
         "id": "CP03-112EN",
         "isToken": false,
@@ -30041,6 +30777,29 @@
         "name": "Goddess of the Half Moon, Tsukuyomi",
         "type": "Follower",
         "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Oracle Think Tank"
+    },
+    "CP03-U06EN": {
+        "id": "CP03-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goddess of the Full Moon, Tsukuyomi",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goddess of the Full Moon, Tsukuyomi",
+        "type": "Follower",
+        "cost": 5,
         "Class": [
             "Havencraft"
         ],
@@ -30463,6 +31222,29 @@
         ],
         "Trait": "Vanguard / Shadow Paladin"
     },
+    "PR-337EN": {
+        "id": "PR-337EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blaster Dark",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-337EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blaster Dark",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Shadow Paladin"
+    },
     "CP03-086EN": {
         "id": "CP03-086EN",
         "isToken": false,
@@ -30524,6 +31306,29 @@
         "name": "Phantom Blaster Dragon",
         "type": "Follower",
         "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Shadow Paladin"
+    },
+    "CP03-U05EN": {
+        "id": "CP03-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Phantom Blaster Overlord",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Phantom Blaster Overlord",
+        "type": "Follower",
+        "cost": 9,
         "Class": [
             "Abysscraft"
         ],
@@ -30992,6 +31797,29 @@
         ],
         "Trait": "Vanguard / Kagero"
     },
+    "CP03-U04EN": {
+        "id": "CP03-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragonic Overlord the End",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragonic Overlord the End",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Kagero"
+    },
     "CP03-063EN": {
         "id": "CP03-063EN",
         "isToken": false,
@@ -31406,6 +32234,29 @@
         ],
         "Trait": "Vanguard / Pale Moon"
     },
+    "PR-336EN": {
+        "id": "PR-336EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Purple Trapezist",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-336EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Purple Trapezist",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Pale Moon"
+    },
     "CP03-045EN": {
         "id": "CP03-045EN",
         "isToken": false,
@@ -31467,6 +32318,29 @@
         "name": "Nightmare Doll, Alice",
         "type": "Follower",
         "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Pale Moon"
+    },
+    "CP03-U03EN": {
+        "id": "CP03-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Silver Thorn Dragon Tamer, Luquier",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Silver Thorn Dragon Tamer, Luquier",
+        "type": "Follower",
+        "cost": 7,
         "Class": [
             "Runecraft"
         ],
@@ -31935,6 +32809,29 @@
         ],
         "Trait": "Vanguard / Royal Paladin"
     },
+    "CP03-U02EN": {
+        "id": "CP03-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Majesty Lord Blaster",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majesty Lord Blaster",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Royal Paladin"
+    },
     "CP03-022EN": {
         "id": "CP03-022EN",
         "isToken": false,
@@ -32395,6 +33292,29 @@
         ],
         "Trait": "Vanguard / Aqua Force"
     },
+    "PR-259EN": {
+        "id": "PR-259EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blue Storm Supreme Dragon, Glory Maelstrom",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-259EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blue Storm Supreme Dragon, Glory Maelstrom (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Aqua Force"
+    },
     "CP03-002EN": {
         "id": "CP03-002EN",
         "isToken": false,
@@ -32409,6 +33329,29 @@
         },
         "name": "Blue Storm Supreme Dragon, Glory Maelstrom (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Vanguard / Aqua Force"
+    },
+    "CP03-U01EN": {
+        "id": "CP03-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blue Storm Dragon, Maelstrom",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blue Storm Dragon, Maelstrom",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Forestcraft"
@@ -32763,6 +33706,29 @@
         ],
         "Trait": "Arcana / Lightborne"
     },
+    "PR-269EN": {
+        "id": "PR-269EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "XXI. Zelgenea, O Great World",
+                "type": "Evolve Deck",
+                "cost": 10,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-269sEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "XXI. Zelgenea, O Great World [A]",
+        "type": "Evolve Deck",
+        "cost": 10,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Deity"
+    },
     "BP10-110EN": {
         "id": "BP10-110EN",
         "isToken": false,
@@ -32778,6 +33744,29 @@
         "name": "XXI. Zelgenea, O Great World [A]",
         "type": "Evolve Deck",
         "cost": 10,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Deity"
+    },
+    "BP10-U07EN": {
+        "id": "BP10-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "XXI. Zelgenea, The World",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "XXI. Zelgenea, The World",
+        "type": "Follower",
+        "cost": 5,
         "Class": [
             "Neutral"
         ],
@@ -33168,6 +34157,29 @@
         },
         "name": "VIII. Sofina, Strength (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Luminary"
+    },
+    "BP10-U06EN": {
+        "id": "BP10-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "VIII. Sofina, Strength",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "VIII. Sofina, Strength",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Havencraft"
@@ -33582,6 +34594,29 @@
         },
         "name": "VI. Milteo, The Lovers (Evolved)",
         "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Demon"
+    },
+    "BP10-U05EN": {
+        "id": "BP10-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "VI. Milteo, The Lovers",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "VI. Milteo, The Lovers",
+        "type": "Follower",
         "cost": 5,
         "Class": [
             "Abysscraft"
@@ -34051,6 +35086,29 @@
         ],
         "Trait": "Arcana / Wyrmkin"
     },
+    "BP10-U04EN": {
+        "id": "BP10-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "XI. Erntz, Justice",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "XI. Erntz, Justice",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Wyrmkin"
+    },
     "BP10-054EN": {
         "id": "BP10-054EN",
         "isToken": false,
@@ -34073,6 +35131,29 @@
             "BP10-12"
         ],
         "Trait": "Arcana / Wyrmkin"
+    },
+    "PR-270EN": {
+        "id": "PR-270EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Augmentation",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-270sEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Augmentation",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Mage"
     },
     "BP10-053EN": {
         "id": "BP10-053EN",
@@ -34396,6 +35477,29 @@
         ],
         "Trait": "Arcana / Mage"
     },
+    "PR-256EN": {
+        "id": "PR-256EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Runie, Resolute Diviner",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-256EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Runie, Resolute Diviner",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Mage"
+    },
     "BP10-039EN": {
         "id": "BP10-039EN",
         "isToken": false,
@@ -34433,6 +35537,29 @@
         },
         "name": "0. Lhynkal, The Fool (Evolved)",
         "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Mage"
+    },
+    "BP10-U03EN": {
+        "id": "BP10-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "0. Lhynkal, The Fool",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "0. Lhynkal, The Fool",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Runecraft"
@@ -34856,6 +35983,29 @@
         ],
         "Trait": "Arcana / Commander"
     },
+    "BP10-U02EN": {
+        "id": "BP10-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "VII. Oluon, The Chariot",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "VII. Oluon, The Chariot",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Commander"
+    },
     "BP10-019EN": {
         "id": "BP10-019EN",
         "isToken": false,
@@ -35224,6 +36374,29 @@
         ],
         "Trait": "Supreme"
     },
+    "PR-301EN": {
+        "id": "PR-301EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lucille, Keeper of Relics",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-301EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lucille, Keeper of Relics",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Supreme"
+    },
     "BP10-003EN": {
         "id": "BP10-003EN",
         "isToken": false,
@@ -35261,6 +36434,29 @@
         },
         "name": "XII. Wolfraud, The Hanged Man (Evolved)",
         "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Arcana / Fae-Touched"
+    },
+    "BP10-U01EN": {
+        "id": "BP10-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "XII. Wolfraud, The Hanged Man",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "XII. Wolfraud, The Hanged Man",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Forestcraft"
@@ -35615,6 +36811,29 @@
         ],
         "Trait": "Deity / Lightborne"
     },
+    "PR-243EN": {
+        "id": "PR-243EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Paradise Vanguard",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-243EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Paradise Vanguard (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Angel"
+    },
     "BP09-127EN": {
         "id": "BP09-127EN",
         "isToken": false,
@@ -35629,6 +36848,29 @@
         },
         "name": "Paradise Vanguard (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Angel"
+    },
+    "PR-242EN": {
+        "id": "PR-242EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Paradise Vanguard",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-242EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Paradise Vanguard",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Neutral"
@@ -35676,6 +36918,29 @@
         "name": "Moon and Sun",
         "type": "Spell",
         "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Deity"
+    },
+    "BP09-U07EN": {
+        "id": "BP09-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Marduk",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Marduk (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
         "Class": [
             "Neutral"
         ],
@@ -35960,6 +37225,29 @@
         ],
         "Trait": "Faith / Lightborne"
     },
+    "PR-262EN": {
+        "id": "PR-262EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tenko's Shrine",
+                "type": "Amulet",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-262EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tenko's Shrine",
+        "type": "Amulet",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Faith / Beast"
+    },
     "BP09-112EN": {
         "id": "BP09-112EN",
         "isToken": false,
@@ -36098,6 +37386,29 @@
         ],
         "Trait": "Faith / Luminary"
     },
+    "SP01-SP27EN": {
+        "id": "SP01-SP27EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jeanne, Beacon of Salvation",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP27EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jeanne, Beacon of Salvation (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Faith / Luminary"
+    },
     "BP09-107EN": {
         "id": "BP09-107EN",
         "isToken": false,
@@ -36112,6 +37423,29 @@
         },
         "name": "Jeanne, Beacon of Salvation (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Faith / Luminary"
+    },
+    "SP01-SP26EN": {
+        "id": "SP01-SP26EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jeanne, Beacon of Salvation",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP26EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jeanne, Beacon of Salvation",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Havencraft"
@@ -36420,6 +37754,29 @@
         ],
         "Trait": "Vampire / Beast"
     },
+    "PR-285EN": {
+        "id": "PR-285EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Oldblood King",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-285EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Oldblood King (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Vampire"
+    },
     "BP09-093EN": {
         "id": "BP09-093EN",
         "isToken": false,
@@ -36434,6 +37791,29 @@
         },
         "name": "Oldblood King (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Vampire"
+    },
+    "PR-284EN": {
+        "id": "PR-284EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Oldblood King",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-284EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Oldblood King",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Abysscraft"
@@ -36465,6 +37845,29 @@
             "BP07-09"
         ],
         "Trait": "Vampire"
+    },
+    "BP09-U05EN": {
+        "id": "BP09-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arcus, Spirited Manager",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arcus, Spirited Manager",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Departed / Necromancer"
     },
     "BP09-091EN": {
         "id": "BP09-091EN",
@@ -37087,6 +38490,29 @@
         ],
         "Trait": "Dragonheart / Draconic Duelist"
     },
+    "BP09-SP02EN": {
+        "id": "BP09-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Romelia, Lightning Striker",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Romelia, Lightning Striker (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Dragonewt / Draconic Duelist"
+    },
     "BP09-066EN": {
         "id": "BP09-066EN",
         "isToken": false,
@@ -37155,6 +38581,29 @@
             "BP07-09"
         ],
         "Trait": "Dragonewt / Wyrmkin"
+    },
+    "BP09-U04EN": {
+        "id": "BP09-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jerva of Draconic Mail",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jerva of Draconic Mail (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Dragonheart"
     },
     "BP09-063EN": {
         "id": "BP09-063EN",
@@ -37708,6 +39157,29 @@
         ],
         "Trait": "Academic"
     },
+    "SP01-SP15EN": {
+        "id": "SP01-SP15EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Grea, Mysterian Dragoness",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP15EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Grea, Mysterian Dragoness (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Mage / Academic / Princess"
+    },
     "BP09-040EN": {
         "id": "BP09-040EN",
         "isToken": false,
@@ -37722,6 +39194,29 @@
         },
         "name": "Grea, Mysterian Dragoness (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Mage / Academic / Princess"
+    },
+    "SP01-SP14EN": {
+        "id": "SP01-SP14EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Grea, Mysterian Dragoness",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP14EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Grea, Mysterian Dragoness",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Runecraft"
@@ -37754,6 +39249,52 @@
         ],
         "Trait": "Mage / Academic / Princess"
     },
+    "SP01-SP13EN": {
+        "id": "SP01-SP13EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Anne, Mysterian Prodigy",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Anne, Mysterian Prodigy",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Mage / Academic / Princess"
+    },
+    "BP09-SP01EN": {
+        "id": "BP09-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Anne, Mysterian Prodigy",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Anne, Mysterian Prodigy",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Mage / Academic / Princess"
+    },
     "BP09-038EN": {
         "id": "BP09-038EN",
         "isToken": false,
@@ -37776,6 +39317,29 @@
             "BP07-09"
         ],
         "Trait": "Mage / Academic / Princess"
+    },
+    "BP09-U03EN": {
+        "id": "BP09-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Faust, Truthseeker",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Faust, Truthseeker",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Alchemist"
     },
     "BP09-037EN": {
         "id": "BP09-037EN",
@@ -38099,6 +39663,29 @@
         ],
         "Trait": "Commander / Fable"
     },
+    "PR-244EN": {
+        "id": "PR-244EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nonja, Silent Maid",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-244EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nonja, Silent Maid",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Officer / Maid"
+    },
     "BP09-023EN": {
         "id": "BP09-023EN",
         "isToken": false,
@@ -38168,6 +39755,29 @@
         ],
         "Trait": "Commander / Princess"
     },
+    "BP09-U02EN": {
+        "id": "BP09-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spartacus",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spartacus",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Commander"
+    },
     "BP09-020EN": {
         "id": "BP09-020EN",
         "isToken": false,
@@ -38236,6 +39846,29 @@
             "BP07-09"
         ],
         "Trait": "Commander / Lightborne"
+    },
+    "SP01-SP06EN": {
+        "id": "SP01-SP06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Celia, Sky Commander",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Celia, Sky Commander",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Commander"
     },
     "BP09-018EN": {
         "id": "BP09-018EN",
@@ -38651,6 +40284,29 @@
         ],
         "Trait": "Fae-Touched / Beast"
     },
+    "BP09-U01EN": {
+        "id": "BP09-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yggdrasil",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP09/BP09-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yggdrasil",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Fae-Touched / Verdant"
+    },
     "BP09-001EN": {
         "id": "BP09-001EN",
         "isToken": false,
@@ -38858,6 +40514,29 @@
         ],
         "Trait": "Mercenary"
     },
+    "PR-202EN": {
+        "id": "PR-202EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ephemera, Sword Angel",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-202EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ephemera, Sword Angel",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Angel"
+    },
     "BP08-112EN": {
         "id": "BP08-112EN",
         "isToken": false,
@@ -38949,6 +40628,29 @@
             "BP07-09"
         ],
         "Trait": "Omen"
+    },
+    "BP08-U07EN": {
+        "id": "BP08-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tart Man",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tart Man",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Lightborne"
     },
     "BP08-108EN": {
         "id": "BP08-108EN",
@@ -39410,6 +41112,29 @@
         ],
         "Trait": "Zealot / Eidolon"
     },
+    "BP08-U06EN": {
+        "id": "BP08-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Godsworn Alexiel",
+                "type": "Evolve Deck",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Godsworn Alexiel (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Faith / Lightborne"
+    },
     "BP08-088EN": {
         "id": "BP08-088EN",
         "isToken": false,
@@ -39800,6 +41525,29 @@
             "BP07-09"
         ],
         "Trait": "Demon"
+    },
+    "BP08-U05EN": {
+        "id": "BP08-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nephthys",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nephthys",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Departed / Necromancer"
     },
     "BP08-071EN": {
         "id": "BP08-071EN",
@@ -40192,6 +41940,29 @@
         ],
         "Trait": "Dragonewt / Princess"
     },
+    "BP08-U04EN": {
+        "id": "BP08-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Azi Dahaka",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Azi Dahaka (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Wyrmkin"
+    },
     "BP08-054EN": {
         "id": "BP08-054EN",
         "isToken": false,
@@ -40582,6 +42353,29 @@
             "BP07-09"
         ],
         "Trait": "Arcanaform / Forbidden"
+    },
+    "BP08-U03EN": {
+        "id": "BP08-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prophetess of Creation",
+                "type": "Follower",
+                "cost": 10,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prophetess of Creation",
+        "type": "Follower",
+        "cost": 10,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Mage"
     },
     "BP08-037EN": {
         "id": "BP08-037EN",
@@ -40974,6 +42768,29 @@
         ],
         "Trait": "Commander"
     },
+    "BP08-U02EN": {
+        "id": "BP08-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dionne, Dancing Blade",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dionne, Dancing Blade (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Officer / Dancer"
+    },
     "BP08-020EN": {
         "id": "BP08-020EN",
         "isToken": false,
@@ -41273,6 +43090,29 @@
         ],
         "Trait": "Fae-Touched"
     },
+    "PR-366EN": {
+        "id": "PR-366EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lina & Lena, Twin Souls",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-366EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lina & Lena, Twin Souls",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Hunter / Beast"
+    },
     "BP08-007EN": {
         "id": "BP08-007EN",
         "isToken": false,
@@ -41410,6 +43250,29 @@
             "BP07-09"
         ],
         "Trait": "Puppetry / Lightborne"
+    },
+    "BP08-U01EN": {
+        "id": "BP08-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Orchis, Puppet Girl",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Orchis, Puppet Girl",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Puppetry"
     },
     "BP08-002EN": {
         "id": "BP08-002EN",
@@ -41756,6 +43619,29 @@
         ],
         "Trait": "Supreme"
     },
+    "PR-186EN": {
+        "id": "PR-186EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Desert Pathfinder",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-186EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Desert Pathfinder",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Natura / Mercenary"
+    },
     "BP07-107EN": {
         "id": "BP07-107EN",
         "isToken": false,
@@ -41778,6 +43664,29 @@
             "BP07-09"
         ],
         "Trait": "Natura / Mercenary"
+    },
+    "PR-187EN": {
+        "id": "PR-187EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mechawing Angel",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-187EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mechawing Angel",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Machina / Angel"
     },
     "BP07-106EN": {
         "id": "BP07-106EN",
@@ -41847,6 +43756,29 @@
             "BP07-09"
         ],
         "Trait": "Natura / Deity"
+    },
+    "BP07-U07EN": {
+        "id": "BP07-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Technolord",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Technolord",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Machina / Deity"
     },
     "BP07-103EN": {
         "id": "BP07-103EN",
@@ -42101,6 +44033,29 @@
         ],
         "Trait": "Beast / Fable"
     },
+    "PR-344ENN": {
+        "id": "PR-344EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Augmentation Bestowal",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-344EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Augmentation Bestowal",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Machina / Faith"
+    },
     "BP07-092EN": {
         "id": "BP07-092EN",
         "isToken": false,
@@ -42192,6 +44147,29 @@
             "BP07-09"
         ],
         "Trait": "Machina / Faith / Zealot"
+    },
+    "BP07-U06EN": {
+        "id": "BP07-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lapis, Glorious Seraph",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lapis, Glorious Seraph",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Faith / Luminary / Lightborne"
     },
     "BP07-088EN": {
         "id": "BP07-088EN",
@@ -42607,6 +44585,29 @@
         ],
         "Trait": "Vampire"
     },
+    "BP07-U05EN": {
+        "id": "BP07-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mono, Garnet Rebel",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mono, Garnet Rebel (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Machina / Demon"
+    },
     "BP07-070EN": {
         "id": "BP07-070EN",
         "isToken": false,
@@ -42998,6 +44999,29 @@
         ],
         "Trait": "Dragonheart / Marine"
     },
+    "BP07-U04EN": {
+        "id": "BP07-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Valdain, Cursed Shadow",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Valdain, Cursed Shadow (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Natura / Dragonewt"
+    },
     "BP07-053EN": {
         "id": "BP07-053EN",
         "isToken": false,
@@ -43335,6 +45359,29 @@
         "name": "Eleanor, Cosmic Flower",
         "type": "Follower",
         "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Mage"
+    },
+    "BP07-U03EN": {
+        "id": "BP07-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Riley, Hydroshaman",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Riley, Hydroshaman",
+        "type": "Follower",
+        "cost": 3,
         "Class": [
             "Runecraft"
         ],
@@ -43688,6 +45735,29 @@
         ],
         "Trait": "Natura / Commander / Beast"
     },
+    "PR-340EN": {
+        "id": "PR-340EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Leod, the Crescent Blade",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-340EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Leod, the Crescent Blade (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Assassin"
+    },
     "BP07-023EN": {
         "id": "BP07-023EN",
         "isToken": false,
@@ -43702,6 +45772,29 @@
         },
         "name": "Leod, the Crescent Blade (Evolved)",
         "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Assassin"
+    },
+    "PR-339EN": {
+        "id": "PR-339EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Leod, the Crescent Blade",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-339EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Leod, the Crescent Blade",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Swordcraft"
@@ -43734,6 +45827,29 @@
         ],
         "Trait": "Assassin"
     },
+    "BP07-U02EN": {
+        "id": "BP07-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tsubaki of the Demon Blade",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tsubaki of the Demon Blade",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Assassin / Ninja"
+    },
     "BP07-021EN": {
         "id": "BP07-021EN",
         "isToken": false,
@@ -43756,6 +45872,29 @@
             "BP07-09"
         ],
         "Trait": "Assassin / Ninja"
+    },
+    "PR-342EN": {
+        "id": "PR-342EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mistolina, Forest Princess",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-342EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mistolina, Forest Princess",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Natura / Commander / Princess"
     },
     "BP07-020EN": {
         "id": "BP07-020EN",
@@ -44170,6 +46309,29 @@
             "BP07-09"
         ],
         "Trait": "Elf"
+    },
+    "BP07-U01EN": {
+        "id": "BP07-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ladica, the Stoneclaw",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ladica, the Stoneclaw (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Natura / Beast"
     },
     "BP07-002EN": {
         "id": "BP07-002EN",
@@ -45137,6 +47299,29 @@
         ],
         "Trait": "iM@S CG / Cute / Cool / Passion"
     },
+    "CP02-SP13EN": {
+        "id": "CP02-SP13EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "New Generations",
+                "type": "Follower",
+                "cost": 10,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "New Generations",
+        "type": "Follower",
+        "cost": 10,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute / Cool / Passion"
+    },
     "CP02-103EN": {
         "id": "CP02-103EN",
         "isToken": false,
@@ -45482,6 +47667,29 @@
         ],
         "Trait": "iM@S CG / Cute"
     },
+    "CP02-SP12bEN": {
+        "id": "CP02-SP12bEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shin Sato",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP12bEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shin Sato (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
     "CP02-088EN": {
         "id": "CP02-088EN",
         "isToken": false,
@@ -45527,6 +47735,29 @@
             "Collab"
         ],
         "Trait": "iM@S CG / Passion"
+    },
+    "CP02-SP11EN": {
+        "id": "CP02-SP11EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaede Takagaki",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP11EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaede Takagaki",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
     "CP02-086EN": {
         "id": "CP02-086EN",
@@ -45873,6 +48104,29 @@
         ],
         "Trait": "iM@S CG / Passion"
     },
+    "CP02-SP10EN": {
+        "id": "CP02-SP10EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sachiko Koshimizu",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sachiko Koshimizu",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
+    },
     "CP02-071EN": {
         "id": "CP02-071EN",
         "isToken": false,
@@ -45895,6 +48149,29 @@
             "Collab"
         ],
         "Trait": "iM@S CG / Cute"
+    },
+    "CP02-SP09bEN": {
+        "id": "CP02-SP09bEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ranko Kanzaki",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP09bEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ranko Kanzaki (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
     "CP02-070EN": {
         "id": "CP02-070EN",
@@ -46241,6 +48518,29 @@
         ],
         "Trait": "iM@S CG / Cool"
     },
+    "CP02-SP08bEN": {
+        "id": "CP02-SP08bEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fumika Sagisawa",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP08bEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fumika Sagisawa",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
     "CP02-055EN": {
         "id": "CP02-055EN",
         "isToken": false,
@@ -46278,6 +48578,29 @@
         },
         "name": "Yui Ohtsuki (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
+    "CP02-SP07EN": {
+        "id": "CP02-SP07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yui Ohtsuki",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yui Ohtsuki",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Dragoncraft"
@@ -46632,6 +48955,29 @@
         ],
         "Trait": "iM@S CG / Cool"
     },
+    "CP02-SP06bEN": {
+        "id": "CP02-SP06bEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Syuko Shiomi",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP06bEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Syuko Shiomi",
+        "type": "Follower",
+        "cost": 9,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
     "CP02-038EN": {
         "id": "CP02-038EN",
         "isToken": false,
@@ -46669,6 +49015,29 @@
         },
         "name": "Shiki Ichinose (Evolved)",
         "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
+    },
+    "CP02-SP05EN": {
+        "id": "CP02-SP05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shiki Ichinose",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shiki Ichinose",
+        "type": "Follower",
         "cost": 5,
         "Class": [
             "Runecraft"
@@ -47046,6 +49415,29 @@
         ],
         "Trait": "iM@S CG / Cool"
     },
+    "CP02-SP04bEN": {
+        "id": "CP02-SP04bEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nagi Hisakawa",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP04bEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nagi Hisakawa",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
     "CP02-020EN": {
         "id": "CP02-020EN",
         "isToken": false,
@@ -47068,6 +49460,29 @@
             "Collab"
         ],
         "Trait": "iM@S CG / Passion"
+    },
+    "CP02-SP03EN": {
+        "id": "CP02-SP03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kyoko Igarashi",
+                "type": "Evolve Deck",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kyoko Igarashi (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
     "CP02-019EN": {
         "id": "CP02-019EN",
@@ -47368,6 +49783,29 @@
         ],
         "Trait": "iM@S CG / Cool"
     },
+    "CP02-SP02EN": {
+        "id": "CP02-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Anastasia",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Anastasia",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
     "CP02-006EN": {
         "id": "CP02-006EN",
         "isToken": false,
@@ -47436,6 +49874,29 @@
             "Collab"
         ],
         "Trait": "iM@S CG / Passion"
+    },
+    "CP02-SP01bEN": {
+        "id": "CP02-SP01bEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Miku Maekawa",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-SP01bEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Miku Maekawa",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
     "CP02-003EN": {
         "id": "CP02-003EN",
@@ -47851,6 +50312,29 @@
         ],
         "Trait": "Lightborne"
     },
+    "BP06-U07EN": {
+        "id": "BP06-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Badb Catha",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Badb Catha (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Deity / Lightborne"
+    },
     "BP06-105EN": {
         "id": "BP06-105EN",
         "isToken": false,
@@ -47865,6 +50349,29 @@
         },
         "name": "Badb Catha (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Deity / Lightborne"
+    },
+    "PR-177EN": {
+        "id": "PR-177EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Badb Catha",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-177EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Badb Catha",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Neutral"
@@ -48242,6 +50749,29 @@
         ],
         "Trait": "Luminary"
     },
+    "BP06-U06EN": {
+        "id": "BP06-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Karula, Arts Master",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Karula, Arts Master (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Faith"
+    },
     "BP06-088EN": {
         "id": "BP06-088EN",
         "isToken": false,
@@ -48287,6 +50817,29 @@
             "BP04-06"
         ],
         "Trait": "Arena / Faith"
+    },
+    "SP01-SP28EN": {
+        "id": "SP01-SP28EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wilbert, Grand Knight",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP28EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wilbert, Grand Knight",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Luminary"
     },
     "BP06-086EN": {
         "id": "BP06-086EN",
@@ -48541,6 +51094,29 @@
         ],
         "Trait": "Yokai"
     },
+    "PR-165EN": {
+        "id": "PR-165EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yuzuki, Righteous Demon",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-165EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yuzuki, Righteous Demon",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Demon"
+    },
     "BP06-075EN": {
         "id": "BP06-075EN",
         "isToken": false,
@@ -48656,6 +51232,29 @@
         ],
         "Trait": "Arena / Beast"
     },
+    "SP01-SP22EN": {
+        "id": "SP01-SP22EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ginsetsu, Great Fox",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP22EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ginsetsu, Great Fox (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Yokai"
+    },
     "BP06-070EN": {
         "id": "BP06-070EN",
         "isToken": false,
@@ -48670,6 +51269,29 @@
         },
         "name": "Ginsetsu, Great Fox (Evolved)",
         "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Yokai"
+    },
+    "SP01-SP21EN": {
+        "id": "SP01-SP21EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ginsetsu, Great Fox",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP21EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ginsetsu, Great Fox",
+        "type": "Follower",
         "cost": 6,
         "Class": [
             "Abysscraft"
@@ -49024,6 +51646,29 @@
         ],
         "Trait": "Phoenix"
     },
+    "SP01-SP17EN": {
+        "id": "SP01-SP17EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Filene, Whitefrost Dragonewt",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP17EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Filene, Whitefrost Dragonewt",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Dragonewt"
+    },
     "BP06-054EN": {
         "id": "BP06-054EN",
         "isToken": false,
@@ -49346,6 +51991,29 @@
         ],
         "Trait": "Onmyoji"
     },
+    "PR-164EN": {
+        "id": "PR-164EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hulking Giant",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-164EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hulking Giant",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Golem / Forbidden"
+    },
     "BP06-040EN": {
         "id": "BP06-040EN",
         "isToken": false,
@@ -49415,6 +52083,29 @@
         ],
         "Trait": "Onmyoji"
     },
+    "BP08-SP02EN": {
+        "id": "BP08-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mysteria, Magic Founder",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mysteria, Magic Founder (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Mage / Academic"
+    },
     "BP06-037EN": {
         "id": "BP06-037EN",
         "isToken": false,
@@ -49429,6 +52120,29 @@
         },
         "name": "Mysteria, Magic Founder (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Mage / Academic"
+    },
+    "BP08-SP01EN": {
+        "id": "BP08-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mysteria, Magic Founder",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP08/BP08-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mysteria, Magic Founder",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Runecraft"
@@ -49460,6 +52174,29 @@
             "BP04-06"
         ],
         "Trait": "Mage / Academic"
+    },
+    "PR-136EN": {
+        "id": "PR-136EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kuon, Founder of Onmyodo",
+                "type": "Follower",
+                "cost": 15,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-136EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kuon, Founder of Onmyodo",
+        "type": "Follower",
+        "cost": 15,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Onmyoji"
     },
     "BP06-035EN": {
         "id": "BP06-035EN",
@@ -49806,6 +52543,29 @@
         ],
         "Trait": "Officer"
     },
+    "SP01-SP08EN": {
+        "id": "SP01-SP08EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ralmia, Sonic Racer",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ralmia, Sonic Racer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Officer / Supreme"
+    },
     "BP06-020EN": {
         "id": "BP06-020EN",
         "isToken": false,
@@ -49820,6 +52580,29 @@
         },
         "name": "Ralmia, Sonic Racer (Evolved)",
         "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Officer / Supreme"
+    },
+    "SP01-SP07EN": {
+        "id": "SP01-SP07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ralmia, Sonic Racer",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ralmia, Sonic Racer",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Swordcraft"
@@ -49851,6 +52634,29 @@
             "BP04-06"
         ],
         "Trait": "Officer / Supreme"
+    },
+    "BSF2025-001EN": {
+        "id": "BSF2025-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kagemitsu, Matchless Blade",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/BSF2025-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kagemitsu, Matchless Blade",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Officer"
     },
     "BP06-018EN": {
         "id": "BP06-018EN",
@@ -50220,6 +53026,29 @@
         ],
         "Trait": "Elf / Fae-Touched"
     },
+    "BP06-U01EN": {
+        "id": "BP06-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lymaga, Forest Champion",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lymaga, Forest Champion (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arena / Hunter"
+    },
     "BP06-002EN": {
         "id": "BP06-002EN",
         "isToken": false,
@@ -50588,6 +53417,29 @@
         ],
         "Trait": "Mercenary"
     },
+    "PR-359EN": {
+        "id": "PR-359EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lyrial, Archer Throne",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-359EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lyrial, Archer Throne",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Angel"
+    },
     "BP05-108EN": {
         "id": "BP05-108EN",
         "isToken": false,
@@ -50649,6 +53501,29 @@
         "name": "Apostle of Craving",
         "type": "Follower",
         "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen"
+    },
+    "PR-127EN": {
+        "id": "PR-127EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gilnelise, Omen of Craving",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-127EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gilnelise, Omen of Craving",
+        "type": "Follower",
+        "cost": 4,
         "Class": [
             "Neutral"
         ],
@@ -51071,6 +53946,29 @@
         ],
         "Trait": "Luminary / Supreme"
     },
+    "BP05-U06EN": {
+        "id": "BP05-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Marwynn, Omen of Repose",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Marwynn, Omen of Repose (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Zealot"
+    },
     "BP05-087EN": {
         "id": "BP05-087EN",
         "isToken": false,
@@ -51278,6 +54176,29 @@
         ],
         "Trait": "Omen / Necromancer"
     },
+    "PR-341EN": {
+        "id": "PR-341EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wings of Lust",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-341EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wings of Lust",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Demon"
+    },
     "BP05-078EN": {
         "id": "BP05-078EN",
         "isToken": false,
@@ -51484,6 +54405,29 @@
             "BP04-06"
         ],
         "Trait": "Omen / Necromancer"
+    },
+    "BP05-U05EN": {
+        "id": "BP05-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Valnareik, Omen of Lust",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Valnareik, Omen of Lust",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Demon"
     },
     "BP05-069EN": {
         "id": "BP05-069EN",
@@ -51853,6 +54797,29 @@
         ],
         "Trait": "Gigant / Supreme"
     },
+    "SP01-SP19EN": {
+        "id": "SP01-SP19EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Galmieux, Omen of Disdain",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP19EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Galmieux, Omen of Disdain (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Wyrmkin"
+    },
     "BP05-053EN": {
         "id": "BP05-053EN",
         "isToken": false,
@@ -51867,6 +54834,29 @@
         },
         "name": "Galmieux, Omen of Disdain (Evolved)",
         "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Wyrmkin"
+    },
+    "SP01-SP18EN": {
+        "id": "SP01-SP18EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Galmieux, Omen of Disdain",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP18EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Galmieux, Omen of Disdain",
+        "type": "Follower",
         "cost": 5,
         "Class": [
             "Dragoncraft"
@@ -52152,6 +55142,29 @@
         ],
         "Trait": "Omen / Idolatry"
     },
+    "PR-119EN": {
+        "id": "PR-119EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Safira, Synthetic Beast",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-119EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Safira, Synthetic Beast",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Arcanaform / Forbidden"
+    },
     "BP05-040EN": {
         "id": "BP05-040EN",
         "isToken": false,
@@ -52220,6 +55233,29 @@
             "BP04-06"
         ],
         "Trait": "Omen / Mage"
+    },
+    "BP05-U03EN": {
+        "id": "BP05-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lishenna, Omen of Destruction",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lishenna, Omen of Destruction",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Idolatry"
     },
     "BP05-037EN": {
         "id": "BP05-037EN",
@@ -52635,6 +55671,29 @@
         ],
         "Trait": "Supreme / Magna"
     },
+    "BP05-U02EN": {
+        "id": "BP05-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Octrice, Omen of Usurpation",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Octrice, Omen of Usurpation (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Thief"
+    },
     "BP05-019EN": {
         "id": "BP05-019EN",
         "isToken": false,
@@ -53003,6 +56062,29 @@
         ],
         "Trait": "Omen / Hunter"
     },
+    "PR-168EN": {
+        "id": "PR-168EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spinaria, Keeper of Enigmas",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-168EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spinaria, Keeper of Enigmas",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Supreme"
+    },
     "BP05-003EN": {
         "id": "BP05-003EN",
         "isToken": false,
@@ -53025,6 +56107,29 @@
             "BP04-06"
         ],
         "Trait": "Supreme"
+    },
+    "BP05-U01EN": {
+        "id": "BP05-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Izudia, Omen of Unkilling",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Izudia, Omen of Unkilling (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Omen / Hunter"
     },
     "BP05-002EN": {
         "id": "BP05-002EN",
@@ -53362,6 +56467,29 @@
         },
         "name": "Israfil (Evolved)",
         "type": "Evolve Deck",
+        "cost": 8,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Angel / Deity"
+    },
+    "BP04-U07EN": {
+        "id": "BP04-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Israfil",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Israfil",
+        "type": "Follower",
         "cost": 8,
         "Class": [
             "Neutral"
@@ -53716,6 +56844,29 @@
         ],
         "Trait": "Celestial / Princess"
     },
+    "PR-106EN": {
+        "id": "PR-106EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zoe, Princess of Goldenia",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-106EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zoe, Princess of Goldenia (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Faith / Princess"
+    },
     "BP04-102EN": {
         "id": "BP04-102EN",
         "isToken": false,
@@ -53730,6 +56881,29 @@
         },
         "name": "Zoe, Princess of Goldenia (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Faith / Princess"
+    },
+    "PR-105EN": {
+        "id": "PR-105EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zoe, Princess of Goldenia",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-105EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zoe, Princess of Goldenia",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Havencraft"
@@ -53807,6 +56981,29 @@
             "BP04-06"
         ],
         "Trait": "Zealot"
+    },
+    "SP01-SP29EN": {
+        "id": "SP01-SP29EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aether of the White Wing",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP29EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aether of the White Wing",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Faith / Luminary / Lightborne"
     },
     "BP04-098EN": {
         "id": "BP04-098EN",
@@ -54176,6 +57373,29 @@
         ],
         "Trait": "Departed"
     },
+    "BP04-SP01EN": {
+        "id": "BP04-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lelouch, Righteous Emperor",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lelouch, Righteous Emperor",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Departed"
+    },
     "BP04-082EN": {
         "id": "BP04-082EN",
         "isToken": false,
@@ -54244,6 +57464,29 @@
             "BP04-06"
         ],
         "Trait": "Demon / Musical"
+    },
+    "BP04-U05EN": {
+        "id": "BP04-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Venomfang Medusa",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Venomfang Medusa",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Demon / Gorgon"
     },
     "BP04-079EN": {
         "id": "BP04-079EN",
@@ -54567,6 +57810,29 @@
         ],
         "Trait": "Wyrmkin"
     },
+    "PR-104EN": {
+        "id": "PR-104EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Star Phoenix",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-104EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Star Phoenix (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Phoenix / Celestial"
+    },
     "BP04-065EN": {
         "id": "BP04-065EN",
         "isToken": false,
@@ -54581,6 +57847,29 @@
         },
         "name": "Star Phoenix (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Phoenix / Celestial"
+    },
+    "PR-103EN": {
+        "id": "PR-103EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Star Phoenix",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-103EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Star Phoenix",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Dragoncraft"
@@ -54612,6 +57901,29 @@
             "BP04-06"
         ],
         "Trait": "Phoenix / Celestial"
+    },
+    "BP04-U04EN": {
+        "id": "BP04-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prime Dragon Keeper",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prime Dragon Keeper",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Dragonheart"
     },
     "BP04-063EN": {
         "id": "BP04-063EN",
@@ -55072,6 +58384,29 @@
             "BP04-06"
         ],
         "Trait": "Mage"
+    },
+    "BP04-U03EN": {
+        "id": "BP04-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Europa",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Europa (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Mage / Celestial"
     },
     "BP04-043EN": {
         "id": "BP04-043EN",
@@ -55556,6 +58891,29 @@
         ],
         "Trait": "Commander"
     },
+    "BP04-U02EN": {
+        "id": "BP04-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gawain of the Round Table",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gawain of the Round Table",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Officer / Arthurian"
+    },
     "BP04-022EN": {
         "id": "BP04-022EN",
         "isToken": false,
@@ -56039,6 +59397,29 @@
         ],
         "Trait": "Fae-Touched / Celestial"
     },
+    "BP04-U01EN": {
+        "id": "BP04-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cassiopeia",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cassiopeia",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Fae-Touched / Celestial"
+    },
     "BP04-001EN": {
         "id": "BP04-001EN",
         "isToken": false,
@@ -56360,6 +59741,29 @@
             "BP01-03"
         ],
         "Trait": "Angel / Fallen Angel"
+    },
+    "BP03-U07EN": {
+        "id": "BP03-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Alice, Wonderland Explorer",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Alice, Wonderland Explorer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Fable"
     },
     "BP03-108EN": {
         "id": "BP03-108EN",
@@ -56705,6 +60109,29 @@
             "BP01-03"
         ],
         "Trait": "Faith / Avian"
+    },
+    "BP03-U06EN": {
+        "id": "BP03-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Odette, White Swan",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Odette, White Swan",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Faith / Fable"
     },
     "BP03-093EN": {
         "id": "BP03-093EN",
@@ -57166,6 +60593,29 @@
         ],
         "Trait": "Departed"
     },
+    "BP03-U05EN": {
+        "id": "BP03-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Alice",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Alice",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Demon / Fable"
+    },
     "BP03-073EN": {
         "id": "BP03-073EN",
         "isToken": false,
@@ -57580,6 +61030,29 @@
         ],
         "Trait": "Wyrmkin / Armed"
     },
+    "BP03-U04EN": {
+        "id": "BP03-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jabberwock",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jabberwock",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Wyrmkin / Fable"
+    },
     "BP03-055EN": {
         "id": "BP03-055EN",
         "isToken": false,
@@ -57948,6 +61421,29 @@
         ],
         "Trait": "Chess"
     },
+    "PR-072EN": {
+        "id": "PR-072EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Falise, Leonardian Mage",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-072EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Falise, Leonardian Mage",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mage / Academic"
+    },
     "BP03-039EN": {
         "id": "BP03-039EN",
         "isToken": false,
@@ -58030,6 +61526,52 @@
             }
         },
         "name": "Witch of Calamity, Millie Parfait",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mage / Fable"
+    },
+    "BP03-SP01EN": {
+        "id": "BP03-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Witch of Calamity, Millie Parfait",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Witch of Calamity, Millie Parfait",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mage / Fable"
+    },
+    "BP03-U03EN": {
+        "id": "BP03-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wizardess of Oz",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wizardess of Oz",
         "type": "Follower",
         "cost": 6,
         "Class": [
@@ -58362,6 +61904,29 @@
         ],
         "Trait": "Officer / Heroic"
     },
+    "PR-073EN": {
+        "id": "PR-073EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maisy, Red Riding Hood",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-073EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maisy, Red Riding Hood",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Assassin / Fable"
+    },
     "BP03-021EN": {
         "id": "BP03-021EN",
         "isToken": false,
@@ -58430,6 +61995,29 @@
             "BP01-03"
         ],
         "Trait": "Commander / Heroic"
+    },
+    "BP03-U02EN": {
+        "id": "BP03-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cinderella",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cinderella",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Princess / Fable"
     },
     "BP03-018EN": {
         "id": "BP03-018EN",
@@ -58753,6 +62341,29 @@
         ],
         "Trait": "Verdant / Beast"
     },
+    "BP03-U01EN": {
+        "id": "BP03-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Fairy, Lilac",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Fairy, Lilac",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Pixie / Fable"
+    },
     "BP03-004EN": {
         "id": "BP03-004EN",
         "isToken": false,
@@ -59052,6 +62663,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP19EN": {
+        "id": "CP01-SP19EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Riko Kashimoto [Planned Perfection]",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP19EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Riko Kashimoto [Planned Perfection]",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Tracen Academy"
+    },
     "CP01-079EN": {
         "id": "CP01-079EN",
         "isToken": false,
@@ -59305,6 +62939,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP18EN": {
+        "id": "CP01-SP18EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gold Ship",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP18EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gold Ship",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-068EN": {
         "id": "CP01-068EN",
         "isToken": false,
@@ -59328,6 +62985,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP17EN": {
+        "id": "CP01-SP17EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mejiro McQueen",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP17EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mejiro McQueen (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume / Mejiro Family"
+    },
     "CP01-067EN": {
         "id": "CP01-067EN",
         "isToken": false,
@@ -59342,6 +63022,29 @@
         },
         "name": "Mejiro McQueen (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume / Mejiro Family"
+    },
+    "CP01-SP16EN": {
+        "id": "CP01-SP16EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mejiro McQueen",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP16EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mejiro McQueen",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Havencraft"
@@ -59604,6 +63307,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP15EN": {
+        "id": "CP01-SP15EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rice Shower",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP15EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rice Shower",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-055EN": {
         "id": "CP01-055EN",
         "isToken": false,
@@ -59627,6 +63353,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP14EN": {
+        "id": "CP01-SP14EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maruzensky",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP14EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maruzensky (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-054EN": {
         "id": "CP01-054EN",
         "isToken": false,
@@ -59641,6 +63390,29 @@
         },
         "name": "Maruzensky (Evolved)",
         "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
+    "CP01-SP13EN": {
+        "id": "CP01-SP13EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maruzensky",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maruzensky",
+        "type": "Follower",
         "cost": 3,
         "Class": [
             "Abysscraft"
@@ -59903,6 +63675,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP12EN": {
+        "id": "CP01-SP12EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Oguri Cap",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP12EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Oguri Cap",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-042EN": {
         "id": "CP01-042EN",
         "isToken": false,
@@ -59926,6 +63721,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP11EN": {
+        "id": "CP01-SP11EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Special Week",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP11EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Special Week (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-041EN": {
         "id": "CP01-041EN",
         "isToken": false,
@@ -59940,6 +63758,29 @@
         },
         "name": "Special Week (Evolved)",
         "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
+    "PR-368EN": {
+        "id": "PR-368EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Special Week",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-368EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Special Week",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Dragoncraft"
@@ -60202,6 +64043,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP09EN": {
+        "id": "CP01-SP09EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Daiwa Scarlet",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Daiwa Scarlet",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-029EN": {
         "id": "CP01-029EN",
         "isToken": false,
@@ -60225,6 +64089,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP08EN": {
+        "id": "CP01-SP08EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Agnes Tachyon",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Agnes Tachyon (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-028EN": {
         "id": "CP01-028EN",
         "isToken": false,
@@ -60239,6 +64126,29 @@
         },
         "name": "Agnes Tachyon (Evolved)",
         "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
+    "CP01-SP07EN": {
+        "id": "CP01-SP07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Agnes Tachyon",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Agnes Tachyon",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Runecraft"
@@ -60501,6 +64411,29 @@
         ],
         "Trait": "Umamusume / BNW"
     },
+    "CP01-SP06EN": {
+        "id": "CP01-SP06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Narita Brian",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Narita Brian",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-016EN": {
         "id": "CP01-016EN",
         "isToken": false,
@@ -60524,6 +64457,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP05EN": {
+        "id": "CP01-SP05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tokai Teio",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tokai Teio (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-015EN": {
         "id": "CP01-015EN",
         "isToken": false,
@@ -60538,6 +64494,29 @@
         },
         "name": "Tokai Teio (Evolved)",
         "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
+    "CP01-SP04EN": {
+        "id": "CP01-SP04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tokai Teio",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tokai Teio",
+        "type": "Follower",
         "cost": 5,
         "Class": [
             "Swordcraft"
@@ -60800,6 +64779,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP03EN": {
+        "id": "CP01-SP03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Smart Falcon",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Smart Falcon",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-003EN": {
         "id": "CP01-003EN",
         "isToken": false,
@@ -60823,6 +64825,29 @@
         ],
         "Trait": "Umamusume"
     },
+    "CP01-SP02EN": {
+        "id": "CP01-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Silence Suzuka",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Silence Suzuka (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
     "CP01-002EN": {
         "id": "CP01-002EN",
         "isToken": false,
@@ -60837,6 +64862,29 @@
         },
         "name": "Silence Suzuka (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "Umamusume"
+    },
+    "CP01-SP01EN": {
+        "id": "CP01-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Silence Suzuka",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Silence Suzuka",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Forestcraft"
@@ -61237,6 +65285,29 @@
         ],
         "Trait": "Lightborne"
     },
+    "SS02-U01EN": {
+        "id": "SS02-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Surefire Bullet",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SS02/SS02-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Surefire Bullet",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mercenary"
+    },
     "BP02-109EN": {
         "id": "BP02-109EN",
         "isToken": false,
@@ -61329,6 +65400,29 @@
         ],
         "Trait": "Fiend"
     },
+    "BP02-U07EN": {
+        "id": "BP02-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bahamut",
+                "type": "Evolve Deck",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bahamut (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 9,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Deity / Supreme"
+    },
     "BP02-105EN": {
         "id": "BP02-105EN",
         "isToken": false,
@@ -61343,6 +65437,29 @@
         },
         "name": "Bahamut (Evolved)",
         "type": "Evolve Deck",
+        "cost": 9,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Deity / Supreme"
+    },
+    "BSF2024-001EN": {
+        "id": "BSF2024-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bahamut",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/BSF2024-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bahamut",
+        "type": "Follower",
         "cost": 9,
         "Class": [
             "Neutral"
@@ -61374,6 +65491,29 @@
             "BP01-03"
         ],
         "Trait": "Deity / Supreme"
+    },
+    "SP01-SP32EN": {
+        "id": "SP01-SP32EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Angel Olivia",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP32EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Angel Olivia",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Fallen Angel"
     },
     "BP02-103EN": {
         "id": "BP02-103EN",
@@ -61674,6 +65814,29 @@
         ],
         "Trait": "Faith"
     },
+    "BP02-U06EN": {
+        "id": "BP02-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaguya",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaguya (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Faith"
+    },
     "BP02-090EN": {
         "id": "BP02-090EN",
         "isToken": false,
@@ -61757,6 +65920,29 @@
         },
         "name": "Heavenly Aegis (Evolved)",
         "type": "Evolve Deck",
+        "cost": 8,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Faith / Eidolon"
+    },
+    "PR-139EN": {
+        "id": "PR-139EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Heavenly Aegis",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-139EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Heavenly Aegis",
+        "type": "Follower",
         "cost": 8,
         "Class": [
             "Havencraft"
@@ -62157,6 +66343,29 @@
         ],
         "Trait": "Demon"
     },
+    "BP02-U05EN": {
+        "id": "BP02-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vania, Vampire Princess",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vania, Vampire Princess",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Vampire / Princess"
+    },
     "BP02-069EN": {
         "id": "BP02-069EN",
         "isToken": false,
@@ -62525,6 +66734,29 @@
         ],
         "Trait": "Dragonheart"
     },
+    "BP02-U04EN": {
+        "id": "BP02-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Imperial Dragoon",
+                "type": "Evolve Deck",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Imperial Dragoon (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 8,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Dragonheart"
+    },
     "BP02-053EN": {
         "id": "BP02-053EN",
         "isToken": false,
@@ -62846,6 +67078,29 @@
             "BP01-03"
         ],
         "Trait": "Dragonewt / Academic"
+    },
+    "BP02-U03EN": {
+        "id": "BP02-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Anne, Belle of Mysteria",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Anne, Belle of Mysteria (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mage / Academic / Princess"
     },
     "BP02-039EN": {
         "id": "BP02-039EN",
@@ -63261,6 +67516,29 @@
         ],
         "Trait": "Commander"
     },
+    "BP02-U02EN": {
+        "id": "BP02-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Amelia, Silver Paladin",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Amelia, Silver Paladin",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Commander"
+    },
     "BP02-021EN": {
         "id": "BP02-021EN",
         "isToken": false,
@@ -63307,6 +67585,29 @@
         ],
         "Trait": "Commander"
     },
+    "SP01-SP10EN": {
+        "id": "SP01-SP10EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Albert, Levin Saber",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Albert, Levin Saber (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Commander / Levin"
+    },
     "BP02-019EN": {
         "id": "BP02-019EN",
         "isToken": false,
@@ -63321,6 +67622,29 @@
         },
         "name": "Albert, Levin Saber (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Commander / Levin"
+    },
+    "SP01-SP09EN": {
+        "id": "SP01-SP09EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Albert, Levin Saber",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Albert, Levin Saber",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Swordcraft"
@@ -63697,6 +68021,29 @@
             "BP01-03"
         ],
         "Trait": "Fae-Touched / Beast"
+    },
+    "BP02-U01EN": {
+        "id": "BP02-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crystalia Tia",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crystalia Tia (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Crystalian / Princess"
     },
     "BP02-002EN": {
         "id": "BP02-002EN",
@@ -64135,6 +68482,29 @@
         ],
         "Trait": "Verdant"
     },
+    "PR-018EN": {
+        "id": "PR-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Angelic Barrage",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-018EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Angelic Barrage",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Angel"
+    },
     "BP01-180EN": {
         "id": "BP01-180EN",
         "isToken": false,
@@ -64148,6 +68518,29 @@
             }
         },
         "name": "Angelic Barrage",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Angel"
+    },
+    "PR-017EN": {
+        "id": "PR-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Angelic Snipe",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-017EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Angelic Snipe",
         "type": "Spell",
         "cost": 1,
         "Class": [
@@ -64365,6 +68758,29 @@
         ],
         "Trait": "Goblinoid"
     },
+    "PR-020EN": {
+        "id": "PR-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Trail of Light",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-020EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Trail of Light",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Lightborne"
+    },
     "BP01-170EN": {
         "id": "BP01-170EN",
         "isToken": false,
@@ -64403,6 +68819,29 @@
         "name": "Execution",
         "type": "Spell",
         "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Fiend"
+    },
+    "PR-019EN": {
+        "id": "PR-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Demonic Strike",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-019EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Demonic Strike",
+        "type": "Spell",
+        "cost": 3,
         "Class": [
             "Neutral"
         ],
@@ -64801,6 +69240,29 @@
             "BP01-03"
         ],
         "Trait": "Angel / Fallen Angel"
+    },
+    "BP01-U07EN": {
+        "id": "BP01-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gabriel",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gabriel",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Angel"
     },
     "BP01-151EN": {
         "id": "BP01-151EN",
@@ -65331,6 +69793,29 @@
         ],
         "Trait": "Faith"
     },
+    "BP01-U06EN": {
+        "id": "BP01-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jeanne d'Arc",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jeanne d'Arc (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Luminary"
+    },
     "BP01-128EN": {
         "id": "BP01-128EN",
         "isToken": false,
@@ -65345,6 +69830,29 @@
         },
         "name": "Jeanne d'Arc (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Luminary"
+    },
+    "BP13-SP02EN": {
+        "id": "BP13-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jeanne d'Arc",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jeanne d'Arc",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Havencraft"
@@ -65598,6 +70106,29 @@
         },
         "name": "Skeleton Fighter",
         "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Departed"
+    },
+    "PR-234EN": {
+        "id": "PR-234EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Soul Conversion",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-234EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Soul Conversion",
+        "type": "Spell",
         "cost": 1,
         "Class": [
             "Abysscraft"
@@ -65883,6 +70414,29 @@
         ],
         "Trait": "Demon"
     },
+    "BP01-U05EN": {
+        "id": "BP01-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Medusa",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Medusa",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Demon"
+    },
     "BP01-104EN": {
         "id": "BP01-104EN",
         "isToken": false,
@@ -65929,6 +70483,29 @@
         ],
         "Trait": "Departed"
     },
+    "SP01-SP24EN": {
+        "id": "SP01-SP24EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cerberus",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP24EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cerberus (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Demon"
+    },
     "BP01-102EN": {
         "id": "BP01-102EN",
         "isToken": false,
@@ -65943,6 +70520,29 @@
         },
         "name": "Cerberus (Evolved)",
         "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Demon"
+    },
+    "SP01-SP23EN": {
+        "id": "SP01-SP23EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cerberus",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP23EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cerberus",
+        "type": "Follower",
         "cost": 4,
         "Class": [
             "Abysscraft"
@@ -66013,6 +70613,29 @@
         "name": "Dragon Wings",
         "type": "Spell",
         "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "PR-124EN": {
+        "id": "PR-124EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blazing Breath",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-124EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blazing Breath",
+        "type": "Spell",
+        "cost": 1,
         "Class": [
             "Dragoncraft"
         ],
@@ -66504,6 +71127,29 @@
         ],
         "Trait": "Dragonewt"
     },
+    "BP01-SP02EN": {
+        "id": "BP01-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Dragoon Forte",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Dragoon Forte (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Dragonheart"
+    },
     "BP01-077EN": {
         "id": "BP01-077EN",
         "isToken": false,
@@ -66549,6 +71195,29 @@
             "BP01-03"
         ],
         "Trait": "Dragonheart"
+    },
+    "PR-298EN": {
+        "id": "PR-298EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Teachings of Creation",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-298EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Teachings of Creation",
+        "type": "Amulet",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Earth Sigil"
     },
     "BP01-075EN": {
         "id": "BP01-075EN",
@@ -66941,6 +71610,29 @@
         ],
         "Trait": "Mage"
     },
+    "BP01-U03EN": {
+        "id": "BP01-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Juno's Secret Laboratory",
+                "type": "Amulet",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Juno's Secret Laboratory",
+        "type": "Amulet",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Alchemist"
+    },
     "BP01-058EN": {
         "id": "BP01-058EN",
         "isToken": false,
@@ -66963,6 +71655,29 @@
             "BP01-03"
         ],
         "Trait": "Alchemist"
+    },
+    "PR-299EN": {
+        "id": "PR-299EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dimension Shift",
+                "type": "Spell",
+                "cost": 12,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-299EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dimension Shift",
+        "type": "Spell",
+        "cost": 12,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mage"
     },
     "BP01-057EN": {
         "id": "BP01-057EN",
@@ -67055,6 +71770,29 @@
             "BP01-03"
         ],
         "Trait": "Alchemist"
+    },
+    "PR-343EN": {
+        "id": "PR-343EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Merlin",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-343EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Merlin (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Mage"
     },
     "BP01-053EN": {
         "id": "BP01-053EN",
@@ -67654,6 +72392,29 @@
         ],
         "Trait": "Commander / Princess"
     },
+    "BP01-U02EN": {
+        "id": "BP01-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sea Queen Otohime",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sea Queen Otohime (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Commander / Princess"
+    },
     "BP01-027EN": {
         "id": "BP01-027EN",
         "isToken": false,
@@ -67929,6 +72690,29 @@
             "BP01-03"
         ],
         "Trait": "Elf"
+    },
+    "PR-266EN": {
+        "id": "PR-266EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nature's Guidance",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-266EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nature's Guidance",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Pixie"
     },
     "BP01-015EN": {
         "id": "BP01-015EN",
@@ -68642,6 +73426,29 @@
         ],
         "Trait": "Zealot / Eidolon"
     },
+    "PR-211EN": {
+        "id": "PR-211EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Summon Bloodkin",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-211EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Summon Bloodkin",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Vampire"
+    },
     "SD05-016EN": {
         "id": "SD05-016EN",
         "isToken": false,
@@ -69140,6 +73947,29 @@
         "name": "Dragon Warrior",
         "type": "Follower",
         "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "PR-235EN": {
+        "id": "PR-235EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dragon Oracle",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-235EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dragon Oracle",
+        "type": "Spell",
+        "cost": 2,
         "Class": [
             "Dragoncraft"
         ],
@@ -69991,6 +74821,29 @@
         "name": "Titania's Sanctuary",
         "type": "Amulet",
         "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "SDs+SP01"
+        ],
+        "Trait": "Pixie / Princess"
+    },
+    "SP01-SP04EN": {
+        "id": "SP01-SP04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aria, Fairy Princess",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-SP04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aria, Fairy Princess",
+        "type": "Follower",
+        "cost": 6,
         "Class": [
             "Forestcraft"
         ],
