@@ -47529,7 +47529,7 @@
                 "isHorizontal": false
             }
         },
-        "name": "Cute Earrings",
+        "name": "Magical Item",
         "type": "Token",
         "cost": 4,
         "Class": [
@@ -47538,7 +47538,7 @@
         "Set": [
             "Collab"
         ],
-        "Trait": ""
+        "Trait": "iM@S CG"
     },
     "CSD02c-001EN": {
         "id": "CSD02c-001EN",
@@ -74270,13 +74270,13 @@
                 "isHorizontal": false
             }
         },
-        "name": "Cute Earrings",
+        "name": "Magical Item",
         "type": "Token",
         "cost": 4,
         "Class": [
             "Neutral"
         ],
-        "Trait": ""
+        "Trait": "iM@S CG"
     },
     "BP07-T01EN_TOKEN": {
         "id": "BP07-T01EN_TOKEN",
