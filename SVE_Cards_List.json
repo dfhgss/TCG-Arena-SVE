@@ -63990,14 +63990,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Carrot A Super Successful Event!",
+                "name": "Carrot",
                 "type": "Evolve Deck",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL27EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Carrot A Super Successful Event!",
+        "name": "Carrot",
         "type": "Evolve Deck",
         "cost": 0,
         "Class": [
