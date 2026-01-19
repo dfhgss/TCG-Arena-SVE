@@ -63985,6 +63985,29 @@
         ],
         "Trait": ""
     },
+    "ECP01-SL27EN": {
+        "id": "ECP01-SL27EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Carrot A Super Successful Event!",
+                "type": "Evolve Deck",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL27EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carrot A Super Successful Event!",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": ""
+    },
     "CSD01-007EN": {
         "id": "CSD01-007EN",
         "isToken": false,
