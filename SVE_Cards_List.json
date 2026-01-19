@@ -27806,6 +27806,29 @@
         ],
         "Trait": "Wasteland / Mount / Beast"
     },
+    "PR-346EN": {
+        "id": "PR-346EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dutiful Steed",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-346EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dutiful Steed",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP10-12"
+        ],
+        "Trait": "Wasteland / Mount / Beast"
+    },
     "BP11-T04EN": {
         "id": "BP11-T04EN",
         "isToken": false,
@@ -44734,6 +44757,29 @@
         ],
         "Trait": "Natura"
     },
+    "SP01-T03EN": {
+        "id": "SP01-T03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Naterran Great Tree",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Naterran Great Tree",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP07-09"
+        ],
+        "Trait": "Natura"
+    },
     "CP02-001EN": {
         "id": "CP02-001EN",
         "isToken": false,
@@ -47526,6 +47572,52 @@
                 "type": "Token",
                 "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "PR-153EN": {
+        "id": "PR-153EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "PR-154EN": {
+        "id": "PR-154EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
                 "isHorizontal": false
             }
         },
@@ -57958,6 +58050,52 @@
             "BP04-06"
         ],
         "Trait": "Lightborne / Celestial"
+    },
+    "BP04-T01EN": {
+        "id": "BP04-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Serpent",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Serpent",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Demon"
+    },
+    "PR-201EN": {
+        "id": "PR-201EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Serpent",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-201EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Serpent",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Demon"
     },
     "BP03-001EN": {
         "id": "BP03-001EN",
@@ -71483,6 +71621,52 @@
         ],
         "Trait": "Pixie"
     },
+    "BP05-UT01EN": {
+        "id": "BP05-UT01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-UT01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Pixie"
+    },
+    "SP01-T01EN": {
+        "id": "SP01-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Pixie"
+    },
     "BP01-T04EN": {
         "id": "BP01-T04EN",
         "isToken": false,
@@ -71515,6 +71699,29 @@
                 "type": "Token",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Knight",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP01-03"
+        ],
+        "Trait": "Officer"
+    },
+    "SP01-T02EN": {
+        "id": "SP01-T02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Knight",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-T02EN.png",
                 "isHorizontal": false
             }
         },
@@ -73658,6 +73865,46 @@
         ],
         "Trait": "Pixie"
     },
+    "BP05-UT01EN_TOKEN": {
+        "id": "BP05-UT01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fairy",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-UT01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Pixie"
+    },
+    "SP01-T01EN_TOKEN": {
+        "id": "SP01-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Fairy",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Trait": "Pixie"
+    },
     "BP01-T04EN_TOKEN": {
         "id": "BP01-T04EN_TOKEN",
         "isToken": true,
@@ -73687,6 +73934,26 @@
                 "type": "Token",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Knight",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Trait": "Officer"
+    },
+    "SP01-T02EN_TOKEN": {
+        "id": "SP01-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Knight",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-T02EN.png",
                 "isHorizontal": false
             }
         },
@@ -74278,6 +74545,46 @@
         ],
         "Trait": "iM@S CG"
     },
+    "PR-153EN_TOKEN": {
+        "id": "PR-153EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "PR-154EN_TOKEN": {
+        "id": "PR-154EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-154EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "iM@S CG"
+    },
     "BP07-T01EN_TOKEN": {
         "id": "BP07-T01EN_TOKEN",
         "isToken": true,
@@ -74327,6 +74634,26 @@
                 "type": "Token",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Naterran Great Tree",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Natura"
+    },
+    "SP01-T03EN_TOKEN": {
+        "id": "SP01-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Naterran Great Tree",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-T03EN.png",
                 "isHorizontal": false
             }
         },
@@ -74567,6 +74894,26 @@
                 "type": "Token",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dutiful Steed",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Trait": "Wasteland / Mount / Beast"
+    },
+    "PR-346EN_TOKEN": {
+        "id": "PR-346EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Dutiful Steed",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-346EN.png",
                 "isHorizontal": false
             }
         },
@@ -75817,5 +76164,51 @@
             "Neutral"
         ],
         "Trait": "Omen"
+    },
+    "BP04-T01EN_TOKEN": {
+        "id": "BP04-T01EN_TOKEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Serpent",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Serpent",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Demon"
+    },
+    "PR-201EN_TOKEN": {
+        "id": "PR-201EN_TOKEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Serpent",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-201EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Serpent",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP04-06"
+        ],
+        "Trait": "Demon"
     }
 }
