@@ -61708,6 +61708,29 @@
     ],
     "Trait": "Demon"
   },
+  "BP04-T02EN": {
+    "id": "BP04-T02EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin King",
+        "type": "Token",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T02EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin King",
+    "type": "Token",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP04-06"
+    ],
+    "Trait": "Goblinoid"
+  },
   "BP03-001EN": {
     "id": "BP03-001EN",
     "isToken": false,
@@ -64744,465 +64767,28 @@
     ],
     "Trait": "Fable"
   },
-  "BP02-108EN": {
-    "id": "BP02-108EN",
+  "BP03-T01EN": {
+    "id": "BP03-T01EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Archangel Reina",
-        "type": "Evolve Deck",
-        "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-108EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Archangel Reina (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Angel"
-  },
-  "BP02-109EN": {
-    "id": "BP02-109EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Surefire Bullet",
-        "type": "Spell",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-109EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Surefire Bullet",
-    "type": "Spell",
-    "cost": 2,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Mercenary"
-  },
-  "SS02-U01EN": {
-    "id": "SS02-U01EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Surefire Bullet",
-        "type": "Spell",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SS02/SS02-U01EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Surefire Bullet",
-    "type": "Spell",
-    "cost": 2,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Mercenary"
-  },
-  "BP02-110EN": {
-    "id": "BP02-110EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Unicorn Dancer Unica",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-110EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Unicorn Dancer Unica",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Lightborne"
-  },
-  "BP02-111EN": {
-    "id": "BP02-111EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Unicorn Dancer Unica",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-111EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Unicorn Dancer Unica (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Lightborne"
-  },
-  "BP02-112EN": {
-    "id": "BP02-112EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gourmet Emperor Khaiza",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-112EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gourmet Emperor Khaiza",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Fiend / Chef"
-  },
-  "SP01-054EN": {
-    "id": "SP01-054EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gourmet Emperor Khaiza",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-054EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gourmet Emperor Khaiza",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Fiend / Chef"
-  },
-  "BP02-113EN": {
-    "id": "BP02-113EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Call of Cocytus",
-        "type": "Spell",
-        "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-113EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Call of Cocytus",
-    "type": "Spell",
-    "cost": 6,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Archfiend"
-  },
-  "BP02-114EN": {
-    "id": "BP02-114EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hamsa",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-114EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hamsa",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Lightborne"
-  },
-  "BP02-115EN": {
-    "id": "BP02-115EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sektor",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-115EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Sektor",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Mercenary"
-  },
-  "BP02-116EN": {
-    "id": "BP02-116EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sektor",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-116EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Sektor (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Mercenary"
-  },
-  "BP02-117EN": {
-    "id": "BP02-117EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Dance of Death",
-        "type": "Spell",
-        "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-117EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dance of Death",
-    "type": "Spell",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Dancer"
-  },
-  "BP02-T01EN": {
-    "id": "BP02-T01EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Crystalia Eve",
-        "type": "Token",
-        "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T01EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Crystalia Eve",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Crystalian"
-  },
-  "BP02-T02EN": {
-    "id": "BP02-T02EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Shield Guardian",
+        "name": "Gargantuan Ghost",
         "type": "Token",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T02EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T01EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Shield Guardian",
+    "name": "Gargantuan Ghost",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Swordcraft"
+      "Abysscraft"
     ],
     "Set": [
       "BP01-03"
     ],
-    "Trait": "Officer"
-  },
-  "BP02-T03EN": {
-    "id": "BP02-T03EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leonidas's Resolve",
-        "type": "Token",
-        "cost": 8,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T03EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leonidas's Resolve",
-    "type": "Token",
-    "cost": 8,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Commander"
-  },
-  "BP02-T04EN": {
-    "id": "BP02-T04EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Magical Pawn",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T04EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Magical Pawn",
-    "type": "Token",
-    "cost": 1,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Chess"
-  },
-  "BP02-T05EN": {
-    "id": "BP02-T05EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Megalorca",
-        "type": "Token",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T05EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Megalorca",
-    "type": "Token",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Marine"
-  },
-  "BP02-T06EN": {
-    "id": "BP02-T06EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hellflame Dragon",
-        "type": "Token",
-        "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T06EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hellflame Dragon",
-    "type": "Token",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Wyrmkin"
-  },
-  "BP02-T07EN": {
-    "id": "BP02-T07EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Draconic Weapon",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T07EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Draconic Weapon",
-    "type": "Token",
-    "cost": 1,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Armed"
-  },
-  "BP02-T08EN": {
-    "id": "BP02-T08EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ephemeral Moon",
-        "type": "Token",
-        "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T08EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ephemeral Moon",
-    "type": "Token",
-    "cost": 3,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "BP01-03"
-    ],
-    "Trait": "Faith"
+    "Trait": "Departed"
   },
   "CP01-001EN": {
     "id": "CP01-001EN",
@@ -70562,6 +70148,466 @@
       "BP01-03"
     ],
     "Trait": "Angel"
+  },
+  "BP02-108EN": {
+    "id": "BP02-108EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Archangel Reina",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-108EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Archangel Reina (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Angel"
+  },
+  "BP02-109EN": {
+    "id": "BP02-109EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surefire Bullet",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-109EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surefire Bullet",
+    "type": "Spell",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Mercenary"
+  },
+  "SS02-U01EN": {
+    "id": "SS02-U01EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surefire Bullet",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SS02/SS02-U01EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surefire Bullet",
+    "type": "Spell",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Mercenary"
+  },
+  "BP02-110EN": {
+    "id": "BP02-110EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unicorn Dancer Unica",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-110EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Dancer Unica",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Lightborne"
+  },
+  "BP02-111EN": {
+    "id": "BP02-111EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unicorn Dancer Unica",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-111EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Dancer Unica (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Lightborne"
+  },
+  "BP02-112EN": {
+    "id": "BP02-112EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gourmet Emperor Khaiza",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-112EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gourmet Emperor Khaiza",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Fiend / Chef"
+  },
+  "SP01-054EN": {
+    "id": "SP01-054EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gourmet Emperor Khaiza",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SP01/SP01-054EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gourmet Emperor Khaiza",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Fiend / Chef"
+  },
+  "BP02-113EN": {
+    "id": "BP02-113EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Call of Cocytus",
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-113EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Call of Cocytus",
+    "type": "Spell",
+    "cost": 6,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Archfiend"
+  },
+  "BP02-114EN": {
+    "id": "BP02-114EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hamsa",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-114EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hamsa",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Lightborne"
+  },
+  "BP02-115EN": {
+    "id": "BP02-115EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sektor",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-115EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sektor",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Mercenary"
+  },
+  "BP02-116EN": {
+    "id": "BP02-116EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sektor",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-116EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sektor (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Mercenary"
+  },
+  "BP02-117EN": {
+    "id": "BP02-117EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dance of Death",
+        "type": "Spell",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-117EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dance of Death",
+    "type": "Spell",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Dancer"
+  },
+  "BP02-T01EN": {
+    "id": "BP02-T01EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crystalia Eve",
+        "type": "Token",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T01EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crystalia Eve",
+    "type": "Token",
+    "cost": 4,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Crystalian"
+  },
+  "BP02-T02EN": {
+    "id": "BP02-T02EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shield Guardian",
+        "type": "Token",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T02EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shield Guardian",
+    "type": "Token",
+    "cost": 1,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Officer"
+  },
+  "BP02-T03EN": {
+    "id": "BP02-T03EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leonidas's Resolve",
+        "type": "Token",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T03EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leonidas's Resolve",
+    "type": "Token",
+    "cost": 8,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Commander"
+  },
+  "BP02-T04EN": {
+    "id": "BP02-T04EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magical Pawn",
+        "type": "Token",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T04EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magical Pawn",
+    "type": "Token",
+    "cost": 1,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Chess"
+  },
+  "BP02-T05EN": {
+    "id": "BP02-T05EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megalorca",
+        "type": "Token",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T05EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megalorca",
+    "type": "Token",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Marine"
+  },
+  "BP02-T06EN": {
+    "id": "BP02-T06EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hellflame Dragon",
+        "type": "Token",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T06EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hellflame Dragon",
+    "type": "Token",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Wyrmkin"
+  },
+  "BP02-T07EN": {
+    "id": "BP02-T07EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draconic Weapon",
+        "type": "Token",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T07EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draconic Weapon",
+    "type": "Token",
+    "cost": 1,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Armed"
+  },
+  "BP02-T08EN": {
+    "id": "BP02-T08EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ephemeral Moon",
+        "type": "Token",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-T08EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ephemeral Moon",
+    "type": "Token",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Faith"
   },
   "BP01-001EN": {
     "id": "BP01-001EN",
@@ -77414,7 +77460,7 @@
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
@@ -77431,7 +77477,7 @@
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
@@ -77998,6 +78044,52 @@
       "Havencraft"
     ],
     "Trait": "Faith"
+  },
+  "BP03-T01EN_TOKEN": {
+    "id": "BP03-T01EN_TOKEN",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gargantuan Ghost",
+        "type": "Token",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T01EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gargantuan Ghost",
+    "type": "Token",
+    "cost": 1,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "BP01-03"
+    ],
+    "Trait": "Departed"
+  },
+  "BP04-T02EN_TOKEN": {
+    "id": "BP04-T02EN_TOKEN",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Goblin King",
+        "type": "Token",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T02EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin King",
+    "type": "Token",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP04-06"
+    ],
+    "Trait": "Goblinoid"
   },
   "BP05-T01EN_TOKEN": {
     "id": "BP05-T01EN_TOKEN",
