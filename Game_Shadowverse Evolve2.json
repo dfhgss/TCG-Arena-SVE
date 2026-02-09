@@ -59,6 +59,11 @@
             "createCardId": "EP",
             "count": 3,
             "destination": "EP"
+          },
+                              {
+            "createCardId": "SEP",
+            "count": 1,
+            "destination": "EP"
           }
         ]
       },
