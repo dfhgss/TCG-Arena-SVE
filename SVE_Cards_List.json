@@ -77460,7 +77460,7 @@
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
@@ -77477,7 +77477,7 @@
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
