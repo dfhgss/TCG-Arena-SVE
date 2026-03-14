@@ -10809,3042 +10809,3226 @@
     ],
     "Trait": " iM@S CG / Cute / Cool / Passion"
   },
-  "BP16-001EN": {
+"BP16-001EN": {
     "id": "BP16-001EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aria, Lady of the Woods",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-001.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Aria, Lady of the Woods",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-001EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aria, Lady of the Woods",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Pixie / Princess"
-  },
-  "BP16-002EN": {
+},
+"BP16-002EN": {
     "id": "BP16-002EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aria, Lady of the Woods (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-002.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Aria, Lady of the Woods (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-002EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aria, Lady of the Woods (Evolved)",
     "type": "Evolve Deck",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Pixie / Princess"
-  },
-  "BP16-003EN": {
+},
+"BP16-003EN": {
     "id": "BP16-003EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Orchis, Newfound Heart",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-003.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Orchis, Newfound Heart",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-003EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Orchis, Newfound Heart",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Puppetry"
-  },
-  "BP16-004EN": {
+},
+"BP16-U01EN": {
+    "id": "BP16-U01EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Orchis, Newfound Heart",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U01EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Orchis, Newfound Heart",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+        "Forestcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Puppetry"
+},
+"BP16-004EN": {
     "id": "BP16-004EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Nazuri, Grand Hostess",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-004.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Nazuri, Grand Hostess",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-004EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Nazuri, Grand Hostess",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Festive / Beast"
-  },
-  "BP16-005EN": {
+},
+"BP16-005EN": {
     "id": "BP16-005EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Glade, Fragrantwood Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-005.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Glade, Fragrantwood Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-005EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Glade, Fragrantwood Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Elf / Hunter"
-  },
-  "BP16-006EN": {
+},
+"BP16-006EN": {
     "id": "BP16-006EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Glade, Fragrantwood Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-006.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Glade, Fragrantwood Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-006EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Glade, Fragrantwood Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Elf / Hunter"
-  },
-  "BP16-007EN": {
+},
+"BP16-007EN": {
     "id": "BP16-007EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Lily, Crystallian Innocence",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-007.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Lily, Crystallian Innocence",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-007EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Lily, Crystallian Innocence",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Crystalian"
-  },
-  "BP16-008EN": {
+},
+"BP16-008EN": {
     "id": "BP16-008EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Liam, Crazed Creator",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-008.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Liam, Crazed Creator",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-008EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Liam, Crazed Creator",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Puppetry / Cutthroat"
-  },
-  "BP16-009EN": {
+},
+"BP16-009EN": {
     "id": "BP16-009EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aerin, Crystalian Frostward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-009.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Aerin, Crystalian Frostward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-009EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aerin, Crystalian Frostward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Crystalian"
-  },
-  "BP16-010EN": {
+},
+"BP16-010EN": {
     "id": "BP16-010EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aerin, Crystalian Frostward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-010.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Aerin, Crystalian Frostward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-010EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aerin, Crystalian Frostward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Crystalian"
-  },
-  "BP16-011EN": {
+},
+"BP16-011EN": {
     "id": "BP16-011EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Bayle, Luxglaive Warrior",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-011.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Bayle, Luxglaive Warrior",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-011EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Bayle, Luxglaive Warrior",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Hunter / Beast"
-  },
-  "BP16-012EN": {
+},
+"BP16-012EN": {
     "id": "BP16-012EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Godwood Staff",
-        "type": "Amulet",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-012.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Godwood Staff",
+            "type": "Amulet",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-012EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Godwood Staff",
     "type": "Amulet",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Elf"
-  },
-  "BP16-013EN": {
+},
+"BP16-013EN": {
     "id": "BP16-013EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Fairy Tamer",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-013.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Fairy Tamer",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-013EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Fairy Tamer",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Pixie / Elf"
-  },
-  "BP16-014EN": {
+},
+"BP16-014EN": {
     "id": "BP16-014EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Fairy Tamer (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-014.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Fairy Tamer (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-014EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Fairy Tamer (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Pixie / Elf"
-  },
-  "BP16-015EN": {
+},
+"BP16-015EN": {
     "id": "BP16-015EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Good Fairy of the Pond",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-015.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Good Fairy of the Pond",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-015EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Good Fairy of the Pond",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Pixie"
-  },
-  "BP16-016EN": {
+},
+"BP16-016EN": {
     "id": "BP16-016EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Fay Twinkletoes",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-016.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Fay Twinkletoes",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-016EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Fay Twinkletoes",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Pixie"
-  },
-  "BP16-017EN": {
+},
+"BP16-017EN": {
     "id": "BP16-017EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Baby Carbuncle",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-017.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Baby Carbuncle",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-017EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Baby Carbuncle",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Fae-Touched / Beast"
-  },
-  "BP16-018EN": {
+},
+"BP16-018EN": {
     "id": "BP16-018EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Fragrantwood Whispers",
-        "type": "Spell",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-018.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Fragrantwood Whispers",
+            "type": "Spell",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-018EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Fragrantwood Whispers",
     "type": "Spell",
     "cost": 1,
     "Class": [
-      "Forestcraft"
+        "Forestcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Elf / Hunter"
-  },
-  "BP16-019EN": {
+},
+"BP16-019EN": {
     "id": "BP16-019EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Amelia, Silver Captain",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-019.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Amelia, Silver Captain",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-019EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Amelia, Silver Captain",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander"
-  },
-  "BP16-020EN": {
+},
+"BP16-020EN": {
     "id": "BP16-020EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Amelia, Silver Captain (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-020.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Amelia, Silver Captain (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-020EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Amelia, Silver Captain (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander"
-  },
-  "BP16-021EN": {
+},
+"BP16-021EN": {
     "id": "BP16-021EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Albert, Levin Stormsaber",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-021.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Albert, Levin Stormsaber",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-021EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Albert, Levin Stormsaber",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander / Levin"
-  },
-  "BP16-022EN": {
+},
+"BP16-U02EN": {
+    "id": "BP16-U02EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Albert, Levin Stormsaber",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U02EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Albert, Levin Stormsaber",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Commander / Levin"
+},
+"BP16-022EN": {
     "id": "BP16-022EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ginne, Alluring Courtesan",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-022.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ginne, Alluring Courtesan",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-022EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ginne, Alluring Courtesan",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Festive"
-  },
-  "BP16-023EN": {
+},
+"BP16-023EN": {
     "id": "BP16-023EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Zirconia, Ironcrown Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-023.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Zirconia, Ironcrown Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-023EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Zirconia, Ironcrown Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander / Noble"
-  },
-  "BP16-024EN": {
+},
+"BP16-024EN": {
     "id": "BP16-024EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Zirconia, Ironcrown Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-024.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Zirconia, Ironcrown Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-024EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Zirconia, Ironcrown Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander / Noble"
-  },
-  "BP16-025EN": {
+},
+"BP16-025EN": {
     "id": "BP16-025EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Amalia, Luxsteel Paladin",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-025.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Amalia, Luxsteel Paladin",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-025EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Amalia, Luxsteel Paladin",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Officer"
-  },
-  "BP16-026EN": {
+},
+"BP16-026EN": {
     "id": "BP16-026EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ravening Tentacles",
-        "type": "Spell",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-026.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ravening Tentacles",
+            "type": "Spell",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-026EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ravening Tentacles",
     "type": "Spell",
     "cost": 1,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Officer / Beast / Levin"
-  },
-  "BP16-027EN": {
+},
+"BP16-027EN": {
     "id": "BP16-027EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Luminous Commander",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-027.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Luminous Commander",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-027EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Luminous Commander",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander / Luminous"
-  },
-  "BP16-028EN": {
+},
+"BP16-028EN": {
     "id": "BP16-028EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Luminous Commander (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-028.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Luminous Commander (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-028EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Luminous Commander (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander / Luminous"
-  },
-  "BP16-029EN": {
+},
+"BP16-029EN": {
     "id": "BP16-029EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Luminous Magus",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-029.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Luminous Magus",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-029EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Luminous Magus",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Commander / Luminous"
-  },
-  "BP16-030EN": {
+},
+"BP16-030EN": {
     "id": "BP16-030EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Rusty, Luxcard Trickster",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-030.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Rusty, Luxcard Trickster",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-030EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Rusty, Luxcard Trickster",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Thief"
-  },
-  "BP16-031EN": {
+},
+"BP16-031EN": {
     "id": "BP16-031EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Flashstep Quickblader",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-031.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Flashstep Quickblader",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Officer"
-  },
-  "BP16-032EN": {
-    "id": "BP16-032EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Flashstep Quickblader (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-032.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Flashstep Quickblader (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 1,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Officer"
-  },
-  "BP16-033EN": {
-    "id": "BP16-033EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Luminous Lancetrooper",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-033.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Luminous Lancetrooper",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Commander / Luminous"
-  },
-  "BP16-034EN": {
-    "id": "BP16-034EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Lyrala, Luminous Potionwright",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-034.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Lyrala, Luminous Potionwright",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Officer / Luminous"
-  },
-  "BP16-035EN": {
-    "id": "BP16-035EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ignominious Samurai",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-035.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ignominious Samurai",
-    "type": "Follower",
-    "cost": 4,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Officer"
-  },
-  "BP16-036EN": {
-    "id": "BP16-036EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ironcrown Majesty",
-        "type": "Spell",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-036.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ironcrown Majesty",
-    "type": "Spell",
-    "cost": 3,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Commander / Noble"
-  },
-  "SD07-012EN": {
-    "id": "SD07-012EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Jeno, Levin Axeraider",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/SD07-012.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Jeno, Levin Axeraider",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-031EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Jeno, Levin Axeraider",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Swordcraft"
+        "Swordcraft"
     ],
     "Set": [
-      "SDs+SP01"
+        "BP16-18"
     ],
     "Trait": "Officer / Beast / Levin"
-  },
-  "BP16-037EN": {
+},
+"BP16-032EN": {
+    "id": "BP16-032EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Flashstep Quickblader",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-032EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Flashstep Quickblader",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Officer"
+},
+"BP16-033EN": {
+    "id": "BP16-033EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Flashstep Quickblader (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-033EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Flashstep Quickblader (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 1,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Officer"
+},
+"BP16-034EN": {
+    "id": "BP16-034EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Luminous Lancetrooper",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-034EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Luminous Lancetrooper",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Commander / Luminous"
+},
+"BP16-035EN": {
+    "id": "BP16-035EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Lyrala, Luminous Potionwright",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-035EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Lyrala, Luminous Potionwright",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Officer / Luminous"
+},
+"BP16-036EN": {
+    "id": "BP16-036EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Ignominious Samurai",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-036EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Ignominious Samurai",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Officer"
+},
+"BP16-037EN": {
     "id": "BP16-037EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Anne & Grea, Mysterian Duo",
-        "type": "Follower",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-037.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ironcrown Majesty",
+            "type": "Spell",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-037EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Ironcrown Majesty",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Commander / Noble"
+},
+"BP16-038EN": {
+    "id": "BP16-038EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Anne & Grea, Mysterian Duo",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-038EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Anne & Grea, Mysterian Duo",
     "type": "Follower",
     "cost": 5,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Academic / Princess"
-  },
-  "BP16-038EN": {
-    "id": "BP16-038EN",
+},
+"BP16-U03EN": {
+    "id": "BP16-U03EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Lilanthim, Anathema of Edacity",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-038.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Anne & Grea, Mysterian Duo",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U03EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Anne & Grea, Mysterian Duo",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+        "Runecraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Mage / Academic / Princess"
+},
+"BP16-039EN": {
+    "id": "BP16-039EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Lilanthim, Anathema of Edacity",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-039EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Lilanthim, Anathema of Edacity",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Anathema / Mage"
-  },
-  "BP16-039EN": {
-    "id": "BP16-039EN",
+},
+"BP16-040EN": {
+    "id": "BP16-040EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Lilanthim, Anathema of Edacity (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-039.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Lilanthim, Anathema of Edacity (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-040EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Lilanthim, Anathema of Edacity (Evolved)",
     "type": "Evolve Deck",
     "cost": 4,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Anathema / Mage"
-  },
-  "BP16-040EN": {
-    "id": "BP16-040EN",
+},
+"BP16-041EN": {
+    "id": "BP16-041EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Jzdobend, Destiny Weaver",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-040.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Jzdobend, Destiny Weaver",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-041EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Jzdobend, Destiny Weaver",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Festive / Forbidden"
-  },
-  "BP16-041EN": {
-    "id": "BP16-041EN",
+},
+"BP16-042EN": {
+    "id": "BP16-042EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Jzdobend, Destiny Weaver (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-041.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Jzdobend, Destiny Weaver (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-042EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Jzdobend, Destiny Weaver (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Festive / Forbidden"
-  },
-  "BP16-042EN": {
-    "id": "BP16-042EN",
+},
+"BP16-043EN": {
+    "id": "BP16-043EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Edelweiss, Sagelight Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-042.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Edelweiss, Sagelight Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-043EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Edelweiss, Sagelight Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Golem"
-  },
-  "BP16-043EN": {
-    "id": "BP16-043EN",
+},
+"BP16-044EN": {
+    "id": "BP16-044EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Edelweiss, Sagelight Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 1/BP16-043.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Edelweiss, Sagelight Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-044EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Edelweiss, Sagelight Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Golem"
-  },
-  "BP16-044EN": {
-    "id": "BP16-044EN",
+},
+"BP16-045EN": {
+    "id": "BP16-045EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Juno, Visionary Alchemist",
-        "type": "Follower",
-        "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-044.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Juno, Visionary Alchemist",
+            "type": "Follower",
+            "cost": 6,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-045EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Juno, Visionary Alchemist",
     "type": "Follower",
     "cost": 6,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Alchemist"
-  },
-  "BP16-045EN": {
-    "id": "BP16-045EN",
+},
+"BP16-046EN": {
+    "id": "BP16-046EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Homework Time!",
-        "type": "Spell",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-045.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Homework Time!",
+            "type": "Spell",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-046EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Homework Time!",
     "type": "Spell",
     "cost": 1,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Academic"
-  },
-  "BP16-046EN": {
-    "id": "BP16-046EN",
+},
+"BP16-047EN": {
+    "id": "BP16-047EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Penelope, Potions Prodigy",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-046.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Penelope, Potions Prodigy",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-047EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Penelope, Potions Prodigy",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Alchemist"
-  },
-  "BP16-047EN": {
-    "id": "BP16-047EN",
+},
+"BP16-048EN": {
+    "id": "BP16-048EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Penelope, Potions Prodigy (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-047.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Penelope, Potions Prodigy (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-048EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Penelope, Potions Prodigy (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Alchemist"
-  },
-  "BP16-048EN": {
-    "id": "BP16-048EN",
+},
+"BP16-049EN": {
+    "id": "BP16-049EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ms. Miranda, Adored Academic",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-048.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ms. Miranda, Adored Academic",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-049EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ms. Miranda, Adored Academic",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Academic"
-  },
-  "BP16-049EN": {
-    "id": "BP16-049EN",
+},
+"BP16-050EN": {
+    "id": "BP16-050EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Snowman Army",
-        "type": "Spell",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-049.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Snowman Army",
+            "type": "Spell",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-050EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Snowman Army",
     "type": "Spell",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Arcanaform"
-  },
-  "BP16-050EN": {
-    "id": "BP16-050EN",
+},
+"BP16-051EN": {
+    "id": "BP16-051EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Starry-Eyed Penguin Wizard",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-050.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Starry-Eyed Penguin Wizard",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-051EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Starry-Eyed Penguin Wizard",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Beast / Arcanaform"
-  },
-  "BP16-051EN": {
-    "id": "BP16-051EN",
+},
+"BP16-052EN": {
+    "id": "BP16-052EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Starry-Eyed Penguin Wizard (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-051.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Starry-Eyed Penguin Wizard (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-052EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Starry-Eyed Penguin Wizard (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Beast / Arcanaform"
-  },
-  "BP16-052EN": {
-    "id": "BP16-052EN",
+},
+"BP16-053EN": {
+    "id": "BP16-053EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Emmylou, Witch of Wonder",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-052.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Emmylou, Witch of Wonder",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-053EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Emmylou, Witch of Wonder",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage"
-  },
-  "BP16-053EN": {
-    "id": "BP16-053EN",
+},
+"BP16-054EN": {
+    "id": "BP16-054EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "William, Mysterian Student",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-053.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "William, Mysterian Student",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-054EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "William, Mysterian Student",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Academic"
-  },
-  "BP16-054EN": {
-    "id": "BP16-054EN",
+},
+"BP16-055EN": {
+    "id": "BP16-055EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Sagelight Teachings",
-        "type": "Spell",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-054.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Sagelight Teachings",
+            "type": "Spell",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-055EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Sagelight Teachings",
     "type": "Spell",
     "cost": 1,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Golem"
-  },
-  "BP16-055EN": {
-    "id": "BP16-055EN",
+},
+"BP16-056EN": {
+    "id": "BP16-056EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Truth Summons",
-        "type": "Spell",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-055.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Truth Summons",
+            "type": "Spell",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-056EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Truth Summons",
     "type": "Spell",
     "cost": 3,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Alchemist / Golem"
-  },
-  "BP16-056EN": {
-    "id": "BP16-056EN",
+},
+"BP16-057EN": {
+    "id": "BP16-057EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Forte, Blackwing Dragoon",
-        "type": "Follower",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-056.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Forte, Blackwing Dragoon",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-057EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Forte, Blackwing Dragoon",
     "type": "Follower",
     "cost": 5,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonheart"
-  },
-  "BP16-057EN": {
-    "id": "BP16-057EN",
+},
+"BP16-U04EN": {
+    "id": "BP16-U04EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Burnite, Anathema of Flame",
-        "type": "Follower",
-        "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-057.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Forte, Blackwing Dragoon",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U04EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Forte, Blackwing Dragoon",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Dragonheart"
+},
+"BP16-058EN": {
+    "id": "BP16-058EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Burnite, Anathema of Flame",
+            "type": "Follower",
+            "cost": 7,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-058EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Burnite, Anathema of Flame",
     "type": "Follower",
     "cost": 7,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Anathema / Dragonewt"
-  },
-  "BP16-058EN": {
-    "id": "BP16-058EN",
+},
+"BP16-059EN": {
+    "id": "BP16-059EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Burnite, Anathema of Flame (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-058.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Burnite, Anathema of Flame (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 7,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-059EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Burnite, Anathema of Flame (Evolved)",
     "type": "Evolve Deck",
     "cost": 7,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Anathema / Dragonewt"
-  },
-  "BP16-059EN": {
-    "id": "BP16-059EN",
+},
+"BP16-060EN": {
+    "id": "BP16-060EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Niruru, Dragon Prodigy",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-059.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Niruru, Dragon Prodigy",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-060EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Niruru, Dragon Prodigy",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Wasteland / Wyrmkin"
-  },
-  "BP16-060EN": {
-    "id": "BP16-060EN",
+},
+"BP16-061EN": {
+    "id": "BP16-061EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Niruru, Dragon Prodigy (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-060.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Niruru, Dragon Prodigy (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-061EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Niruru, Dragon Prodigy (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Wasteland / Wyrmkin"
-  },
-  "BP16-061EN": {
-    "id": "BP16-061EN",
+},
+"BP16-062EN": {
+    "id": "BP16-062EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Liu Feng, Goldennote Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-061.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Liu Feng, Goldennote Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-062EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Liu Feng, Goldennote Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonheart / Dragonewt"
-  },
-  "BP16-062EN": {
-    "id": "BP16-062EN",
+},
+"BP16-063EN": {
+    "id": "BP16-063EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Liu Feng, Goldennote Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-062.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Liu Feng, Goldennote Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-063EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Liu Feng, Goldennote Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonheart / Dragonewt"
-  },
-  "BP16-063EN": {
-    "id": "BP16-063EN",
+},
+"BP16-064EN": {
+    "id": "BP16-064EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Genesis Dragon Reborn",
-        "type": "Follower",
-        "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-063.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Genesis Dragon Reborn",
+            "type": "Follower",
+            "cost": 7,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-064EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Genesis Dragon Reborn",
     "type": "Follower",
     "cost": 7,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Wyrmkin"
-  },
-  "BP16-064EN": {
-    "id": "BP16-064EN",
+},
+"BP16-065EN": {
+    "id": "BP16-065EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Fan of Otohime",
-        "type": "Amulet",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-064.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Fan of Otohime",
+            "type": "Amulet",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-065EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Fan of Otohime",
     "type": "Amulet",
     "cost": 1,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Marine"
-  },
-  "BP16-065EN": {
-    "id": "BP16-065EN",
+},
+"BP16-066EN": {
+    "id": "BP16-066EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Eyfa, Windrider",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-065.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Eyfa, Windrider",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-066EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Eyfa, Windrider",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonheart"
-  },
-  "BP16-066EN": {
-    "id": "BP16-066EN",
+},
+"BP16-067EN": {
+    "id": "BP16-067EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Eyfa, Windrider (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-066.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Eyfa, Windrider (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-067EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Eyfa, Windrider (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonheart"
-  },
-  "BP16-067EN": {
-    "id": "BP16-067EN",
+},
+"BP16-068EN": {
+    "id": "BP16-068EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Marion, Ravishing Dragonewt",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-067.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Marion, Ravishing Dragonewt",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-068EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Marion, Ravishing Dragonewt",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonewt"
-  },
-  "BP16-068EN": {
-    "id": "BP16-068EN",
+},
+"BP16-069EN": {
+    "id": "BP16-069EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Kit, Luxfang Champion",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-068.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Kit, Luxfang Champion",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-069EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Kit, Luxfang Champion",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Dragonewt"
-  },
-  "BP16-069EN": {
-    "id": "BP16-069EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Little Dragon Nanny",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-069.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Little Dragon Nanny",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Dragonheart"
-  },
-  "BP16-070EN": {
+},
+"BP16-070EN": {
     "id": "BP16-070EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Little Dragon Nanny (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-070.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Little Dragon Nanny (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Dragonheart"
-  },
-  "BP16-071EN": {
-    "id": "BP16-071EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zell, Windreader",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-071.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zell, Windreader",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Dragonheart"
-  },
-  "BP16-072EN": {
-    "id": "BP16-072EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Silvercloud Dragonrider",
-        "type": "Follower",
-        "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-072.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Silvercloud Dragonrider",
-    "type": "Follower",
-    "cost": 7,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Dragonheart"
-  },
-  "BP16-073EN": {
-    "id": "BP16-073EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Swordsnout Trencher",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-073.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Swordsnout Trencher",
-    "type": "Follower",
-    "cost": 4,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Wyrmkin / Marine"
-  },
-  "BP16-074EN": {
-    "id": "BP16-074EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Goldennote Melody",
-        "type": "Spell",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-074.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Goldennote Melody",
-    "type": "Spell",
-    "cost": 3,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "BP16-18"
-    ],
-    "Trait": "Dragonheart / Dragonewt"
-  },
-  "SD08-011EN": {
-    "id": "SD08-011EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zahar, Stormwave Dragoon",
-        "type": "Follower",
-        "cost": 8,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/SD08-011.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Zahar, Stormwave Dragoon",
+            "type": "Follower",
+            "cost": 8,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-070EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Zahar, Stormwave Dragoon",
     "type": "Follower",
     "cost": 8,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "SDs+SP01"
+        "BP16-18"
     ],
     "Trait": "Dragonheart / Marine"
-  },
-  "BP16-075EN": {
+},
+"BP16-071EN": {
+    "id": "BP16-071EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Little Dragon Nanny",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-071EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Little Dragon Nanny",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Dragonheart"
+},
+"BP16-072EN": {
+    "id": "BP16-072EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Little Dragon Nanny (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-072EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Little Dragon Nanny (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Dragonheart"
+},
+"BP16-073EN": {
+    "id": "BP16-073EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Zell, Windreader",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-073EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Zell, Windreader",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Dragonheart"
+},
+"BP16-074EN": {
+    "id": "BP16-074EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Silvercloud Dragonrider",
+            "type": "Follower",
+            "cost": 7,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-074EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Silvercloud Dragonrider",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Dragonheart"
+},
+"BP16-075EN": {
     "id": "BP16-075EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Cerberus, Hellfire Unleashed",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-075.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Swordsnout Trencher",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-075EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Swordsnout Trencher",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Wyrmkin / Marine"
+},
+"BP16-076EN": {
+    "id": "BP16-076EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Goldennote Melody",
+            "type": "Spell",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-076EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Goldennote Melody",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+        "Dragoncraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Dragonheart / Dragonewt"
+},
+"BP16-077EN": {
+    "id": "BP16-077EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Cerberus, Hellfire Unleashed",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-077EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Cerberus, Hellfire Unleashed",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-076EN": {
-    "id": "BP16-076EN",
+},
+"BP16-U05EN": {
+    "id": "BP16-U05EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aragavy, Eternal Hunter",
-        "type": "Follower",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-076.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Cerberus, Hellfire Unleashed",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U05EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Cerberus, Hellfire Unleashed",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+        "Abysscraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Demon"
+},
+"BP16-078EN": {
+    "id": "BP16-078EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Aragavy, Eternal Hunter",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-078EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aragavy, Eternal Hunter",
     "type": "Follower",
     "cost": 5,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Arena / Beast"
-  },
-  "BP16-077EN": {
-    "id": "BP16-077EN",
+},
+"BP16-079EN": {
+    "id": "BP16-079EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aragavy, Eternal Hunter (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-077.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Aragavy, Eternal Hunter (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-079EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aragavy, Eternal Hunter (Evolved)",
     "type": "Evolve Deck",
     "cost": 5,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Arena / Beast"
-  },
-  "BP16-078EN": {
-    "id": "BP16-078EN",
+},
+"BP16-080EN": {
+    "id": "BP16-080EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Gold Rush Ghost",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-078.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Gold Rush Ghost",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-080EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Gold Rush Ghost",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Wasteland / Departed"
-  },
-  "BP16-079EN": {
-    "id": "BP16-079EN",
+},
+"BP16-081EN": {
+    "id": "BP16-081EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Mukan, Shadowcrypt Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-079.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Mukan, Shadowcrypt Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-081EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Mukan, Shadowcrypt Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Necromancer / Demon"
-  },
-  "BP16-080EN": {
-    "id": "BP16-080EN",
+},
+"BP16-082EN": {
+    "id": "BP16-082EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Mukan, Shadowcrypt Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-080.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Mukan, Shadowcrypt Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-082EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Mukan, Shadowcrypt Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Necromancer / Demon"
-  },
-  "BP16-081EN": {
-    "id": "BP16-081EN",
+},
+"BP16-083EN": {
+    "id": "BP16-083EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Balto, Dusk Bounty Hunter",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-081.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Balto, Dusk Bounty Hunter",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-083EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Balto, Dusk Bounty Hunter",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-082EN": {
-    "id": "BP16-082EN",
+},
+"BP16-084EN": {
+    "id": "BP16-084EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ceres, Blue Rose Maiden",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-082.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ceres, Blue Rose Maiden",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-084EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ceres, Blue Rose Maiden",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Departed"
-  },
-  "BP16-083EN": {
-    "id": "BP16-083EN",
+},
+"BP16-085EN": {
+    "id": "BP16-085EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Orthrus, Hellhound Blader",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-083.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Orthrus, Hellhound Blader",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-085EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Orthrus, Hellhound Blader",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-084EN": {
-    "id": "BP16-084EN",
+},
+"BP16-086EN": {
+    "id": "BP16-086EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Orthrus, Hellhound Blader (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-084.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Orthrus, Hellhound Blader (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-086EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Orthrus, Hellhound Blader (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-085EN": {
-    "id": "BP16-085EN",
+},
+"BP16-087EN": {
+    "id": "BP16-087EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Yuna, Occult Hunter",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-085.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Yuna, Occult Hunter",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-087EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Yuna, Occult Hunter",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Vampire / Cutthroat"
-  },
-  "BP16-086EN": {
-    "id": "BP16-086EN",
+},
+"BP16-088EN": {
+    "id": "BP16-088EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Soul Predation",
-        "type": "Spell",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 2/BP16-086.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Soul Predation",
+            "type": "Spell",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-088EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Soul Predation",
     "type": "Spell",
     "cost": 2,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-087EN": {
-    "id": "BP16-087EN",
+},
+"BP16-089EN": {
+    "id": "BP16-089EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Vlad, Impaler",
-        "type": "Follower",
-        "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-087.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Vlad, Impaler",
+            "type": "Follower",
+            "cost": 7,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-089EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Vlad, Impaler",
     "type": "Follower",
     "cost": 7,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Vampire / Cutthroat"
-  },
-  "BP16-088EN": {
-    "id": "BP16-088EN",
+},
+"BP16-090EN": {
+    "id": "BP16-090EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Vlad, Impaler (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-088.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Vlad, Impaler (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 7,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-090EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Vlad, Impaler (Evolved)",
     "type": "Evolve Deck",
     "cost": 7,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Vampire / Cutthroat"
-  },
-  "BP16-089EN": {
-    "id": "BP16-089EN",
+},
+"BP16-091EN": {
+    "id": "BP16-091EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Aryll, Moonstruck Vampire",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-089.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Aryll, Moonstruck Vampire",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-091EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Aryll, Moonstruck Vampire",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Vampire"
-  },
-  "BP16-090EN": {
-    "id": "BP16-090EN",
+},
+"BP16-092EN": {
+    "id": "BP16-092EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Mino, Shrewd Reaper",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-090.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Mino, Shrewd Reaper",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-092EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Mino, Shrewd Reaper",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon / Departed"
-  },
-  "BP16-091EN": {
-    "id": "BP16-091EN",
+},
+"BP16-093EN": {
+    "id": "BP16-093EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Beryl, Nightmare Incarnate",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-091.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Beryl, Nightmare Incarnate",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-093EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Beryl, Nightmare Incarnate",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-092EN": {
-    "id": "BP16-092EN",
+},
+"BP16-094EN": {
+    "id": "BP16-094EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Shadowcrypt Memorial",
-        "type": "Amulet",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-092.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Shadowcrypt Memorial",
+            "type": "Amulet",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-094EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Shadowcrypt Memorial",
     "type": "Amulet",
     "cost": 1,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Necromancer / Demon"
-  },
-  "BP16-093EN": {
-    "id": "BP16-093EN",
+},
+"BP16-095EN": {
+    "id": "BP16-095EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Lapis, Shining Seraph",
-        "type": "Amulet",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-093.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Lapis, Shining Seraph",
+            "type": "Amulet",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-095EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Lapis, Shining Seraph",
     "type": "Amulet",
     "cost": 3,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith / Luminary / Lightborne"
-  },
-  "BP16-094EN": {
-    "id": "BP16-094EN",
+},
+"BP16-U06EN": {
+    "id": "BP16-U06EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Rodeo, Anathema of Judgment",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-094.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Lapis, Shining Seraph",
+            "type": "Amulet",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U06EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Lapis, Shining Seraph",
+    "type": "Amulet",
+    "cost": 3,
+    "Class": [
+        "Havencraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Faith / Luminary / Lightborne"
+},
+"BP16-096EN": {
+    "id": "BP16-096EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Rodeo, Anathema of Judgment",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-096EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Rodeo, Anathema of Judgment",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Anathema / Luminary"
-  },
-  "BP16-095EN": {
-    "id": "BP16-095EN",
+},
+"BP16-097EN": {
+    "id": "BP16-097EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Rodeo, Anathema of Judgment (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-095.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Rodeo, Anathema of Judgment (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-097EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Rodeo, Anathema of Judgment (Evolved)",
     "type": "Evolve Deck",
     "cost": 4,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Anathema / Luminary"
-  },
-  "BP16-096EN": {
-    "id": "BP16-096EN",
+},
+"BP16-098EN": {
+    "id": "BP16-098EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Rana, Dual Cannon Sister",
-        "type": "Follower",
-        "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-096.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Rana, Dual Cannon Sister",
+            "type": "Follower",
+            "cost": 6,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-098EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Rana, Dual Cannon Sister",
     "type": "Follower",
     "cost": 6,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Wasteland / Faith"
-  },
-  "BP16-097EN": {
-    "id": "BP16-097EN",
+},
+"BP16-099EN": {
+    "id": "BP16-099EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ronavero, Darkhaven Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-097.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ronavero, Darkhaven Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-099EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ronavero, Darkhaven Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith / Luminary"
-  },
-  "BP16-098EN": {
-    "id": "BP16-098EN",
+},
+"BP16-100EN": {
+    "id": "BP16-100EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ronavero, Darkhaven Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-098.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ronavero, Darkhaven Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-100EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ronavero, Darkhaven Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith / Luminary"
-  },
-  "BP16-099EN": {
-    "id": "BP16-099EN",
+},
+"BP16-101EN": {
+    "id": "BP16-101EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Salefa, Guardian of Water",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-099.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Salefa, Guardian of Water",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-101EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Salefa, Guardian of Water",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith / Luminary / Lightborne"
-  },
-  "BP16-100EN": {
-    "id": "BP16-100EN",
+},
+"BP16-102EN": {
+    "id": "BP16-102EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Pact of the Beast Princess",
-        "type": "Amulet",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-100.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Pact of the Beast Princess",
+            "type": "Amulet",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-102EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Pact of the Beast Princess",
     "type": "Amulet",
     "cost": 2,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith"
-  },
-  "BP16-101EN": {
-    "id": "BP16-101EN",
+},
+"BP16-103EN": {
+    "id": "BP16-103EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Angelic Prism Priestess",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-101.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Angelic Prism Priestess",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-103EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Angelic Prism Priestess",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Luminary / Avian"
-  },
-  "BP16-102EN": {
-    "id": "BP16-102EN",
+},
+"BP16-104EN": {
+    "id": "BP16-104EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Angelic Prism Priestess (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-102.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Angelic Prism Priestess (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-104EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Angelic Prism Priestess (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Luminary / Avian"
-  },
-  "BP16-103EN": {
-    "id": "BP16-103EN",
+},
+"BP16-105EN": {
+    "id": "BP16-105EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Reno, Luxwing Featherfolk",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-103.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Reno, Luxwing Featherfolk",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-105EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Reno, Luxwing Featherfolk",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Luminary / Avian"
-  },
-  "BP16-104EN": {
-    "id": "BP16-104EN",
+},
+"BP16-106EN": {
+    "id": "BP16-106EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Serene Sanctuary",
-        "type": "Amulet",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-104.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Serene Sanctuary",
+            "type": "Amulet",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-106EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Serene Sanctuary",
     "type": "Amulet",
     "cost": 1,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith"
-  },
-  "BP16-105EN": {
-    "id": "BP16-105EN",
+},
+"BP16-107EN": {
+    "id": "BP16-107EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ironfist Priest",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-105.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ironfist Priest",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-107EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ironfist Priest",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith"
-  },
-  "BP16-106EN": {
-    "id": "BP16-106EN",
+},
+"BP16-108EN": {
+    "id": "BP16-108EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ironfist Priest (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-106.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Ironfist Priest (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-108EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ironfist Priest (Evolved)",
     "type": "Evolve Deck",
     "cost": 4,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith"
-  },
-  "BP16-107EN": {
-    "id": "BP16-107EN",
+},
+"BP16-109EN": {
+    "id": "BP16-109EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Maeve, Guardian of Earth",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-107.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Maeve, Guardian of Earth",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-109EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Maeve, Guardian of Earth",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Zealot / Luminary / Lightborne"
-  },
-  "BP16-108EN": {
-    "id": "BP16-108EN",
+},
+"BP16-110EN": {
+    "id": "BP16-110EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Holy Shieldmaiden",
-        "type": "Follower",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-108.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Holy Shieldmaiden",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-110EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Holy Shieldmaiden",
     "type": "Follower",
     "cost": 5,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith"
-  },
-  "BP16-109EN": {
-    "id": "BP16-109EN",
+},
+"BP16-111EN": {
+    "id": "BP16-111EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Mainyu, Darkdweller",
-        "type": "Follower",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-109.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Mainyu, Darkdweller",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-111EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Mainyu, Darkdweller",
     "type": "Follower",
     "cost": 2,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Zealot"
-  },
-  "BP16-110EN": {
-    "id": "BP16-110EN",
+},
+"BP16-112EN": {
+    "id": "BP16-112EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Darkhaven Grace",
-        "type": "Amulet",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-110.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Darkhaven Grace",
+            "type": "Amulet",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-112EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Darkhaven Grace",
     "type": "Amulet",
     "cost": 4,
     "Class": [
-      "Havencraft"
+        "Havencraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Faith / Luminary"
-  },
-  "BP16-111EN": {
-    "id": "BP16-111EN",
+},
+"BP16-113EN": {
+    "id": "BP16-113EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Olivia, Heroic Dark Angel",
-        "type": "Follower",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-111.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Olivia, Heroic Dark Angel",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-113EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Olivia, Heroic Dark Angel",
     "type": "Follower",
     "cost": 5,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Fallen Angel"
-  },
-  "BP16-112EN": {
-    "id": "BP16-112EN",
+},
+"BP16-U07EN": {
+    "id": "BP16-U07EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Olivia, Heroic Dark Angel (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-112.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Olivia, Heroic Dark Angel",
+            "type": "Follower",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-U07EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Olivia, Heroic Dark Angel",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+        "Neutral"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Fallen Angel"
+},
+"BP16-114EN": {
+    "id": "BP16-114EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Olivia, Heroic Dark Angel (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-114EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Olivia, Heroic Dark Angel (Evolved)",
     "type": "Evolve Deck",
     "cost": 5,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Fallen Angel"
-  },
-  "BP16-113EN": {
-    "id": "BP16-113EN",
+},
+"BP16-SP01EN": {
+    "id": "BP16-SP01EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Ruler of Cocytus",
-        "type": "Follower",
-        "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-113.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Olivia, Heroic Dark Angel (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-SP01EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Olivia, Heroic Dark Angel (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 5,
+    "Class": [
+        "Neutral"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Fallen Angel"
+},
+"BP16-115EN": {
+    "id": "BP16-115EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Ruler of Cocytus",
+            "type": "Follower",
+            "cost": 6,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-115EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Ruler of Cocytus",
     "type": "Follower",
     "cost": 6,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Archfiend"
-  },
-  "BP16-114EN": {
-    "id": "BP16-114EN",
+},
+"BP16-116EN": {
+    "id": "BP16-116EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Phildau, Lionheart Ward",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-114.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Phildau, Lionheart Ward",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-116EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Phildau, Lionheart Ward",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Musical / Lightborne"
-  },
-  "BP16-115EN": {
-    "id": "BP16-115EN",
+},
+"BP16-117EN": {
+    "id": "BP16-117EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Phildau, Lionheart Ward (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-115.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Phildau, Lionheart Ward (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-117EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Phildau, Lionheart Ward (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Musical / Lightborne"
-  },
-  "BP16-116EN": {
-    "id": "BP16-116EN",
+},
+"BP16-118EN": {
+    "id": "BP16-118EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Alouette, Doomwright Ward",
-        "type": "Follower",
-        "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-116.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Alouette, Doomwright Ward",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-118EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Alouette, Doomwright Ward",
     "type": "Follower",
     "cost": 4,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Supreme / Lightborne"
-  },
-  "BP16-117EN": {
-    "id": "BP16-117EN",
+},
+"BP16-119EN": {
+    "id": "BP16-119EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Leah, Bellringer Angel",
-        "type": "Follower",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-117.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Leah, Bellringer Angel",
+            "type": "Follower",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-119EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Leah, Bellringer Angel",
     "type": "Follower",
     "cost": 1,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Angel"
-  },
-  "BP16-118EN": {
-    "id": "BP16-118EN",
+},
+"BP16-120EN": {
+    "id": "BP16-120EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Apollo, Heaven's Envoy",
-        "type": "Follower",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-118.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Apollo, Heaven's Envoy",
+            "type": "Follower",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-120EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Apollo, Heaven's Envoy",
     "type": "Follower",
     "cost": 3,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Deity"
-  },
-  "BP16-119EN": {
-    "id": "BP16-119EN",
+},
+"BP16-121EN": {
+    "id": "BP16-121EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Apollo, Heaven's Envoy (Evolved)",
-        "type": "Evolve Deck",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-119.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Apollo, Heaven's Envoy (Evolved)",
+            "type": "Evolve Deck",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-121EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Apollo, Heaven's Envoy (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Deity"
-  },
-  "BP16-120EN": {
-    "id": "BP16-120EN",
+},
+"BP16-122EN": {
+    "id": "BP16-122EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Divine Thunder",
-        "type": "Spell",
-        "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-120.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Divine Thunder",
+            "type": "Spell",
+            "cost": 5,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-122EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Divine Thunder",
     "type": "Spell",
     "cost": 5,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Deity"
-  },
-  "BP16-121EN": {
-    "id": "BP16-121EN",
+},
+"BP16-123EN": {
+    "id": "BP16-123EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Doomwright Resurgence",
-        "type": "Spell",
-        "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-121.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Doomwright Resurgence",
+            "type": "Spell",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-123EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Doomwright Resurgence",
     "type": "Spell",
     "cost": 2,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Supreme / Lightborne"
-  },
-  "BP16-T01EN": {
+},
+"BP16-T01EN": {
     "id": "BP16-T01EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Guardian Golem",
-        "type": "Token",
-        "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T01.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Guardian Golem",
+            "type": "Token",
+            "cost": 3,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T01EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Guardian Golem",
     "type": "Token",
     "cost": 3,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Golem"
-  },
-  "BP16-T02EN": {
+},
+"BP16-T02EN": {
     "id": "BP16-T02EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Looking Smart!",
-        "type": "Token",
-        "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T02.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Looking Smart!",
+            "type": "Token",
+            "cost": 0,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T02EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Looking Smart!",
     "type": "Token",
     "cost": 0,
     "Class": [
-      "Runecraft"
+        "Runecraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Mage / Academic"
-  },
-  "BP16-T03EN": {
+},
+"BP16-T03EN": {
     "id": "BP16-T03EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Fire Drake Whelp",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T03.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Fire Drake Whelp",
+            "type": "Token",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T03EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Fire Drake Whelp",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Dragoncraft"
+        "Dragoncraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Wyrmkin"
-  },
-  "BP16-T04EN": {
+},
+"BP16-T04EN": {
     "id": "BP16-T04EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Mimi, Right Paw Hellhound",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T04.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Mimi, Right Paw Hellhound",
+            "type": "Token",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T04EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Mimi, Right Paw Hellhound",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-T05EN": {
+},
+"BP16-T05EN": {
     "id": "BP16-T05EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Coco, Left Paw Hellhound",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T05.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Coco, Left Paw Hellhound",
+            "type": "Token",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T05EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Coco, Left Paw Hellhound",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Abysscraft"
+        "Abysscraft"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Demon"
-  },
-  "BP16-T06EN": {
+},
+"BP16-T06EN": {
     "id": "BP16-T06EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Silent Rider",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T06.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Silent Rider",
+            "type": "Token",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T06EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Silent Rider",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Archfiend"
-  },
-  "BP16-T07EN": {
+},
+"BP16-T07EN": {
     "id": "BP16-T07EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Servant of Cocytus",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T07.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Servant of Cocytus",
+            "type": "Token",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T07EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Servant of Cocytus",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Archfiend"
-  },
-  "BP16-T08EN": {
+},
+"BP16-T08EN": {
     "id": "BP16-T08EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Demon of Purgatory",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T08.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Demon of Purgatory",
+            "type": "Token",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T08EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Demon of Purgatory",
     "type": "Token",
     "cost": 1,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Archfiend"
-  },
-  "BP16-T09EN": {
+},
+"BP16-T09EN": {
     "id": "BP16-T09EN",
     "isToken": false,
     "face": {
-      "front": {
-        "name": "Astaroth's Reckoning",
-        "type": "Token",
-        "cost": 10,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T09.jpg",
-        "isHorizontal": false
-      }
+        "front": {
+            "name": "Astaroth's Reckoning",
+            "type": "Token",
+            "cost": 10,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T09EN.png",
+            "isHorizontal": false
+        }
     },
     "name": "Astaroth's Reckoning",
     "type": "Token",
     "cost": 10,
     "Class": [
-      "Neutral"
+        "Neutral"
     ],
     "Set": [
-      "BP16-18"
+        "BP16-18"
     ],
     "Trait": "Archfiend"
-  },
+},
   "BP15-001EN": {
     "id": "BP15-001EN",
     "isToken": false,
@@ -13960,6 +14144,29 @@
     ],
     "Trait": "Elf"
   },
+  "PR-370EN": {
+    "id": "PR-370EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piercye, Queen of Frost",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-370EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piercye, Queen of Frost",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "BP13-15"
+    ],
+    "Trait": "Elf"
+  },
   "BP15-005EN": {
     "id": "BP15-005EN",
     "isToken": false,
@@ -13969,6 +14176,29 @@
         "type": "Evolve Deck",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP15/BP15-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piercye, Queen of Frost (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 4,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "BP13-15"
+    ],
+    "Trait": "Elf"
+  },
+  "PR-371EN": {
+    "id": "PR-371EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piercye, Queen of Frost (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-371EN.png",
         "isHorizontal": false
       }
     },
@@ -17295,6 +17525,29 @@
     ],
     "Trait": "Festive / Beast"
   },
+  "PR-383EN": {
+    "id": "PR-383EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hozumi, Enchanting Hostess",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-383EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hozumi, Enchanting Hostess",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "BP13-15"
+    ],
+    "Trait": "Festive / Beast"
+  },
   "BP14-002EN": {
     "id": "BP14-002EN",
     "isToken": false,
@@ -17304,6 +17557,29 @@
         "type": "Evolve Deck",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP14/BP14-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hozumi, Enchanting Hostess (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "BP13-15"
+    ],
+    "Trait": "Festive / Beast"
+  },
+  "PR-384EN": {
+    "id": "PR-384EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hozumi, Enchanting Hostess (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-384EN.png",
         "isHorizontal": false
       }
     },
@@ -19972,6 +20248,29 @@
         "type": "Spell",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP14/BP14-110EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angel's Blessing",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "BP13-15"
+    ],
+    "Trait": "Angel"
+  },
+  "PR-382EN": {
+    "id": "PR-382EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angel's Blessing",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-382EN.png",
         "isHorizontal": false
       }
     },
@@ -26196,6 +26495,29 @@
     ],
     "Trait": "Mage"
   },
+  "PR-385EN": {
+    "id": "PR-385EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melvie, Princess Witch",
+        "type": "Follower",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-385EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melvie, Princess Witch",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "BP10-12"
+    ],
+    "Trait": "Mage"
+  },
   "BP12-041EN": {
     "id": "BP12-041EN",
     "isToken": false,
@@ -31403,29 +31725,6 @@
         "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T03EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dutiful Steed",
-    "type": "Token",
-    "cost": 1,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "BP10-12"
-    ],
-    "Trait": "Wasteland / Mount / Beast"
-  },
-  "PR-346EN": {
-    "id": "PR-346EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Dutiful Steed",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-346EN.png",
         "isHorizontal": false
       }
     },
@@ -77459,8 +77758,8 @@
         "name": "Super Evolution Point",
         "type": "EP",
         "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
-        "isHorizontal": false
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
+        "isHorizontal": true
       }
     },
     "name": "Super Evolution Point",
@@ -77476,8 +77775,8 @@
         "name": "Super Evolution Point",
         "type": "EP",
         "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SEP.jpg",
-        "isHorizontal": false
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
+        "isHorizontal": true
       }
     },
     "name": "Super Evolution Point",
@@ -78620,26 +78919,6 @@
         "type": "Token",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-T03EN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dutiful Steed",
-    "type": "Token",
-    "cost": 1,
-    "Class": [
-      "Neutral"
-    ],
-    "Trait": "Wasteland / Mount / Beast"
-  },
-  "PR-346EN_TOKEN": {
-    "id": "PR-346EN_TOKEN",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Dutiful Steed",
-        "type": "Token",
-        "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-346EN.png",
         "isHorizontal": false
       }
     },
