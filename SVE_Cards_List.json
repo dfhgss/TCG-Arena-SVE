@@ -77828,7 +77828,7 @@
         "type": "EP",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
@@ -77845,7 +77845,7 @@
         "type": "EP",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
