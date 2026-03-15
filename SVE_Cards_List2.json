@@ -11430,6 +11430,29 @@
     ],
     "Trait": "Officer"
 },
+"PR-404EN": {
+    "id": "PR-404EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Amalia, Luxsteel Paladin",
+            "type": "Follower",
+            "cost": 4,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-404EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Amalia, Luxsteel Paladin",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+        "Swordcraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Officer"
+},
 "BP16-026EN": {
     "id": "BP16-026EN",
     "isToken": false,
@@ -12856,6 +12879,29 @@
     ],
     "Trait": "Departed"
 },
+"PR-402EN": {
+    "id": "PR-402EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Ceres, Blue Rose Maiden",
+            "type": "Follower",
+            "cost": 2,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-402EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Ceres, Blue Rose Maiden",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+        "Abysscraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Departed"
+},
 "BP16-085EN": {
     "id": "BP16-085EN",
     "isToken": false,
@@ -13371,6 +13417,29 @@
             "type": "Amulet",
             "cost": 1,
             "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-106EN.png",
+            "isHorizontal": false
+        }
+    },
+    "name": "Serene Sanctuary",
+    "type": "Amulet",
+    "cost": 1,
+    "Class": [
+        "Havencraft"
+    ],
+    "Set": [
+        "BP16-18"
+    ],
+    "Trait": "Faith"
+},
+"PR-403EN": {
+    "id": "PR-403EN",
+    "isToken": false,
+    "face": {
+        "front": {
+            "name": "Serene Sanctuary",
+            "type": "Amulet",
+            "cost": 1,
+            "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-403EN.png",
             "isHorizontal": false
         }
     },
@@ -77755,11 +77824,11 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Super Evolution Point",
+        "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
@@ -77772,11 +77841,11 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Super Evolution Point",
+        "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Super Evolution Point",
