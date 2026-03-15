@@ -77827,11 +77827,11 @@
         "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvo.png",
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvolution.png",
         "isHorizontal": true
       }
     },
-    "name": "Super Evolution Point",
+    "name": "Super Evolution Point SEP",
     "type": "EP",
     "cost": 0,
     "Trait": ""
@@ -77844,11 +77844,11 @@
         "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvo.png",
-        "isHorizontal": true
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvolution.png",
+        "isHorizontal": false
       }
     },
-    "name": "Super Evolution Point",
+    "name": "Super Evolution Point SEP",
     "type": "EP",
     "cost": 0,
     "Trait": ""
