@@ -61,7 +61,7 @@
             "destination": "EP"
           },
                               {
-            "createCardId": "SEP",
+            "createCardId": "SEP_TOKEN",
             "count": 1,
             "destination": "EP"
           }
