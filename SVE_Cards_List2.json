@@ -77827,8 +77827,8 @@
         "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
-        "isHorizontal": false
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvo.png",
+        "isHorizontal": true
       }
     },
     "name": "Super Evolution Point",
@@ -77844,8 +77844,8 @@
         "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-389EN.png",
-        "isHorizontal": false
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvo.png",
+        "isHorizontal": true
       }
     },
     "name": "Super Evolution Point",
