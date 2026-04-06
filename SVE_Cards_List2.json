@@ -1,6 +1,6 @@
 {
   "BP19-001": {
-    "id": "",
+    "id": "BP19-001",
     "isToken": false,
     "face": {
       "front": {
@@ -41947,7 +41947,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Commander"
   },
@@ -42545,7 +42545,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Mage / Academic / Princess"
   },
@@ -42591,7 +42591,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Mage / Academic / Princess"
   },
@@ -42637,7 +42637,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Mage / Academic / Princess"
   },
@@ -44362,7 +44362,7 @@
       "Havencraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Faith / Luminary"
   },
@@ -44408,7 +44408,7 @@
       "Havencraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Faith / Luminary"
   },
@@ -45466,7 +45466,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Puppetry / Cutthroat"
   },
@@ -45512,7 +45512,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Puppetry / Cutthroat"
   },
@@ -46455,7 +46455,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Mage / Academic"
   },
@@ -46501,7 +46501,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Mage / Academic"
   },
@@ -46823,7 +46823,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Dragonewt / Princess"
   },
@@ -46869,7 +46869,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Dragonewt / Princess"
   },
@@ -47329,7 +47329,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Demon"
   },
@@ -47766,7 +47766,7 @@
       "Havencraft"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Faith / Beast"
   },
@@ -50737,15 +50737,15 @@
     ],
     "Trait": "Machina / Faith / Zealot"
   },
-  "BP09-120EN": {
-    "id": "BP09-120EN",
+  "BP07-090EN": {
+    "id": "BP07-090EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Marlone, Light of Balance",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-120EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-090EN.png",
         "isHorizontal": false
       }
     },
@@ -50760,15 +50760,15 @@
     ],
     "Trait": "Faith"
   },
-  "BP09-121EN": {
-    "id": "BP09-121EN",
+  "BP07-091EN": {
+    "id": "BP07-091EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Marlone, Light of Balance",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-121EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-091EN.png",
         "isHorizontal": false
       }
     },
@@ -50783,15 +50783,15 @@
     ],
     "Trait": "Faith"
   },
-  "BP09-122EN": {
-    "id": "BP09-122EN",
+  "BP07-092EN": {
+    "id": "BP07-092EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Augmentation Bestowal",
         "type": "Spell",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-122EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-092EN.png",
         "isHorizontal": false
       }
     },
@@ -50829,15 +50829,15 @@
     ],
     "Trait": "Machina / Faith"
   },
-  "BP09-123EN": {
-    "id": "BP09-123EN",
+  "BP07-093EN": {
+    "id": "BP07-093EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Bunny-Eared Administrator",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-123EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-093EN.png",
         "isHorizontal": false
       }
     },
@@ -50852,15 +50852,15 @@
     ],
     "Trait": "Beast / Fable"
   },
-  "BP09-124EN": {
-    "id": "BP09-124EN",
+  "BP07-094EN": {
+    "id": "BP07-094EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Robofalcon",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-124EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-094EN.png",
         "isHorizontal": false
       }
     },
@@ -50875,15 +50875,15 @@
     ],
     "Trait": "Machina / Avian"
   },
-  "BP09-125EN": {
-    "id": "BP09-125EN",
+  "BP07-095EN": {
+    "id": "BP07-095EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Robofalcon",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-125EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-095EN.png",
         "isHorizontal": false
       }
     },
@@ -50898,15 +50898,15 @@
     ],
     "Trait": "Machina / Avian"
   },
-  "BP09-126EN": {
-    "id": "BP09-126EN",
+  "BP07-096EN": {
+    "id": "BP07-096EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Marcotte, Heretical Sister",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-126EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-096EN.png",
         "isHorizontal": false
       }
     },
@@ -50921,15 +50921,15 @@
     ],
     "Trait": "Zealot"
   },
-  "BP09-127EN": {
-    "id": "BP09-127EN",
+  "BP07-097EN": {
+    "id": "BP07-097EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ironknuckle Nun",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-127EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-097EN.png",
         "isHorizontal": false
       }
     },
@@ -50944,15 +50944,15 @@
     ],
     "Trait": "Machina / Faith"
   },
-  "BP09-128EN": {
-    "id": "BP09-128EN",
+  "BP07-098EN": {
+    "id": "BP07-098EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dark Bishop",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-128EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-098EN.png",
         "isHorizontal": false
       }
     },
@@ -50967,15 +50967,15 @@
     ],
     "Trait": "Faith / Fable"
   },
-  "BP09-129EN": {
-    "id": "BP09-129EN",
+  "BP07-099EN": {
+    "id": "BP07-099EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dark Bishop",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP09-129EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-099EN.png",
         "isHorizontal": false
       }
     },
@@ -51561,7 +51561,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP09-12"
+      "BP07-09"
     ],
     "Trait": "Natura"
   },
@@ -55655,7 +55655,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Arena / Officer"
   },
@@ -55701,7 +55701,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Officer / Supreme"
   },
@@ -55747,7 +55747,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Officer / Supreme"
   },
@@ -56644,7 +56644,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Dragonewt"
   },
@@ -57012,7 +57012,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Arena / Yokai"
   },
@@ -57058,7 +57058,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Arena / Yokai"
   },
@@ -57472,7 +57472,7 @@
       "Havencraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Arena / Luminary"
   },
@@ -58024,7 +58024,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Lightborne"
   },
@@ -58070,7 +58070,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Lightborne"
   },
@@ -59703,7 +59703,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Omen / Wyrmkin"
   },
@@ -59749,7 +59749,7 @@
       "Dragoncraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Omen / Wyrmkin"
   },
@@ -61175,7 +61175,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Mercenary"
   },
@@ -61865,7 +61865,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Elf"
   },
@@ -61911,7 +61911,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Elf"
   },
@@ -62670,7 +62670,7 @@
       "Runecraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Mage / Academic"
   },
@@ -62973,15 +62973,15 @@
     ],
     "Trait": "Wyrmkin"
   },
-  "BP05-080EN": {
-    "id": "BP05-080EN",
+  "BP04-060EN": {
+    "id": "BP04-060EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Python",
         "type": "Evolve Deck",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-080EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-060EN.png",
         "isHorizontal": false
       }
     },
@@ -62996,15 +62996,15 @@
     ],
     "Trait": "Wyrmkin"
   },
-  "BP05-081EN": {
-    "id": "BP05-081EN",
+  "BP04-061EN": {
+    "id": "BP04-061EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lævateinn Dragon, Defense Form",
         "type": "Evolve Deck",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-081EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-061EN.png",
         "isHorizontal": false
       }
     },
@@ -63019,15 +63019,15 @@
     ],
     "Trait": "Wyrmkin / Armed"
   },
-  "BP05-082EN": {
-    "id": "BP05-082EN",
+  "BP04-062EN": {
+    "id": "BP04-062EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lævateinn Dragon, Blast Form",
         "type": "Evolve Deck",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-082EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-062EN.png",
         "isHorizontal": false
       }
     },
@@ -63042,15 +63042,15 @@
     ],
     "Trait": "Wyrmkin / Armed"
   },
-  "BP05-083EN": {
-    "id": "BP05-083EN",
+  "BP04-063EN": {
+    "id": "BP04-063EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Prime Dragon Keeper",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-083EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-063EN.png",
         "isHorizontal": false
       }
     },
@@ -63088,15 +63088,15 @@
     ],
     "Trait": "Dragonheart"
   },
-  "BP05-084EN": {
-    "id": "BP05-084EN",
+  "BP04-064EN": {
+    "id": "BP04-064EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Star Phoenix",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-084EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-064EN.png",
         "isHorizontal": false
       }
     },
@@ -63134,15 +63134,15 @@
     ],
     "Trait": "Phoenix / Celestial"
   },
-  "BP05-085EN": {
-    "id": "BP05-085EN",
+  "BP04-065EN": {
+    "id": "BP04-065EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Star Phoenix",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-085EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-065EN.png",
         "isHorizontal": false
       }
     },
@@ -63180,15 +63180,15 @@
     ],
     "Trait": "Phoenix / Celestial"
   },
-  "BP05-086EN": {
-    "id": "BP05-086EN",
+  "BP04-066EN": {
+    "id": "BP04-066EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lightning Blast",
         "type": "Spell",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-086EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-066EN.png",
         "isHorizontal": false
       }
     },
@@ -63203,15 +63203,15 @@
     ],
     "Trait": "Wyrmkin"
   },
-  "BP05-087EN": {
-    "id": "BP05-087EN",
+  "BP04-067EN": {
+    "id": "BP04-067EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Guren Revolt",
         "type": "Spell",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-087EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-067EN.png",
         "isHorizontal": false
       }
     },
@@ -63226,15 +63226,15 @@
     ],
     "Trait": "Wyrmkin"
   },
-  "BP05-088EN": {
-    "id": "BP05-088EN",
+  "BP04-068EN": {
+    "id": "BP04-068EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Venomous Pucewyrm",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-088EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-068EN.png",
         "isHorizontal": false
       }
     },
@@ -63249,15 +63249,15 @@
     ],
     "Trait": "Wyrmkin"
   },
-  "BP05-089EN": {
-    "id": "BP05-089EN",
+  "BP04-069EN": {
+    "id": "BP04-069EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Cetus",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP05-089EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-069EN.png",
         "isHorizontal": false
       }
     },
@@ -64004,7 +64004,7 @@
       "Havencraft"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Faith / Luminary / Lightborne"
   },
@@ -64625,7 +64625,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP05-08"
+      "BP04-06"
     ],
     "Trait": "Musical"
   },
@@ -67776,7 +67776,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Musical / Fable / Princess"
   },
@@ -70674,7 +70674,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Crystalian"
   },
@@ -70720,7 +70720,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Crystalian"
   },
@@ -70950,7 +70950,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Commander / Levin"
   },
@@ -70996,7 +70996,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Commander / Levin"
   },
@@ -71180,7 +71180,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Officer / Levin"
   },
@@ -71226,7 +71226,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Officer / Levin"
   },
@@ -71272,7 +71272,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Noble / Levin"
   },
@@ -72399,7 +72399,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Necromancer"
   },
@@ -73181,7 +73181,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Fallen Angel"
   },
@@ -73227,7 +73227,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Deity / Supreme"
   },
@@ -73388,7 +73388,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Mercenary"
   },
@@ -73480,7 +73480,7 @@
       "Neutral"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Fiend / Chef"
   },
@@ -74519,15 +74519,15 @@
     ],
     "Trait": "Assassin"
   },
-  "BP01-040EN": {
-    "id": "BP01-040EN",
+  "BP01-030EN": {
+    "id": "BP01-030EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Shadowed Assassin",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-040EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-030EN.png",
         "isHorizontal": false
       }
     },
@@ -74542,15 +74542,15 @@
     ],
     "Trait": "Assassin"
   },
-  "BP01-041EN": {
-    "id": "BP01-041EN",
+  "BP01-031EN": {
+    "id": "BP01-031EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Frontguard General",
         "type": "Follower",
         "cost": 7,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-041EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-031EN.png",
         "isHorizontal": false
       }
     },
@@ -74565,15 +74565,15 @@
     ],
     "Trait": "Commander"
   },
-  "BP01-042EN": {
-    "id": "BP01-042EN",
+  "BP01-032EN": {
+    "id": "BP01-032EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Alwida's Command",
         "type": "Spell",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-042EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-032EN.png",
         "isHorizontal": false
       }
     },
@@ -74588,15 +74588,15 @@
     ],
     "Trait": "Thief"
   },
-  "BP01-043EN": {
-    "id": "BP01-043EN",
+  "BP01-033EN": {
+    "id": "BP01-033EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Royal Banner",
         "type": "Amulet",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-043EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-033EN.png",
         "isHorizontal": false
       }
     },
@@ -74611,15 +74611,15 @@
     ],
     "Trait": "Commander"
   },
-  "BP01-044EN": {
-    "id": "BP01-044EN",
+  "BP01-034EN": {
+    "id": "BP01-034EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Maid Leader",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-044EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-034EN.png",
         "isHorizontal": false
       }
     },
@@ -74634,15 +74634,15 @@
     ],
     "Trait": "Officer / Maid"
   },
-  "BP01-045EN": {
-    "id": "BP01-045EN",
+  "BP01-035EN": {
+    "id": "BP01-035EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Maid Leader",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-045EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-035EN.png",
         "isHorizontal": false
       }
     },
@@ -74657,15 +74657,15 @@
     ],
     "Trait": "Officer / Maid"
   },
-  "BP01-046EN": {
-    "id": "BP01-046EN",
+  "BP01-036EN": {
+    "id": "BP01-036EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Gemstaff Commander",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-046EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-036EN.png",
         "isHorizontal": false
       }
     },
@@ -74680,15 +74680,15 @@
     ],
     "Trait": "Commander"
   },
-  "BP01-047EN": {
-    "id": "BP01-047EN",
+  "BP01-037EN": {
+    "id": "BP01-037EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sage Commander",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-047EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-037EN.png",
         "isHorizontal": false
       }
     },
@@ -74703,15 +74703,15 @@
     ],
     "Trait": "Commander"
   },
-  "BP01-048EN": {
-    "id": "BP01-048EN",
+  "BP01-038EN": {
+    "id": "BP01-038EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Swordsman",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-048EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-038EN.png",
         "isHorizontal": false
       }
     },
@@ -74726,15 +74726,15 @@
     ],
     "Trait": "Officer"
   },
-  "BP01-049EN": {
-    "id": "BP01-049EN",
+  "BP01-039EN": {
+    "id": "BP01-039EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Pompous Princess",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-049EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-039EN.png",
         "isHorizontal": false
       }
     },
@@ -76355,7 +76355,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Demon"
   },
@@ -76401,7 +76401,7 @@
       "Abysscraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Demon"
   },
@@ -78517,7 +78517,7 @@
       "Forestcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Pixie"
   },
@@ -78586,7 +78586,7 @@
       "Swordcraft"
     ],
     "Set": [
-      "BP01-04"
+      "BP01-03"
     ],
     "Trait": "Officer"
   },
