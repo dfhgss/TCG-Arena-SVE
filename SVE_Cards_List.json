@@ -75715,6 +75715,29 @@
     ],
     "Trait": "Dragonheart"
   },
+  "BP01-SP02EN": {
+    "id": "BP01-SP02EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Dragoon Forte",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-SP02EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Dragoon Forte",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "BP01-04"
+    ],
+    "Trait": "Dragonheart"
+  },
   "BP01-077EN": {
     "id": "BP01-077EN",
     "isToken": false,
@@ -75738,15 +75761,15 @@
     ],
     "Trait": "Dragonheart"
   },
-  "BP01-SP02EN": {
-    "id": "BP01-SP02EN",
+  "BP01-U04EN": {
+    "id": "BP01-U04EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dark Dragoon Forte",
+        "name": "Dark Dragoon Forte (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-SP02EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U04EN.png",
         "isHorizontal": false
       }
     },
