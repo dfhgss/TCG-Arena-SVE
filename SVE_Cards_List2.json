@@ -11959,1662 +11959,1961 @@
     ],
     "Trait": "Faith"
   },
-  "ECP02-001EN": {
-    "id": "ECP02-001EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-001EN": {
+        "id": "ECP02-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Anastasia [Seize the Light]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-001EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Anastasia [Seize the Light]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-001.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Anastasia [Seize the Light]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-002EN": {
-    "id": "ECP02-002EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-002EN": {
+        "id": "ECP02-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Anastasia [Seize the Light] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-002EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Anastasia [Seize the Light] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-002.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Anastasia [Seize the Light] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-003EN": {
-    "id": "ECP02-003EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hajime Fujiwara [Blossom Pink Dream]",
+    "ECP02-003EN": {
+        "id": "ECP02-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hajime Fujiwara [Pink Blossom Dream]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hajime Fujiwara [Pink Blossom Dream]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-003.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Hajime Fujiwara [Blossom Pink Dream]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-004EN": {
-    "id": "ECP02-004EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Minami Nitta [Beach Bride]",
+    "ECP02-004EN": {
+        "id": "ECP02-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Minami Nitta [Water's Edge Bride]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-004EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Minami Nitta [Water's Edge Bride]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-004.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Minami Nitta [Beach Bride]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-005EN": {
-    "id": "ECP02-005EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Yuki Himekawa [Full Swing☆Yell] ",
+    "ECP02-SP01EN": {
+        "id": "ECP02-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Minami Nitta [Water's Edge Bride]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Minami Nitta [Water's Edge Bride]",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
+    "ECP02-005EN": {
+        "id": "ECP02-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yuki Himekawa [Full Swing☆Cheer] ",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-005EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yuki Himekawa [Full Swing☆Cheer] ",
         "type": "Follower",
         "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-005.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Yuki Himekawa [Full Swing☆Yell] ",
-    "type": "Follower",
-    "cost": 7,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-006EN": {
-    "id": "ECP02-006EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-SP02EN": {
+        "id": "ECP02-SP02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yuki Himekawa [Full Swing☆Cheer] ",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yuki Himekawa [Full Swing☆Cheer] ",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
+    "ECP02-006EN": {
+        "id": "ECP02-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Riina Tada [Wannabe Legend]",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-006EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Riina Tada [Wannabe Legend]",
         "type": "Follower",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-006.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Riina Tada [Wannabe Legend]",
-    "type": "Follower",
-    "cost": 5,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-007EN": {
-    "id": "ECP02-007EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-007EN": {
+        "id": "ECP02-007EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Riina Tada [Wannabe Legend] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-007EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Riina Tada [Wannabe Legend] (Evolved)",
         "type": "Evolve Deck",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-007.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Riina Tada [Wannabe Legend] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 5,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-008EN": {
-    "id": "ECP02-008EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-008EN": {
+        "id": "ECP02-008EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hinako Kita [True Dream]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-008EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Hinako Kita [True Dream]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-008.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Passion"
     },
-    "name": "Hinako Kita [True Dream]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Passion"
-  },
-  "ECP02-009EN": {
-    "id": "ECP02-009EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-009EN": {
+        "id": "ECP02-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hinako Kita [True Dream] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-009EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Hinako Kita [True Dream] (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-009.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Passion"
     },
-    "name": "Hinako Kita [True Dream] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 1,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Passion"
-  },
-  "ECP02-010EN": {
-    "id": "ECP02-010EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Miku Maekawa [Meow-vellous World] ",
+    "ECP02-010EN": {
+        "id": "ECP02-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Miku Maekawa [Meownderful World] ",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Miku Maekawa [Meownderful World] ",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-010.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Miku Maekawa [Meow-vellous World] ",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-011EN": {
-    "id": "ECP02-011EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Dream Colored Flower Front",
+    "ECP02-011EN": {
+        "id": "ECP02-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blossom's Advance",
+                "type": "Spell",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-011EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blossom's Advance",
         "type": "Spell",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-011.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Passion"
     },
-    "name": "Dream Colored Flower Front",
-    "type": "Spell",
-    "cost": 5,
-    "Class": [
-      "Forestcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Passion"
-  },
-  "ECP02-012EN": {
-    "id": "ECP02-012EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-012EN": {
+        "id": "ECP02-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rin Shibuya [Cinderella Girl] ",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-012EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Rin Shibuya [Cinderella Girl] ",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-012.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Rin Shibuya [Cinderella Girl] ",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-013EN": {
-    "id": "ECP02-013EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-SP03aEN": {
+        "id": "ECP02-SP03aEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rin Shibuya [Cinderella Girl] ",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP03aEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rin Shibuya [Cinderella Girl] ",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
+    "ECP02-013EN": {
+        "id": "ECP02-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mio Honda [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-013EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Mio Honda [Cinderella Girl]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-013.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Mio Honda [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-014EN": {
-    "id": "ECP02-014EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-014EN": {
+        "id": "ECP02-014EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mio Honda [Cinderella Girl] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-014EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Mio Honda [Cinderella Girl] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-014.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Mio Honda [Cinderella Girl] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-015EN": {
-    "id": "ECP02-015EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-015EN": {
+        "id": "ECP02-015EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Uzuki Shimamura [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-015EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Uzuki Shimamura [Cinderella Girl]",
         "type": "Follower",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-015.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG/ Cute"
     },
-    "name": "Uzuki Shimamura [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 6,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG/ Cute"
-  },
-  "ECP02-016EN": {
-    "id": "ECP02-016EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-SP04EN": {
+        "id": "ECP02-SP04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Uzuki Shimamura [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Uzuki Shimamura [Cinderella Girl]",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG/ Cute"
+    },
+    "ECP02-016EN": {
+        "id": "ECP02-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Karen Hojo [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-016EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Karen Hojo [Cinderella Girl]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-016.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Karen Hojo [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-017EN": {
-    "id": "ECP02-017EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-017EN": {
+        "id": "ECP02-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Airi Totoki [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-017EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Airi Totoki [Cinderella Girl]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-017.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Airi Totoki [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-018EN": {
-    "id": "ECP02-018EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-018EN": {
+        "id": "ECP02-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Airi Totoki [Cinderella Girl] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-018EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Airi Totoki [Cinderella Girl] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-018.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Airi Totoki [Cinderella Girl] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-019EN": {
-    "id": "ECP02-019EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Mayu Sakuma [Thoughtful Present]",
+    "ECP02-019EN": {
+        "id": "ECP02-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mayu Sakuma [Love-Laden Gift]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-019EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mayu Sakuma [Love-Laden Gift]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-019.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Mayu Sakuma [Thoughtful Present]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-020EN": {
-    "id": "ECP02-020EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Mayu Sakuma [Thoughtful Present] (Evolved)",
+    "ECP02-020EN": {
+        "id": "ECP02-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mayu Sakuma [Love-Laden Gift] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-020EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mayu Sakuma [Love-Laden Gift] (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-020.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Mayu Sakuma [Thoughtful Present] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 3,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-021EN": {
-    "id": "ECP02-021EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-021EN": {
+        "id": "ECP02-021EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chieri Ogata [Happiness Tune]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-021EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Chieri Ogata [Happiness Tune]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-021.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Chieri Ogata [Happiness Tune]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-022EN": {
-    "id": "ECP02-022EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-022EN": {
+        "id": "ECP02-022EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chieri Ogata [Happiness Tune] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-022EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Chieri Ogata [Happiness Tune] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-022.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Chieri Ogata [Happiness Tune] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-023EN": {
-    "id": "ECP02-023EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Nagi Hisakawa [The Tale of A Very Nagi Life]",
+    "ECP02-023EN": {
+        "id": "ECP02-023EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nagi Hisakawa [Everyday Fairy Tale]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-023EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nagi Hisakawa [Everyday Fairy Tale]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-023.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Nagi Hisakawa [The Tale of A Very Nagi Life]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-024EN": {
-    "id": "ECP02-024EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-024EN": {
+        "id": "ECP02-024EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Miho Kohinata [Youthful Romance]",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-024EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Miho Kohinata [Youthful Romance]",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-024.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Cute"
     },
-    "name": "Miho Kohinata [Youthful Romance]",
-    "type": "Follower",
-    "cost": 4,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Cute"
-  },
-  "ECP02-025EN": {
-    "id": "ECP02-025EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Dancin' In the Rain",
+    "ECP02-025EN": {
+        "id": "ECP02-025EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dancing in the Rain",
+                "type": "Amulet",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-025EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dancing in the Rain",
         "type": "Amulet",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-025.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Dancin' In the Rain",
-    "type": "Amulet",
-    "cost": 1,
-    "Class": [
-      "Swordcraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-026EN": {
-    "id": "ECP02-026EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-026EN": {
+        "id": "ECP02-026EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Syuko Shiomi [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-026EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Syuko Shiomi [Cinderella Girl]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-026.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Syuko Shiomi [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-027EN": {
-    "id": "ECP02-027EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-027EN": {
+        "id": "ECP02-027EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mika Jougasaki [My★Style]",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-027EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Mika Jougasaki [My★Style]",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-027.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Mika Jougasaki [My★Style]",
-    "type": "Follower",
-    "cost": 4,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-028EN": {
-    "id": "ECP02-028EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Yuuki Otokura [Come with Me!]",
+    "ECP02-SP05aEN": {
+        "id": "ECP02-SP05aEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mika Jougasaki [My★Style]",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP05aEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mika Jougasaki [My★Style]",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
+    "ECP02-028EN": {
+        "id": "ECP02-028EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yuuki Otokura [Together with Me]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-028EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yuuki Otokura [Together with Me]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-028.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Cute"
     },
-    "name": "Yuuki Otokura [Come with Me!]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Cute"
-  },
-  "ECP02-029EN": {
-    "id": "ECP02-029EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sparklation☆Parade",
+    "ECP02-SP06EN": {
+        "id": "ECP02-SP06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yuuki Otokura [Together with Me]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yuuki Otokura [Together with Me]",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Cute"
+    },
+    "ECP02-029EN": {
+        "id": "ECP02-029EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Glitz & Glam☆Parade",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-029EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Glitz & Glam☆Parade",
         "type": "Spell",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-029.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Sparklation☆Parade",
-    "type": "Spell",
-    "cost": 3,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-030EN": {
-    "id": "ECP02-030EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sae Kobayakawa [Arcadia of Dancing Flowers]",
+    "ECP02-030EN": {
+        "id": "ECP02-030EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sae Kobayakawa [Dancing Flowers]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-030EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sae Kobayakawa [Dancing Flowers]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-030.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Sae Kobayakawa [Arcadia of Dancing Flowers]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-031EN": {
-    "id": "ECP02-031EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sae Kobayakawa [Arcadia of Dancing Flowers] (Evolved)",
+    "ECP02-031EN": {
+        "id": "ECP02-031EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sae Kobayakawa [Dancing Flowers] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-031EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sae Kobayakawa [Dancing Flowers] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-031.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Sae Kobayakawa [Arcadia of Dancing Flowers] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-032EN": {
-    "id": "ECP02-032EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hiromi Seki [Twinkle in the Eyes]",
+    "ECP02-032EN": {
+        "id": "ECP02-032EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hiromi Seki [Twinkle in My Eye]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-032EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hiromi Seki [Twinkle in My Eye]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-032.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Hiromi Seki [Twinkle in the Eyes]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-033EN": {
-    "id": "ECP02-033EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hiromi Seki [Twinkle in the Eyes] (Evolved)",
+    "ECP02-033EN": {
+        "id": "ECP02-033EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hiromi Seki [Twinkle in My Eye] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-033EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hiromi Seki [Twinkle in My Eye] (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 1/ECP02-033.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Hiromi Seki [Twinkle in the Eyes] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 1,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-034EN": {
-    "id": "ECP02-034EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-034EN": {
+        "id": "ECP02-034EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shiki Ichinose [Mystic Elixir]",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-034EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Shiki Ichinose [Mystic Elixir]",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-034.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Shiki Ichinose [Mystic Elixir]",
-    "type": "Follower",
-    "cost": 4,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-035EN": {
-    "id": "ECP02-035EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Kanade Hayami [Profound Flower Blooming in the Farthest Ends]",
+    "ECP02-035EN": {
+        "id": "ECP02-035EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kanade Hayami [Faraway Reflection]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-035EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kanade Hayami [Faraway Reflection]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-035.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Kanade Hayami [Profound Flower Blooming in the Farthest Ends]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-036EN": {
-    "id": "ECP02-036EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Tomoe Murakami [Scarlet Fist]",
+    "ECP02-036EN": {
+        "id": "ECP02-036EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tomoe Murakami [Crimson Fighter]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-036EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tomoe Murakami [Crimson Fighter]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-036.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Passion"
     },
-    "name": "Tomoe Murakami [Scarlet Fist]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Runecraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Passion"
-  },
-  "ECP02-037EN": {
-    "id": "ECP02-037EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-037EN": {
+        "id": "ECP02-037EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fumika Sagisawa [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-037EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Fumika Sagisawa [Cinderella Girl]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-037.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Fumika Sagisawa [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-038EN": {
-    "id": "ECP02-038EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-038EN": {
+        "id": "ECP02-038EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fumika Sagisawa [Cinderella Girl] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-038EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Fumika Sagisawa [Cinderella Girl] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-038.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Fumika Sagisawa [Cinderella Girl] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-039EN": {
-    "id": "ECP02-039EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Akira Sunazuka [Life Online]",
+    "ECP02-039EN": {
+        "id": "ECP02-039EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Akira Sunazuka [Online Life]",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-039EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Akira Sunazuka [Online Life]",
         "type": "Follower",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-039.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Akira Sunazuka [Life Online]",
-    "type": "Follower",
-    "cost": 5,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-040EN": {
-    "id": "ECP02-040EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Akari Tsujino [Lovely ×2 Akaringo]",
+    "ECP02-040EN": {
+        "id": "ECP02-040EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Akari Tsujino [Twice as Lovely]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-040EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Akari Tsujino [Twice as Lovely]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-040.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Akari Tsujino [Lovely ×2 Akaringo]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-041EN": {
-    "id": "ECP02-041EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Riamu Yumemi [Riamu Yumemi's Party Night]",
+    "ECP02-SP07aEN": {
+        "id": "ECP02-SP07aEN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Akari Tsujino [Twice as Lovely]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP07aEN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Akari Tsujino [Twice as Lovely]",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
+    },
+    "ECP02-041EN": {
+        "id": "ECP02-041EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Riamu Yumemi [Party Night]",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-041EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Riamu Yumemi [Party Night]",
         "type": "Follower",
         "cost": 8,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-041.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Riamu Yumemi [Riamu Yumemi's Party Night]",
-    "type": "Follower",
-    "cost": 8,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-042EN": {
-    "id": "ECP02-042EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Yui Ohtsuki [Lollipop Honey]",
+    "ECP02-SP08EN": {
+        "id": "ECP02-SP08EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Riamu Yumemi [Party Night]",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Riamu Yumemi [Party Night]",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
+    "ECP02-042EN": {
+        "id": "ECP02-042EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yui Ohtsuki [Lollipop Darling]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-042EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yui Ohtsuki [Lollipop Darling]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-042.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Yui Ohtsuki [Lollipop Honey]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-043EN": {
-    "id": "ECP02-043EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Yui Ohtsuki [Lollipop Honey] (Evolved)",
+    "ECP02-043EN": {
+        "id": "ECP02-043EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yui Ohtsuki [Lollipop Darling] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-043EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yui Ohtsuki [Lollipop Darling] (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-043.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Yui Ohtsuki [Lollipop Honey] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 1,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-044EN": {
-    "id": "ECP02-044EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hotaru Shiragiku [An Unrefined Flower]",
+    "ECP02-044EN": {
+        "id": "ECP02-044EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hotaru Shiragiku [Unbreakable]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-044EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hotaru Shiragiku [Unbreakable]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-044.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Hotaru Shiragiku [An Unrefined Flower]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-045EN": {
-    "id": "ECP02-045EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hotaru Shiragiku [An Unrefined Flower] (Evolved)",
+    "ECP02-045EN": {
+        "id": "ECP02-045EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hotaru Shiragiku [Unbreakable] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-045EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hotaru Shiragiku [Unbreakable] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-045.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Hotaru Shiragiku [An Unrefined Flower] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-046EN": {
-    "id": "ECP02-046EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "One-man Idol Time",
+    "ECP02-046EN": {
+        "id": "ECP02-046EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Star of the Show",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-046EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Star of the Show",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-046.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "One-man Idol Time",
-    "type": "Spell",
-    "cost": 1,
-    "Class": [
-      "Dragoncraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-047EN": {
-    "id": "ECP02-047EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-047EN": {
+        "id": "ECP02-047EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ranko Kanzaki [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-047EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Ranko Kanzaki [Cinderella Girl]",
         "type": "Follower",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-047.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Ranko Kanzaki [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 5,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-048EN": {
-    "id": "ECP02-048EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-SP09EN": {
+        "id": "ECP02-SP09EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ranko Kanzaki [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ranko Kanzaki [Cinderella Girl]",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
+    "ECP02-048EN": {
+        "id": "ECP02-048EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Syoko Hoshi [individuals]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-048EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Syoko Hoshi [individuals]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-048.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Syoko Hoshi [individuals]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-049EN": {
-    "id": "ECP02-049EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-049EN": {
+        "id": "ECP02-049EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mirei Hayasaka [individuals]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-049EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Mirei Hayasaka [individuals]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-049.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Mirei Hayasaka [individuals]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-050EN": {
-    "id": "ECP02-050EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-050EN": {
+        "id": "ECP02-050EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nono Morikubo [individuals]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-050EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Nono Morikubo [individuals]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-050.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Nono Morikubo [individuals]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-051EN": {
-    "id": "ECP02-051EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-051EN": {
+        "id": "ECP02-051EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nono Morikubo [individuals] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-051EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Nono Morikubo [individuals] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-051.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Nono Morikubo [individuals] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-052EN": {
-    "id": "ECP02-052EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Asuka Ninomiya [Charming Sweet]",
+    "ECP02-052EN": {
+        "id": "ECP02-052EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Asuka Ninomiya [Sweet & Charming]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-052EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Asuka Ninomiya [Sweet & Charming]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-052.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Asuka Ninomiya [Charming Sweet]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-053EN": {
-    "id": "ECP02-053EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Chitose Kurosaki [Woven Memento Mori]",
+    "ECP02-SP10EN": {
+        "id": "ECP02-SP10EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Asuka Ninomiya [Sweet & Charming]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Asuka Ninomiya [Sweet & Charming]",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
+    "ECP02-053EN": {
+        "id": "ECP02-053EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chitose Kurosaki [Memento Mori]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-053EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chitose Kurosaki [Memento Mori]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-053.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Chitose Kurosaki [Woven Memento Mori]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-054EN": {
-    "id": "ECP02-054EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Chitose Kurosaki [Woven Memento Mori] (Evolved)",
+    "ECP02-054EN": {
+        "id": "ECP02-054EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chitose Kurosaki [Memento Mori] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-054EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chitose Kurosaki [Memento Mori] (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-054.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Chitose Kurosaki [Woven Memento Mori] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 3,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-055EN": {
-    "id": "ECP02-055EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-055EN": {
+        "id": "ECP02-055EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Natsuki Kimura [Scarlet Love Song]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-055EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Natsuki Kimura [Scarlet Love Song]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-055.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Natsuki Kimura [Scarlet Love Song]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-056EN": {
-    "id": "ECP02-056EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-056EN": {
+        "id": "ECP02-056EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Natsuki Kimura [Scarlet Love Song] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-056EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Natsuki Kimura [Scarlet Love Song] (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-056.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Natsuki Kimura [Scarlet Love Song] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 3,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-057EN": {
-    "id": "ECP02-057EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Takumi Mukai [Finishing Touch]",
+    "ECP02-057EN": {
+        "id": "ECP02-057EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Takumi Mukai [No One Can Stop Me]",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-057EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Takumi Mukai [No One Can Stop Me]",
         "type": "Follower",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-057.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Takumi Mukai [Finishing Touch]",
-    "type": "Follower",
-    "cost": 6,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-058EN": {
-    "id": "ECP02-058EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Koume Shirasaka [Haunted Bride]",
+    "ECP02-058EN": {
+        "id": "ECP02-058EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Koume Shirasaka [Haunted Gown]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-058EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Koume Shirasaka [Haunted Gown]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-058.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Koume Shirasaka [Haunted Bride]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-059EN": {
-    "id": "ECP02-059EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Self-Proclaimed City Favorite",
+    "ECP02-059EN": {
+        "id": "ECP02-059EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Self-Proclaimed Fan Favorite",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-059EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Self-Proclaimed Fan Favorite",
         "type": "Spell",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-059.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Self-Proclaimed City Favorite",
-    "type": "Spell",
-    "cost": 2,
-    "Class": [
-      "Abysscraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-060EN": {
-    "id": "ECP02-060EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-060EN": {
+        "id": "ECP02-060EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nana Abe [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-060EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Nana Abe [Cinderella Girl]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-060.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Nana Abe [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-061EN": {
-    "id": "ECP02-061EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-061EN": {
+        "id": "ECP02-061EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nana Abe [Cinderella Girl] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-061EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Nana Abe [Cinderella Girl] (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-061.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Nana Abe [Cinderella Girl] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 2,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-062EN": {
-    "id": "ECP02-062EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-062EN": {
+        "id": "ECP02-062EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaede Takagaki [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-062EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Kaede Takagaki [Cinderella Girl]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-062.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Kaede Takagaki [Cinderella Girl]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-063EN": {
-    "id": "ECP02-063EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-063EN": {
+        "id": "ECP02-063EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eve Santaclaus [Cinderella Girl] ",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-063EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Eve Santaclaus [Cinderella Girl] ",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-063.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Eve Santaclaus [Cinderella Girl] ",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-064EN": {
-    "id": "ECP02-064EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-SP11EN": {
+        "id": "ECP02-SP11EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eve Santaclaus [Cinderella Girl] ",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP11EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eve Santaclaus [Cinderella Girl] ",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
+    "ECP02-064EN": {
+        "id": "ECP02-064EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Miyu Mifuna [Rouge Couture]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-064EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Miyu Mifuna [Rouge Couture]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-064.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Miyu Mifuna [Rouge Couture]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-065EN": {
-    "id": "ECP02-065EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Kako Takafuji [A Woman With a Gift for Good Luck]",
+    "ECP02-SP12EN": {
+        "id": "ECP02-SP12EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Miyu Mifuna [Rouge Couture]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP12EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Miyu Mifuna [Rouge Couture]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-065.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Kako Takafuji [A Woman With a Gift for Good Luck]",
-    "type": "Follower",
-    "cost": 3,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-066EN": {
-    "id": "ECP02-066EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Kako Takafuji [A Woman With a Gift for Good Luck] (Evolved)",
+    "ECP02-065EN": {
+        "id": "ECP02-065EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kako Takafuji [Lady Luck]",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-065EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kako Takafuji [Lady Luck]",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
+    },
+    "ECP02-066EN": {
+        "id": "ECP02-066EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kako Takafuji [Lady Luck] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-066EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kako Takafuji [Lady Luck] (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-066.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Kako Takafuji [A Woman With a Gift for Good Luck] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 3,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-067EN": {
-    "id": "ECP02-067EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-067EN": {
+        "id": "ECP02-067EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kotoka Saionji [Pure Euphoria]",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-067EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Kotoka Saionji [Pure Euphoria]",
         "type": "Follower",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-067.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Kotoka Saionji [Pure Euphoria]",
-    "type": "Follower",
-    "cost": 5,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-068EN": {
-    "id": "ECP02-068EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-068EN": {
+        "id": "ECP02-068EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kotoka Saionji [Pure Euphoria] (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-068EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Kotoka Saionji [Pure Euphoria] (Evolved)",
         "type": "Evolve Deck",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-068.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cute"
     },
-    "name": "Kotoka Saionji [Pure Euphoria] (Evolved)",
-    "type": "Evolve Deck",
-    "cost": 5,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cute"
-  },
-  "ECP02-069EN": {
-    "id": "ECP02-069EN",
-    "isToken": false,
-    "face": {
-      "front": {
+    "ECP02-069EN": {
+        "id": "ECP02-069EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Haru Yuuki [Secret Blue Rose]",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-069EN.png",
+                "isHorizontal": false
+            }
+        },
         "name": "Haru Yuuki [Secret Blue Rose]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-069.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Cool"
     },
-    "name": "Haru Yuuki [Secret Blue Rose]",
-    "type": "Follower",
-    "cost": 1,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Cool"
-  },
-  "ECP02-070EN": {
-    "id": "ECP02-070EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Natalia [1001 Nights' Dancing Princess]",
+    "ECP02-070EN": {
+        "id": "ECP02-070EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Natalia [One Thousand and One Nights]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-070EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Natalia [One Thousand and One Nights]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-070.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Natalia [1001 Nights' Dancing Princess]",
-    "type": "Follower",
-    "cost": 2,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-071EN": {
-    "id": "ECP02-071EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Smitten Sweetie Summer",
+    "ECP02-071EN": {
+        "id": "ECP02-071EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "A Sweet Romantic Summer",
+                "type": "Amulet",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-071EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "A Sweet Romantic Summer",
         "type": "Amulet",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-071.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
     },
-    "name": "Smitten Sweetie Summer",
-    "type": "Amulet",
-    "cost": 3,
-    "Class": [
-      "Havencraft"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG / Passion"
-  },
-  "ECP02-072EN": {
-    "id": "ECP02-072EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Smiling Curtain Call",
+    "ECP02-072EN": {
+        "id": "ECP02-072EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Curtain Call of Smiles",
+                "type": "Spell",
+                "cost": 12,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-072EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Curtain Call of Smiles",
         "type": "Spell",
         "cost": 12,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/ECP02 TEMP 2/ECP02-072.jpg",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Cute / Cool / Passion"
     },
-    "name": "Smiling Curtain Call",
-    "type": "Spell",
-    "cost": 12,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": " iM@S CG / Cute / Cool / Passion"
-  },
+    "ECP02-SP13EN": {
+        "id": "ECP02-SP13EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Curtain Call of Smiles",
+                "type": "Spell",
+                "cost": 12,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SP13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Curtain Call of Smiles",
+        "type": "Spell",
+        "cost": 12,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": " iM@S CG / Cute / Cool / Passion"
+    },
   "BP16-001EN": {
     "id": "BP16-001EN",
     "isToken": false,
@@ -54348,75 +54647,443 @@
     ],
     "Trait": "iM@S CG"
   },
-  "CP02-T01EN": {
-    "id": "CP02-T01EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+    "CP02-T01EN": {
+        "id": "CP02-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
         "type": "Token",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
     },
-    "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG"
-  },
-  "PR-153EN": {
-    "id": "PR-153EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+    "CP02-T05EN": {
+        "id": "CP02-T05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
         "type": "Token",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
     },
-    "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG"
-  },
-  "PR-154EN": {
-    "id": "PR-154EN",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+    "CP02-T09EN": {
+        "id": "CP02-T09EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
         "type": "Token",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-154EN.png",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
     },
-    "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Set": [
-      "Collab"
-    ],
-    "Trait": "iM@S CG"
-  },
+    "PR-153EN": {
+        "id": "PR-153EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "PR-154EN": {
+        "id": "PR-154EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-154EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL34EN": {
+        "id": "ECP02-SL34EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL34EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL35EN": {
+        "id": "ECP02-SL35EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL35EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL36EN": {
+        "id": "ECP02-SL36EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL36EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL37EN": {
+        "id": "ECP02-SL37EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL37EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL38EN": {
+        "id": "ECP02-SL38EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL38EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL39EN": {
+        "id": "ECP02-SL39EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL39EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL40EN": {
+        "id": "ECP02-SL40EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL40EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL41EN": {
+        "id": "ECP02-SL41EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL41EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL42EN": {
+        "id": "ECP02-SL42EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL42EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL43EN": {
+        "id": "ECP02-SL43EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL43EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL44EN": {
+        "id": "ECP02-SL44EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL44EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL45EN": {
+        "id": "ECP02-SL45EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL45EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL46EN": {
+        "id": "ECP02-SL46EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL46EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL47EN": {
+        "id": "ECP02-SL47EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL47EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
   "CSD02c-001EN": {
     "id": "CSD02c-001EN",
     "isToken": false,
@@ -75715,6 +76382,29 @@
     ],
     "Trait": "Dragonheart"
   },
+  "BP01-SP02EN": {
+    "id": "BP01-SP02EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Dragoon Forte",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-SP02EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Dragoon Forte",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "BP01-04"
+    ],
+    "Trait": "Dragonheart"
+  },
   "BP01-077EN": {
     "id": "BP01-077EN",
     "isToken": false,
@@ -75738,15 +76428,15 @@
     ],
     "Trait": "Dragonheart"
   },
-  "BP01-SP02EN": {
-    "id": "BP01-SP02EN",
+  "BP01-U04EN": {
+    "id": "BP01-U04EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dark Dragoon Forte",
+        "name": "Dark Dragoon Forte (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP11/BP11-SP02EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U04EN.png",
         "isHorizontal": false
       }
     },
@@ -81528,65 +82218,442 @@
     ]
   },
   "CP02-T01EN_TOKEN": {
-    "id": "CP02-T01EN_TOKEN",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+        "id": "CP02-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
         "type": "Token",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
     },
-    "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Trait": "iM@S CG"
-  },
-  "PR-153EN_TOKEN": {
-    "id": "PR-153EN_TOKEN",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+    "CP02-T05EN_TOKEN": {
+        "id": "CP02-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
         "type": "Token",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
     },
-    "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Trait": "iM@S CG"
-  },
-  "PR-154EN_TOKEN": {
-    "id": "PR-154EN_TOKEN",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
+    "CP02-T09EN_TOKEN": {
+        "id": "CP02-T09EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
         "type": "Token",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-154EN.png",
-        "isHorizontal": false
-      }
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
     },
-    "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress",
-    "type": "Token",
-    "cost": 4,
-    "Class": [
-      "Neutral"
-    ],
-    "Trait": "iM@S CG"
-  },
+    "PR-153EN_TOKEN": {
+        "id": "PR-153EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "PR-154EN_TOKEN": {
+        "id": "PR-154EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-154EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL34EN_TOKEN": {
+        "id": "ECP02-SL34EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL34EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL35EN_TOKEN": {
+        "id": "ECP02-SL35EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL35EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL36EN_TOKEN": {
+        "id": "ECP02-SL36EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL36EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL37EN_TOKEN": {
+        "id": "ECP02-SL37EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL37EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL38EN_TOKEN": {
+        "id": "ECP02-SL38EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL38EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL39EN_TOKEN": {
+        "id": "ECP02-SL39EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL39EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL40EN_TOKEN": {
+        "id": "ECP02-SL40EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL40EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL41EN_TOKEN": {
+        "id": "ECP02-SL41EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL41EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL42EN_TOKEN": {
+        "id": "ECP02-SL42EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL42EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL43EN_TOKEN": {
+        "id": "ECP02-SL43EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL43EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL44EN_TOKEN": {
+        "id": "ECP02-SL44EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL44EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL45EN_TOKEN": {
+        "id": "ECP02-SL45EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL45EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL46EN_TOKEN": {
+        "id": "ECP02-SL46EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL46EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
+    "ECP02-SL47EN_TOKEN": {
+        "id": "ECP02-SL47EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+                "type": "Token",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL47EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Enchanted Dress Kyoko Igarashi [Love Letter] Shiki Ichinose [Budding Flower] Sachiko Koshimizu [Lunatic Show] Kaede Takagaki [Nation Blue] Riina Tada [Eight Beat Rocker] Sae Kobayakawa [Pastel-Pink Love] Ranko Kanzaki [Nation Blue] Shin Sato [Gutsy☆Reporter] Akari Tsujino [Brand New!] Asuka Ninomiya [Blossoming Jewel] Yoshino Yorita [Way of the Warrior] Chie Sasaki [Step to the Future] Arisu Tachibana [Ikenai GO AHEAD] Yukimi Sajo [Day by Day, Hand in Hand]",
+        "type": "Token",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG"
+    },
   "BP07-T01EN_TOKEN": {
     "id": "BP07-T01EN_TOKEN",
     "isToken": true,
@@ -82489,7 +83556,7 @@
         "name": "Guardian Golem",
         "type": "Token",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T01.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T01EN.png",
         "isHorizontal": false
       }
     },
@@ -82512,7 +83579,7 @@
         "name": "Looking Smart!",
         "type": "Token",
         "cost": 0,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T02.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T02EN.png",
         "isHorizontal": false
       }
     },
@@ -82535,7 +83602,7 @@
         "name": "Fire Drake Whelp",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T03.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T03EN.png",
         "isHorizontal": false
       }
     },
@@ -82558,7 +83625,7 @@
         "name": "Mimi, Right Paw Hellhound",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T04.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T04EN.png",
         "isHorizontal": false
       }
     },
@@ -82581,7 +83648,7 @@
         "name": "Coco, Left Paw Hellhound",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T05.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T05EN.png",
         "isHorizontal": false
       }
     },
@@ -82604,7 +83671,7 @@
         "name": "Silent Rider",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T06.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T06EN.png",
         "isHorizontal": false
       }
     },
@@ -82627,7 +83694,7 @@
         "name": "Servant of Cocytus",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T07.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T07EN.png",
         "isHorizontal": false
       }
     },
@@ -82650,7 +83717,7 @@
         "name": "Demon of Purgatory",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T08.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T08EN.png",
         "isHorizontal": false
       }
     },
@@ -82673,7 +83740,7 @@
         "name": "Astaroth's Reckoning",
         "type": "Token",
         "cost": 10,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP16 TEMP 3/BP16-T09.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-T09EN.png",
         "isHorizontal": false
       }
     },
