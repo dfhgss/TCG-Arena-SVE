@@ -71,14 +71,12 @@
             "mulligan": {
                 "info": "Keep your hand and start or perform a mulligan: select the 4 cards and click ‘Put selected cards at the bottom and start’ at the bottom right of this window. Then draw 4 new cards manually.",
                 "startingHandSize": "4",
-                "drawNewHand": false,
                 "mulliganCycle": {
                     "selectionRange": {
                         "min": 5
                     }
                 },
                 "putSelectionAtBottom": true,
-                "drawNewSelectedCards": false,
                 "triggeredByButton": true
             },
             "newTurn": {
