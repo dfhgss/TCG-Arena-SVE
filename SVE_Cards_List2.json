@@ -81861,14 +81861,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Evolution Point",
+        "name": "Evolution Point EP",
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/img_evolution-point.png",
         "isHorizontal": false
       }
     },
-    "name": "Evolution Point",
+    "name": "Evolution Point EP",
     "type": "EP",
     "cost": 0,
     "Trait": ""
@@ -81878,14 +81878,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Evolution Point",
+        "name": "Evolution Point EP",
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/img_evolution-point.png",
         "isHorizontal": false
       }
     },
-    "name": "Evolution Point",
+    "name": "Evolution Point EP",
     "type": "EP",
     "cost": 0,
     "Trait": ""
@@ -81895,14 +81895,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "PP8",
+        "name": "PP8 Play Point",
         "type": "PP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
         "isHorizontal": false
       }
     },
-    "name": "PP8",
+    "name": "PP8 Play Point",
     "type": "PP",
     "cost": 0,
     "Trait": ""
@@ -81912,14 +81912,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "PP8",
+        "name": "PP8 Play Point",
         "type": "PP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
         "isHorizontal": false
       }
     },
-    "name": "PP8",
+    "name": "PP8 Play Point",
     "type": "PP",
     "cost": 0,
     "Trait": ""
