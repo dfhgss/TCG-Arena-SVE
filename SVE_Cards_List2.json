@@ -12442,6 +12442,29 @@
         ],
         "Trait": "iM@S CG / Passion"
     },
+    "PR-451EN": {
+        "id": "PR-451EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Airi Totoki [Cinderella Girl]",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-451EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Airi Totoki [Cinderella Girl]",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "Collab"
+        ],
+        "Trait": "iM@S CG / Passion"
+    },
     "ECP02-018EN": {
         "id": "ECP02-018EN",
         "isToken": false,
@@ -51956,6 +51979,52 @@
     ],
     "Trait": "iM@S CG / Cute"
   },
+  "PR-150EN": {
+    "id": "PR-150EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miku Maekawa",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-150EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miku Maekawa",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cute"
+  },
+  "PR-462EN": {
+    "id": "PR-462EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miku Maekawa",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/uploads/2025/12/11111113/PR-462EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miku Maekawa",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cute"
+  },
   "CP02-004EN": {
     "id": "CP02-004EN",
     "isToken": false,
@@ -52048,6 +52117,29 @@
     ],
     "Trait": "iM@S CG / Cool"
   },
+  "PR-461EN": {
+    "id": "PR-461EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anastasia",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-461EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anastasia",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
   "CP02-007EN": {
     "id": "CP02-007EN",
     "isToken": false,
@@ -52080,6 +52172,29 @@
         "type": "Follower",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shinobu Kudo",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cute"
+  },
+  "PR-141EN": {
+    "id": "PR-141EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shinobu Kudo",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-141EN.png",
         "isHorizontal": false
       }
     },
@@ -52149,6 +52264,29 @@
         "type": "Spell",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goddess by the Sunlit Sea",
+    "type": "Spell",
+    "cost": 1,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
+  "PR-463EN": {
+    "id": "PR-463EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goddess by the Sunlit Sea",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/uploads/2025/12/11111112/PR-463EN.png",
         "isHorizontal": false
       }
     },
@@ -52416,6 +52554,29 @@
     ],
     "Trait": "iM@S CG / Passion"
   },
+  "PR-151EN": {
+    "id": "PR-151EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nagi Hisakawa",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-151EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nagi Hisakawa",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Passion"
+  },
   "CP02-021EN": {
     "id": "CP02-021EN",
     "isToken": false,
@@ -52531,6 +52692,29 @@
     ],
     "Trait": "iM@S CG / Cute"
   },
+  "PR-142EN": {
+    "id": "PR-142EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anzu Futaba",
+        "type": "Follower",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-142EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anzu Futaba",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cute"
+  },
   "CP02-026EN": {
     "id": "CP02-026EN",
     "isToken": false,
@@ -52586,6 +52770,29 @@
         "type": "Spell",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-028EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sparkling☆Days",
+    "type": "Spell",
+    "cost": 1,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
+  "PR-143EN": {
+    "id": "PR-143EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sparkling☆Days",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-143EN.png",
         "isHorizontal": false
       }
     },
@@ -52945,6 +53152,29 @@
     ],
     "Trait": "iM@S CG / Passion"
   },
+  "PR-466EN": {
+    "id": "PR-466EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Center Street",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/uploads/2025/12/11111107/PR-466EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Center Street",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Passion"
+  },
   "CP02-042EN": {
     "id": "CP02-042EN",
     "isToken": false,
@@ -53037,6 +53267,29 @@
     ],
     "Trait": "iM@S CG / Cool"
   },
+  "PR-145EN": {
+    "id": "PR-145EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Precocious Little Devil",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-145EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Precocious Little Devil",
+    "type": "Spell",
+    "cost": 1,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
   "CP02-046EN": {
     "id": "CP02-046EN",
     "isToken": false,
@@ -53115,6 +53368,29 @@
         "type": "Follower",
         "cost": 1,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-049EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sae Kobayakawa",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cute"
+  },
+  "PR-144EN": {
+    "id": "PR-144EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sae Kobayakawa",
+        "type": "Follower",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-144EN.png",
         "isHorizontal": false
       }
     },
@@ -53313,6 +53589,29 @@
     ],
     "Trait": "iM@S CG / Cool"
   },
+  "PR-152EN": {
+    "id": "PR-152EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fumika Sagisawa",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-152EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fumika Sagisawa",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
   "CP02-056EN": {
     "id": "CP02-056EN",
     "isToken": false,
@@ -53460,6 +53759,29 @@
         "type": "Spell",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-062EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unbound Emotion",
+    "type": "Spell",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Passion"
+  },
+  "PR-146EN": {
+    "id": "PR-146EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unbound Emotion",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-146EN.png",
         "isHorizontal": false
       }
     },
@@ -53819,6 +54141,29 @@
     ],
     "Trait": "iM@S CG / Cool"
   },
+  "PR-467EN": {
+    "id": "PR-467EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whispers of a Dream",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/uploads/2025/12/11111106/PR-467EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whispers of a Dream",
+    "type": "Spell",
+    "cost": 2,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
   "CP02-076EN": {
     "id": "CP02-076EN",
     "isToken": false,
@@ -54035,6 +54380,29 @@
         "type": "Spell",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-085EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last Daylight",
+    "type": "Spell",
+    "cost": 2,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cool"
+  },
+  "PR-147EN": {
+    "id": "PR-147EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Last Daylight",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-147EN.png",
         "isHorizontal": false
       }
     },
@@ -54279,6 +54647,29 @@
     ],
     "Trait": "iM@S CG / Passion"
   },
+  "PR-148EN": {
+    "id": "PR-148EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Risa Matoba",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-148EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Risa Matoba",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Passion"
+  },
   "CP02-094EN": {
     "id": "CP02-094EN",
     "isToken": false,
@@ -54357,6 +54748,29 @@
         "type": "Follower",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-097EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Natalia",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Passion"
+  },
+  "PR-149EN": {
+    "id": "PR-149EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Natalia",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-149EN.png",
         "isHorizontal": false
       }
     },
@@ -55107,6 +55521,29 @@
     ],
     "Trait": "iM@S CG / Passion"
   },
+  "PR-465EN": {
+    "id": "PR-465EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mio Honda [Positive Passion]",
+        "type": "Follower",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/uploads/2025/12/11111109/PR-465EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mio Honda [Positive Passion]",
+    "type": "Follower",
+    "cost": 6,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Passion"
+  },
   "CSD02c-002EN": {
     "id": "CSD02c-002EN",
     "isToken": false,
@@ -55668,6 +56105,29 @@
         "type": "Follower",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miho Kohinata [P.C.S.]",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": "iM@S CG / Cute"
+  },
+  "PR-464EN": {
+    "id": "PR-464EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miho Kohinata [P.C.S.]",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/uploads/2025/12/11111110/PR-464EN.png",
         "isHorizontal": false
       }
     },
@@ -71009,6 +71469,121 @@
         "type": "Evolve Deck",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/CP01-085EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carrot",
+    "type": "Evolve Deck",
+    "cost": 0,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": ""
+  },
+  "ECP01-SL27EN": {
+    "id": "ECP01-SL27EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carrot",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL27EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carrot",
+    "type": "Evolve Deck",
+    "cost": 0,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": ""
+  },
+  "ECP01-SL28EN": {
+    "id": "ECP01-SL28EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carrot",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL28EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carrot",
+    "type": "Evolve Deck",
+    "cost": 0,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": ""
+  },
+  "ECP01-SL29EN": {
+    "id": "ECP01-SL29EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carrot",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL29EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carrot",
+    "type": "Evolve Deck",
+    "cost": 0,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": ""
+  },
+  "ECP01-SL30EN": {
+    "id": "ECP01-SL30EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carrot",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL30EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carrot",
+    "type": "Evolve Deck",
+    "cost": 0,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "Collab"
+    ],
+    "Trait": ""
+  },
+  "ECP01-SL31EN": {
+    "id": "ECP01-SL31EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carrot",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP01/ECP01-SL31EN.png",
         "isHorizontal": false
       }
     },
