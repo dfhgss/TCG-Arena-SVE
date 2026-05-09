@@ -81873,9 +81873,43 @@
     "cost": 0,
     "Trait": ""
   },
+  "EP_TOKEN": {
+    "id": "EP_TOKEN",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Evolution Point",
+        "type": "EP",
+        "cost": 0,
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/img_evolution-point.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evolution Point",
+    "type": "EP",
+    "cost": 0,
+    "Trait": ""
+  },
   "PP8": {
     "id": "PP8",
     "isToken": false,
+    "face": {
+      "front": {
+        "name": "PP8",
+        "type": "PP",
+        "cost": 0,
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "PP8",
+    "type": "PP",
+    "cost": 0,
+    "Trait": ""
+  },
+  "PP8_TOKEN": {
+    "id": "PP8_TOKEN",
+    "isToken": true,
     "face": {
       "front": {
         "name": "PP8",
