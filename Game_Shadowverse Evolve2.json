@@ -50,29 +50,23 @@
         "Classic": {
             "beforeGameStart": {
                 "chooseAnotherStartingPlayer": true,
-                "initialBoardSetup": {
-                    "0": [
-                        {
-                            "createCardId": "PP8",
-                            "count": 10,
-                            "destination": "PP"
-                        }
-                    ],
-                    "1": [
-                        {
-                            "createCardId": "EP",
-                            "count": 3,
-                            "destination": "EP"
-                        }
-                    ],
-                    "2": [
-                        {
-                            "createCardId": "SEP",
-                            "count": 1,
-                            "destination": "EP"
-                        }
-                    ]
-                }
+                "initialBoardSetup": [
+                    {
+                        "createCardId": "PP8",
+                        "count": 10,
+                        "destination": "PP"
+                    },
+                    {
+                        "createCardId": "EP",
+                        "count": 3,
+                        "destination": "EP"
+                    },
+                    {
+                        "createCardId": "SEP",
+                        "count": 1,
+                        "destination": "EP"
+                    }
+                ]
             },
             "mulligan": {
                 "info": "Keep your hand or perform a mulligan: select the 4 cards and click ‘Put selected cards at the bottom and start’ at the bottom right of this window. Then draw 4 new cards manually.",
