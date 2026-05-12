@@ -2611,7 +2611,7 @@
       }
     },
     "name": "Zerael, Regent of Vicissitude [A]",
-    "type": false,
+    "type": "Evolve Deck",
     "cost": "9",
     "Class": [
       "Neutral"
