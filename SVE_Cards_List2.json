@@ -7142,7 +7142,7 @@
       }
     },
     "name": "Enchanted Sword",
-    "type": "Follower",
+    "type": "Spell",
     "cost": 3,
     "Class": [
       "Runecraft"
