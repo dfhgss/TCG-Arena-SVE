@@ -103,6 +103,7 @@
                 "postMulligan": {
                     "info": "This is your new hand",
                     "minMulligansToTrigger": 1,
+                    "steps": ["draw"],
                     "keepCardsOrder": true
                 }
             },
