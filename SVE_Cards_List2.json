@@ -28540,10 +28540,7 @@
     "Set": [
       "BP13-16"
     ],
-    "Trait": "Deity / Archfiend / Cutthroat",
-    "_legal": {
-      "CLC": 1
-    }
+    "Trait": "Deity / Archfiend / Cutthroat"
   },
   "BP13-108EN": {
     "id": "BP13-108EN",
@@ -33304,10 +33301,7 @@
     "Set": [
       "BP09-12"
     ],
-    "Trait": "Wasteland / Mage",
-    "_legal": {
-      "CLC": 6
-    }
+    "Trait": "Wasteland / Mage"
   },
   "BP11-046EN": {
     "id": "BP11-046EN",
@@ -36941,10 +36935,7 @@
     "Set": [
       "Collab"
     ],
-    "Trait": "Vanguard / Kagero",
-    "_legal": {
-      "CLC": 1
-    }
+    "Trait": "Vanguard / Kagero"
   },
   "CP03-070EN": {
     "id": "CP03-070EN",
@@ -43637,10 +43628,7 @@
     "Set": [
       "BP09-12"
     ],
-    "Trait": "Arcanaform",
-    "_legal": {
-      "CLC": 50
-    }
+    "Trait": "Arcanaform"
   },
   "BP09-059EN": {
     "id": "BP09-059EN",
@@ -63788,10 +63776,7 @@
     "Set": [
       "BP01-04"
     ],
-    "Trait": "Celestial",
-    "_legal": {
-      "CLC": false
-    }
+    "Trait": "Celestial"
   },
   "BP04-038EN": {
     "id": "BP04-038EN",
@@ -67471,10 +67456,7 @@
     "Set": [
       "BP01-04"
     ],
-    "Trait": "Earth Sigil / Fable",
-    "_legal": {
-      "CLC": 1
-    }
+    "Trait": "Earth Sigil / Fable"
   },
   "BP03-047EN": {
     "id": "BP03-047EN",
