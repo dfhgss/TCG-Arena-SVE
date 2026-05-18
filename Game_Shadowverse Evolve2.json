@@ -38,33 +38,13 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
-                "legalityCode": "CLC",
-                "deckRuleset": "Standard",
                 "customCategories": [
                     "Evolve Deck",
                     "PP",
                     "EP"
                 ]
             }
-        ],
-        "deckRulesets": {
-            "Standard": {
-                "reversedLegality": true,
-                "general": {
-                    "min": 50,
-                    "max": 60,
-                    "maxPerCard": 3
-                },
-                "categories": [
-                    {
-                        "category": "Evolve Deck",
-                        "min": 0,
-                        "max": 10,
-                        "maxPerCard": 3
-                    }
-                ]
-            }
-        }
+        ]
     },
     "gameplay": {
         "Classic": {
@@ -120,7 +100,7 @@
                         "draw"
                     ],
                     "selectionRange": {
-                        "min": 4,
+                        "min": 0,
                         "max": 4
                     },
                     "keepCardOrder": true
