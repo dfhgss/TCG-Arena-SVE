@@ -45,42 +45,49 @@
                     "EP"
                 ]
             }
-        ],
-        "deckRulesets": {
-            "Standard": {
-                "reversedLegality": true,
-                "general": {
-                    "min": 50,
-                    "max": 60
-                },
-                "categories": [
-                    {
-                        "category": "Evolve Deck",
-                        "min": 0,
-                        "max": 10
-                    }
-                ]
-            }
-        }
+        ]
     },
     "gameplay": {
         "Classic": {
             "beforeGameStart": {
                 "initialBoardSetup": [
                     {
-                        "createCardId": "PP8",
-                        "count": 10,
-                        "destination": "PP"
+                        "0": [
+                            {
+                                "createCardId": "PP8",
+                                "count": 10,
+                                "destination": "PP"
+                            },
+                            {
+                                "createCardId": "SEP",
+                                "count": 1,
+                                "destination": "EP"
+                            },
+                            {
+                                "drawFromTop": "PP",
+                                "count": 1,
+                                "destination": "Mana"
+                            }
+                        ]
                     },
                     {
-                        "createCardId": "EP",
-                        "count": 3,
-                        "destination": "EP"
-                    },
-                    {
-                        "createCardId": "SEP",
-                        "count": 1,
-                        "destination": "EP"
+                        "1": [
+                            {
+                                "createCardId": "PP8",
+                                "count": 10,
+                                "destination": "PP"
+                            },
+                            {
+                                "createCardId": "EP",
+                                "count": 3,
+                                "destination": "EP"
+                            },
+                            {
+                                "createCardId": "SEP",
+                                "count": 1,
+                                "destination": "EP"
+                            }
+                        ]
                     }
                 ]
             },
