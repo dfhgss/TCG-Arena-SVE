@@ -38,19 +38,29 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
+                "deckRuleset": "Standard",
                 "customCategories": [
                     "Evolve Deck",
                     "PP",
                     "EP"
                 ]
             }
-        ]
+        ],
+        "deckRulesets": {
+            "Standard": {
+                "reversedLegality": true,
+                "general": {
+                    "min": 50,
+                    "max": 60,
+                    "maxPerCard": 3
+                }
+            }
+        }
     },
     "gameplay": {
         "Classic": {
             "beforeGameStart": {
-                "initialBoardSetup": {
-                    "0": [
+                "initialBoardSetup": [
                         {
                             "createCardId": "PP8",
                             "count": 10,
@@ -65,34 +75,37 @@
                             "createCardId": "SEP",
                             "count": 1,
                             "destination": "EP"
-                        },
+                        }
+                    ]
+                },
+                "initialBoardSetup2": {
+                    "0": [
                         {
                             "drawFromTop": "PP",
                             "count": 1,
                             "destination": "Mana"
                         }
-                    ],
-                    "1": [
-                        {
-                            "createCardId": "PP8",
-                            "count": 10,
-                            "destination": "PP"
-                        },
-                        {
-                            "createCardId": "SEP",
-                            "count": 1,
-                            "destination": "EP"
-                        }
                     ]
                 }
             },
             "mulligan": {
-                "info": "Keep your hand or perform a mulligan: select the 4 cards and click ‘Put selected cards at the bottom and start’ at the bottom right of this window. Then draw 4 new cards manually.",
-                "startingHandSize": "4",
-                "drawNewHand": false,
-                "putSelectionAtBottom": true,
-                "drawNewSelectedCards": false,
-                "triggeredByButton": true
+                "triggeredByButton": true,
+                "startingHandSize": 4,
+                "mulliganCount": {
+                    "min": 0,
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "info": "Keep your hand or Mulligan. You will autodraw that many cards. Shadoba suggee tanoshii!",
+                    "steps": [
+                        "toBottom",
+                        "draw"
+                    ],
+                    "selectionRange": {
+                        "min": 4
+                    },
+                    "keepCardOrder": false
+                }
             },
             "newTurn": {
                 "drawOnStart": false,
