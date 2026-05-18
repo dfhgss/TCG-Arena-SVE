@@ -38,6 +38,7 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
+                "legalityCode": "CLC",
                 "deckRuleset": "Standard",
                 "customCategories": [
                     "Evolve Deck",
