@@ -99,12 +99,13 @@
                         "toBottom",
                         "draw"
                     ],
+                    "keepCardOrder": true,
                     "selectionRange": {
                         "min": 0,
                         "max": 4
-                    },
-                    "keepCardOrder": true
+                    }
                 },
+                "keepCardOrder": true,
                 "postMulligan": {
                     "info": "This is your new hand",
                     "minMulligansToTrigger": 1,
