@@ -14264,14 +14264,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nazuri, Grand Hostess",
+        "name": "Nazuri, Bestial Innkeeper",
         "type": "Follower",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-004EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Nazuri, Grand Hostess",
+    "name": "Nazuri, Bestial Innkeeper",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -14701,14 +14701,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ginne, Alluring Courtesan",
+        "name": "Ginne, Bewitching Courtesan",
         "type": "Follower",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-022EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Ginne, Alluring Courtesan",
+    "name": "Ginne, Bewitching Courtesan",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -15184,14 +15184,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jzdobend, Destiny Weaver",
+        "name": "Zizdvend, Fate's Arbiter",
         "type": "Follower",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-041EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jzdobend, Destiny Weaver",
+    "name": "Zizdvend, Fate's Arbiter",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -15207,14 +15207,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jzdobend, Destiny Weaver (Evolved)",
+        "name": "Zizdvend, Fate's Arbiter (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-042EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jzdobend, Destiny Weaver (Evolved)",
+    "name": "Zizdvend, Fate's Arbiter (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
@@ -15644,14 +15644,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Niruru, Dragon Prodigy",
+        "name": "Nirle, Draconic Prodigy",
         "type": "Follower",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-060EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Niruru, Dragon Prodigy",
+    "name": "Nirle, Draconic Prodigy",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -15667,14 +15667,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Niruru, Dragon Prodigy (Evolved)",
+        "name": "Nirle, Draconic Prodigy (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-061EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Niruru, Dragon Prodigy (Evolved)",
+    "name": "Nirle, Draconic Prodigy (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -16587,14 +16587,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rana, Dual Cannon Sister",
+        "name": "Rana, Dual Cannon Abbess",
         "type": "Follower",
         "cost": 6,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-098EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Rana, Dual Cannon Sister",
+    "name": "Rana, Dual Cannon Abbess",
     "type": "Follower",
     "cost": 6,
     "Class": [
