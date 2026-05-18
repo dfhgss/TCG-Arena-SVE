@@ -100,7 +100,7 @@
                     "min": 0,
                     "max": 4
                 },
-                "steps": ["draw"]
+                "drawNewSelectedCards": true
             },
             "newTurn": {
                 "drawOnStart": false,
