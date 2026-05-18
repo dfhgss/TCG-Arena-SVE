@@ -63790,7 +63790,7 @@
     ],
     "Trait": "Celestial",
     "_legal": {
-      "CLC": 0
+      "CLC": false
     }
   },
   "BP04-038EN": {
