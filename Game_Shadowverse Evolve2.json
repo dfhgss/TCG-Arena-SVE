@@ -49,8 +49,7 @@
   "gameplay": {
     "Classic": {
       "beforeGameStart": {
-	"chooseAnotherStartingPlayer": true,
-        "initialBoardSetup": 
+        "initialBoardSetup": [
                     {
             "createCardId": "PP8",
             "count": 10,
