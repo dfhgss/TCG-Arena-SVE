@@ -94,9 +94,7 @@
                     "max": 1
                 },
                 "info": "Keep your hand or select the 4 cards and click on the Mulligan button. You will autodraw that many cards. Shadoba suggee tanoshii!",
-                "steps": [
-                    "toBottom"
-                ],
+                "putSelectionAtBottom": true,
                 "keepCardOrder": true,
                 "selectionRange": {
                     "min": 0,
