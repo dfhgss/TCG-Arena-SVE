@@ -49,46 +49,42 @@
     "gameplay": {
         "Classic": {
             "beforeGameStart": {
-                "initialBoardSetup": [
-                    {
-                        "0": [
-                            {
-                                "createCardId": "PP8",
-                                "count": 10,
-                                "destination": "PP"
-                            },
-                            {
-                                "createCardId": "SEP",
-                                "count": 1,
-                                "destination": "EP"
-                            },
-                            {
-                                "drawFromTop": "PP",
-                                "count": 1,
-                                "destination": "Mana"
-                            }
-                        ]
-                    },
-                    {
-                        "1": [
-                            {
-                                "createCardId": "PP8",
-                                "count": 10,
-                                "destination": "PP"
-                            },
-                            {
-                                "createCardId": "EP",
-                                "count": 3,
-                                "destination": "EP"
-                            },
-                            {
-                                "createCardId": "SEP",
-                                "count": 1,
-                                "destination": "EP"
-                            }
-                        ]
-                    }
-                ]
+                "initialBoardSetup": {
+                    "0": [
+                        {
+                            "createCardId": "PP8",
+                            "count": 10,
+                            "destination": "PP"
+                        },
+                        {
+                            "createCardId": "SEP",
+                            "count": 1,
+                            "destination": "EP"
+                        },
+                        {
+                            "drawFromTop": "PP",
+                            "count": 1,
+                            "destination": "Mana"
+                        }
+                    ],
+                    "1": [
+                        {
+                            "createCardId": "PP8",
+                            "count": 10,
+                            "destination": "PP"
+                        },
+                        {
+                            "createCardId": "EP",
+                            "count": 3,
+                            "destination": "EP"
+                        },
+                        {
+                            "createCardId": "SEP",
+                            "count": 1,
+                            "destination": "EP"
+                        }
+                    ]
+                }
             },
             "mulligan": {
                 "triggeredByButton": true,
