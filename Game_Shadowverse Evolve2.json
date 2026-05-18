@@ -64,15 +64,6 @@
                         "createCardId": "SEP",
                         "count": 1,
                         "destination": "EP"
-                    },
-                    {
-                        "0": [
-                            {
-                                "drawFromTop": "PP",
-                                "count": 1,
-                                "destination": "Mana"
-                            }
-                        ]
                     }
                 ]
             },
@@ -90,7 +81,8 @@
                         "draw"
                     ],
                     "selectionRange": {
-                        "min": 4
+                        "min": 4,
+                        "max": 4
                     },
                     "keepCardOrder": false
                 }
