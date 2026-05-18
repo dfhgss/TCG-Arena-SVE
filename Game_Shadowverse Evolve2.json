@@ -94,7 +94,7 @@
                     "max": 1
                 },
                 "mulliganCycle": {
-                    "info": "Keep your hand or Mulligan all. You will autodraw that many cards. Shadoba suggee tanoshii!",
+                    "info": "Keep your hand or select the 4 cards and click on the Mulligan button. You will autodraw that many cards. Shadoba suggee tanoshii!",
                     "steps": [
                         "toBottom",
                         "draw"
@@ -104,6 +104,19 @@
                         "max": 4
                     },
                     "keepCardOrder": true
+                },
+                "postMulligan": {
+                    "info": "Click the cards you want to put back at the bottom of your deck.",
+                    "minMulligansToTrigger": 0,
+                    "steps": [
+                        "toBottom",
+                        "draw"
+                    ],
+                    "selectionRange": {
+                        "min": 0,
+                        "max": 4
+                    },
+                    "keepCardsOrder": true
                 }
             },
             "newTurn": {
