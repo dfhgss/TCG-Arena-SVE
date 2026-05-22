@@ -37001,7 +37001,7 @@
     "Set": "CP03",
     "Trait": "Vanguard / Kagero"
   },
-    "CP03-128EN": {
+  "CP03-128EN": {
     "id": "CP03-128EN",
     "isToken": false,
     "face": {
@@ -50840,7 +50840,7 @@
     "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-    "CP02-110EN": {
+  "CP02-110EN": {
     "id": "CP02-110EN",
     "isToken": false,
     "face": {
@@ -52184,7 +52184,7 @@
     "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-    "CP02-124EN": {
+  "CP02-124EN": {
     "id": "CP02-124EN",
     "isToken": false,
     "face": {
@@ -52751,7 +52751,7 @@
     "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-    "CP02-112EN": {
+  "CP02-112EN": {
     "id": "CP02-112EN",
     "isToken": false,
     "face": {
@@ -53255,7 +53255,7 @@
     "Set": "",
     "Trait": "iM@S CG / Cool"
   },
-    "CP02-125EN": {
+  "CP02-125EN": {
     "id": "CP02-125EN",
     "isToken": false,
     "face": {
@@ -53738,7 +53738,6 @@
     "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  
   "CP02-111EN": {
     "id": "CP02-111EN",
     "isToken": false,
