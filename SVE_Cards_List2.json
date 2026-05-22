@@ -7833,14 +7833,14 @@
     "Trait": "Priconne"
   },
   "CP04-121": {
-    "id": "CP04-120",
+    "id": "CP04-121",
     "isToken": false,
     "face": {
       "front": {
         "name": "Princess Knight (Evolved)",
         "type": "Evolve Deck",
         "cost": "8",
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP04 TEMP 3/CP04-120.jpg",
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP04 TEMP 3/CP04-121.jpg",
         "isHorizontal": false
       }
     },
