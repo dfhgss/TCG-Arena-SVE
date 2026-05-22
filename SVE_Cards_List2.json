@@ -37757,15 +37757,15 @@
     "Set": "CP03",
     "Trait": "-"
   },
-  "CP02-001EN": {
-    "id": "CP02-001EN",
+  "CP03-128EN": {
+    "id": "CP03-128EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragonic Overlord",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-001EN.png",
         "isHorizontal": false
       }
     },
@@ -37775,18 +37775,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-002EN": {
-    "id": "CP02-002EN",
+  "CP03-129EN": {
+    "id": "CP03-129EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragonic Overlord",
+        "name": "Dragonic Overlord (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP03-002EN.png",
         "isHorizontal": false
       }
     },
@@ -37796,7 +37796,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
   "PR-283EN": {
@@ -37804,7 +37804,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragonic Overlord",
+        "name": "Dragonic Overlord (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-283EN.png",
@@ -37820,15 +37820,15 @@
     "Set": "",
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-003EN": {
-    "id": "CP02-003EN",
+  "CP03-130EN": {
+    "id": "CP03-130EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragon Monk, Goku",
         "type": "Follower",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP03/CP02-003EN.png",
         "isHorizontal": false
       }
     },
@@ -37838,11 +37838,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-004EN": {
-    "id": "CP02-004EN",
+  "CP03-131EN": {
+    "id": "CP03-131EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37859,11 +37859,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-005EN": {
-    "id": "CP02-005EN",
+  "CP03-132EN": {
+    "id": "CP03-132EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37880,11 +37880,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-006EN": {
-    "id": "CP02-006EN",
+  "CP03-133EN": {
+    "id": "CP03-133EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37901,11 +37901,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-007EN": {
-    "id": "CP02-007EN",
+  "CP03-134EN": {
+    "id": "CP03-134EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37922,11 +37922,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-008EN": {
-    "id": "CP02-008EN",
+  "CP03-135EN": {
+    "id": "CP03-135EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37943,11 +37943,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-009EN": {
-    "id": "CP02-009EN",
+  "CP03-136EN": {
+    "id": "CP03-136EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37964,11 +37964,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-010EN": {
-    "id": "CP02-010EN",
+  "CP03-137EN": {
+    "id": "CP03-137EN",
     "isToken": false,
     "face": {
       "front": {
@@ -37985,11 +37985,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-011EN": {
-    "id": "CP02-011EN",
+  "CP03-138EN": {
+    "id": "CP03-138EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38006,11 +38006,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-016EN": {
-    "id": "CP02-016EN",
+  "CP03-139EN": {
+    "id": "CP03-139EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38027,11 +38027,11 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Kagero"
   },
-  "CP02-001EN": {
-    "id": "CP02-001EN",
+  "CP03-140EN": {
+    "id": "CP03-140EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38048,11 +38048,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-002EN": {
-    "id": "CP02-002EN",
+  "CP03-141EN": {
+    "id": "CP03-141EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38069,11 +38069,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-003EN": {
-    "id": "CP02-003EN",
+  "CP03-142EN": {
+    "id": "CP03-142EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38090,11 +38090,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-004EN": {
-    "id": "CP02-004EN",
+  "CP03-143EN": {
+    "id": "CP03-143EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38111,11 +38111,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-005EN": {
-    "id": "CP02-005EN",
+  "CP03-144EN": {
+    "id": "CP03-144EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38132,11 +38132,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-006EN": {
-    "id": "CP02-006EN",
+  "CP03-145EN": {
+    "id": "CP03-145EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38153,11 +38153,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-007EN": {
-    "id": "CP02-007EN",
+  "CP03-146EN": {
+    "id": "CP03-146EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38174,11 +38174,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-008EN": {
-    "id": "CP02-008EN",
+  "CP03-147EN": {
+    "id": "CP03-147EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38195,11 +38195,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-009EN": {
-    "id": "CP02-009EN",
+  "CP03-148EN": {
+    "id": "CP03-148EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38216,11 +38216,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-010EN": {
-    "id": "CP02-010EN",
+  "CP03-149EN": {
+    "id": "CP03-149EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38237,11 +38237,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-011EN": {
-    "id": "CP02-011EN",
+  "CP03-150EN": {
+    "id": "CP03-150EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38258,11 +38258,11 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CP02-016EN": {
-    "id": "CP02-016EN",
+  "CP03-151EN": {
+    "id": "CP03-151EN",
     "isToken": false,
     "face": {
       "front": {
@@ -38279,7 +38279,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CP02",
+    "Set": "CP03,
     "Trait": "Vanguard / Royal Paladin"
   },
   "BP10-001EN": {
@@ -50417,7 +50417,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "CP02",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
   "PR-150EN": {
