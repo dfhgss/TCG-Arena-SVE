@@ -29,10 +29,11 @@
     },
     "deckBuilding": {
         "mainFilters": [
-            "type",
-            "cost",
+            "Type",
             "Class",
-            "Set"
+            "Set",
+            "Trait",
+	    "Cost"
         ],
         "formats": [
             {
