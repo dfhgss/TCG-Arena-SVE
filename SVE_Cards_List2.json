@@ -23734,14 +23734,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Silvernail Blaster",
+        "name": "Silvernail Markswoman",
         "type": "Follower",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP14/BP14-082EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Silvernail Blaster",
+    "name": "Silvernail Markswoman",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -23755,14 +23755,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Silvernail Blaster (Evolved)",
+        "name": "Silvernail Markswoman (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP14/BP14-083EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Silvernail Blaster (Evolved)",
+    "name": "Silvernail Markswoman (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
