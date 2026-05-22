@@ -7812,14 +7812,14 @@
     "Trait": "Priconne / Weissflügel"
   },
   "CP04-120": {
-    "id": "PCS-048",
+    "id": "CP04-120",
     "isToken": false,
     "face": {
       "front": {
         "name": "Princess Knight",
         "type": "Follower",
         "cost": "8",
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP04 TEMP 3/PCS-048.jpg",
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP04 TEMP 3/CP04-120.jpg",
         "isHorizontal": false
       }
     },
@@ -7829,18 +7829,18 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PCS",
+    "Set": "CP04",
     "Trait": "Priconne"
   },
   "CP04-121": {
-    "id": "PCS-049",
+    "id": "CP04-120",
     "isToken": false,
     "face": {
       "front": {
         "name": "Princess Knight (Evolved)",
         "type": "Evolve Deck",
         "cost": "8",
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP04 TEMP 3/PCS-049.jpg",
+        "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP04 TEMP 3/CP04-120.jpg",
         "isHorizontal": false
       }
     },
@@ -7850,7 +7850,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PCS",
+    "Set": "CP04",
     "Trait": "Priconne"
   },
   "CP04-T01": {
@@ -14339,7 +14339,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
   "ECP02-018EN": {
@@ -16271,7 +16271,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Officer"
   },
   "BP16-026EN": {
@@ -17594,7 +17594,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Departed"
   },
   "BP16-085EN": {
@@ -18098,7 +18098,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Faith"
   },
   "BP16-107EN": {
@@ -18812,7 +18812,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Elf"
   },
   "BP15-005EN": {
@@ -18854,7 +18854,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Elf"
   },
   "BP15-006EN": {
@@ -21899,7 +21899,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Festive / Beast"
   },
   "BP14-002EN": {
@@ -21941,7 +21941,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Festive / Beast"
   },
   "BP14-003EN": {
@@ -24398,7 +24398,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP14-111EN": {
@@ -30089,7 +30089,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Mage"
   },
   "BP12-041EN": {
@@ -31538,7 +31538,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP12-107EN": {
@@ -32588,7 +32588,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Wasteland / Thief"
   },
   "BP11-020EN": {
@@ -33827,7 +33827,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Wasteland / Departed"
   },
   "BP11-075EN": {
@@ -34541,7 +34541,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Wasteland / Mercenary"
   },
   "BP11-106EN": {
@@ -34583,7 +34583,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Wasteland / Mercenary"
   },
   "BP11-107EN": {
@@ -34982,7 +34982,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vanguard / Aqua Force"
   },
   "CP03-003EN": {
@@ -35948,7 +35948,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vanguard / Pale Moon"
   },
   "CP03-046EN": {
@@ -36872,7 +36872,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vanguard / Shadow Paladin"
   },
   "CP03-087EN": {
@@ -37460,7 +37460,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vanguard / Oracle Think Tank"
   },
   "CP03-113EN": {
@@ -37757,15 +37757,15 @@
     "Set": "CP03",
     "Trait": "-"
   },
-  "CSD03b-001EN": {
-    "id": "CSD03b-001EN",
+  "CP02-001EN": {
+    "id": "CP02-001EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragonic Overlord",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-001EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png",
         "isHorizontal": false
       }
     },
@@ -37775,18 +37775,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-002EN": {
-    "id": "CSD03b-002EN",
+  "CP02-002EN": {
+    "id": "CP02-002EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragonic Overlord",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-002EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png",
         "isHorizontal": false
       }
     },
@@ -37796,7 +37796,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
   "PR-283EN": {
@@ -37817,18 +37817,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-003EN": {
-    "id": "CSD03b-003EN",
+  "CP02-003EN": {
+    "id": "CP02-003EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragon Monk, Goku",
         "type": "Follower",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-003EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png",
         "isHorizontal": false
       }
     },
@@ -37838,18 +37838,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-004EN": {
-    "id": "CSD03b-004EN",
+  "CP02-004EN": {
+    "id": "CP02-004EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragon Knight, Aleph",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-004EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-004EN.png",
         "isHorizontal": false
       }
     },
@@ -37859,18 +37859,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-005EN": {
-    "id": "CSD03b-005EN",
+  "CP02-005EN": {
+    "id": "CP02-005EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Embodiment of Victory, Aleph",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-005EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-005EN.png",
         "isHorizontal": false
       }
     },
@@ -37880,18 +37880,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-006EN": {
-    "id": "CSD03b-006EN",
+  "CP02-006EN": {
+    "id": "CP02-006EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Berserk Dragon",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-006EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-006EN.png",
         "isHorizontal": false
       }
     },
@@ -37901,18 +37901,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-007EN": {
-    "id": "CSD03b-007EN",
+  "CP02-007EN": {
+    "id": "CP02-007EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Wyvern Guard, Barri",
         "type": "Spell",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-007EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png",
         "isHorizontal": false
       }
     },
@@ -37922,18 +37922,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-008EN": {
-    "id": "CSD03b-008EN",
+  "CP02-008EN": {
+    "id": "CP02-008EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dragon Knight, Nehalem",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-008EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png",
         "isHorizontal": false
       }
     },
@@ -37943,18 +37943,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-009EN": {
-    "id": "CSD03b-009EN",
+  "CP02-009EN": {
+    "id": "CP02-009EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Embodiment of Armor, Bahr",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-009EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-009EN.png",
         "isHorizontal": false
       }
     },
@@ -37964,18 +37964,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-010EN": {
-    "id": "CSD03b-010EN",
+  "CP02-010EN": {
+    "id": "CP02-010EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chain-Attack Sutherland",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-010EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-010EN.png",
         "isHorizontal": false
       }
     },
@@ -37985,18 +37985,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-011EN": {
-    "id": "CSD03b-011EN",
+  "CP02-011EN": {
+    "id": "CP02-011EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Follower, Reas",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-011EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png",
         "isHorizontal": false
       }
     },
@@ -38006,18 +38006,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03b-016EN": {
-    "id": "CSD03b-016EN",
+  "CP02-016EN": {
+    "id": "CP02-016EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lizard Runner, Undeux",
         "type": "Amulet",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03b/CSD03b-016EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-016EN.png",
         "isHorizontal": false
       }
     },
@@ -38027,18 +38027,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD03b",
+    "Set": "CP02",
     "Trait": "Vanguard / Kagero"
   },
-  "CSD03a-001EN": {
-    "id": "CSD03a-001EN",
+  "CP02-001EN": {
+    "id": "CP02-001EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Alfred Early",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-001EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png",
         "isHorizontal": false
       }
     },
@@ -38048,18 +38048,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-002EN": {
-    "id": "CSD03a-002EN",
+  "CP02-002EN": {
+    "id": "CP02-002EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "King of Knights, Alfred",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-002EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png",
         "isHorizontal": false
       }
     },
@@ -38069,18 +38069,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-003EN": {
-    "id": "CSD03a-003EN",
+  "CP02-003EN": {
+    "id": "CP02-003EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Blaster Blade",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-003EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png",
         "isHorizontal": false
       }
     },
@@ -38090,18 +38090,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-004EN": {
-    "id": "CSD03a-004EN",
+  "CP02-004EN": {
+    "id": "CP02-004EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Blaster Blade",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-004EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-004EN.png",
         "isHorizontal": false
       }
     },
@@ -38111,18 +38111,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-005EN": {
-    "id": "CSD03a-005EN",
+  "CP02-005EN": {
+    "id": "CP02-005EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Wingal",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-005EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-005EN.png",
         "isHorizontal": false
       }
     },
@@ -38132,18 +38132,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-006EN": {
-    "id": "CSD03a-006EN",
+  "CP02-006EN": {
+    "id": "CP02-006EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Knight of Conviction, Bors",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-006EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-006EN.png",
         "isHorizontal": false
       }
     },
@@ -38153,18 +38153,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-007EN": {
-    "id": "CSD03a-007EN",
+  "CP02-007EN": {
+    "id": "CP02-007EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Flash Shield, Iseult",
         "type": "Spell",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-007EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png",
         "isHorizontal": false
       }
     },
@@ -38174,18 +38174,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-008EN": {
-    "id": "CSD03a-008EN",
+  "CP02-008EN": {
+    "id": "CP02-008EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Knight of Silence, Gallatin",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-008EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png",
         "isHorizontal": false
       }
     },
@@ -38195,18 +38195,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-009EN": {
-    "id": "CSD03a-009EN",
+  "CP02-009EN": {
+    "id": "CP02-009EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Little Sage, Marron",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-009EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-009EN.png",
         "isHorizontal": false
       }
     },
@@ -38216,18 +38216,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-010EN": {
-    "id": "CSD03a-010EN",
+  "CP02-010EN": {
+    "id": "CP02-010EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lake Maiden, Lien",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-010EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-010EN.png",
         "isHorizontal": false
       }
     },
@@ -38237,18 +38237,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-011EN": {
-    "id": "CSD03a-011EN",
+  "CP02-011EN": {
+    "id": "CP02-011EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Knight of Rose, Morgana",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-011EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png",
         "isHorizontal": false
       }
     },
@@ -38258,18 +38258,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
-  "CSD03a-016EN": {
-    "id": "CSD03a-016EN",
+  "CP02-016EN": {
+    "id": "CP02-016EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Stardust Trumpeter",
         "type": "Amulet",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD03a/CSD03a-016EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-016EN.png",
         "isHorizontal": false
       }
     },
@@ -38279,7 +38279,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD03a",
+    "Set": "CP02",
     "Trait": "Vanguard / Royal Paladin"
   },
   "BP10-001EN": {
@@ -38384,7 +38384,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Supreme"
   },
   "BP10-004EN": {
@@ -39203,7 +39203,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Mage"
   },
   "BP10-040EN": {
@@ -39518,7 +39518,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Mage"
   },
   "BP10-054EN": {
@@ -40820,7 +40820,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Arcana / Deity"
   },
   "BP10-111EN": {
@@ -41723,7 +41723,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Officer / Maid"
   },
   "BP09-024EN": {
@@ -43424,7 +43424,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vampire"
   },
   "BP09-093EN": {
@@ -43466,7 +43466,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vampire"
   },
   "BP09-094EN": {
@@ -43949,7 +43949,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Faith / Beast"
   },
   "BP09-113EN": {
@@ -44285,7 +44285,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP09-127EN": {
@@ -44327,7 +44327,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP09-128EN": {
@@ -44873,7 +44873,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Hunter / Beast"
   },
   "BP08-008EN": {
@@ -47351,7 +47351,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP08-113EN": {
@@ -47981,7 +47981,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Natura / Commander / Princess"
   },
   "BP07-021EN": {
@@ -48065,7 +48065,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Assassin"
   },
   "BP07-023EN": {
@@ -48107,7 +48107,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Assassin"
   },
   "BP07-024EN": {
@@ -49661,7 +49661,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Machina / Faith"
   },
   "BP07-093EN": {
@@ -49997,7 +49997,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Machina / Angel"
   },
   "BP07-107EN": {
@@ -50039,7 +50039,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Natura / Mercenary"
   },
   "BP07-108EN": {
@@ -50438,7 +50438,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
   "PR-462EN": {
@@ -50459,7 +50459,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
   "CP02-004EN": {
@@ -50564,7 +50564,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-007EN": {
@@ -50627,7 +50627,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
   "CP02-009EN": {
@@ -50711,7 +50711,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-012EN": {
@@ -50963,7 +50963,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
   "CP02-021EN": {
@@ -51089,7 +51089,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
   "CP02-026EN": {
@@ -51173,7 +51173,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-029EN": {
@@ -51509,7 +51509,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
   "CP02-042EN": {
@@ -51614,7 +51614,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-046EN": {
@@ -51719,7 +51719,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
   "CP02-050EN": {
@@ -51908,7 +51908,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-056EN": {
@@ -52076,7 +52076,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
   "CP02-063EN": {
@@ -52412,7 +52412,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-076EN": {
@@ -52643,7 +52643,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cool"
   },
   "CP02-086EN": {
@@ -52874,7 +52874,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
   "CP02-094EN": {
@@ -52979,7 +52979,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
   "CP02-098EN": {
@@ -53315,7 +53315,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG"
   },
   "PR-154EN": {
@@ -53336,7 +53336,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG"
   },
   "ECP02-SL34EN": {
@@ -53633,15 +53633,15 @@
     "Set": "ECP02",
     "Trait": "iM@S CG"
   },
-  "CSD02c-001EN": {
-    "id": "CSD02c-001EN",
+  "CP02-001EN": {
+    "id": "CP02-001EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Mio Honda [Positive Passion]",
         "type": "Follower",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-001EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png",
         "isHorizontal": false
       }
     },
@@ -53651,7 +53651,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
   "PR-465EN": {
@@ -53672,18 +53672,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-002EN": {
-    "id": "CSD02c-002EN",
+  "CP02-002EN": {
+    "id": "CP02-002EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Aiko Takamori [Handmade Happiness]",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-002EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png",
         "isHorizontal": false
       }
     },
@@ -53693,18 +53693,18 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-003EN": {
-    "id": "CSD02c-003EN",
+  "CP02-003EN": {
+    "id": "CP02-003EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Akane Hino [Positive Passion]",
         "type": "Follower",
         "cost": 8,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-003EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png",
         "isHorizontal": false
       }
     },
@@ -53714,18 +53714,18 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-004EN": {
-    "id": "CSD02c-004EN",
+  "CP02-004EN": {
+    "id": "CP02-004EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kaoru Ryuzaki",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-004EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-004EN.png",
         "isHorizontal": false
       }
     },
@@ -53735,18 +53735,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-005EN": {
-    "id": "CSD02c-005EN",
+  "CP02-005EN": {
+    "id": "CP02-005EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Suzuho Ueda",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-005EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-005EN.png",
         "isHorizontal": false
       }
     },
@@ -53756,18 +53756,18 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-006EN": {
-    "id": "CSD02c-006EN",
+  "CP02-006EN": {
+    "id": "CP02-006EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Suzuho Ueda",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-006EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-006EN.png",
         "isHorizontal": false
       }
     },
@@ -53777,18 +53777,18 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-007EN": {
-    "id": "CSD02c-007EN",
+  "CP02-007EN": {
+    "id": "CP02-007EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Miria Akagi",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-007EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png",
         "isHorizontal": false
       }
     },
@@ -53798,18 +53798,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-008EN": {
-    "id": "CSD02c-008EN",
+  "CP02-008EN": {
+    "id": "CP02-008EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Miria Akagi",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-008EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png",
         "isHorizontal": false
       }
     },
@@ -53819,18 +53819,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-009EN": {
-    "id": "CSD02c-009EN",
+  "CP02-009EN": {
+    "id": "CP02-009EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Miu Yaguchi",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-009EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-009EN.png",
         "isHorizontal": false
       }
     },
@@ -53840,18 +53840,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-010EN": {
-    "id": "CSD02c-010EN",
+  "CP02-010EN": {
+    "id": "CP02-010EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kumiko Matsuyama",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-010EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-010EN.png",
         "isHorizontal": false
       }
     },
@@ -53861,18 +53861,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-011EN": {
-    "id": "CSD02c-011EN",
+  "CP02-011EN": {
+    "id": "CP02-011EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kumiko Matsuyama",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-011EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png",
         "isHorizontal": false
       }
     },
@@ -53882,18 +53882,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02c-018EN": {
-    "id": "CSD02c-018EN",
+  "CP02-018EN": {
+    "id": "CP02-018EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sanae Katagiri",
         "type": "Follower",
         "cost": 7,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-018EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-018EN.png",
         "isHorizontal": false
       }
     },
@@ -53903,18 +53903,18 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "CSD02c",
+    "Set": "CP02",
     "Trait": "iM@S CG / Passion"
   },
-  "CSD02b-001EN": {
-    "id": "CSD02b-001EN",
+  "CP02-001EN": {
+    "id": "CP02-001EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Rin Shibuya [Triad Primus]",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-001EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png",
         "isHorizontal": false
       }
     },
@@ -53924,18 +53924,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-002EN": {
-    "id": "CSD02b-002EN",
+  "CP02-002EN": {
+    "id": "CP02-002EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Nao Kamiya [Over the Rainbow]",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-002EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png",
         "isHorizontal": false
       }
     },
@@ -53945,18 +53945,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-003EN": {
-    "id": "CSD02b-003EN",
+  "CP02-003EN": {
+    "id": "CP02-003EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Karen Hojo [Song for Life]",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-003EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png",
         "isHorizontal": false
       }
     },
@@ -53966,18 +53966,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-004EN": {
-    "id": "CSD02b-004EN",
+  "CP02-004EN": {
+    "id": "CP02-004EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Yasuha Okazaki",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-004EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-004EN.png",
         "isHorizontal": false
       }
     },
@@ -53987,18 +53987,18 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-005EN": {
-    "id": "CSD02b-005EN",
+  "CP02-005EN": {
+    "id": "CP02-005EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Yukimi Sajo",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-005EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-005EN.png",
         "isHorizontal": false
       }
     },
@@ -54008,18 +54008,18 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-006EN": {
-    "id": "CSD02b-006EN",
+  "CP02-006EN": {
+    "id": "CP02-006EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Yukimi Sajo",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-006EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-006EN.png",
         "isHorizontal": false
       }
     },
@@ -54029,18 +54029,18 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-007EN": {
-    "id": "CSD02b-007EN",
+  "CP02-007EN": {
+    "id": "CP02-007EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kako Takafuji",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-007EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png",
         "isHorizontal": false
       }
     },
@@ -54050,18 +54050,18 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-008EN": {
-    "id": "CSD02b-008EN",
+  "CP02-008EN": {
+    "id": "CP02-008EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kako Takafuji",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-008EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png",
         "isHorizontal": false
       }
     },
@@ -54071,18 +54071,18 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-009EN": {
-    "id": "CSD02b-009EN",
+  "CP02-009EN": {
+    "id": "CP02-009EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chizuru Matsuo",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-009EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-009EN.png",
         "isHorizontal": false
       }
     },
@@ -54092,18 +54092,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-010EN": {
-    "id": "CSD02b-010EN",
+  "CP02-010EN": {
+    "id": "CP02-010EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Seira Mizuki",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-010EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-010EN.png",
         "isHorizontal": false
       }
     },
@@ -54113,18 +54113,18 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02b-011EN": {
-    "id": "CSD02b-011EN",
+  "CP02-011EN": {
+    "id": "CP02-011EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Seira Mizuki",
         "type": "Evolve Deck",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-011EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png",
         "isHorizontal": false
       }
     },
@@ -54134,18 +54134,18 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "CSD02b",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cool"
   },
-  "CSD02a-001EN": {
-    "id": "CSD02a-001EN",
+  "CP02-001EN": {
+    "id": "CP02-001EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Uzuki Shimamura [P.C.S.]",
         "type": "Follower",
         "cost": 7,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-001EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png",
         "isHorizontal": false
       }
     },
@@ -54155,18 +54155,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-002EN": {
-    "id": "CSD02a-002EN",
+  "CP02-002EN": {
+    "id": "CP02-002EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kyoko Igarashi [P.C.S.]",
         "type": "Follower",
         "cost": 4,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-002EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png",
         "isHorizontal": false
       }
     },
@@ -54176,18 +54176,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-003EN": {
-    "id": "CSD02a-003EN",
+  "CP02-003EN": {
+    "id": "CP02-003EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Miho Kohinata [P.C.S.]",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-003EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png",
         "isHorizontal": false
       }
     },
@@ -54197,7 +54197,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
   "PR-464EN": {
@@ -54218,18 +54218,18 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-004EN": {
-    "id": "CSD02a-004EN",
+  "CP02-004EN": {
+    "id": "CP02-004EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chika Yokoyama",
         "type": "Follower",
         "cost": 1,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-004EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-004EN.png",
         "isHorizontal": false
       }
     },
@@ -54239,18 +54239,18 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-005EN": {
-    "id": "CSD02a-005EN",
+  "CP02-005EN": {
+    "id": "CP02-005EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Momoka Sakurai",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-005EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-005EN.png",
         "isHorizontal": false
       }
     },
@@ -54260,18 +54260,18 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-006EN": {
-    "id": "CSD02a-006EN",
+  "CP02-006EN": {
+    "id": "CP02-006EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Momoka Sakurai",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-006EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-006EN.png",
         "isHorizontal": false
       }
     },
@@ -54281,18 +54281,18 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-007EN": {
-    "id": "CSD02a-007EN",
+  "CP02-007EN": {
+    "id": "CP02-007EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Akiha Ikebukuro",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-007EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png",
         "isHorizontal": false
       }
     },
@@ -54302,18 +54302,18 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-008EN": {
-    "id": "CSD02a-008EN",
+  "CP02-008EN": {
+    "id": "CP02-008EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Akiha Ikebukuro",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-008EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png",
         "isHorizontal": false
       }
     },
@@ -54323,18 +54323,18 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-009EN": {
-    "id": "CSD02a-009EN",
+  "CP02-009EN": {
+    "id": "CP02-009EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Nene Kurihara",
         "type": "Follower",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-009EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-009EN.png",
         "isHorizontal": false
       }
     },
@@ -54344,18 +54344,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-010EN": {
-    "id": "CSD02a-010EN",
+  "CP02-010EN": {
+    "id": "CP02-010EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Nene Kurihara",
         "type": "Evolve Deck",
         "cost": 5,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-010EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-010EN.png",
         "isHorizontal": false
       }
     },
@@ -54365,18 +54365,18 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
-  "CSD02a-011EN": {
-    "id": "CSD02a-011EN",
+  "CP02-011EN": {
+    "id": "CP02-011EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Karin Domyoji",
         "type": "Follower",
         "cost": 3,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-011EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png",
         "isHorizontal": false
       }
     },
@@ -54386,7 +54386,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "CSD02a",
+    "Set": "CP02",
     "Trait": "iM@S CG / Cute"
   },
   "BP06-001EN": {
@@ -54806,7 +54806,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "BSF2025",
+    "Set": "",
     "Trait": "Arena / Officer"
   },
   "BP06-019EN": {
@@ -55226,7 +55226,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Arena / Onmyoji"
   },
   "BP06-036EN": {
@@ -55394,7 +55394,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Golem / Forbidden"
   },
   "BP06-041EN": {
@@ -56213,7 +56213,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Demon"
   },
   "BP06-076EN": {
@@ -56885,7 +56885,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Deity / Lightborne"
   },
   "BP06-105EN": {
@@ -57389,7 +57389,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Supreme"
   },
   "BP05-004EN": {
@@ -58229,7 +58229,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Arcanaform / Forbidden"
   },
   "BP05-041EN": {
@@ -59111,7 +59111,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Omen / Demon"
   },
   "BP05-079EN": {
@@ -59720,7 +59720,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Omen"
   },
   "BP05-106EN": {
@@ -59804,7 +59804,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP05-109EN": {
@@ -61631,7 +61631,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Phoenix / Celestial"
   },
   "BP04-065EN": {
@@ -61673,7 +61673,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Phoenix / Celestial"
   },
   "BP04-066EN": {
@@ -62513,7 +62513,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Faith / Princess"
   },
   "BP04-102EN": {
@@ -62555,7 +62555,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Faith / Princess"
   },
   "BP04-103EN": {
@@ -63227,7 +63227,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Demon"
   },
   "BP04-T02EN": {
@@ -63752,7 +63752,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Assassin / Fable"
   },
   "BP03-022EN": {
@@ -64193,7 +64193,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Mage / Academic"
   },
   "BP03-040EN": {
@@ -67091,7 +67091,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Umamusume"
   },
   "CP01-041EN": {
@@ -68333,15 +68333,15 @@
     "Set": "ECP01",
     "Trait": ""
   },
-  "CSD01-007EN": {
-    "id": "CSD01-007EN",
+  "CP02-007EN": {
+    "id": "CP02-007EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Tazuna Hayakawa [Tracen Reception]",
         "type": "Follower",
         "cost": 6,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-007EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png",
         "isHorizontal": false
       }
     },
@@ -68351,18 +68351,18 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "CSD01",
+    "Set": "CP02",
     "Trait": "Tracen Academy"
   },
-  "CSD01-030EN": {
-    "id": "CSD01-030EN",
+  "CP02-030EN": {
+    "id": "CP02-030EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Riko Kashimoto",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-030EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-030EN.png",
         "isHorizontal": false
       }
     },
@@ -68372,18 +68372,18 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "CSD01",
+    "Set": "CP02",
     "Trait": "Tracen Academy"
   },
-  "CSD01-031EN": {
-    "id": "CSD01-031EN",
+  "CP02-031EN": {
+    "id": "CP02-031EN",
     "isToken": false,
     "face": {
       "front": {
         "name": "Aoi Kiryuin",
         "type": "Follower",
         "cost": 2,
-        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-031EN.png",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-031EN.png",
         "isHorizontal": false
       }
     },
@@ -68393,7 +68393,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "CSD01",
+    "Set": "CP02",
     "Trait": "Tracen Academy"
   },
   "BP02-001EN": {
@@ -70493,7 +70493,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Faith / Eidolon"
   },
   "BP02-087EN": {
@@ -70934,7 +70934,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "BSF2024",
+    "Set": "",
     "Trait": "Deity / Supreme"
   },
   "BP02-105EN": {
@@ -71081,7 +71081,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "SS02",
+    "Set": "",
     "Trait": "Mercenary"
   },
   "BP02-110EN": {
@@ -71795,7 +71795,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Pixie"
   },
   "BP01-016EN": {
@@ -72656,7 +72656,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Mage"
   },
   "BP01-054EN": {
@@ -72761,7 +72761,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Mage"
   },
   "BP01-058EN": {
@@ -73181,7 +73181,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Earth Sigil"
   },
   "BP01-076EN": {
@@ -73727,7 +73727,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Wyrmkin"
   },
   "BP01-099EN": {
@@ -74189,7 +74189,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Departed"
   },
   "BP01-117EN": {
@@ -75365,7 +75365,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Fiend"
   },
   "BP01-169EN": {
@@ -75428,7 +75428,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Lightborne"
   },
   "BP01-171EN": {
@@ -75638,7 +75638,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP01-180EN": {
@@ -75680,7 +75680,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Angel"
   },
   "BP01-T01EN": {
@@ -76940,7 +76940,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Wyrmkin"
   },
   "SD04-003EN": {
@@ -77423,7 +77423,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Vampire"
   },
   "SD06-001EN": {
@@ -78659,7 +78659,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG"
   },
   "PR-154EN_TOKEN": {
@@ -78680,7 +78680,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "iM@S CG"
   },
   "ECP02-SL34EN_TOKEN": {
@@ -80654,7 +80654,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": "PR",
+    "Set": "",
     "Trait": "Demon"
   },
   "CP04-T01_TOKEN": {
