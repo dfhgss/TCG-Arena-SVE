@@ -75982,14 +75982,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mimi",
+        "name": "Mimi, Infernal Right Paw",
         "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Mimi",
+    "name": "Mimi, Infernal Right Paw",
     "type": "Token",
     "cost": 0,
     "Class": [
@@ -76003,14 +76003,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Coco",
+        "name": "Coco, Infernal Left Paw",
         "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Coco",
+    "name": "Coco, Infernal Left Paw",
     "type": "Token",
     "cost": 0,
     "Class": [
@@ -78079,14 +78079,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Mimi",
+        "name": "Mimi, Infernal Right Paw",
         "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Mimi",
+    "name": "Mimi, Infernal Right Paw",
     "type": "Token",
     "cost": 0,
     "Class": [
@@ -78100,14 +78100,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Coco",
+        "name": "Coco, Infernal Left Paw",
         "type": "Token",
         "cost": 0,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Coco",
+    "name": "Coco, Infernal Left Paw",
     "type": "Token",
     "cost": 0,
     "Class": [
