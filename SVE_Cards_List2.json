@@ -12121,14 +12121,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Convenant Mage",
+        "name": "Covenant Mage",
         "type": "Follower",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP17/BP17-051EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Convenant Mage",
+    "name": "Covenant Mage",
     "type": "Follower",
     "cost": 4,
     "Class": [
