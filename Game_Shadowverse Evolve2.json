@@ -54,8 +54,13 @@
                     "0": [
                         {
                             "createCardId": "PP8",
-                            "count": 10,
+                            "count": 9,
                             "destination": "PP"
+                        },
+                        {
+                            "createCardId": "PP8",
+                            "count": 1,
+                            "destination": "Mana"
                         },
                         {
                             "createCardId": "SEP",
