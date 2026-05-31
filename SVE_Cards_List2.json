@@ -77690,7 +77690,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Evolution Point",
+    "name": "Evolution Point EP",
     "type": "EP",
     "cost": 0,
     "Trait": ""
@@ -77707,7 +77707,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Evolution Point",
+    "name": "Evolution Point EP",
     "type": "EP",
     "cost": 0,
     "Trait": ""
@@ -77717,7 +77717,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Play Point",
+        "name": "PP8 Play Point",
         "type": "PP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
@@ -77734,7 +77734,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Play Point",
+        "name": "PP8 Play Point",
         "type": "PP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/PP8.png",
@@ -77751,7 +77751,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Super Evolution Point",
+        "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvolution.png",
@@ -77768,7 +77768,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Super Evolution Point",
+        "name": "Super Evolution Point SEP",
         "type": "EP",
         "cost": 0,
         "image": "https://dfhgss.github.io/TCG-Arena-SVE/1/SuperEvolution.png",
@@ -78583,7 +78583,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T01EN.png",
@@ -78604,7 +78604,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T05EN.png",
@@ -78625,7 +78625,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-T09EN.png",
@@ -78646,7 +78646,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-153EN.png",
@@ -78667,7 +78667,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-154EN.png",
@@ -78688,7 +78688,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL34EN.png",
@@ -78709,7 +78709,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL35EN.png",
@@ -78730,7 +78730,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL36EN.png",
@@ -78751,7 +78751,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL37EN.png",
@@ -78772,7 +78772,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL38EN.png",
@@ -78793,7 +78793,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL39EN.png",
@@ -78814,7 +78814,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL40EN.png",
@@ -78835,7 +78835,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL41EN.png",
@@ -78856,7 +78856,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL42EN.png",
@@ -78877,7 +78877,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL43EN.png",
@@ -78898,7 +78898,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL44EN.png",
@@ -78919,7 +78919,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL45EN.png",
@@ -78940,7 +78940,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL46EN.png",
@@ -78961,7 +78961,7 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Magical Item",
+        "name": "Magical Item Cute Earrings Passion Cool Pendant Tiara Enchanted Slippers Dress",
         "type": "Token",
         "cost": 4,
         "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/ECP02/ECP02-SL47EN.png",
