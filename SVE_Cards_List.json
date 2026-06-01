@@ -81200,9 +81200,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonheart"
   },
   "GFD02-002EN": {
@@ -81223,9 +81221,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonheart"
   },
   "GFD02-003EN": {
@@ -81246,9 +81242,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonewt"
   },
   "GFD02-004EN": {
@@ -81269,9 +81263,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonewt"
   },
   "GFD02-005EN": {
@@ -81292,9 +81284,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonewt"
   },
   "GFD02-006EN": {
@@ -81315,9 +81305,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonewt"
   },
   "GFD02-007EN": {
@@ -81338,9 +81326,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonewt"
   },
   "GFD02-008EN": {
@@ -81361,9 +81347,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Deity"
   },
   "GFD02-019EN": {
@@ -81384,9 +81368,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander / Beast"
   },
   "GFD02-020EN": {
@@ -81407,9 +81389,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonheart / Draconic Duelist"
   },
   "GFD02-021EN": {
@@ -81430,9 +81410,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonheart / Draconic Duelist"
   },
   "GFD02-022EN": {
@@ -81453,9 +81431,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Dragonheart"
   },
   "GFD02-023EN": {
@@ -81476,9 +81452,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFD02-024EN": {
@@ -81499,9 +81473,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Lightborne"
   },
   "GFD02-025EN": {
@@ -81522,9 +81494,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Lightborne"
   },
   "GFD02-026EN": {
@@ -81545,9 +81515,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Lightborne"
   },
   "GFD02-027EN": {
@@ -81568,9 +81536,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Lightborne"
   },
   "GFD02-028EN": {
@@ -81591,9 +81557,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Lightborne"
   },
   "GFD01-001EN": {
@@ -81614,9 +81578,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Insect"
   },
   "GFD01-002EN": {
@@ -81637,9 +81599,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Verdant"
   },
   "GFD01-003EN": {
@@ -81660,9 +81620,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Verdant"
   },
   "GFD01-004EN": {
@@ -81683,9 +81641,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Beast"
   },
   "GFD01-005EN": {
@@ -81706,9 +81662,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Beast"
   },
   "GFD01-006EN": {
@@ -81729,9 +81683,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched"
   },
   "GFD01-007EN": {
@@ -81752,9 +81704,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched"
   },
   "GFD01-008EN": {
@@ -81775,9 +81725,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Deity"
   },
   "GFD01-018EN": {
@@ -81798,9 +81746,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Beast"
   },
   "GFD01-019EN": {
@@ -81821,9 +81767,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Beast"
   },
   "GFD01-020EN": {
@@ -81844,9 +81788,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Fae-Touched / Verdant / Beast"
   },
   "GFD01-021EN": {
@@ -81867,9 +81809,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Beast"
   },
   "GFD01-022EN": {
@@ -81890,9 +81830,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Mage"
   },
   "GFD01-023EN": {
@@ -81913,9 +81851,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Beast"
   },
   "GFD01-024EN": {
@@ -81936,9 +81872,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Beast"
   },
   "GFD01-025EN": {
@@ -81959,9 +81893,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Angel"
   },
   "GFD01-026EN": {
@@ -81982,9 +81914,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Angel"
   },
   "GFD01-027EN": {
@@ -82005,9 +81935,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Lightborne"
   },
   "GFD01-T01EN": {
@@ -82028,9 +81956,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Insect"
   },
   "GFD01-T01EN_TOKEN": {
@@ -82051,9 +81977,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Insect"
   },
   "GFB01a-001EN": {
@@ -82074,9 +81998,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander / Musical / Princess"
   },
   "GFB01a-002EN": {
@@ -82097,9 +82019,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander / Musical / Princess"
   },
   "GFB01a-003EN": {
@@ -82120,9 +82040,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander"
   },
   "GFB01a-004EN": {
@@ -82143,9 +82061,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander"
   },
   "GFB01a-005EN": {
@@ -82166,9 +82082,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander / Arthurian"
   },
   "GFB01a-006EN": {
@@ -82189,9 +82103,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander"
   },
   "GFB01a-007EN": {
@@ -82212,9 +82124,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander"
   },
   "GFB01a-008EN": {
@@ -82235,9 +82145,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Deity"
   },
   "GFB01a-016EN": {
@@ -82258,9 +82166,7 @@
     "Class": [
       "Forestcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Elf / Hunter"
   },
   "GFB01a-017EN": {
@@ -82281,9 +82187,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Officer"
   },
   "GFB01a-018EN": {
@@ -82304,9 +82208,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Officer"
   },
   "GFB01a-019EN": {
@@ -82327,9 +82229,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Officer"
   },
   "GFB01a-020EN": {
@@ -82350,9 +82250,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Commander"
   },
   "GFB01a-021EN": {
@@ -82373,9 +82271,7 @@
     "Class": [
       "Swordcraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Officer"
   },
   "GFB01a-022EN": {
@@ -82396,9 +82292,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Angel"
   },
   "GFB01a-023EN": {
@@ -82419,9 +82313,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Mercenary"
   },
   "GFB01b-001EN": {
@@ -82442,9 +82334,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Machina / Golem / Supreme"
   },
   "GFB01b-002EN": {
@@ -82465,9 +82355,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Machina / Golem / Supreme"
   },
   "GFB01b-003EN": {
@@ -82488,9 +82376,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Machina / Golem / Supreme"
   },
   "GFB01b-004EN": {
@@ -82511,9 +82397,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Machina / Golem / Supreme"
   },
   "GFB01b-005EN": {
@@ -82534,9 +82418,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Machina / Golem / Supreme"
   },
   "GFB01b-006EN": {
@@ -82557,9 +82439,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Forbidden / Supreme"
   },
   "GFB01b-007EN": {
@@ -82580,9 +82460,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Forbidden / Supreme"
   },
   "GFB01b-008EN": {
@@ -82603,9 +82481,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Deity / Archfiend / Musical"
   },
   "GFB01b-018EN": {
@@ -82626,9 +82502,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Supreme"
   },
   "GFB01b-019EN": {
@@ -82649,9 +82523,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Supreme"
   },
   "GFB01b-020EN": {
@@ -82672,9 +82544,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Alchemist / Golem"
   },
   "GFB01b-021EN": {
@@ -82695,9 +82565,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Alchemist"
   },
   "GFB01b-022EN": {
@@ -82718,9 +82586,7 @@
     "Class": [
       "Runecraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Machina / Supreme"
   },
   "GFB01b-023EN": {
@@ -82741,9 +82607,7 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Wyrmkin"
   },
   "GFB01b-024EN": {
@@ -82764,9 +82628,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Deity / Musical"
   },
   "GFB01c-001EN": {
@@ -82787,9 +82649,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-002EN": {
@@ -82810,9 +82670,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-003EN": {
@@ -82833,9 +82691,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon / Beast"
   },
   "GFB01c-004EN": {
@@ -82856,9 +82712,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon / Beast"
   },
   "GFB01c-005EN": {
@@ -82879,9 +82733,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-006EN": {
@@ -82902,9 +82754,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-007EN": {
@@ -82925,9 +82775,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon / Supreme"
   },
   "GFB01c-018EN": {
@@ -82948,9 +82796,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-019EN": {
@@ -82971,9 +82817,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-020EN": {
@@ -82994,9 +82838,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon / Vampire"
   },
   "GFB01c-021EN": {
@@ -83017,9 +82859,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Demon"
   },
   "GFB01c-022EN": {
@@ -83040,9 +82880,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Departed"
   },
   "GFB01c-023EN": {
@@ -83063,9 +82901,7 @@
     "Class": [
       "Abysscraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Beast"
   },
   "GFB01c-024EN": {
@@ -83086,9 +82922,7 @@
     "Class": [
       "Neutral"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Deity"
   },
   "GFB01d-001EN": {
@@ -83109,9 +82943,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Zealot"
   },
   "GFB01d-002EN": {
@@ -83132,9 +82964,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Zealot"
   },
   "GFB01d-003EN": {
@@ -83155,9 +82985,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Avian"
   },
   "GFB01d-004EN": {
@@ -83178,9 +83006,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Avian"
   },
   "GFB01d-005EN": {
@@ -83201,9 +83027,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Beast"
   },
   "GFB01d-006EN": {
@@ -83224,9 +83048,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Luminary / Beast / Lightborne"
   },
   "GFB01d-007EN": {
@@ -83247,9 +83069,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Luminary / Beast / Lightborne"
   },
   "GFB01d-019EN": {
@@ -83270,9 +83090,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Luminary"
   },
   "GFB01d-020EN": {
@@ -83293,9 +83111,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Luminary"
   },
   "GFB01d-021EN": {
@@ -83316,9 +83132,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith"
   },
   "GFB01d-022EN": {
@@ -83339,9 +83153,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Beast"
   },
   "GFB01d-023EN": {
@@ -83362,9 +83174,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith"
   },
   "GFB01d-024EN": {
@@ -83385,9 +83195,7 @@
     "Class": [
       "Havencraft"
     ],
-    "Set": [
-      "GF"
-    ],
+    "Set": "GF",
     "Trait": "Faith / Eidolon"
   }
 }
