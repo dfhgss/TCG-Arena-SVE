@@ -81181,5 +81181,2213 @@
     ],
     "Set": "BP20",
     "Trait": "Omen"
+  },
+  "GFD02-001EN": {
+    "id": "GFD02-001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warbreaker Dragoon",
+        "type": "Follower",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-001EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warbreaker Dragoon",
+    "type": "Follower",
+    "cost": 6,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonheart"
+  },
+  "GFD02-002EN": {
+    "id": "GFD02-002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warbreaker Dragoon (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warbreaker Dragoon (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 6,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonheart"
+  },
+  "GFD02-003EN": {
+    "id": "GFD02-003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Filene, Absolute Zero",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Filene, Absolute Zero",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonewt"
+  },
+  "GFD02-004EN": {
+    "id": "GFD02-004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Filene, Absolute Zero (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-004EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Filene, Absolute Zero (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonewt"
+  },
+  "GFD02-005EN": {
+    "id": "GFD02-005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hastewing Dragonewt",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hastewing Dragonewt",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonewt"
+  },
+  "GFD02-006EN": {
+    "id": "GFD02-006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hastewing Dragonewt (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-006EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hastewing Dragonewt (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonewt"
+  },
+  "GFD02-007EN": {
+    "id": "GFD02-007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hulking Dragonewt",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-007EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hulking Dragonewt",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonewt"
+  },
+  "GFD02-008EN": {
+    "id": "GFD02-008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiva",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-008EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiva",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Deity"
+  },
+  "GFD02-019EN": {
+    "id": "GFD02-019EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Regal Wildcat",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-019EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Regal Wildcat",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander / Beast"
+  },
+  "GFD02-020EN": {
+    "id": "GFD02-020EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Date Masamune",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-020EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Date Masamune",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonheart / Draconic Duelist"
+  },
+  "GFD02-021EN": {
+    "id": "GFD02-021EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Date Masamune (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-021EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Date Masamune (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonheart / Draconic Duelist"
+  },
+  "GFD02-022EN": {
+    "id": "GFD02-022EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dramatic Dragonblader",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-022EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dramatic Dragonblader",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Dragonheart"
+  },
+  "GFD02-023EN": {
+    "id": "GFD02-023EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pain Immortal",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-023EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pain Immortal",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFD02-024EN": {
+    "id": "GFD02-024EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimnir, Warring Tempest",
+        "type": "Follower",
+        "cost": 9,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-024EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimnir, Warring Tempest",
+    "type": "Follower",
+    "cost": 9,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Lightborne"
+  },
+  "GFD02-025EN": {
+    "id": "GFD02-025EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jafnhar, Warring Flame",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-025EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jafnhar, Warring Flame",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Lightborne"
+  },
+  "GFD02-026EN": {
+    "id": "GFD02-026EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jafnhar, Warring Flame (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-026EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jafnhar, Warring Flame (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Lightborne"
+  },
+  "GFD02-027EN": {
+    "id": "GFD02-027EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hnikar, Warring Thunder",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-027EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hnikar, Warring Thunder",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Lightborne"
+  },
+  "GFD02-028EN": {
+    "id": "GFD02-028EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hnikar, Warring Thunder (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD02/GFD02-028EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hnikar, Warring Thunder (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Lightborne"
+  },
+  "GFD01-001EN": {
+    "id": "GFD01-001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bab'zz, Hornet Queen",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-001EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bab'zz, Hornet Queen",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Insect"
+  },
+  "GFD01-002EN": {
+    "id": "GFD01-002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yggdrasil, Root of Life",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yggdrasil, Root of Life",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Verdant"
+  },
+  "GFD01-003EN": {
+    "id": "GFD01-003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yggdrasil, Root of Life (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yggdrasil, Root of Life (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Verdant"
+  },
+  "GFD01-004EN": {
+    "id": "GFD01-004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Omnis, Prime Okami",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-004EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Omnis, Prime Okami",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Beast"
+  },
+  "GFD01-005EN": {
+    "id": "GFD01-005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Omnis, Prime Okami (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Omnis, Prime Okami (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 7,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Beast"
+  },
+  "GFD01-006EN": {
+    "id": "GFD01-006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord of the Vajano Marsh",
+        "type": "Follower",
+        "cost": 9,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-006EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord of the Vajano Marsh",
+    "type": "Follower",
+    "cost": 9,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched"
+  },
+  "GFD01-007EN": {
+    "id": "GFD01-007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord of the Vajano Marsh (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 9,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-007EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord of the Vajano Marsh (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 9,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched"
+  },
+  "GFD01-008EN": {
+    "id": "GFD01-008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chronos",
+        "type": "Follower",
+        "cost": 10,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-008EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chronos",
+    "type": "Follower",
+    "cost": 10,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Deity"
+  },
+  "GFD01-018EN": {
+    "id": "GFD01-018EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maahes",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-018EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maahes",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Beast"
+  },
+  "GFD01-019EN": {
+    "id": "GFD01-019EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maahes (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-019EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maahes (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Beast"
+  },
+  "GFD01-020EN": {
+    "id": "GFD01-020EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forest Archelon",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-020EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forest Archelon",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Fae-Touched / Verdant / Beast"
+  },
+  "GFD01-021EN": {
+    "id": "GFD01-021EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nature Consumed",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-021EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nature Consumed",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Beast"
+  },
+  "GFD01-022EN": {
+    "id": "GFD01-022EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wish Wielder",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-022EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wish Wielder",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Mage"
+  },
+  "GFD01-023EN": {
+    "id": "GFD01-023EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Empyreal Unicorn",
+        "type": "Follower",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-023EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Empyreal Unicorn",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Beast"
+  },
+  "GFD01-024EN": {
+    "id": "GFD01-024EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Empyreal Unicorn (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-024EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Empyreal Unicorn (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 1,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Beast"
+  },
+  "GFD01-025EN": {
+    "id": "GFD01-025EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uriel",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-025EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uriel",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Angel"
+  },
+  "GFD01-026EN": {
+    "id": "GFD01-026EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uriel (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-026EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uriel (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Angel"
+  },
+  "GFD01-027EN": {
+    "id": "GFD01-027EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mythcleaver",
+        "type": "Amulet",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-027EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mythcleaver",
+    "type": "Amulet",
+    "cost": 3,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Lightborne"
+  },
+  "GFD01-T01EN": {
+    "id": "GFD01-T01EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hornet Warrior",
+        "type": "Follower / Token",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-T01EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hornet Warrior",
+    "type": "Follower / Token",
+    "cost": 0,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Insect"
+  },
+  "GFD01-T01EN_TOKEN": {
+    "id": "GFD01-T01EN",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Hornet Warrior",
+        "type": "Follower / Token",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-T01EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hornet Warrior",
+    "type": "Follower / Token",
+    "cost": 0,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Insect"
+  },
+  "GFB01a-001EN": {
+    "id": "GFB01a-001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magnolia, Battlefield Muse",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-001EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magnolia, Battlefield Muse",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander / Musical / Princess"
+  },
+  "GFB01a-002EN": {
+    "id": "GFB01a-002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magnolia, Battlefield Muse (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magnolia, Battlefield Muse (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander / Musical / Princess"
+  },
+  "GFB01a-003EN": {
+    "id": "GFB01a-003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Latham, Honorable Knight",
+        "type": "Follower",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Latham, Honorable Knight",
+    "type": "Follower",
+    "cost": 8,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander"
+  },
+  "GFB01a-004EN": {
+    "id": "GFB01a-004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Latham, Honorable Knight (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-004EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Latham, Honorable Knight (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 8,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander"
+  },
+  "GFB01a-005EN": {
+    "id": "GFB01a-005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arthur, Knight King",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arthur, Knight King",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander / Arthurian"
+  },
+  "GFB01a-006EN": {
+    "id": "GFB01a-006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Fortress",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-006EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Fortress",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander"
+  },
+  "GFB01a-007EN": {
+    "id": "GFB01a-007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Fortress (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-007EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Fortress (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 7,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander"
+  },
+  "GFB01a-008EN": {
+    "id": "GFB01a-008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Odin",
+        "type": "Follower",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-008EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Odin",
+    "type": "Follower",
+    "cost": 8,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Deity"
+  },
+  "GFB01a-016EN": {
+    "id": "GFB01a-016EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burst Shot",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-016EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burst Shot",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Elf / Hunter"
+  },
+  "GFB01a-017EN": {
+    "id": "GFB01a-017EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blitz Lancer",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-017EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blitz Lancer",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Officer"
+  },
+  "GFB01a-018EN": {
+    "id": "GFB01a-018EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blitz Lancer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-018EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blitz Lancer (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Officer"
+  },
+  "GFB01a-019EN": {
+    "id": "GFB01a-019EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giantsbane Swordsman",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-019EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giantsbane Swordsman",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Officer"
+  },
+  "GFB01a-020EN": {
+    "id": "GFB01a-020EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noble Knight",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-020EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noble Knight",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Commander"
+  },
+  "GFB01a-021EN": {
+    "id": "GFB01a-021EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ironwrought Fortress",
+        "type": "Amulet",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-021EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ironwrought Fortress",
+    "type": "Amulet",
+    "cost": 3,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Officer"
+  },
+  "GFB01a-022EN": {
+    "id": "GFB01a-022EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altaia, Holy Angel",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-022EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altaia, Holy Angel",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Angel"
+  },
+  "GFB01a-023EN": {
+    "id": "GFB01a-023EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genesis of Legend",
+        "type": "Amulet",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01a-023EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genesis of Legend",
+    "type": "Amulet",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Mercenary"
+  },
+  "GFB01b-001EN": {
+    "id": "GFB01b-001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tisiphone, the Malignant",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-001EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tisiphone, the Malignant",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Machina / Golem / Supreme"
+  },
+  "GFB01b-002EN": {
+    "id": "GFB01b-002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tisiphone, the Malignant (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tisiphone, the Malignant (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 7,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Machina / Golem / Supreme"
+  },
+  "GFB01b-003EN": {
+    "id": "GFB01b-003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alecto, the Dissonant",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alecto, the Dissonant",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Machina / Golem / Supreme"
+  },
+  "GFB01b-004EN": {
+    "id": "GFB01b-004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alecto, the Dissonant (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-004EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alecto, the Dissonant (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 7,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Machina / Golem / Supreme"
+  },
+  "GFB01b-005EN": {
+    "id": "GFB01b-005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megaera, the Indignant",
+        "type": "Follower",
+        "cost": 7,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megaera, the Indignant",
+    "type": "Follower",
+    "cost": 7,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Machina / Golem / Supreme"
+  },
+  "GFB01b-006EN": {
+    "id": "GFB01b-006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malocchio",
+        "type": "Follower",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-006EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malocchio",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Forbidden / Supreme"
+  },
+  "GFB01b-007EN": {
+    "id": "GFB01b-007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malocchio (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-007EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malocchio (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 1,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Forbidden / Supreme"
+  },
+  "GFB01b-008EN": {
+    "id": "GFB01b-008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loki",
+        "type": "Follower",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-008EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loki",
+    "type": "Follower",
+    "cost": 6,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Deity / Archfiend / Musical"
+  },
+  "GFB01b-018EN": {
+    "id": "GFB01b-018EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Icarus",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-018EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Icarus",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Supreme"
+  },
+  "GFB01b-019EN": {
+    "id": "GFB01b-019EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Icarus (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-019EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Icarus (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Supreme"
+  },
+  "GFB01b-020EN": {
+    "id": "GFB01b-020EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golem Squad",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-020EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golem Squad",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Alchemist / Golem"
+  },
+  "GFB01b-021EN": {
+    "id": "GFB01b-021EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grand Summoning",
+        "type": "Spell",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-021EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grand Summoning",
+    "type": "Spell",
+    "cost": 8,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Alchemist"
+  },
+  "GFB01b-022EN": {
+    "id": "GFB01b-022EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acceleratium",
+        "type": "Amulet",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-022EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acceleratium",
+    "type": "Amulet",
+    "cost": 3,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Machina / Supreme"
+  },
+  "GFB01b-023EN": {
+    "id": "GFB01b-023EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonrend Quake",
+        "type": "Spell",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-023EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonrend Quake",
+    "type": "Spell",
+    "cost": 4,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Wyrmkin"
+  },
+  "GFB01b-024EN": {
+    "id": "GFB01b-024EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helblindi",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01b-024EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helblindi",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Deity / Musical"
+  },
+  "GFB01c-001EN": {
+    "id": "GFB01c-001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milnard, Dark Fiend",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-001EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milnard, Dark Fiend",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-002EN": {
+    "id": "GFB01c-002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milnard, Dark Fiend (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milnard, Dark Fiend (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-003EN": {
+    "id": "GFB01c-003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purson",
+        "type": "Follower",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purson",
+    "type": "Follower",
+    "cost": 8,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon / Beast"
+  },
+  "GFB01c-004EN": {
+    "id": "GFB01c-004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purson (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 8,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-004EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purson (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 8,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon / Beast"
+  },
+  "GFB01c-005EN": {
+    "id": "GFB01c-005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spawn of the Abyss",
+        "type": "Follower",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spawn of the Abyss",
+    "type": "Follower",
+    "cost": 6,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-006EN": {
+    "id": "GFB01c-006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spawn of the Abyss (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-006EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spawn of the Abyss (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 6,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-007EN": {
+    "id": "GFB01c-007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orb of Desecration",
+        "type": "Amulet",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-007EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orb of Desecration",
+    "type": "Amulet",
+    "cost": 1,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon / Supreme"
+  },
+  "GFB01c-018EN": {
+    "id": "GFB01c-018EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emeralda, Demonic Officer",
+        "type": "Follower",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-018EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emeralda, Demonic Officer",
+    "type": "Follower",
+    "cost": 5,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-019EN": {
+    "id": "GFB01c-019EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emeralda, Demonic Officer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 0,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-019EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emeralda, Demonic Officer (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 0,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-020EN": {
+    "id": "GFB01c-020EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cursebrand Vampire",
+        "type": "Follower",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-020EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cursebrand Vampire",
+    "type": "Follower",
+    "cost": 1,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon / Vampire"
+  },
+  "GFB01c-021EN": {
+    "id": "GFB01c-021EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonic Storm",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-021EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonic Storm",
+    "type": "Spell",
+    "cost": 5,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Demon"
+  },
+  "GFB01c-022EN": {
+    "id": "GFB01c-022EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spectral Cascade",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-022EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spectral Cascade",
+    "type": "Spell",
+    "cost": 3,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Departed"
+  },
+  "GFB01c-023EN": {
+    "id": "GFB01c-023EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relinquish Reason",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-023EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relinquish Reason",
+    "type": "Spell",
+    "cost": 1,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Beast"
+  },
+  "GFB01c-024EN": {
+    "id": "GFB01c-024EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Athena",
+        "type": "Follower",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01c-024EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Athena",
+    "type": "Follower",
+    "cost": 4,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Deity"
+  },
+  "GFB01d-001EN": {
+    "id": "GFB01d-001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laina, Sister of Judgment",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-001EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laina, Sister of Judgment",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Zealot"
+  },
+  "GFB01d-002EN": {
+    "id": "GFB01d-002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laina, Sister of Judgment (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-002EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laina, Sister of Judgment (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Zealot"
+  },
+  "GFB01d-003EN": {
+    "id": "GFB01d-003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garula, Ruler of Storms",
+        "type": "Follower",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-003EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garula, Ruler of Storms",
+    "type": "Follower",
+    "cost": 6,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Avian"
+  },
+  "GFB01d-004EN": {
+    "id": "GFB01d-004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garula, Ruler of Storms (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-004EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garula, Ruler of Storms (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 6,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Avian"
+  },
+  "GFB01d-005EN": {
+    "id": "GFB01d-005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lion of the Golden City",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-005EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lion of the Golden City",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Beast"
+  },
+  "GFB01d-006EN": {
+    "id": "GFB01d-006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elysian Saint-Hares",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-006EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elysian Saint-Hares",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Luminary / Beast / Lightborne"
+  },
+  "GFB01d-007EN": {
+    "id": "GFB01d-007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elysian Saint-Hares (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-007EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elysian Saint-Hares (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Luminary / Beast / Lightborne"
+  },
+  "GFB01d-019EN": {
+    "id": "GFB01d-019EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Valhallan General",
+        "type": "Follower",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-019EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valhallan General",
+    "type": "Follower",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Luminary"
+  },
+  "GFB01d-020EN": {
+    "id": "GFB01d-020EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Valhallan General (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-020EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valhallan General (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Luminary"
+  },
+  "GFB01d-021EN": {
+    "id": "GFB01d-021EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Greater Priestess",
+        "type": "Follower",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-021EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Greater Priestess",
+    "type": "Follower",
+    "cost": 2,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith"
+  },
+  "GFB01d-022EN": {
+    "id": "GFB01d-022EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimaud, Holy Fox",
+        "type": "Follower",
+        "cost": 6,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-022EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimaud, Holy Fox",
+    "type": "Follower",
+    "cost": 6,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Beast"
+  },
+  "GFB01d-023EN": {
+    "id": "GFB01d-023EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Themis's Purge",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-023EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Themis's Purge",
+    "type": "Spell",
+    "cost": 5,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith"
+  },
+  "GFB01d-024EN": {
+    "id": "GFB01d-024EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noble Fangs",
+        "type": "Amulet",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFB01/GFB01d-024EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noble Fangs",
+    "type": "Amulet",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": [
+      "GF"
+    ],
+    "Trait": "Faith / Eidolon"
   }
 }
