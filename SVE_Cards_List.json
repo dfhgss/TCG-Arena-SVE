@@ -8110,14 +8110,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rollo Ronier, Purifying Tree of the Six Clans",
+        "name": "Rolo Rone, Verdant Purifier",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-001.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-001EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Rollo Ronier, Purifying Tree of the Six Clans",
+    "name": "Rolo Rone, Verdant Purifier",
     "type": "Follower",
     "cost": 4,
     "Class": [
@@ -8131,14 +8131,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rollo Ronier, Purifying Tree of the Six Clans (Evolved)",
+        "name": "Rolo Rone, Verdant Purifier (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-002.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-002EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Rollo Ronier, Purifying Tree of the Six Clans (Evolved)",
+    "name": "Rolo Rone, Verdant Purifier (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 4,
+    "Class": [
+      "Forestcraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Verdant"
+  },
+  "BP18-U01EN": {
+    "id": "BP18-U01EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rolo Rone, Verdant Purifier (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U01EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rolo Rone, Verdant Purifier (Evolved)",
     "type": "Evolve Deck",
     "cost": 4,
     "Class": [
@@ -8152,14 +8173,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kyou, Wooden Bell of the Tree's Justice",
+        "name": "Kyou, Verdant Path Shepherd",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-003.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-003EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Kyou, Wooden Bell of the Tree's Justice",
+    "name": "Kyou, Verdant Path Shepherd",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -8176,7 +8197,7 @@
         "name": "Tia, Crystalian Noble",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-004.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-004EN.png",
         "isHorizontal": false
       }
     },
@@ -8194,14 +8215,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pruner of the Tree's Authority",
+        "name": "Verdant Authority Caretaker",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-005.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-005EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Pruner of the Tree's Authority",
+    "name": "Verdant Authority Caretaker",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -8215,14 +8236,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pruner of the Tree's Authority (Evolved)",
+        "name": "Verdant Authority Caretaker (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-006.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-006EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Pruner of the Tree's Authority (Evolved)",
+    "name": "Verdant Authority Caretaker (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -8239,7 +8260,7 @@
         "name": "May, Eager Elf",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-007.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-007EN.png",
         "isHorizontal": false
       }
     },
@@ -8257,14 +8278,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "As You Sow, So Shall You Reap",
+        "name": "Sprouting Retribution",
         "type": "Spell",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-008.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-008EN.png",
         "isHorizontal": false
       }
     },
-    "name": "As You Sow, So Shall You Reap",
+    "name": "Sprouting Retribution",
     "type": "Spell",
     "cost": 4,
     "Class": [
@@ -8278,14 +8299,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fist Fighter of the Tree's Capital",
+        "name": "Verdant City Pugilist",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-009.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-009EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Fist Fighter of the Tree's Capital",
+    "name": "Verdant City Pugilist",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -8299,14 +8320,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fist Fighter of the Tree's Capital (Evolved)",
+        "name": "Verdant City Pugilist (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-010.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-010EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Fist Fighter of the Tree's Capital (Evolved)",
+    "name": "Verdant City Pugilist (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -8323,7 +8344,7 @@
         "name": "Blossoming Lunerian",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-011.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-011EN.png",
         "isHorizontal": false
       }
     },
@@ -8344,7 +8365,7 @@
         "name": "Blossoming Lunerian (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-012.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-012EN.png",
         "isHorizontal": false
       }
     },
@@ -8362,14 +8383,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Planting the Seeds in Amitabha's Pure Land",
+        "name": "Sowing Paradise",
         "type": "Spell",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-013.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-013EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Planting the Seeds in Amitabha's Pure Land",
+    "name": "Sowing Paradise",
     "type": "Spell",
     "cost": 5,
     "Class": [
@@ -8383,14 +8404,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Prayer Child of the Tree's Law",
+        "name": "Verdant Law Supplicant",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-014.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-014EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Prayer Child of the Tree's Law",
+    "name": "Verdant Law Supplicant",
     "type": "Follower",
     "cost": 1,
     "Class": [
@@ -8404,14 +8425,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Prayer Child of the Tree's Law (Evolved)",
+        "name": "Verdant Law Supplicant (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-015.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-015EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Prayer Child of the Tree's Law (Evolved)",
+    "name": "Verdant Law Supplicant (Evolved)",
     "type": "Evolve Deck",
     "cost": 1,
     "Class": [
@@ -8428,7 +8449,7 @@
         "name": "Milolo, Li'l Mountain Lass",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-016.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-016EN.png",
         "isHorizontal": false
       }
     },
@@ -8449,7 +8470,7 @@
         "name": "Rayne, Elf Smith",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-017.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-017EN.png",
         "isHorizontal": false
       }
     },
@@ -8470,7 +8491,7 @@
         "name": "Furious Mountain Deity",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-018.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-018EN.png",
         "isHorizontal": false
       }
     },
@@ -8491,7 +8512,7 @@
         "name": "Airbound Barrage",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-019.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-019EN.png",
         "isHorizontal": false
       }
     },
@@ -8509,14 +8530,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shinra, Omniscience of the Six Clans",
+        "name": "Shinra, All-Discerning",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-020.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-020EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Shinra, Omniscience of the Six Clans",
+    "name": "Shinra, All-Discerning",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -8530,14 +8551,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shinra, Omniscience of the Six Clans (Evolved)",
+        "name": "Shinra, All-Discerning (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-021.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-021EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Shinra, Omniscience of the Six Clans (Evolved)",
+    "name": "Shinra, All-Discerning (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Swordcraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Detective"
+  },
+  "BP18-U02EN": {
+    "id": "BP18-U02EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shinra, All-Discerning (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U02EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shinra, All-Discerning (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
@@ -8551,14 +8593,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gamma, Wild Mediator",
+        "name": "Gamma, Canine Mediator",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-022.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-022EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Gamma, Wild Mediator",
+    "name": "Gamma, Canine Mediator",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -8575,7 +8617,7 @@
         "name": "Gawain, Oath to Glory",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-023.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-023EN.png",
         "isHorizontal": false
       }
     },
@@ -8593,14 +8635,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Overhead Investigator",
+        "name": "Bird's-Eye Investigator",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-024.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-024EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Overhead Investigator",
+    "name": "Bird's-Eye Investigator",
     "type": "Follower",
     "cost": 4,
     "Class": [
@@ -8614,14 +8656,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Overhead Investigator (Evolved)",
+        "name": "Bird's-Eye Investigator (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-025.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-025EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Overhead Investigator (Evolved)",
+    "name": "Bird's-Eye Investigator (Evolved)",
     "type": "Evolve Deck",
     "cost": 4,
     "Class": [
@@ -8638,7 +8680,7 @@
         "name": "Darksaber Melissa",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-026.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-026EN.png",
         "isHorizontal": false
       }
     },
@@ -8656,14 +8698,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Giga Blade",
+        "name": "Gigabyte Blade",
         "type": "Amulet",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-027.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-027EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Giga Blade",
+    "name": "Gigabyte Blade",
     "type": "Amulet",
     "cost": 1,
     "Class": [
@@ -8677,14 +8719,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bottleneck Inspector",
+        "name": "Cold Case Analyst",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-028.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-028EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Bottleneck Inspector",
+    "name": "Cold Case Analyst",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -8698,14 +8740,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bottleneck Inspector (Evolved)",
+        "name": "Cold Case Analyst (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-029.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-029EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Bottleneck Inspector (Evolved)",
+    "name": "Cold Case Analyst (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -8719,14 +8761,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sellsword Lucius",
+        "name": "Lucius, Sellsword",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-030.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-030EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Sellsword Lucius",
+    "name": "Lucius, Sellsword",
     "type": "Follower",
     "cost": 1,
     "Class": [
@@ -8740,14 +8782,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Assistance with Investigating Heresy",
+        "name": "Unorthodox Assistance",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-031.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-031EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Assistance with Investigating Heresy",
+    "name": "Unorthodox Assistance",
     "type": "Spell",
     "cost": 1,
     "Class": [
@@ -8761,14 +8803,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blind Spot Observer",
+        "name": "Blind Spot Surveyor",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-032.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-032EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Blind Spot Observer",
+    "name": "Blind Spot Surveyor",
     "type": "Follower",
     "cost": 1,
     "Class": [
@@ -8782,14 +8824,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blind Spot Observer (Evolved)",
+        "name": "Blind Spot Surveyor (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-033.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-033EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Blind Spot Observer (Evolved)",
+    "name": "Blind Spot Surveyor (Evolved)",
     "type": "Evolve Deck",
     "cost": 1,
     "Class": [
@@ -8806,7 +8848,7 @@
         "name": "Monika, Cloudhall Admiral",
         "type": "Follower",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-034.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-034EN.png",
         "isHorizontal": false
       }
     },
@@ -8827,7 +8869,7 @@
         "name": "Monika, Cloudhall Admiral (Evolved)",
         "type": "Evolve Deck",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-035.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-035EN.png",
         "isHorizontal": false
       }
     },
@@ -8848,7 +8890,7 @@
         "name": "Princess Teena",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-036.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-036EN.png",
         "isHorizontal": false
       }
     },
@@ -8869,7 +8911,7 @@
         "name": "Holy Bear Knight",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-037.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-037EN.png",
         "isHorizontal": false
       }
     },
@@ -8890,7 +8932,7 @@
         "name": "Luminous Standard",
         "type": "Amulet",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-038.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-038EN.png",
         "isHorizontal": false
       }
     },
@@ -8908,14 +8950,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana, Exceptional Radiance of the Six Clans",
+        "name": "Mana, Sterling Luster",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-039.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-039EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Mana, Exceptional Radiance of the Six Clans",
+    "name": "Mana, Sterling Luster",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -8929,14 +8971,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mana, Exceptional Radiance of the Six Clans (Evolved)",
+        "name": "Mana, Sterling Luster (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-040.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-040EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Mana, Exceptional Radiance of the Six Clans (Evolved)",
+    "name": "Mana, Sterling Luster (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Runecraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Alchemist / Merchant"
+  },
+  "BP18-U03EN": {
+    "id": "BP18-U03EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mana, Sterling Luster (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U03EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mana, Sterling Luster (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -8950,14 +9013,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fleurage, Jewelry Manager",
+        "name": "Francoise, Bejeweled Manager",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-041.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-041EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Fleurage, Jewelry Manager",
+    "name": "Francoise, Bejeweled Manager",
     "type": "Follower",
     "cost": 1,
     "Class": [
@@ -8974,7 +9037,7 @@
         "name": "Ginger, Accursed Word",
         "type": "Follower",
         "cost": 10,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-042.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-042EN.png",
         "isHorizontal": false
       }
     },
@@ -8992,14 +9055,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewelry Supermodel",
+        "name": "Bejeweled Supermodel",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-043.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-043EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewelry Supermodel",
+    "name": "Bejeweled Supermodel",
     "type": "Follower",
     "cost": 4,
     "Class": [
@@ -9013,14 +9076,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewelry Supermodel (Evolved)",
+        "name": "Bejeweled Supermodel (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 1/BP18-044.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-044EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewelry Supermodel (Evolved)",
+    "name": "Bejeweled Supermodel (Evolved)",
     "type": "Evolve Deck",
     "cost": 4,
     "Class": [
@@ -9034,14 +9097,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Aleister, Argenteum Astrum\n",
+        "name": "Aleister, Argenteum Astrum",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-045.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-045EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Aleister, Argenteum Astrum\n",
+    "name": "Aleister, Argenteum Astrum",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -9058,7 +9121,7 @@
         "name": "Brilliant Cut",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-046.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-046EN.png",
         "isHorizontal": false
       }
     },
@@ -9076,14 +9139,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewelry Advisor",
+        "name": "Bejeweled Advisor",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-047.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-047EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewelry Advisor",
+    "name": "Bejeweled Advisor",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9097,14 +9160,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewelry Advisor (Evolved)",
+        "name": "Bejeweled Advisor (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-048.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-048EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewelry Advisor (Evolved)",
+    "name": "Bejeweled Advisor (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -9121,7 +9184,7 @@
         "name": "Mari, Card Conjurer",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-049.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-049EN.png",
         "isHorizontal": false
       }
     },
@@ -9139,14 +9202,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Secret Business Negotiations",
+        "name": "Clandestine Dealings",
         "type": "Spell",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-050.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-050EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Secret Business Negotiations",
+    "name": "Clandestine Dealings",
     "type": "Spell",
     "cost": 3,
     "Class": [
@@ -9160,14 +9223,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewelry Bouncer",
+        "name": "Bejeweled Bouncer",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-051.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-051EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewelry Bouncer",
+    "name": "Bejeweled Bouncer",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9181,14 +9244,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewelry Bouncer (Evolved)",
+        "name": "Bejeweled Bouncer (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-052.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-052EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewelry Bouncer (Evolved)",
+    "name": "Bejeweled Bouncer (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -9205,7 +9268,7 @@
         "name": "Carbuncle of Mysteria",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-053.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-053EN.png",
         "isHorizontal": false
       }
     },
@@ -9226,7 +9289,7 @@
         "name": "Carbuncle of Mysteria (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-054.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-054EN.png",
         "isHorizontal": false
       }
     },
@@ -9247,7 +9310,7 @@
         "name": "Illusionist",
         "type": "Follower",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-055.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-055EN.png",
         "isHorizontal": false
       }
     },
@@ -9268,7 +9331,7 @@
         "name": "Enchanted Sword",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-056.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-056EN.png",
         "isHorizontal": false
       }
     },
@@ -9289,7 +9352,7 @@
         "name": "Authoring Tomorrow",
         "type": "Spell",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-057.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-057EN.png",
         "isHorizontal": false
       }
     },
@@ -9307,14 +9370,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "El, Demolition Dragon of the Six Clans",
+        "name": "El, Destructive Dragon",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-058.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-058EN.png",
         "isHorizontal": false
       }
     },
-    "name": "El, Demolition Dragon of the Six Clans",
+    "name": "El, Destructive Dragon",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -9328,14 +9391,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "El, Demolition Dragon of the Six Clans (Evolved)",
+        "name": "El, Destructive Dragon (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-059.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-059EN.png",
         "isHorizontal": false
       }
     },
-    "name": "El, Demolition Dragon of the Six Clans (Evolved)",
+    "name": "El, Destructive Dragon (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Dragoncraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
+  },
+  "BP18-U04EN": {
+    "id": "BP18-U04EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "El, Destructive Dragon (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U04EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "El, Destructive Dragon (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
@@ -9349,14 +9433,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenka, Enzui Vice President",
+        "name": "Tenka, Hot-Blooded Vice-Prez",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-060.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-060EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Tenka, Enzui Vice President",
+    "name": "Tenka, Hot-Blooded Vice-Prez",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9373,7 +9457,7 @@
         "name": "Fafnir, Cunning Wyrm",
         "type": "Follower",
         "cost": 8,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-061.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-061EN.png",
         "isHorizontal": false
       }
     },
@@ -9391,14 +9475,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragon-Eyed Scribe",
+        "name": "Dragon-Eyed Secretary",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-062.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-062EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragon-Eyed Scribe",
+    "name": "Dragon-Eyed Secretary",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9412,14 +9496,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragon-Eyed Scribe (Evolved)",
+        "name": "Dragon-Eyed Secretary (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-063.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-063EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragon-Eyed Scribe (Evolved)",
+    "name": "Dragon-Eyed Secretary (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -9436,7 +9520,7 @@
         "name": "Prophetic Dragon",
         "type": "Follower",
         "cost": 9,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-064.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-064EN.png",
         "isHorizontal": false
       }
     },
@@ -9454,14 +9538,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "A Moment After School",
+        "name": "After-School Break",
         "type": "Spell",
         "cost": 7,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-065.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-065EN.png",
         "isHorizontal": false
       }
     },
-    "name": "A Moment After School",
+    "name": "After-School Break",
     "type": "Spell",
     "cost": 7,
     "Class": [
@@ -9475,14 +9559,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Saibi’s Disciplinary Committee",
+        "name": "Neon-Tailed Prefect",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-066.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-066EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Saibi’s Disciplinary Committee",
+    "name": "Neon-Tailed Prefect",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9496,14 +9580,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Saibi’s Disciplinary Committee (Evolved)",
+        "name": "Neon-Tailed Prefect (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-067.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-067EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Saibi’s Disciplinary Committee (Evolved)",
+    "name": "Neon-Tailed Prefect (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -9520,7 +9604,7 @@
         "name": "Ian, Dragon Buster",
         "type": "Follower",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-068.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-068EN.png",
         "isHorizontal": false
       }
     },
@@ -9541,7 +9625,7 @@
         "name": "Ian, Dragon Buster (Evolved)",
         "type": "Evolve Deck",
         "cost": 5,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-069.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-069EN.png",
         "isHorizontal": false
       }
     },
@@ -9559,14 +9643,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shuyoku’s Admission Celebration",
+        "name": "Red-Winged Admissions Gift",
         "type": "Amulet",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-070.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-070EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Shuyoku’s Admission Celebration",
+    "name": "Red-Winged Admissions Gift",
     "type": "Amulet",
     "cost": 1,
     "Class": [
@@ -9580,14 +9664,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Electric Claw's Going-Home Club Member",
+        "name": "Lightning-Clawed Loafer",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-071.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-071EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Electric Claw's Going-Home Club Member",
+    "name": "Lightning-Clawed Loafer",
     "type": "Follower",
     "cost": 1,
     "Class": [
@@ -9601,14 +9685,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Electric Claw's Going-Home Club Member (Evolved)",
+        "name": "Lightning-Clawed Loafer (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-072.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-072EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Electric Claw's Going-Home Club Member (Evolved)",
+    "name": "Lightning-Clawed Loafer (Evolved)",
     "type": "Evolve Deck",
     "cost": 1,
     "Class": [
@@ -9625,7 +9709,7 @@
         "name": "Serpent Drake",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-073.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-073EN.png",
         "isHorizontal": false
       }
     },
@@ -9646,7 +9730,7 @@
         "name": "Draconic Mercenary",
         "type": "Follower",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-074.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-074EN.png",
         "isHorizontal": false
       }
     },
@@ -9667,7 +9751,7 @@
         "name": "Estrella Beast",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-075.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-075EN.png",
         "isHorizontal": false
       }
     },
@@ -9688,7 +9772,7 @@
         "name": "Orca Run",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-076.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-076EN.png",
         "isHorizontal": false
       }
     },
@@ -9706,14 +9790,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ilze & Ulze, the Hundred Deaths and Passings of the Six Clans",
+        "name": "Ilze & Urze, Centennial Reapers",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-077.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-077EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Ilze & Ulze, the Hundred Deaths and Passings of the Six Clans",
+    "name": "Ilze & Urze, Centennial Reapers",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -9727,14 +9811,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ilze & Ulze, the Hundred Deaths and Passings of the Six Clans (Evolved)",
+        "name": "Ilze & Urze, Centennial Reapers (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-078.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-078EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Ilze & Ulze, the Hundred Deaths and Passings of the Six Clans (Evolved)",
+    "name": "Ilze & Urze, Centennial Reapers (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Demon"
+  },
+  "BP18-U05EN": {
+    "id": "BP18-U05EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ilze & Urze, Centennial Reapers (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U05EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ilze & Urze, Centennial Reapers (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
@@ -9748,14 +9853,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ved, Wolf of Burials",
+        "name": "Vedd, Burial Wolf",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-079.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-079EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Ved, Wolf of Burials",
+    "name": "Vedd, Burial Wolf",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9772,7 +9877,7 @@
         "name": "Vania, Crimson Majesty",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-080.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-080EN.png",
         "isHorizontal": false
       }
     },
@@ -9793,7 +9898,28 @@
         "name": "Vania, Crimson Majesty (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-081.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-081EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vania, Crimson Majesty (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Abysscraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Vampire / Princess"
+  },
+  "BP18-SP01EN": {
+    "id": "BP18-SP01EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vania, Crimson Majesty (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-SP01EN.png",
         "isHorizontal": false
       }
     },
@@ -9811,14 +9937,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Serpent of Greed",
+        "name": "Covetous Serpent",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-082.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-082EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Serpent of Greed",
+    "name": "Covetous Serpent",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9832,14 +9958,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Serpent of Greed (Evolved)",
+        "name": "Covetous Serpent (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-083.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-083EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Serpent of Greed (Evolved)",
+    "name": "Covetous Serpent (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -9856,7 +9982,7 @@
         "name": " Veight, Twilit Highborn",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-084.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-084EN.png",
         "isHorizontal": false
       }
     },
@@ -9874,14 +10000,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Crescent Moon of a Hundred Deaths",
+        "name": "Crescent Moon of Centennial Death",
         "type": "Spell",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-085.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-085EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Crescent Moon of a Hundred Deaths",
+    "name": "Crescent Moon of Centennial Death",
     "type": "Spell",
     "cost": 2,
     "Class": [
@@ -9895,14 +10021,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Piercing Crow",
+        "name": "Exhumation Crow",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-086.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-086EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Piercing Crow",
+    "name": "Exhumation Crow",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -9916,14 +10042,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Piercing Crow (Evolved)",
+        "name": "Exhumation Crow (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-087.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-087EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Piercing Crow (Evolved)",
+    "name": "Exhumation Crow (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -9937,14 +10063,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Full Moon of a Hundred Passings",
+        "name": "Full Moon of Centennial Demise",
         "type": "Spell",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-088.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-088EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Full Moon of a Hundred Passings",
+    "name": "Full Moon of Centennial Demise",
     "type": "Spell",
     "cost": 2,
     "Class": [
@@ -9961,7 +10087,7 @@
         "name": "Vampire Queen's Castle",
         "type": "Amulet",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 2/BP18-089.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-089EN.png",
         "isHorizontal": false
       }
     },
@@ -9979,14 +10105,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gnawing Mouse",
+        "name": "Gnawing Rat",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-090.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-090EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Gnawing Mouse",
+    "name": "Gnawing Rat",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -10000,14 +10126,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gnawing Mouse (Evolved)",
+        "name": "Gnawing Rat (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-091.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-091EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Gnawing Mouse (Evolved)",
+    "name": "Gnawing Rat (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -10024,7 +10150,7 @@
         "name": "Beryl, Dreameater",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-092.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-092EN.png",
         "isHorizontal": false
       }
     },
@@ -10045,7 +10171,7 @@
         "name": "Beryl, Dreameater (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-093.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-093EN.png",
         "isHorizontal": false
       }
     },
@@ -10066,7 +10192,7 @@
         "name": "Prince Catacomb",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-094.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-094EN.png",
         "isHorizontal": false
       }
     },
@@ -10087,7 +10213,7 @@
         "name": "Bloodthirsty Hamster",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-095.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-095EN.png",
         "isHorizontal": false
       }
     },
@@ -10108,7 +10234,7 @@
         "name": "Nightscreech",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-096.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-096EN.png",
         "isHorizontal": false
       }
     },
@@ -10126,14 +10252,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Seishiro, Precepted Faith of the Six Clans",
+        "name": "Seishiro, Admonishing Faith",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-097.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-097EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Seishiro, Precepted Faith of the Six Clans",
+    "name": "Seishiro, Admonishing Faith",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -10147,14 +10273,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Seishiro, Precepted Faith of the Six Clans (Evolved)",
+        "name": "Seishiro, Admonishing Faith (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-098.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-098EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Seishiro, Precepted Faith of the Six Clans (Evolved)",
+    "name": "Seishiro, Admonishing Faith (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 3,
+    "Class": [
+      "Havencraft"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Faith"
+  },
+  "BP18-U06EN": {
+    "id": "BP18-U06EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seishiro, Admonishing Faith (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U06EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seishiro, Admonishing Faith (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
@@ -10168,14 +10315,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenmei, Arbiter of Desire",
+        "name": "Tenmei, Insatiable Adjudicator",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-099.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-099EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Tenmei, Arbiter of Desire",
+    "name": "Tenmei, Insatiable Adjudicator",
     "type": "Follower",
     "cost": 4,
     "Class": [
@@ -10192,7 +10339,7 @@
         "name": "Elana, Purest Prayer",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-100.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-100EN.png",
         "isHorizontal": false
       }
     },
@@ -10210,14 +10357,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Oath Breaker's Giver",
+        "name": "Conferrer of Vows",
         "type": "Follower",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-101.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-101EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Oath Breaker's Giver",
+    "name": "Conferrer of Vows",
     "type": "Follower",
     "cost": 3,
     "Class": [
@@ -10231,14 +10378,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Oath Breaker's Giver (Evolved)",
+        "name": "Conferrer of Vows (Evolved)",
         "type": "Evolve Deck",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-102.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-102EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Oath Breaker's Giver (Evolved)",
+    "name": "Conferrer of Vows (Evolved)",
     "type": "Evolve Deck",
     "cost": 3,
     "Class": [
@@ -10255,7 +10402,7 @@
         "name": "Imina, Mad Eidolon",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-103.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-103EN.png",
         "isHorizontal": false
       }
     },
@@ -10273,14 +10420,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Unwavering Prayer",
+        "name": "Unshakable Prayer",
         "type": "Amulet",
         "cost": 3,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-104.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-104EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Unwavering Prayer",
+    "name": "Unshakable Prayer",
     "type": "Amulet",
     "cost": 3,
     "Class": [
@@ -10294,14 +10441,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bearer of Additional Penalties",
+        "name": "Deliverer of Punishment",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-105.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-105EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Bearer of Additional Penalties",
+    "name": "Deliverer of Punishment",
     "type": "Follower",
     "cost": 1,
     "Class": [
@@ -10315,14 +10462,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bearer of Additional Penalties (Evolved)",
+        "name": "Deliverer of Punishment (Evolved)",
         "type": "Evolve Deck",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-106.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-106EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Bearer of Additional Penalties (Evolved)",
+    "name": "Deliverer of Punishment (Evolved)",
     "type": "Evolve Deck",
     "cost": 1,
     "Class": [
@@ -10339,7 +10486,7 @@
         "name": "Lorena, Iron-Willed Priest",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-107.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-107EN.png",
         "isHorizontal": false
       }
     },
@@ -10360,7 +10507,7 @@
         "name": "Lorena, Iron-Willed Priest (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-108.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-108EN.png",
         "isHorizontal": false
       }
     },
@@ -10378,14 +10525,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pioneer's Conversation",
+        "name": "Guiding Words",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-109.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-109EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Pioneer's Conversation",
+    "name": "Guiding Words",
     "type": "Spell",
     "cost": 1,
     "Class": [
@@ -10399,14 +10546,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Closed Eyes Supporter",
+        "name": "Votary of Contemplation",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-110.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-110EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Closed Eyes Supporter",
+    "name": "Votary of Contemplation",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -10420,14 +10567,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Closed Eyes Supporter (Evolved)",
+        "name": "Votary of Contemplation (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-111.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-111EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Closed Eyes Supporter (Evolved)",
+    "name": "Votary of Contemplation (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -10444,7 +10591,7 @@
         "name": "Mugnier, Purifying Light",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-112.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-112EN.png",
         "isHorizontal": false
       }
     },
@@ -10465,7 +10612,7 @@
         "name": "Armed Al-mi'raj",
         "type": "Follower",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-113.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-113EN.png",
         "isHorizontal": false
       }
     },
@@ -10486,7 +10633,7 @@
         "name": "Heavenly Hound",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-114.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-114EN.png",
         "isHorizontal": false
       }
     },
@@ -10507,7 +10654,7 @@
         "name": "Golden Bell",
         "type": "Amulet",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-115.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-115EN.png",
         "isHorizontal": false
       }
     },
@@ -10525,77 +10672,98 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Bansai Suzuki, Shinobi Deacon",
+        "name": "Bansai Suzuki, Deacon Shinobi",
         "type": "Follower",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-116.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-116EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Bansai Suzuki, Shinobi Deacon",
+    "name": "Bansai Suzuki, Deacon Shinobi",
     "type": "Follower",
     "cost": 6,
     "Class": [
       "Neutral"
     ],
     "Set": "BP18",
-    "Trait": "Togh Keyoh / District Office"
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP18-117EN": {
     "id": "BP18-117EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Saito, Mao District Office Worker",
+        "name": "Saito, Mao Ward Officer",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-117.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-117EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Saito, Mao District Office Worker",
+    "name": "Saito, Mao Ward Officer",
     "type": "Follower",
     "cost": 2,
     "Class": [
       "Neutral"
     ],
     "Set": "BP18",
-    "Trait": "Togh Keyoh / District Office"
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP18-118EN": {
     "id": "BP18-118EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Saito, Mao District Office Worker (Evolved)",
+        "name": "Saito, Mao Ward Officer (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-118.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-118EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Saito, Mao District Office Worker (Evolved)",
+    "name": "Saito, Mao Ward Officer (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
       "Neutral"
     ],
     "Set": "BP18",
-    "Trait": "Togh Keyoh / District Office"
+    "Trait": "Togh Keyoh / Ward Office"
+  },
+  "BP18-U07EN": {
+    "id": "BP18-U07EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saito, Mao Ward Officer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-U07EN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saito, Mao Ward Officer (Evolved)",
+    "type": "Evolve Deck",
+    "cost": 2,
+    "Class": [
+      "Neutral"
+    ],
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP18-119EN": {
     "id": "BP18-119EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Twisted Improvement",
+        "name": "Warped Progress",
         "type": "Spell",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-119.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-119EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Twisted Improvement",
+    "name": "Warped Progress",
     "type": "Spell",
     "cost": 2,
     "Class": [
@@ -10609,14 +10777,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Togh Keyoh, New Testament City",
+        "name": "Togh Keyoh, Neometropolis",
         "type": "Amulet",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-120.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-120EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Togh Keyoh, New Testament City",
+    "name": "Togh Keyoh, Neometropolis",
     "type": "Amulet",
     "cost": 1,
     "Class": [
@@ -10633,7 +10801,7 @@
         "name": "Stunfist Assassin",
         "type": "Follower",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-121.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-121EN.png",
         "isHorizontal": false
       }
     },
@@ -10654,7 +10822,7 @@
         "name": "Stunfist Assassin (Evolved)",
         "type": "Evolve Deck",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-122.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-122EN.png",
         "isHorizontal": false
       }
     },
@@ -10672,35 +10840,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Flame Spell Proficiency Test Rank A",
+        "name": "A-Class Pyromancy",
         "type": "Spell",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-123.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-123EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Flame Spell Proficiency Test Rank A",
+    "name": "A-Class Pyromancy",
     "type": "Spell",
     "cost": 1,
     "Class": [
       "Neutral"
     ],
     "Set": "BP18",
-    "Trait": "Togh Keyoh / District Office"
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP18-124EN": {
     "id": "BP18-124EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cyber Glasspunk",
+        "name": "Cyberglasses Criminal",
         "type": "Follower",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-124.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-124EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Cyber Glasspunk",
+    "name": "Cyberglasses Criminal",
     "type": "Follower",
     "cost": 2,
     "Class": [
@@ -10714,14 +10882,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cyber Glasspunk (Evolved)",
+        "name": "Cyberglasses Criminal (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-125.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-125EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Cyber Glasspunk (Evolved)",
+    "name": "Cyberglasses Criminal (Evolved)",
     "type": "Evolve Deck",
     "cost": 2,
     "Class": [
@@ -10735,35 +10903,35 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "District Office Worker Class C",
+        "name": "Third-Class Officer",
         "type": "Follower",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-126.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-126EN.png",
         "isHorizontal": false
       }
     },
-    "name": "District Office Worker Class C",
+    "name": "Third-Class Officer",
     "type": "Follower",
     "cost": 1,
     "Class": [
       "Neutral"
     ],
     "Set": "BP18",
-    "Trait": "Togh Keyoh / District Office"
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP18-T01EN": {
     "id": "BP18-T01EN",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sowing the Seeds of Salvation",
+        "name": "Seeds of Salvation",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T01.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T01EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Sowing the Seeds of Salvation",
+    "name": "Seeds of Salvation",
     "type": "Token",
     "cost": 1,
     "Class": [
@@ -10777,14 +10945,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Unlimited Search",
+        "name": "All-Access Search",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T02.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T02EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Unlimited Search",
+    "name": "All-Access Search",
     "type": "Token",
     "cost": 1,
     "Class": [
@@ -10798,14 +10966,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jewel Dress Up",
+        "name": "Adorn with Jewels",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T03.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T03EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewel Dress Up",
+    "name": "Adorn with Jewels",
     "type": "Token",
     "cost": 1,
     "Class": [
@@ -10822,7 +10990,7 @@
         "name": "Ginger's Curse",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T04.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T04EN.png",
         "isHorizontal": false
       }
     },
@@ -10840,14 +11008,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Youthful Blow",
+        "name": "Youthful Strike",
         "type": "Token",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T05.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T05EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Youthful Blow",
+    "name": "Youthful Strike",
     "type": "Token",
     "cost": 2,
     "Class": [
@@ -10864,7 +11032,7 @@
         "name": "Adelle, Jealous Dragon",
         "type": "Token",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T06.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T06EN.png",
         "isHorizontal": false
       }
     },
@@ -10882,14 +11050,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rest Before Nightfall",
+        "name": "Diurnal Slumber",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T07.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T07EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Rest Before Nightfall",
+    "name": "Diurnal Slumber",
     "type": "Token",
     "cost": 1,
     "Class": [
@@ -10903,14 +11071,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Conviction of Good Deeds",
+        "name": "Righteous Conviction",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T08.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T08EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Conviction of Good Deeds",
+    "name": "Righteous Conviction",
     "type": "Token",
     "cost": 1,
     "Class": [
@@ -10927,7 +11095,7 @@
         "name": "Totem of Madness",
         "type": "Token",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T09.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T09EN.png",
         "isHorizontal": false
       }
     },
@@ -10948,7 +11116,7 @@
         "name": "Bansai Suzuki, Clone Technique",
         "type": "Token",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T10.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T10EN.png",
         "isHorizontal": false
       }
     },
@@ -10959,7 +11127,7 @@
       "Neutral"
     ],
     "Set": "BP18",
-    "Trait": "Togh Keyoh / District Office"
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP17-001EN": {
     "id": "BP17-001EN",
@@ -80195,78 +80363,78 @@
     "Trait": "Faith",
     "Set": "BP17"
   },
-  "BP18-T01EN_TOKEN": {
-    "id": "BP18-T01EN_TOKEN",
+   "BP18-T01_TOKEN": {
+    "id": "BP18-T01_TOKEN",
     "isToken": true,
     "face": {
       "front": {
-        "name": "Sowing the Seeds of Salvation",
+        "name": "Seeds of Salvation",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T01.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T01EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Sowing the Seeds of Salvation",
+    "name": "Seeds of Salvation",
     "type": "Token",
     "cost": 1,
     "Class": [
       "Forestcraft"
     ],
-    "Trait": "Togh Keyoh / Verdant",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Verdant"
   },
-  "BP18-T02EN_TOKEN": {
-    "id": "BP18-T02EN_TOKEN",
+  "BP18-T02_TOKEN": {
+    "id": "BP18-T02_TOKEN",
     "isToken": true,
     "face": {
       "front": {
-        "name": "Unlimited Search",
+        "name": "All-Access Search",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T02.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T02EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Unlimited Search",
+    "name": "All-Access Search",
     "type": "Token",
     "cost": 1,
     "Class": [
       "Swordcraft"
     ],
-    "Trait": "Togh Keyoh / Detective",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Detective"
   },
-  "BP18-T03EN_TOKEN": {
-    "id": "BP18-T03EN_TOKEN",
+  "BP18-T03_TOKEN": {
+    "id": "BP18-T03_TOKEN",
     "isToken": true,
     "face": {
       "front": {
-        "name": "Jewel Dress Up",
+        "name": "Adorn with Jewels",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T03.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T03EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Jewel Dress Up",
+    "name": "Adorn with Jewels",
     "type": "Token",
     "cost": 1,
     "Class": [
       "Runecraft"
     ],
-    "Trait": "Togh Keyoh / Alchemist / Merchant",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Alchemist / Merchant"
   },
-  "BP18-T04EN_TOKEN": {
-    "id": "BP18-T04EN_TOKEN",
+  "BP18-T04_TOKEN": {
+    "id": "BP18-T04_TOKEN",
     "isToken": true,
     "face": {
       "front": {
         "name": "Ginger's Curse",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T04.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T04EN.png",
         "isHorizontal": false
       }
     },
@@ -80276,39 +80444,39 @@
     "Class": [
       "Runecraft"
     ],
-    "Trait": "Mage",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Mage"
   },
-  "BP18-T05EN_TOKEN": {
-    "id": "BP18-T05EN_TOKEN",
+  "BP18-T05_TOKEN": {
+    "id": "BP18-T05_TOKEN",
     "isToken": true,
     "face": {
       "front": {
-        "name": "Youthful Blow",
+        "name": "Youthful Strike",
         "type": "Token",
         "cost": 2,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T05.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T05EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Youthful Blow",
+    "name": "Youthful Strike",
     "type": "Token",
     "cost": 2,
     "Class": [
       "Dragoncraft"
     ],
-    "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Dragonewt / Draconic Duelist"
   },
-  "BP18-T06EN_TOKEN": {
-    "id": "BP18-T06EN_TOKEN",
+  "BP18-T06_TOKEN": {
+    "id": "BP18-T06_TOKEN",
     "isToken": true,
     "face": {
       "front": {
         "name": "Adelle, Jealous Dragon",
         "type": "Token",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T06.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T06EN.png",
         "isHorizontal": false
       }
     },
@@ -80318,60 +80486,60 @@
     "Class": [
       "Dragoncraft"
     ],
-    "Trait": "Wyrmkin",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Wyrmkin"
   },
-  "BP18-T07EN_TOKEN": {
-    "id": "BP18-T07EN_TOKEN",
+  "BP18-T07_TOKEN": {
+    "id": "BP18-T07_TOKEN",
     "isToken": true,
     "face": {
       "front": {
-        "name": "Rest Before Nightfall",
+        "name": "Diurnal Slumber",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T07.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T07EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Rest Before Nightfall",
+    "name": "Diurnal Slumber",
     "type": "Token",
     "cost": 1,
     "Class": [
       "Abysscraft"
     ],
-    "Trait": "Togh Keyoh / Demon",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Demon"
   },
-  "BP18-T08EN_TOKEN": {
-    "id": "BP18-T08EN_TOKEN",
+  "BP18-T08_TOKEN": {
+    "id": "BP18-T08_TOKEN",
     "isToken": true,
     "face": {
       "front": {
-        "name": "Conviction of Good Deeds",
+        "name": "Righteous Conviction",
         "type": "Token",
         "cost": 1,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T08.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T08EN.png",
         "isHorizontal": false
       }
     },
-    "name": "Conviction of Good Deeds",
+    "name": "Righteous Conviction",
     "type": "Token",
     "cost": 1,
     "Class": [
       "Havencraft"
     ],
-    "Trait": "Togh Keyoh / Faith",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Faith"
   },
-  "BP18-T09EN_TOKEN": {
-    "id": "BP18-T09EN_TOKEN",
+  "BP18-T09_TOKEN": {
+    "id": "BP18-T09_TOKEN",
     "isToken": true,
     "face": {
       "front": {
         "name": "Totem of Madness",
         "type": "Token",
         "cost": 4,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T09.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T09EN.png",
         "isHorizontal": false
       }
     },
@@ -80381,18 +80549,18 @@
     "Class": [
       "Havencraft"
     ],
-    "Trait": "Zealot / Eidolon",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Zealot / Eidolon"
   },
-  "BP18-T10EN_TOKEN": {
-    "id": "BP18-T10EN_TOKEN",
+  "BP18-T10_TOKEN": {
+    "id": "BP18-T10_TOKEN",
     "isToken": true,
     "face": {
       "front": {
         "name": "Bansai Suzuki, Clone Technique",
         "type": "Token",
         "cost": 6,
-        "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP18 TEMP 3/BP18-T10.jpg",
+        "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-T10EN.png",
         "isHorizontal": false
       }
     },
@@ -80402,8 +80570,8 @@
     "Class": [
       "Neutral"
     ],
-    "Trait": "Togh Keyoh / District Office",
-    "Set": "BP18"
+    "Set": "BP18",
+    "Trait": "Togh Keyoh / Ward Office"
   },
   "BP15-PR19EN_TOKEN": {
     "id": "BP15-PR19EN_TOKEN",
