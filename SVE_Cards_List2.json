@@ -7,7 +7,7 @@
                 "name": "Castelle, Budding Mage",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-001.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-001.jpg",
                 "isHorizontal": false
             }
         },
@@ -30,7 +30,7 @@
                 "name": "Lyelth, Immaculate Idol",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-002.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-002.jpg",
                 "isHorizontal": false
             }
         },
@@ -53,7 +53,7 @@
                 "name": "Lyelth, Immaculate Idol (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-003.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-003.jpg",
                 "isHorizontal": false
             }
         },
@@ -76,7 +76,7 @@
                 "name": "Titania, Queen of Fairies",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-004.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-004.jpg",
                 "isHorizontal": false
             }
         },
@@ -99,7 +99,7 @@
                 "name": "Cleaver Cat",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-005.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-005.jpg",
                 "isHorizontal": false
             }
         },
@@ -122,7 +122,7 @@
                 "name": "Cleaver Cat (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-006.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-006.jpg",
                 "isHorizontal": false
             }
         },
@@ -145,7 +145,7 @@
                 "name": "Cynthia, Chivalrous Elf",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-007.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-007.jpg",
                 "isHorizontal": false
             }
         },
@@ -168,7 +168,7 @@
                 "name": "Dwarven Lumberjack",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-008.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-008.jpg",
                 "isHorizontal": false
             }
         },
@@ -191,7 +191,7 @@
                 "name": "Elven Farmhand",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-009.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-009.jpg",
                 "isHorizontal": false
             }
         },
@@ -214,7 +214,7 @@
                 "name": "Elven Farmhand (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-010.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-010.jpg",
                 "isHorizontal": false
             }
         },
@@ -237,7 +237,7 @@
                 "name": "Fauna Handler",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-011.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-011.jpg",
                 "isHorizontal": false
             }
         },
@@ -260,7 +260,7 @@
                 "name": "Fairy Funfact",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-012.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-012.jpg",
                 "isHorizontal": false
             }
         },
@@ -283,7 +283,7 @@
                 "name": "Bladebunny",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-013.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-013.jpg",
                 "isHorizontal": false
             }
         },
@@ -306,7 +306,7 @@
                 "name": "Bladebunny (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-014.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-014.jpg",
                 "isHorizontal": false
             }
         },
@@ -329,7 +329,7 @@
                 "name": "Vanguard Tigress",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-015.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-015.jpg",
                 "isHorizontal": false
             }
         },
@@ -352,7 +352,7 @@
                 "name": "Flying Mistletoe Squirrel",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-016.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-016.jpg",
                 "isHorizontal": false
             }
         },
@@ -375,7 +375,7 @@
                 "name": "Spiritelementalist",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-017.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-017.jpg",
                 "isHorizontal": false
             }
         },
@@ -398,7 +398,7 @@
                 "name": "Wild Profusion",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-018.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-018.jpg",
                 "isHorizontal": false
             }
         },
@@ -421,7 +421,7 @@
                 "name": "Lecia & Nano, Twilight Trainees",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-019.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-019.jpg",
                 "isHorizontal": false
             }
         },
@@ -444,7 +444,7 @@
                 "name": "Galdr, Heroic Headmaster",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-020.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-020.jpg",
                 "isHorizontal": false
             }
         },
@@ -467,7 +467,7 @@
                 "name": "Galdr, Heroic Headmaster (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-021.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-021.jpg",
                 "isHorizontal": false
             }
         },
@@ -490,7 +490,7 @@
                 "name": "Yurius, Levin Authority",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-022.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-022.jpg",
                 "isHorizontal": false
             }
         },
@@ -513,7 +513,7 @@
                 "name": "Agile Twinblader",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-023.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-023.jpg",
                 "isHorizontal": false
             }
         },
@@ -536,7 +536,7 @@
                 "name": "Agile Twinblader (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-024.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-024.jpg",
                 "isHorizontal": false
             }
         },
@@ -559,7 +559,7 @@
                 "name": "Weiss, Discerning Professor",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-025.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-025.jpg",
                 "isHorizontal": false
             }
         },
@@ -582,7 +582,7 @@
                 "name": "Twilight and Silver",
                 "type": "Spell",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-026.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-026.jpg",
                 "isHorizontal": false
             }
         },
@@ -605,7 +605,7 @@
                 "name": "Tony, Plucky Polliwog",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-027.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-027.jpg",
                 "isHorizontal": false
             }
         },
@@ -628,7 +628,7 @@
                 "name": "Tony, Plucky Polliwog (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-028.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-028.jpg",
                 "isHorizontal": false
             }
         },
@@ -651,7 +651,7 @@
                 "name": "Deadeye Trainee",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-029.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-029.jpg",
                 "isHorizontal": false
             }
         },
@@ -674,7 +674,7 @@
                 "name": "Sharp Strategist",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-030.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-030.jpg",
                 "isHorizontal": false
             }
         },
@@ -697,7 +697,7 @@
                 "name": "Kitty Sergeant",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-031.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-031.jpg",
                 "isHorizontal": false
             }
         },
@@ -720,7 +720,7 @@
                 "name": "Kitty Sergeant (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-032.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-032.jpg",
                 "isHorizontal": false
             }
         },
@@ -743,7 +743,7 @@
                 "name": "Fervent Fist-Fighter",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-033.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-033.jpg",
                 "isHorizontal": false
             }
         },
@@ -766,7 +766,7 @@
                 "name": "Levin Archer",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-034.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-034.jpg",
                 "isHorizontal": false
             }
         },
@@ -789,7 +789,7 @@
                 "name": "Aggressive Advance",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-035.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-035.jpg",
                 "isHorizontal": false
             }
         },
@@ -812,7 +812,7 @@
                 "name": "Lieutenant's Report",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-036.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-036.jpg",
                 "isHorizontal": false
             }
         },
@@ -835,7 +835,7 @@
                 "name": "Amaryllis, the Princess",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-037.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-037.jpg",
                 "isHorizontal": false
             }
         },
@@ -858,7 +858,7 @@
                 "name": "Anne, Brilliant Mage",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-038.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-038.jpg",
                 "isHorizontal": false
             }
         },
@@ -881,7 +881,7 @@
                 "name": "Anne, Brilliant Mage (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-039.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-039.jpg",
                 "isHorizontal": false
             }
         },
@@ -904,7 +904,7 @@
                 "name": "Ceridwen, Eternal Duality",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-040.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-040.jpg",
                 "isHorizontal": false
             }
         },
@@ -927,7 +927,7 @@
                 "name": "Grea, Crimson Promise",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-041.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-041.jpg",
                 "isHorizontal": false
             }
         },
@@ -950,7 +950,7 @@
                 "name": "Grea, Crimson Promise (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-042.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-042.jpg",
                 "isHorizontal": false
             }
         },
@@ -973,7 +973,7 @@
                 "name": "Mysterian Exchange Party",
                 "type": "Spell",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-043.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-043.jpg",
                 "isHorizontal": false
             }
         },
@@ -996,7 +996,7 @@
                 "name": "Mystic Rune",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-044.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-044.jpg",
                 "isHorizontal": false
             }
         },
@@ -1019,7 +1019,7 @@
                 "name": "Gruinne, Leonardian Provost",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-045.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-045.jpg",
                 "isHorizontal": false
             }
         },
@@ -1042,7 +1042,7 @@
                 "name": "Gruinne, Leonardian Provost (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-046.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-046.jpg",
                 "isHorizontal": false
             }
         },
@@ -1065,7 +1065,7 @@
                 "name": "Leeds, Pining Witch",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-047.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-047.jpg",
                 "isHorizontal": false
             }
         },
@@ -1088,7 +1088,7 @@
                 "name": "Bell Witch",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-048.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-048.jpg",
                 "isHorizontal": false
             }
         },
@@ -1111,7 +1111,7 @@
                 "name": "Wolf Whisperer",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-049.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-049.jpg",
                 "isHorizontal": false
             }
         },
@@ -1134,7 +1134,7 @@
                 "name": "Wolf Whisperer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-050.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-050.jpg",
                 "isHorizontal": false
             }
         },
@@ -1157,7 +1157,7 @@
                 "name": "Evamia, Spinner of Threads",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-051.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-051.jpg",
                 "isHorizontal": false
             }
         },
@@ -1180,7 +1180,7 @@
                 "name": "Arcane Instruction",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-052.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-052.jpg",
                 "isHorizontal": false
             }
         },
@@ -1203,7 +1203,7 @@
                 "name": "Aqueous Sphere",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-053.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-053.jpg",
                 "isHorizontal": false
             }
         },
@@ -1226,7 +1226,7 @@
                 "name": "Binding Ritual",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-054.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-054.jpg",
                 "isHorizontal": false
             }
         },
@@ -1249,7 +1249,7 @@
                 "name": "Lilium, the Wyrmwitch",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-055.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-055.jpg",
                 "isHorizontal": false
             }
         },
@@ -1272,7 +1272,7 @@
                 "name": "Lilium, the Witchwyrm (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-056.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-056.jpg",
                 "isHorizontal": false
             }
         },
@@ -1295,7 +1295,7 @@
                 "name": "Coach Joe, Fiery Counselor",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-057.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-057.jpg",
                 "isHorizontal": false
             }
         },
@@ -1318,7 +1318,7 @@
                 "name": "Lumiore, Prestigious Gold",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-058.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-058.jpg",
                 "isHorizontal": false
             }
         },
@@ -1341,7 +1341,7 @@
                 "name": "Grand Slam Tamer",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-059.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-059.jpg",
                 "isHorizontal": false
             }
         },
@@ -1364,7 +1364,7 @@
                 "name": "Grand Slam Tamer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-060.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-060.jpg",
                 "isHorizontal": false
             }
         },
@@ -1387,7 +1387,7 @@
                 "name": "Dion, Scarlet Scion",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-061.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-061.jpg",
                 "isHorizontal": false
             }
         },
@@ -1410,7 +1410,7 @@
                 "name": "Argente, Purest Silver",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-062.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-062.jpg",
                 "isHorizontal": false
             }
         },
@@ -1433,7 +1433,7 @@
                 "name": "Dragonborn Striker",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-063.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-063.jpg",
                 "isHorizontal": false
             }
         },
@@ -1456,7 +1456,7 @@
                 "name": "Dragonborn Striker (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-064.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-064.jpg",
                 "isHorizontal": false
             }
         },
@@ -1479,7 +1479,7 @@
                 "name": "Gunbein, Lofty Dragonewt",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-065.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-065.jpg",
                 "isHorizontal": false
             }
         },
@@ -1502,7 +1502,7 @@
                 "name": "Charlotte, Dragonewt",
                 "type": "Follower",
                 "cost": 10,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-066.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-066.jpg",
                 "isHorizontal": false
             }
         },
@@ -1525,7 +1525,7 @@
                 "name": "Ipupiara",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-067.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-067.jpg",
                 "isHorizontal": false
             }
         },
@@ -1548,7 +1548,7 @@
                 "name": "Ipupiara (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-068.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-068.jpg",
                 "isHorizontal": false
             }
         },
@@ -1571,7 +1571,7 @@
                 "name": "Megalorca Rider",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-069.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-069.jpg",
                 "isHorizontal": false
             }
         },
@@ -1594,7 +1594,7 @@
                 "name": "Augite Wyrm",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-070.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-070.jpg",
                 "isHorizontal": false
             }
         },
@@ -1617,7 +1617,7 @@
                 "name": "Stormscale",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-071.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-071.jpg",
                 "isHorizontal": false
             }
         },
@@ -1640,7 +1640,7 @@
                 "name": "Dragon Hunt",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-072.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-072.jpg",
                 "isHorizontal": false
             }
         },
@@ -1663,7 +1663,7 @@
                 "name": "Cornelius, the Corpse King",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-073.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-073.jpg",
                 "isHorizontal": false
             }
         },
@@ -1686,7 +1686,7 @@
                 "name": "Cornelius, the Corpse King (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-074.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-074.jpg",
                 "isHorizontal": false
             }
         },
@@ -1709,7 +1709,7 @@
                 "name": "Galom, Empress Fist",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-075.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-075.jpg",
                 "isHorizontal": false
             }
         },
@@ -1732,7 +1732,7 @@
                 "name": "Vulgus, Infernal Headmistress",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-076.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-076.jpg",
                 "isHorizontal": false
             }
         },
@@ -1755,7 +1755,7 @@
                 "name": "Arka, Sin Spinner",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-077.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-077.jpg",
                 "isHorizontal": false
             }
         },
@@ -1778,7 +1778,7 @@
                 "name": "Arka, Sin Spinner (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-078.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-078.jpg",
                 "isHorizontal": false
             }
         },
@@ -1801,7 +1801,7 @@
                 "name": "Exella, Nocturnal General",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-079.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-079.jpg",
                 "isHorizontal": false
             }
         },
@@ -1824,7 +1824,7 @@
                 "name": "Bad-Girl Life",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-080.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-080.jpg",
                 "isHorizontal": false
             }
         },
@@ -1847,7 +1847,7 @@
                 "name": "Mach-Speed Maron",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-081.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-081.jpg",
                 "isHorizontal": false
             }
         },
@@ -1870,7 +1870,7 @@
                 "name": "Mach-Speed Maron (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-082.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-082.jpg",
                 "isHorizontal": false
             }
         },
@@ -1893,7 +1893,7 @@
                 "name": "Demon-Eyed Gangster",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-083.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-083.jpg",
                 "isHorizontal": false
             }
         },
@@ -1916,7 +1916,7 @@
                 "name": "Noble Demoness",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-084.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-084.jpg",
                 "isHorizontal": false
             }
         },
@@ -1939,7 +1939,7 @@
                 "name": "Bonebreaker Bladesman",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-085.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-085.jpg",
                 "isHorizontal": false
             }
         },
@@ -1962,7 +1962,7 @@
                 "name": "Bonebreaker Bladesman (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-086.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-086.jpg",
                 "isHorizontal": false
             }
         },
@@ -1985,7 +1985,7 @@
                 "name": "Denan, Big Bad Boss",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-087.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-087.jpg",
                 "isHorizontal": false
             }
         },
@@ -2008,7 +2008,7 @@
                 "name": "Malicious Blader",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-088.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-088.jpg",
                 "isHorizontal": false
             }
         },
@@ -2031,7 +2031,7 @@
                 "name": "Serenading Succubus",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-089.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-089.jpg",
                 "isHorizontal": false
             }
         },
@@ -2054,7 +2054,7 @@
                 "name": "Spirit Invasion",
                 "type": "Spell",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-090.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-090.jpg",
                 "isHorizontal": false
             }
         },
@@ -2077,7 +2077,7 @@
                 "name": "Verdilia, Rogue Professor",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-091.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-091.jpg",
                 "isHorizontal": false
             }
         },
@@ -2100,7 +2100,7 @@
                 "name": "Verdilia, Rogue Professor (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-092.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-092.jpg",
                 "isHorizontal": false
             }
         },
@@ -2123,7 +2123,7 @@
                 "name": "Elluvia, Graceful Lady",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-093.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-093.jpg",
                 "isHorizontal": false
             }
         },
@@ -2146,7 +2146,7 @@
                 "name": "Wilbert, Desolate Paladin",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-094.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-094.jpg",
                 "isHorizontal": false
             }
         },
@@ -2169,7 +2169,7 @@
                 "name": "Wilbert, Desolate Paladin (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-095.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-095.jpg",
                 "isHorizontal": false
             }
         },
@@ -2192,7 +2192,7 @@
                 "name": "Lou, Lady-in-Training",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-096.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-096.jpg",
                 "isHorizontal": false
             }
         },
@@ -2215,7 +2215,7 @@
                 "name": "Lou, Lady-in-Training (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-097.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-097.jpg",
                 "isHorizontal": false
             }
         },
@@ -2238,7 +2238,7 @@
                 "name": "Kira, Resilient Maiden",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-098.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-098.jpg",
                 "isHorizontal": false
             }
         },
@@ -2261,7 +2261,7 @@
                 "name": "Orchid's Examination Hall",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-099.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-099.jpg",
                 "isHorizontal": false
             }
         },
@@ -2284,7 +2284,7 @@
                 "name": "Pureflame Lady",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-100.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-100.jpg",
                 "isHorizontal": false
             }
         },
@@ -2307,7 +2307,7 @@
                 "name": "Pureflame Lady (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-101.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-101.jpg",
                 "isHorizontal": false
             }
         },
@@ -2330,7 +2330,7 @@
                 "name": "Kyrie, Fragment of Hope",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-102.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-102.jpg",
                 "isHorizontal": false
             }
         },
@@ -2353,7 +2353,7 @@
                 "name": "Pureflower Maiden",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-103.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-103.jpg",
                 "isHorizontal": false
             }
         },
@@ -2376,7 +2376,7 @@
                 "name": "Zlatorog",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-104.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-104.jpg",
                 "isHorizontal": false
             }
         },
@@ -2399,7 +2399,7 @@
                 "name": "Zlatorog (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-105.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-105.jpg",
                 "isHorizontal": false
             }
         },
@@ -2422,7 +2422,7 @@
                 "name": "Aqua Priestess",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-106.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-106.jpg",
                 "isHorizontal": false
             }
         },
@@ -2445,7 +2445,7 @@
                 "name": "Holy Armored Cheetah",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-107.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-107.jpg",
                 "isHorizontal": false
             }
         },
@@ -2468,7 +2468,7 @@
                 "name": "Hierophant's Implements",
                 "type": "Amulet",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-108.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-108.jpg",
                 "isHorizontal": false
             }
         },
@@ -2491,7 +2491,7 @@
                 "name": "Sublime Talisman",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-109.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-109.jpg",
                 "isHorizontal": false
             }
         },
@@ -2514,7 +2514,7 @@
                 "name": "Lucius, Travelled Trainer",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-110.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-110.jpg",
                 "isHorizontal": false
             }
         },
@@ -2537,7 +2537,7 @@
                 "name": "Lucius, Travelled Trainer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-111.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-111.jpg",
                 "isHorizontal": false
             }
         },
@@ -2560,7 +2560,7 @@
                 "name": "Gretina, Champion Fighter",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-112.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-112.jpg",
                 "isHorizontal": false
             }
         },
@@ -2583,7 +2583,7 @@
                 "name": "Arriet, Luxvoice Learner",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-113.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-113.jpg",
                 "isHorizontal": false
             }
         },
@@ -2606,7 +2606,7 @@
                 "name": "Lainecrest Academy",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-114.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-114.jpg",
                 "isHorizontal": false
             }
         },
@@ -2629,7 +2629,7 @@
                 "name": "Goblin Genius",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-115.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-115.jpg",
                 "isHorizontal": false
             }
         },
@@ -2652,7 +2652,7 @@
                 "name": "Goblin's Gratitude",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-116.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-116.jpg",
                 "isHorizontal": false
             }
         },
@@ -2675,7 +2675,7 @@
                 "name": "Lyelth's Marionette",
                 "type": "Follower / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T01.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T01.jpg",
                 "isHorizontal": false
             }
         },
@@ -2698,7 +2698,7 @@
                 "name": "Verdant Prayer",
                 "type": "Spell / Token",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T02.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T02.jpg",
                 "isHorizontal": false
             }
         },
@@ -2721,7 +2721,7 @@
                 "name": "Curse of Suffering",
                 "type": "Spell / Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T03.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T03.jpg",
                 "isHorizontal": false
             }
         },
@@ -2744,7 +2744,7 @@
                 "name": "Emergency Summoning",
                 "type": "Amulet / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T04.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T04.jpg",
                 "isHorizontal": false
             }
         },
@@ -2767,7 +2767,7 @@
                 "name": "Reactive Barrier",
                 "type": "Amulet / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T05.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T05.jpg",
                 "isHorizontal": false
             }
         },
@@ -2790,7 +2790,7 @@
                 "name": "Lilium's Hatchling",
                 "type": "Follower / Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T06.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T06.jpg",
                 "isHorizontal": false
             }
         },
@@ -2813,7 +2813,7 @@
                 "name": "Lilium's Dragon",
                 "type": "Follower / Token",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T07.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T07.jpg",
                 "isHorizontal": false
             }
         },
@@ -2836,7 +2836,7 @@
                 "name": "Holy Cavalier",
                 "type": "Follower / Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T08.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T08.jpg",
                 "isHorizontal": false
             }
         },
@@ -2859,7 +2859,7 @@
                 "name": "Cyclical Guidance",
                 "type": "Spell / Token",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T09.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T09.jpg",
                 "isHorizontal": false
             }
         },
@@ -2882,7 +2882,7 @@
                 "name": "Crest: Wilbert, Desolate Paladin",
                 "type": "Crest / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T10.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T10.jpg",
                 "isHorizontal": false
             }
         },
@@ -84256,7 +84256,7 @@
                 "name": "Lyelth's Marionette",
                 "type": "Follower / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T01.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T01.jpg",
                 "isHorizontal": false
             }
         },
@@ -84279,7 +84279,7 @@
                 "name": "Verdant Prayer",
                 "type": "Spell / Token",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T02.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T02.jpg",
                 "isHorizontal": false
             }
         },
@@ -84302,7 +84302,7 @@
                 "name": "Curse of Suffering",
                 "type": "Spell / Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T03.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T03.jpg",
                 "isHorizontal": false
             }
         },
@@ -84325,7 +84325,7 @@
                 "name": "Emergency Summoning",
                 "type": "Amulet / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T04.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T04.jpg",
                 "isHorizontal": false
             }
         },
@@ -84348,7 +84348,7 @@
                 "name": "Reactive Barrier",
                 "type": "Amulet / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T05.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T05.jpg",
                 "isHorizontal": false
             }
         },
@@ -84371,7 +84371,7 @@
                 "name": "Lilium's Hatchling",
                 "type": "Follower / Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T06.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T06.jpg",
                 "isHorizontal": false
             }
         },
@@ -84394,7 +84394,7 @@
                 "name": "Lilium's Dragon",
                 "type": "Follower / Token",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T07.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T07.jpg",
                 "isHorizontal": false
             }
         },
@@ -84417,7 +84417,7 @@
                 "name": "Holy Cavalier",
                 "type": "Follower / Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T08.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T08.jpg",
                 "isHorizontal": false
             }
         },
@@ -84440,7 +84440,7 @@
                 "name": "Cyclical Guidance",
                 "type": "Spell / Token",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T09.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T09.jpg",
                 "isHorizontal": false
             }
         },
@@ -84463,7 +84463,7 @@
                 "name": "Crest: Wilbert, Desolate Paladin",
                 "type": "Crest / Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20%20TEMP%202/BP21-T10.jpg",
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T10.jpg",
                 "isHorizontal": false
             }
         },
