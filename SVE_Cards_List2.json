@@ -2673,14 +2673,14 @@
         "face": {
             "front": {
                 "name": "Lyelth's Marionette",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T01.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Lyelth's Marionette",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Forestcraft"
@@ -2696,14 +2696,14 @@
         "face": {
             "front": {
                 "name": "Verdant Prayer",
-                "type": "Spell / Token",
+                "type": "Token",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T02.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Verdant Prayer",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "Class": [
             "Forestcraft"
@@ -2719,14 +2719,14 @@
         "face": {
             "front": {
                 "name": "Curse of Suffering",
-                "type": "Spell / Token",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T03.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Curse of Suffering",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Runecraft"
@@ -2742,14 +2742,14 @@
         "face": {
             "front": {
                 "name": "Emergency Summoning",
-                "type": "Amulet / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T04.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Emergency Summoning",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Runecraft"
@@ -2765,14 +2765,14 @@
         "face": {
             "front": {
                 "name": "Reactive Barrier",
-                "type": "Amulet / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T05.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Reactive Barrier",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Runecraft"
@@ -2788,14 +2788,14 @@
         "face": {
             "front": {
                 "name": "Lilium's Hatchling",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T06.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Lilium's Hatchling",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Dragoncraft"
@@ -2811,14 +2811,14 @@
         "face": {
             "front": {
                 "name": "Lilium's Dragon",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T07.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Lilium's Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "Class": [
             "Dragoncraft"
@@ -2834,14 +2834,14 @@
         "face": {
             "front": {
                 "name": "Holy Cavalier",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T08.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Holy Cavalier",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Havencraft"
@@ -2857,14 +2857,14 @@
         "face": {
             "front": {
                 "name": "Cyclical Guidance",
-                "type": "Spell / Token",
+                "type": "Token",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T09.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Cyclical Guidance",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "Class": [
             "Havencraft"
@@ -2880,14 +2880,14 @@
         "face": {
             "front": {
                 "name": "Crest: Wilbert, Desolate Paladin",
-                "type": "Crest / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T10.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Crest: Wilbert, Desolate Paladin",
-        "type": "Crest / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Havencraft"
@@ -84254,14 +84254,14 @@
         "face": {
             "front": {
                 "name": "Lyelth's Marionette",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T01.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Lyelth's Marionette",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Forestcraft"
@@ -84277,14 +84277,14 @@
         "face": {
             "front": {
                 "name": "Verdant Prayer",
-                "type": "Spell / Token",
+                "type": "Token",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T02.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Verdant Prayer",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 5,
         "Class": [
             "Forestcraft"
@@ -84300,14 +84300,14 @@
         "face": {
             "front": {
                 "name": "Curse of Suffering",
-                "type": "Spell / Token",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T03.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Curse of Suffering",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Runecraft"
@@ -84323,14 +84323,14 @@
         "face": {
             "front": {
                 "name": "Emergency Summoning",
-                "type": "Amulet / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T04.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Emergency Summoning",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Runecraft"
@@ -84346,14 +84346,14 @@
         "face": {
             "front": {
                 "name": "Reactive Barrier",
-                "type": "Amulet / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T05.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Reactive Barrier",
-        "type": "Amulet / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Runecraft"
@@ -84369,14 +84369,14 @@
         "face": {
             "front": {
                 "name": "Lilium's Hatchling",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T06.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Lilium's Hatchling",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Dragoncraft"
@@ -84392,14 +84392,14 @@
         "face": {
             "front": {
                 "name": "Lilium's Dragon",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T07.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Lilium's Dragon",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 2,
         "Class": [
             "Dragoncraft"
@@ -84415,14 +84415,14 @@
         "face": {
             "front": {
                 "name": "Holy Cavalier",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T08.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Holy Cavalier",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Havencraft"
@@ -84438,14 +84438,14 @@
         "face": {
             "front": {
                 "name": "Cyclical Guidance",
-                "type": "Spell / Token",
+                "type": "Token",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T09.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Cyclical Guidance",
-        "type": "Spell / Token",
+        "type": "Token",
         "cost": 2,
         "Class": [
             "Havencraft"
@@ -84461,14 +84461,14 @@
         "face": {
             "front": {
                 "name": "Crest: Wilbert, Desolate Paladin",
-                "type": "Crest / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T10.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Crest: Wilbert, Desolate Paladin",
-        "type": "Crest / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Havencraft"
@@ -84477,6 +84477,468 @@
             "BP21"
         ],
         "Trait": "Arena / Luminary"
+    },
+    "GFE01-T01EN": {
+        "id": "GFE01-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Unicorn",
+                "type": "Token",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Unicorn",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "GF",
+        "Trait": "Lightborn / Beast"
+    },
+    "GFE01-T01EN_TOKEN": {
+        "id": "GFE01-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Unicorn",
+                "type": "Token",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Unicorn",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "GF",
+        "Trait": "Lightborn / Beast"
+    },
+    "GFE01-020EN": {
+        "id": "GFE01-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Heaven's Gate",
+                "type": "Amulet",
+                "cost": "7",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-020EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Heaven's Gate",
+        "type": "Amulet",
+        "cost": "7",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "GF",
+        "Trait": "Angel"
+    },
+    "GFE01-019EN": {
+        "id": "GFE01-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shining Bellringer Angel (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-019EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shining Bellringer Angel (Evolved)",
+        "type": false,
+        "cost": "4",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "GF",
+        "Trait": "Angel"
+    },
+    "GFE01-018EN": {
+        "id": "GFE01-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shining Bellringer Angel",
+                "type": "Follower",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-018EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shining Bellringer Angel",
+        "type": "Follower",
+        "cost": "5",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "GF",
+        "Trait": "Angel"
+    },
+    "GFE01-017EN": {
+        "id": "GFE01-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Olivia, Blackened Wing (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-017EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Olivia, Blackened Wing (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "5",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "GF",
+        "Trait": "Fallen Angel"
+    },
+    "GFE01-016EN": {
+        "id": "GFE01-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Olivia, Blackened Wing",
+                "type": "Follower",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-016EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Olivia, Blackened Wing",
+        "type": "Follower",
+        "cost": "5",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "GF",
+        "Trait": "Fallen Angel"
+    },
+    "GFE01-015EN": {
+        "id": "GFE01-015EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Unicorn Warrior",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-015EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Unicorn Warrior",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "GF",
+        "Trait": "Lightborn / Beast"
+    },
+    "GFE01-014EN": {
+        "id": "GFE01-014EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Auction the Spoils",
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-014EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Auction the Spoils",
+        "type": "Spell",
+        "cost": "2",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Merchant"
+    },
+    "GFE01-013EN": {
+        "id": "GFE01-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vagabond Frog",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-013EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vagabond Frog",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Beast"
+    },
+    "GFE01-012EN": {
+        "id": "GFE01-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sky Gladiator (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-012EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sky Gladiator (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Commander"
+    },
+    "GFE01-011EN": {
+        "id": "GFE01-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sky Gladiator",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-011EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sky Gladiator",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Commander"
+    },
+    "GFE01-010EN": {
+        "id": "GFE01-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Musketeers' Vow",
+                "type": "Spell",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Musketeers' Vow",
+        "type": "Spell",
+        "cost": "5",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-009EN": {
+        "id": "GFE01-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "D'Artagnan",
+                "type": "Follower",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-009EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "D'Artagnan",
+        "type": "Follower",
+        "cost": "5",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-008EN": {
+        "id": "GFE01-008EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Athos (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-008EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Athos (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-007EN": {
+        "id": "GFE01-007EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Athos",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-007EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Athos",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-006EN": {
+        "id": "GFE01-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Porthos (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-006EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Porthos (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-005EN": {
+        "id": "GFE01-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Porthos",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-005EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Porthos",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-004EN": {
+        "id": "GFE01-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aramis (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-004EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aramis (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-003EN": {
+        "id": "GFE01-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aramis",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aramis",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Officer"
+    },
+    "GFE01-002EN": {
+        "id": "GFE01-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Free-Spirited Elf (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-002EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Free-Spirited Elf (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Elf"
+    },
+    "GFE01-001EN": {
+        "id": "GFE01-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Free-Spirited Elf",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE01/GFE01-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Free-Spirited Elf",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "GF",
+        "Trait": "Elf"
     },
     "GFD02-001EN": {
         "id": "GFD02-001EN",
@@ -85240,14 +85702,14 @@
         "face": {
             "front": {
                 "name": "Hornet Warrior",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-T01EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Hornet Warrior",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Forestcraft"
@@ -85261,14 +85723,14 @@
         "face": {
             "front": {
                 "name": "Hornet Warrior",
-                "type": "Follower / Token",
+                "type": "Token",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFD01/GFD01-T01EN.png",
                 "isHorizontal": false
             }
         },
         "name": "Hornet Warrior",
-        "type": "Follower / Token",
+        "type": "Token",
         "cost": 0,
         "Class": [
             "Forestcraft"
