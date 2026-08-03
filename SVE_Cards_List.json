@@ -17,9 +17,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf / Academic / Supreme"
     },
     "BP21-002EN": {
@@ -40,9 +38,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Puppetry / Academic"
     },
     "BP21-003EN": {
@@ -63,9 +59,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Puppetry / Academic"
     },
     "BP21-004EN": {
@@ -86,9 +80,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Pixie / Princess"
     },
     "BP21-005EN": {
@@ -109,9 +101,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Beast / Chef"
     },
     "BP21-006EN": {
@@ -132,9 +122,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Beast / Chef"
     },
     "BP21-007EN": {
@@ -155,9 +143,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf"
     },
     "BP21-008EN": {
@@ -178,9 +164,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Fae-Touched / Academic"
     },
     "BP21-009EN": {
@@ -201,9 +185,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf / Academic"
     },
     "BP21-010EN": {
@@ -224,9 +206,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf / Academic"
     },
     "BP21-011EN": {
@@ -247,9 +227,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Beast"
     },
     "BP21-012EN": {
@@ -270,9 +248,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Pixie / Academic"
     },
     "BP21-013EN": {
@@ -293,9 +269,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Beast"
     },
     "BP21-014EN": {
@@ -316,9 +290,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Beast"
     },
     "BP21-015EN": {
@@ -339,9 +311,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Beast"
     },
     "BP21-016EN": {
@@ -362,9 +332,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Beast"
     },
     "BP21-017EN": {
@@ -385,9 +353,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf"
     },
     "BP21-018EN": {
@@ -408,9 +374,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Pixie"
     },
     "BP21-019EN": {
@@ -431,9 +395,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander / Officer / Academic / Supreme"
     },
     "BP21-020EN": {
@@ -454,9 +416,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander / Academic / Beast"
     },
     "BP21-021EN": {
@@ -477,9 +437,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander / Academic / Beast"
     },
     "BP21-022EN": {
@@ -500,9 +458,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Noble / Levin"
     },
     "BP21-023EN": {
@@ -523,9 +479,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Academic"
     },
     "BP21-024EN": {
@@ -546,9 +500,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Academic"
     },
     "BP21-025EN": {
@@ -569,9 +521,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Supreme / Cutthroat"
     },
     "BP21-026EN": {
@@ -592,9 +542,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander"
     },
     "BP21-027EN": {
@@ -615,9 +563,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Academic"
     },
     "BP21-028EN": {
@@ -638,9 +584,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Academic"
     },
     "BP21-029EN": {
@@ -661,9 +605,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Academic"
     },
     "BP21-030EN": {
@@ -684,9 +626,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander / Academic"
     },
     "BP21-031EN": {
@@ -707,9 +647,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander / Beast"
     },
     "BP21-032EN": {
@@ -730,9 +668,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander / Beast"
     },
     "BP21-033EN": {
@@ -753,9 +689,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Academic"
     },
     "BP21-034EN": {
@@ -776,9 +710,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer / Levin"
     },
     "BP21-035EN": {
@@ -799,9 +731,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Officer"
     },
     "BP21-036EN": {
@@ -822,9 +752,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Commander"
     },
     "BP21-037EN": {
@@ -845,9 +773,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-038EN": {
@@ -868,9 +794,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-039EN": {
@@ -891,9 +815,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-040EN": {
@@ -914,9 +836,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Alchemist / Forbidden"
     },
     "BP21-041EN": {
@@ -937,9 +857,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-042EN": {
@@ -960,9 +878,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-043EN": {
@@ -983,9 +899,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-044EN": {
@@ -1006,9 +920,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Alchemist / Earth Sigil"
     },
     "BP21-045EN": {
@@ -1029,9 +941,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic"
     },
     "BP21-046EN": {
@@ -1052,9 +962,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic"
     },
     "BP21-047EN": {
@@ -1075,9 +983,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic"
     },
     "BP21-048EN": {
@@ -1098,9 +1004,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic"
     },
     "BP21-049EN": {
@@ -1121,9 +1025,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Beast"
     },
     "BP21-050EN": {
@@ -1144,9 +1046,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Beast"
     },
     "BP21-051EN": {
@@ -1167,9 +1067,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Supreme"
     },
     "BP21-052EN": {
@@ -1190,9 +1088,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic"
     },
     "BP21-053EN": {
@@ -1213,9 +1109,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage"
     },
     "BP21-054EN": {
@@ -1236,9 +1130,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Earth Sigil"
     },
     "BP21-055EN": {
@@ -1259,9 +1151,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonheart / Academic"
     },
     "BP21-056EN": {
@@ -1282,9 +1172,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonheart / Academic"
     },
     "BP21-057EN": {
@@ -1305,9 +1193,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt / Academic"
     },
     "BP21-058EN": {
@@ -1328,9 +1214,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt"
     },
     "BP21-059EN": {
@@ -1351,9 +1235,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonheart / Academic"
     },
     "BP21-060EN": {
@@ -1374,9 +1256,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonheart / Academic"
     },
     "BP21-061EN": {
@@ -1397,9 +1277,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt / Academic"
     },
     "BP21-062EN": {
@@ -1420,9 +1298,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt"
     },
     "BP21-063EN": {
@@ -1443,9 +1319,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt / Academic"
     },
     "BP21-064EN": {
@@ -1466,9 +1340,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt / Academic"
     },
     "BP21-065EN": {
@@ -1489,9 +1361,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonewt / Academic"
     },
     "BP21-066EN": {
@@ -1512,9 +1382,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Dragonheart / Dragonewt"
     },
     "BP21-067EN": {
@@ -1535,9 +1403,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Marine"
     },
     "BP21-068EN": {
@@ -1558,9 +1424,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Marine"
     },
     "BP21-069EN": {
@@ -1581,9 +1445,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Marine / Academic"
     },
     "BP21-070EN": {
@@ -1604,9 +1466,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin"
     },
     "BP21-071EN": {
@@ -1627,9 +1487,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin"
     },
     "BP21-072EN": {
@@ -1650,9 +1508,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin / Cutthroat"
     },
     "BP21-073EN": {
@@ -1673,9 +1529,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Necromancer / Academic"
     },
     "BP21-074EN": {
@@ -1696,9 +1550,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Necromancer / Academic"
     },
     "BP21-075EN": {
@@ -1719,9 +1571,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-076EN": {
@@ -1742,9 +1592,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-077EN": {
@@ -1765,9 +1613,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-078EN": {
@@ -1788,9 +1634,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-079EN": {
@@ -1811,9 +1655,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon"
     },
     "BP21-080EN": {
@@ -1834,9 +1676,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-081EN": {
@@ -1857,9 +1697,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-082EN": {
@@ -1880,9 +1718,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-083EN": {
@@ -1903,9 +1739,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-084EN": {
@@ -1926,9 +1760,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon"
     },
     "BP21-085EN": {
@@ -1949,9 +1781,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Departed / Cutthroat"
     },
     "BP21-086EN": {
@@ -1972,9 +1802,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Departed / Cutthroat"
     },
     "BP21-087EN": {
@@ -1995,9 +1823,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon / Academic"
     },
     "BP21-088EN": {
@@ -2018,9 +1844,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Cutthroat"
     },
     "BP21-089EN": {
@@ -2041,9 +1865,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Demon"
     },
     "BP21-090EN": {
@@ -2064,9 +1886,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Departed"
     },
     "BP21-091EN": {
@@ -2087,9 +1907,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Luminary / Academic"
     },
     "BP21-092EN": {
@@ -2110,9 +1928,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Luminary / Academic"
     },
     "BP21-093EN": {
@@ -2133,9 +1949,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-094EN": {
@@ -2156,9 +1970,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Arena / Luminary"
     },
     "BP21-095EN": {
@@ -2179,9 +1991,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Arena / Luminary"
     },
     "BP21-096EN": {
@@ -2202,9 +2012,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-097EN": {
@@ -2225,9 +2033,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-098EN": {
@@ -2248,9 +2054,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-099EN": {
@@ -2271,9 +2075,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-100EN": {
@@ -2294,9 +2096,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-101EN": {
@@ -2317,9 +2117,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne"
     },
     "BP21-102EN": {
@@ -2340,9 +2138,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Supreme"
     },
     "BP21-103EN": {
@@ -2363,9 +2159,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Academic / Lightborne / Beast"
     },
     "BP21-104EN": {
@@ -2386,9 +2180,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Lightborne / Beast"
     },
     "BP21-105EN": {
@@ -2409,9 +2201,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Lightborne / Beast"
     },
     "BP21-106EN": {
@@ -2432,9 +2222,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith"
     },
     "BP21-107EN": {
@@ -2455,9 +2243,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith / Beast"
     },
     "BP21-108EN": {
@@ -2478,9 +2264,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith"
     },
     "BP21-109EN": {
@@ -2501,9 +2285,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Faith"
     },
     "BP21-110EN": {
@@ -2524,9 +2306,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic"
     },
     "BP21-111EN": {
@@ -2547,9 +2327,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic"
     },
     "BP21-112EN": {
@@ -2570,9 +2348,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Machina / Academic / Supreme"
     },
     "BP21-113EN": {
@@ -2593,9 +2369,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Musical"
     },
     "BP21-114EN": {
@@ -2616,9 +2390,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic"
     },
     "BP21-115EN": {
@@ -2639,9 +2411,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Goblinoid"
     },
     "BP21-116EN": {
@@ -2662,9 +2432,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Academic / Goblinoid"
     },
     "BP21-T01EN": {
@@ -2685,9 +2453,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Puppetry / Academic"
     },
     "BP21-T02EN": {
@@ -2708,9 +2474,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf / Academic / Supreme"
     },
     "BP21-T03EN": {
@@ -2731,9 +2495,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-T04EN": {
@@ -2754,9 +2516,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Alchemist / Earth Sigil"
     },
     "BP21-T05EN": {
@@ -2777,9 +2537,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Alchemist / Earth Sigil"
     },
     "BP21-T06EN": {
@@ -2800,9 +2558,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin / Academic"
     },
     "BP21-T07EN": {
@@ -2823,9 +2579,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin / Academic"
     },
     "BP21-T08EN": {
@@ -2846,9 +2600,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Luminary"
     },
     "BP21-T09EN": {
@@ -2869,9 +2621,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Luminary / Academic"
     },
     "BP21-T10EN": {
@@ -2892,9 +2642,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Arena / Luminary"
     },
     "BP20-001EN": {
@@ -84266,9 +84014,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Puppetry / Academic"
     },
     "BP21-T02EN_TOKEN": {
@@ -84289,9 +84035,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Elf / Academic / Supreme"
     },
     "BP21-T03EN_TOKEN": {
@@ -84312,9 +84056,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Mage / Academic / Princess"
     },
     "BP21-T04EN_TOKEN": {
@@ -84335,9 +84077,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Alchemist / Earth Sigil"
     },
     "BP21-T05EN_TOKEN": {
@@ -84358,9 +84098,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Alchemist / Earth Sigil"
     },
     "BP21-T06EN_TOKEN": {
@@ -84381,9 +84119,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin / Academic"
     },
     "BP21-T07EN_TOKEN": {
@@ -84404,9 +84140,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Wyrmkin / Academic"
     },
     "BP21-T08EN_TOKEN": {
@@ -84427,9 +84161,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Luminary"
     },
     "BP21-T09EN_TOKEN": {
@@ -84450,9 +84182,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Luminary / Academic"
     },
     "BP21-T10EN_TOKEN": {
@@ -84473,9 +84203,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP21"
-        ],
+        "Set": "BP21",
         "Trait": "Arena / Luminary"
     },
     "GFE01-001EN": {
