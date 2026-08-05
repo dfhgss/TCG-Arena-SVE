@@ -403,14 +403,14 @@
                         "noQuickActions": false
                     },
                     "EXArea": {
-                        "title": "EX Area",
+                        "title": "EXArea",
                         "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "EXArea",
+                        "displayedTitle": "EX Area",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -419,14 +419,14 @@
                         "showHiddenCardInHistory": false
                     },
                     "EvolveDeck": {
-                        "title": "Evolve Deck",
+                        "title": "EvolveDeck",
                         "isHidden": "yes",
                         "height": "18",
                         "alignment": "DECK",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "EvolveDeck",
+                        "displayedTitle": "Evolve Deck",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -436,7 +436,7 @@
                         "cardBackColor": "#e0e0e0"
                     },
                     "FaceupEvolvedAdvanced": {
-                        "title": "Faceup Evolved Advanced",
+                        "title": "FaceupEvolvedAdvanced",
                         "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
