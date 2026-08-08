@@ -256,7 +256,8 @@
                     "Follower": "Stack",
                     "Spell": "Stack",
                     "Amulet": "Stack",
-                    "PP": "Mana"
+                    "PP": "Mana",
+                    "Evolve Deck": "Evolve_Deck"
                 },
                 "autoPlayFromStack": {
                     "Follower": "Field",
