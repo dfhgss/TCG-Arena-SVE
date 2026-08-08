@@ -84597,7 +84597,7 @@
             }
         },
         "name": "Shining Bellringer Angel (Evolved)",
-        "type": false,
+        "type": "Evolve_Deck",
         "cost": "4",
         "Class": [
             "Neutral"
