@@ -24,7 +24,7 @@
         "dataUrl": "https://dfhgss.github.io/TCG-Arena-SVE/SVE_Cards_List2.json",
         "cardBack": "https://dfhgss.github.io/TCG-Arena-SVE/1/back.jpg",
         "extraCardBacks": {
-            "Evolve_Deck": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
+            "Evolve Deck": "https://dfhgss.github.io/TCG-Arena-SVE/1/BackCardWhite.jpg"
         }
     },
     "deckBuilding": {
@@ -40,7 +40,7 @@
                 "title": "Classic",
                 "gameplay": "Classic",
                 "customCategories": [
-                    "Evolve_Deck",
+                    "Evolve Deck",
                     "PP",
                     "EP"
                 ]
