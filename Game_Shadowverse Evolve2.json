@@ -40,7 +40,7 @@
                 "title": "Classic",
                 "gameplay": "Classic",
                 "customCategories": [
-                    "Evolve Deck",
+                    "Evolve_Deck",
                     "PP",
                     "EP"
                 ]
@@ -248,7 +248,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Evolve Deck",
+                    "Evolve_Deck",
                     "PP",
                     "EP"
                 ],
