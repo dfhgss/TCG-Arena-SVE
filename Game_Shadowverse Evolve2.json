@@ -32,7 +32,7 @@
             "type",
             "Class",
             "Set",
-	    "Trait",
+	        "Trait",
             "cost"
         ],
         "formats": [
@@ -248,7 +248,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Evolve Deck",
+                    "Evolve_Deck",
                     "PP",
                     "EP"
                 ],
@@ -403,14 +403,14 @@
                         "noQuickActions": false
                     },
                     "EX_Area": {
-                        "title": "EX_Area",
+                        "title": "EX Area",
                         "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "EX_Area",
+                        "displayedTitle": "EX Area",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -436,14 +436,14 @@
                         "cardBackColor": "#e0e0e0"
                     },
                     "Faceup_Evolved_Advanced": {
-                        "title": "Faceup_Evolved_Advanced",
+                        "title": "Faceup Evolved Advanced",
                         "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Faceup Evolved / Advanced",
+                        "displayedTitle": "Faceup Evolved Advanced",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
