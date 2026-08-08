@@ -248,7 +248,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Evolve_Deck",
+                    "Evolve Deck",
                     "PP",
                     "EP"
                 ],
@@ -262,7 +262,7 @@
                 "autoPlayFromStack": {
                     "Follower": "Field",
                     "Amulet": "Field",
-                    "Evolve_Deck": "Field",
+                    "Evolve Deck": "Field",
                     "Spell": "Discard"
                 },
                 "sectionsDict": {
@@ -419,14 +419,14 @@
                         "showHiddenCardInHistory": false
                     },
                     "Evolve_Deck": {
-                        "title": "Evolve_Deck",
+                        "title": "Evolve Deck",
                         "isHidden": "yes",
                         "height": "18",
                         "alignment": "DECK",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Evolve_Deck",
+                        "displayedTitle": "Evolve Deck",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
