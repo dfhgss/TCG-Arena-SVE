@@ -174,7 +174,7 @@
                             },
                             "content": [
                                 {
-                                    "section": "Evolve Deck",
+                                    "section": "Evolve_Deck",
                                     "style": {
                                         "width": "13.9vh"
                                     }
@@ -248,7 +248,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Evolve_Deck",
+                    "Evolve Deck",
                     "PP",
                     "EP"
                 ],
