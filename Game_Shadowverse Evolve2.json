@@ -32,7 +32,7 @@
             "type",
             "Class",
             "Set",
-	        "Trait",
+	    "Trait",
             "cost"
         ],
         "formats": [
@@ -40,7 +40,7 @@
                 "title": "Classic",
                 "gameplay": "Classic",
                 "customCategories": [
-                    "Evolve Deck",
+                    "Evolve_Deck",
                     "PP",
                     "EP"
                 ]
@@ -157,7 +157,7 @@
                 "customSections": [
                     "Field",
                     "EX_Area",
-                    "Evolve Deck",
+                    "Evolve_Deck",
                     "Faceup_Evolved_Advanced",
                     "Mana",
                     "PP",
@@ -403,14 +403,14 @@
                         "noQuickActions": false
                     },
                     "EX_Area": {
-                        "title": "EX Area",
+                        "title": "EX_Area",
                         "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "EX Area",
+                        "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -419,14 +419,14 @@
                         "showHiddenCardInHistory": false
                     },
                     "Evolve_Deck": {
-                        "title": "Evolve Deck",
+                        "title": "Evolve_Deck",
                         "isHidden": "yes",
                         "height": "18",
                         "alignment": "DECK",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Evolve Deck",
+                        "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -443,7 +443,7 @@
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Faceup Evolved Advanced",
+                        "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
