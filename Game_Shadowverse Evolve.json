@@ -38,12 +38,7 @@
         "formats": [
             {
                 "title": "Classic",
-                "gameplay": "Classic",
-                "customCategories": [
-                    "Evolve Deck",
-                    "PP",
-                    "EP"
-                ]
+                "gameplay": "Classic"
             }
         ]
     },
@@ -156,9 +151,9 @@
             "sections": {
                 "customSections": [
                     "Field",
-                    "EX Area",
-                    "Evolve Deck",
-                    "Faceup Evolved Advanced",
+                    "EX_Area",
+                    "Evolve_Deck",
+                    "Faceup_Evolved_Advanced",
                     "Mana",
                     "PP",
                     "EP"
@@ -174,13 +169,13 @@
                             },
                             "content": [
                                 {
-                                    "section": "Evolve Deck",
+                                    "section": "Evolve_Deck",
                                     "style": {
                                         "width": "13.9vh"
                                     }
                                 },
                                 {
-                                    "section": "Faceup Evolved Advanced",
+                                    "section": "Faceup_Evolved_Advanced",
                                     "style": {
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
                                         "background-size": "contain",
@@ -234,7 +229,7 @@
                                     }
                                 },
                                 {
-                                    "section": "EX Area",
+                                    "section": "EX_Area",
                                     "style": {
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
                                         "background-size": "contain",
@@ -248,7 +243,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Evolve Deck",
+                    "Evolve Deck->Evolve_Deck",
                     "PP",
                     "EP"
                 ],
@@ -257,7 +252,7 @@
                     "Spell": "Stack",
                     "Amulet": "Stack",
                     "PP": "Mana",
-                    "Evolve Deck": "Evolve Deck"
+                    "Evolve Deck": "Evolve_Deck"
                 },
                 "autoPlayFromStack": {
                     "Follower": "Field",
@@ -402,15 +397,15 @@
                         "showHiddenCardInHistory": false,
                         "noQuickActions": false
                     },
-                    "EX Area": {
-                        "title": "EX Area",
+                    "EX_Area": {
+                        "title": "EX_Area",
                         "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "EX Area",
+                        "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -418,15 +413,15 @@
                         "keepTappedNewTurn": true,
                         "showHiddenCardInHistory": false
                     },
-                    "Evolve Deck": {
-                        "title": "Evolve Deck",
+                    "Evolve_Deck": {
+                        "title": "Evolve_Deck",
                         "isHidden": "yes",
                         "height": "18",
                         "alignment": "DECK",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Evolve Deck",
+                        "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -435,7 +430,7 @@
                         "showHiddenCardInHistory": false,
                         "cardBackColor": "#e0e0e0"
                     },
-                    "Faceup Evolved Advanced": {
+                    "Faceup_Evolved_Advanced": {
                         "title": "Faceup Evolved Advanced",
                         "isHidden": "no",
                         "height": "18",
@@ -443,7 +438,7 @@
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Faceup Evolved / Advanced",
+                        "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
