@@ -38,12 +38,7 @@
         "formats": [
             {
                 "title": "Classic",
-                "gameplay": "Classic",
-                "customCategories": [
-                    "Evolve_Deck",
-                    "PP",
-                    "EP"
-                ]
+                "gameplay": "Classic"
             }
         ]
     },
