@@ -10588,157 +10588,10 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Ameth",
-                "type": "Follower",
-                "cost": "2",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-113EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Ameth",
-        "type": "Follower",
-        "cost": "2",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne"
-    },
-    "CP04-114EN": {
-        "id": "CP04-114EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Ameth (Evolved)",
-                "type": "Evolve Deck",
-                "cost": "2",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-114EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Ameth (Evolved)",
-        "type": "Evolve Deck",
-        "cost": "2",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne"
-    },
-    "CP04-115EN": {
-        "id": "CP04-115EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Croce",
-                "type": "Follower",
-                "cost": "1",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-115EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Croce",
-        "type": "Follower",
-        "cost": "1",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne / Geo Theogonia"
-    },
-    "CP04-116EN": {
-        "id": "CP04-116EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Kasumi",
-                "type": "Follower",
-                "cost": "2",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-116EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Kasumi",
-        "type": "Follower",
-        "cost": "2",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne / Caon"
-    },
-    "CP04-117EN": {
-        "id": "CP04-117EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Kasumi (Evolved)",
-                "type": "Evolve Deck",
-                "cost": "2",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-117EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Kasumi (Evolved)",
-        "type": "Evolve Deck",
-        "cost": "2",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne / Caon"
-    },
-    "CP04-118EN": {
-        "id": "CP04-118EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Call of Guild",
-                "type": "Spell",
-                "cost": "1",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-118EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Call of Guild",
-        "type": "Spell",
-        "cost": "1",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne / Guild Management Association"
-    },
-    "CP04-119EN": {
-        "id": "CP04-119EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Ayumi",
-                "type": "Follower",
-                "cost": "1",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-119EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Ayumi",
-        "type": "Follower",
-        "cost": "1",
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "CP04",
-        "Trait": "Priconne / Weissflügel"
-    },
-    "CP04-120EN": {
-        "id": "CP04-120EN",
-        "isToken": false,
-        "face": {
-            "front": {
                 "name": "Princess Knight",
                 "type": "Follower",
                 "cost": "8",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-120EN.png",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-113EN.png",
                 "isHorizontal": false
             }
         },
@@ -10751,15 +10604,15 @@
         "Set": "CP04",
         "Trait": "Priconne"
     },
-    "CP04-121EN": {
-        "id": "CP04-121EN",
+    "CP04-114EN": {
+        "id": "CP04-114EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Princess Knight (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "8",
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-121EN.png",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-114EN.png",
                 "isHorizontal": false
             }
         },
@@ -10771,6 +10624,153 @@
         ],
         "Set": "CP04",
         "Trait": "Priconne"
+    },
+    "CP04-115EN": {
+        "id": "CP04-115EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ameth",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-115EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ameth",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne"
+    },
+    "CP04-116EN": {
+        "id": "CP04-116EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ameth (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-116EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ameth (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne"
+    },
+    "CP04-117EN": {
+        "id": "CP04-117EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Croce",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-117EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Croce",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Geo Theogonia"
+    },
+    "CP04-118EN": {
+        "id": "CP04-118EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kasumi",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-118EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kasumi",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Caon"
+    },
+    "CP04-119EN": {
+        "id": "CP04-119EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kasumi (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-119EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kasumi (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Caon"
+    },
+    "CP04-120EN": {
+        "id": "CP04-120EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Call of the Guild",
+                "type": "Spell",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-120EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Call of the Guild",
+        "type": "Spell",
+        "cost": "1",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Guild Association"
+    },
+    "CP04-121EN": {
+        "id": "CP04-121EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ayumi",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-121EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ayumi",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Weissflugel"
     },
     "CP04-T01EN": {
         "id": "CP04-T01EN",
