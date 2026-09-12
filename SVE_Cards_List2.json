@@ -7291,14 +7291,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Zeronua, Demon of Domination",
+                "name": "Zeronua, Demon Dominator",
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-077EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Zeronua, Demon of Domination",
+        "name": "Zeronua, Demon Dominator",
         "type": "Follower",
         "cost": "2",
         "Class": [
@@ -8299,14 +8299,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Multi-Headed Test Subject",
+                "name": "Chimera Test Subject",
                 "type": "Token",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-T02EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Multi-Headed Test Subject",
+        "name": "Chimera Test Subject",
         "type": "Token",
         "cost": "2",
         "Class": [
@@ -84421,14 +84421,14 @@
         "isToken": true,
         "face": {
             "front": {
-                "name": "Multi-Headed Test Subject",
+                "name": "Chimera Test Subject",
                 "type": "Token",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-T02EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Multi-Headed Test Subject",
+        "name": "Chimera Test Subject",
         "type": "Token",
         "cost": "2",
         "Class": [
