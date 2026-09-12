@@ -2653,7 +2653,7 @@
                 "name": "Izudia, Annihilation Manifest",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-001.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-001EN.png",
                 "isHorizontal": false
             }
         },
@@ -2674,7 +2674,7 @@
                 "name": "Krulle, Heir to Unkilling",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-002.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-002EN.png",
                 "isHorizontal": false
             }
         },
@@ -2695,7 +2695,28 @@
                 "name": "Krulle, Heir to Unkilling (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-003.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Krulle, Heir to Unkilling (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Heir / Hunter"
+    },
+    "BP20-U01EN": {
+        "id": "BP20-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Krulle, Heir to Unkilling (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U01EN.png",
                 "isHorizontal": false
             }
         },
@@ -2716,7 +2737,7 @@
                 "name": "Plumeria, Serene Goddess",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-004.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-004EN.png",
                 "isHorizontal": false
             }
         },
@@ -2737,7 +2758,7 @@
                 "name": "Windbloom Sylph",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-005.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-005EN.png",
                 "isHorizontal": false
             }
         },
@@ -2758,7 +2779,7 @@
                 "name": "Windbloom Sylph (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-006.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-006EN.png",
                 "isHorizontal": false
             }
         },
@@ -2779,7 +2800,7 @@
                 "name": "Congregrant of Unkilling",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-007.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-007EN.png",
                 "isHorizontal": false
             }
         },
@@ -2800,7 +2821,7 @@
                 "name": "Eradicating Arrow",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-008.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-008EN.png",
                 "isHorizontal": false
             }
         },
@@ -2821,7 +2842,7 @@
                 "name": "Supplicant of Unkilling",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-009.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-009EN.png",
                 "isHorizontal": false
             }
         },
@@ -2842,7 +2863,7 @@
                 "name": "Supplicant of Unkilling (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-010.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-010EN.png",
                 "isHorizontal": false
             }
         },
@@ -2863,7 +2884,7 @@
                 "name": "Greatwood Warrior",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-011.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-011EN.png",
                 "isHorizontal": false
             }
         },
@@ -2884,7 +2905,7 @@
                 "name": "Hamlet of Unkilling",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-012.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-012EN.png",
                 "isHorizontal": false
             }
         },
@@ -2905,7 +2926,7 @@
                 "name": "Bearer of the Fairy Blade",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-013.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-013EN.png",
                 "isHorizontal": false
             }
         },
@@ -2926,7 +2947,7 @@
                 "name": "Bearer of the Fairy Blade (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-014.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-014EN.png",
                 "isHorizontal": false
             }
         },
@@ -2947,7 +2968,7 @@
                 "name": "Devotee of Unkilling",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-015.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-015EN.png",
                 "isHorizontal": false
             }
         },
@@ -2968,7 +2989,7 @@
                 "name": "Ageless Bystander",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-016.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-016EN.png",
                 "isHorizontal": false
             }
         },
@@ -2989,7 +3010,7 @@
                 "name": "Cutie Cat",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-017.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-017EN.png",
                 "isHorizontal": false
             }
         },
@@ -3010,7 +3031,7 @@
                 "name": "Bestial Swipe",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-018.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-018EN.png",
                 "isHorizontal": false
             }
         },
@@ -3031,7 +3052,7 @@
                 "name": "Octrice, Hollowness Manifest",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-019.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-019EN.png",
                 "isHorizontal": false
             }
         },
@@ -3052,7 +3073,7 @@
                 "name": "Sinciro, Heir to Usurpation",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-020.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-020EN.png",
                 "isHorizontal": false
             }
         },
@@ -3073,7 +3094,28 @@
                 "name": "Sinciro, Heir to Usurpation (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-021.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-021EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sinciro, Heir to Usurpation (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Heir / Thief"
+    },
+    "BP20-U02EN": {
+        "id": "BP20-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sinciro, Heir to Usurpation (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U02EN.png",
                 "isHorizontal": false
             }
         },
@@ -3094,7 +3136,7 @@
                 "name": "Aurelia, Glorious Saber",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-022.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-022EN.png",
                 "isHorizontal": false
             }
         },
@@ -3115,7 +3157,7 @@
                 "name": "Congregant of Usurpation",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-023.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-023EN.png",
                 "isHorizontal": false
             }
         },
@@ -3136,7 +3178,7 @@
                 "name": "Congregant of Usurpation (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-024.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-024EN.png",
                 "isHorizontal": false
             }
         },
@@ -3157,7 +3199,7 @@
                 "name": "Fearful Fighter",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-025.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-025EN.png",
                 "isHorizontal": false
             }
         },
@@ -3178,7 +3220,7 @@
                 "name": "Returning Slash",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-026.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-026EN.png",
                 "isHorizontal": false
             }
         },
@@ -3199,7 +3241,7 @@
                 "name": "Peppy Scout",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-027.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-027EN.png",
                 "isHorizontal": false
             }
         },
@@ -3220,7 +3262,7 @@
                 "name": "Peppy Scout (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-028.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-028EN.png",
                 "isHorizontal": false
             }
         },
@@ -3241,7 +3283,7 @@
                 "name": "Supplicant of Usurpation",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-029.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-029EN.png",
                 "isHorizontal": false
             }
         },
@@ -3262,7 +3304,7 @@
                 "name": "Lair of Usurpation",
                 "type": "Amulet",
                 "cost": 8,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-030.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-030EN.png",
                 "isHorizontal": false
             }
         },
@@ -3283,7 +3325,7 @@
                 "name": "Comrade of the Swordmaster",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-031.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-031EN.png",
                 "isHorizontal": false
             }
         },
@@ -3304,7 +3346,7 @@
                 "name": "Comrade of the Swordmaster (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-032.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-032EN.png",
                 "isHorizontal": false
             }
         },
@@ -3325,7 +3367,7 @@
                 "name": "Devotee of Usurpation",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-033.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-033EN.png",
                 "isHorizontal": false
             }
         },
@@ -3346,7 +3388,7 @@
                 "name": "Mercurial Mercenary",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-034.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-034EN.png",
                 "isHorizontal": false
             }
         },
@@ -3367,7 +3409,7 @@
                 "name": "Palace Knight",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-035.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-035EN.png",
                 "isHorizontal": false
             }
         },
@@ -3388,7 +3430,7 @@
                 "name": "Shield Bash",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-036.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-036EN.png",
                 "isHorizontal": false
             }
         },
@@ -3409,7 +3451,7 @@
                 "name": "Lishenna, Melody Manifest",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-037.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-037EN.png",
                 "isHorizontal": false
             }
         },
@@ -3430,7 +3472,7 @@
                 "name": "Velharia, Heir to Truth",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-038.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-038EN.png",
                 "isHorizontal": false
             }
         },
@@ -3451,7 +3493,28 @@
                 "name": "Velharia, Heir to Truth (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-039.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-039EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Velharia, Heir to Truth (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Heir / Mage"
+    },
+    "BP20-U03EN": {
+        "id": "BP20-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Velharia, Heir to Truth (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U03EN.png",
                 "isHorizontal": false
             }
         },
@@ -3472,7 +3535,7 @@
                 "name": "Axia, Heir to Destruction",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-040.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-040EN.png",
                 "isHorizontal": false
             }
         },
@@ -3493,7 +3556,28 @@
                 "name": "Axia, Heir to Destruction (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-041.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-041EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Axia, Heir to Destruction (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Heir / Idolatry"
+    },
+    "BP20-U04EN": {
+        "id": "BP20-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Axia, Heir to Destruction (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U04EN.png",
                 "isHorizontal": false
             }
         },
@@ -3514,7 +3598,7 @@
                 "name": "Raio, Elimination Manifest",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-042.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-042EN.png",
                 "isHorizontal": false
             }
         },
@@ -3535,7 +3619,7 @@
                 "name": "Raio, Elimination Manifest (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 1/BP20-043.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-043EN.png",
                 "isHorizontal": false
             }
         },
@@ -3556,7 +3640,7 @@
                 "name": "Congregant of Destruction",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-044.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-044EN.png",
                 "isHorizontal": false
             }
         },
@@ -3577,7 +3661,7 @@
                 "name": "Devastating Soprano",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-045.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-045EN.png",
                 "isHorizontal": false
             }
         },
@@ -3598,7 +3682,7 @@
                 "name": "Congregant of Truth",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-046.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-046EN.png",
                 "isHorizontal": false
             }
         },
@@ -3619,7 +3703,7 @@
                 "name": "Congregant of Truth (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-047.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-047EN.png",
                 "isHorizontal": false
             }
         },
@@ -3640,7 +3724,7 @@
                 "name": "Supplicant of Destruction",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-048.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-048EN.png",
                 "isHorizontal": false
             }
         },
@@ -3661,7 +3745,7 @@
                 "name": "Illusory Conjuration",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-049.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-049EN.png",
                 "isHorizontal": false
             }
         },
@@ -3682,7 +3766,7 @@
                 "name": "Devotee of Destruction",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-050.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-050EN.png",
                 "isHorizontal": false
             }
         },
@@ -3703,7 +3787,7 @@
                 "name": "Devotee of Destruction (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-051.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-051EN.png",
                 "isHorizontal": false
             }
         },
@@ -3724,7 +3808,7 @@
                 "name": "Supplicant of Truth",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-052.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-052EN.png",
                 "isHorizontal": false
             }
         },
@@ -3745,7 +3829,7 @@
                 "name": "Devotee of Truth",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-053.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-053EN.png",
                 "isHorizontal": false
             }
         },
@@ -3766,7 +3850,7 @@
                 "name": "Ascetic of Wuxing",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-054.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-054EN.png",
                 "isHorizontal": false
             }
         },
@@ -3787,7 +3871,7 @@
                 "name": "Wasteland of Destruction",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-055.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-055EN.png",
                 "isHorizontal": false
             }
         },
@@ -3808,7 +3892,28 @@
                 "name": "Galmieux, Ardor Manifest",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-056.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-056EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Galmieux, Ardor Manifest",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Wyrmkin"
+    },
+    "BP20-U05EN": {
+        "id": "BP20-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Galmieux, Ardor Manifest",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U05EN.png",
                 "isHorizontal": false
             }
         },
@@ -3829,7 +3934,7 @@
                 "name": "Azurifrit, Heir to Disdain",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-057.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-057EN.png",
                 "isHorizontal": false
             }
         },
@@ -3850,7 +3955,7 @@
                 "name": "Azurifrit, Heir to Disdain (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-058.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-058EN.png",
                 "isHorizontal": false
             }
         },
@@ -3871,7 +3976,7 @@
                 "name": "Dagon, Lord of the Seas",
                 "type": "Follower",
                 "cost": 10,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-059.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-059EN.png",
                 "isHorizontal": false
             }
         },
@@ -3892,7 +3997,7 @@
                 "name": "Spoiled Mermanager",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-060.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-060EN.png",
                 "isHorizontal": false
             }
         },
@@ -3913,7 +4018,7 @@
                 "name": "Spoiled Mermanager (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-061.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-061EN.png",
                 "isHorizontal": false
             }
         },
@@ -3934,7 +4039,7 @@
                 "name": "Congregant of Disdain",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-062.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-062EN.png",
                 "isHorizontal": false
             }
         },
@@ -3955,7 +4060,7 @@
                 "name": "Ferocious Flame",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-063.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-063EN.png",
                 "isHorizontal": false
             }
         },
@@ -3976,7 +4081,7 @@
                 "name": "Supplicant of Disdain",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-064.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-064EN.png",
                 "isHorizontal": false
             }
         },
@@ -3997,7 +4102,7 @@
                 "name": "Supplicant of Disdain (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-065.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-065EN.png",
                 "isHorizontal": false
             }
         },
@@ -4018,7 +4123,7 @@
                 "name": "Encounter from the Deep",
                 "type": "Spell",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-066.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-066EN.png",
                 "isHorizontal": false
             }
         },
@@ -4039,7 +4144,7 @@
                 "name": "Nation of Disdain",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-067.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-067EN.png",
                 "isHorizontal": false
             }
         },
@@ -4060,7 +4165,7 @@
                 "name": "Snowstorm Dragonewt",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-068.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-068EN.png",
                 "isHorizontal": false
             }
         },
@@ -4081,7 +4186,7 @@
                 "name": "Snowstorm Dragonewt (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-069.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-069EN.png",
                 "isHorizontal": false
             }
         },
@@ -4102,7 +4207,7 @@
                 "name": "Devotee of Disdain",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-070.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-070EN.png",
                 "isHorizontal": false
             }
         },
@@ -4123,7 +4228,7 @@
                 "name": "Militant Mermaid",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-071.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-071EN.png",
                 "isHorizontal": false
             }
         },
@@ -4144,7 +4249,7 @@
                 "name": "Ocean Rider",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-072.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-072EN.png",
                 "isHorizontal": false
             }
         },
@@ -4165,7 +4270,7 @@
                 "name": "Raging Lightning",
                 "type": "Spell",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-073.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-073EN.png",
                 "isHorizontal": false
             }
         },
@@ -4186,7 +4291,28 @@
                 "name": "Rulenye & Valnareik",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-074.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-074EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rulenye & Valnareik",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Necromancer / Demon"
+    },
+    "BP20-U06EN": {
+        "id": "BP20-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rulenye & Valnareik",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U06EN.png",
                 "isHorizontal": false
             }
         },
@@ -4207,7 +4333,7 @@
                 "name": "Rulenye & Valnareik (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-075.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-075EN.png",
                 "isHorizontal": false
             }
         },
@@ -4228,7 +4354,7 @@
                 "name": "Sham-Nacha, Heir to Entwining",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-076.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-076EN.png",
                 "isHorizontal": false
             }
         },
@@ -4249,7 +4375,7 @@
                 "name": "Sham-Nacha, Heir to Entwining (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-077.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-077EN.png",
                 "isHorizontal": false
             }
         },
@@ -4270,7 +4396,7 @@
                 "name": "Diabolus Hedone",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-078.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-078EN.png",
                 "isHorizontal": false
             }
         },
@@ -4291,7 +4417,7 @@
                 "name": "Congregant of Entwining",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-079.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-079EN.png",
                 "isHorizontal": false
             }
         },
@@ -4312,7 +4438,7 @@
                 "name": "Congregant of Entwining (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-080.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-080EN.png",
                 "isHorizontal": false
             }
         },
@@ -4333,7 +4459,7 @@
                 "name": "Hervör",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-081.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-081EN.png",
                 "isHorizontal": false
             }
         },
@@ -4354,7 +4480,7 @@
                 "name": "Screaming and Loathing",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-082.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-082EN.png",
                 "isHorizontal": false
             }
         },
@@ -4375,7 +4501,7 @@
                 "name": "Spirited Gravekeeper",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-083.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-083EN.png",
                 "isHorizontal": false
             }
         },
@@ -4396,7 +4522,7 @@
                 "name": "Spirited Gravekeeper (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-084.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-084EN.png",
                 "isHorizontal": false
             }
         },
@@ -4417,7 +4543,7 @@
                 "name": "Supplicant of Entwining",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-085.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-085EN.png",
                 "isHorizontal": false
             }
         },
@@ -4438,7 +4564,7 @@
                 "name": "Castle of Entwining",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-086.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-086EN.png",
                 "isHorizontal": false
             }
         },
@@ -4459,7 +4585,7 @@
                 "name": "Ephemeral Demon Princess",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 2/BP20-087.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-087EN.png",
                 "isHorizontal": false
             }
         },
@@ -4480,7 +4606,7 @@
                 "name": "Ephemeral Demon Princess (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-088.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-088EN.png",
                 "isHorizontal": false
             }
         },
@@ -4501,7 +4627,7 @@
                 "name": "Devotee of Entwining",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-089.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-089EN.png",
                 "isHorizontal": false
             }
         },
@@ -4522,7 +4648,7 @@
                 "name": "Wicked Collector",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-090.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-090EN.png",
                 "isHorizontal": false
             }
         },
@@ -4543,7 +4669,7 @@
                 "name": "Nemean Lion",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-091.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-091EN.png",
                 "isHorizontal": false
             }
         },
@@ -4564,7 +4690,7 @@
                 "name": "March of the Brutes",
                 "type": "Spell",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-092.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-092EN.png",
                 "isHorizontal": false
             }
         },
@@ -4585,7 +4711,7 @@
                 "name": "Marwynn, Despair Manifest",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-093.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-093EN.png",
                 "isHorizontal": false
             }
         },
@@ -4606,7 +4732,7 @@
                 "name": "Himeka, Heir to Repose",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-094.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-094EN.png",
                 "isHorizontal": false
             }
         },
@@ -4627,7 +4753,28 @@
                 "name": "Himeka, Heir to Repose (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-095.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-095EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Himeka, Heir to Repose (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Heir / Zealot"
+    },
+    "BP20-U07EN": {
+        "id": "BP20-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Himeka, Heir to Repose (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U07EN.png",
                 "isHorizontal": false
             }
         },
@@ -4648,7 +4795,7 @@
                 "name": "Holy Serpent's Blessing",
                 "type": "Amulet",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-096.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-096EN.png",
                 "isHorizontal": false
             }
         },
@@ -4669,7 +4816,7 @@
                 "name": "Congregant of Repose",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-097.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-097EN.png",
                 "isHorizontal": false
             }
         },
@@ -4690,7 +4837,7 @@
                 "name": "Congregant of Repose (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-098.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-098EN.png",
                 "isHorizontal": false
             }
         },
@@ -4711,7 +4858,7 @@
                 "name": "Sacred Sheep",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-099.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-099EN.png",
                 "isHorizontal": false
             }
         },
@@ -4732,7 +4879,7 @@
                 "name": "Shining Disenchantment",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-100.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-100EN.png",
                 "isHorizontal": false
             }
         },
@@ -4753,7 +4900,7 @@
                 "name": "Supplicant of Repose",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-101.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-101EN.png",
                 "isHorizontal": false
             }
         },
@@ -4774,7 +4921,7 @@
                 "name": "Supplicant of Repose (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-102.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-102EN.png",
                 "isHorizontal": false
             }
         },
@@ -4795,7 +4942,7 @@
                 "name": "Temple of Repose",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-103.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-103EN.png",
                 "isHorizontal": false
             }
         },
@@ -4816,7 +4963,7 @@
                 "name": "Winged Lion Statue",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-104.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-104EN.png",
                 "isHorizontal": false
             }
         },
@@ -4837,7 +4984,7 @@
                 "name": "Knight of the Holy Order",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-105.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-105EN.png",
                 "isHorizontal": false
             }
         },
@@ -4858,7 +5005,7 @@
                 "name": "Knight of the Holy Order (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-106.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-106EN.png",
                 "isHorizontal": false
             }
         },
@@ -4879,7 +5026,7 @@
                 "name": "Devotee of Repose",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-107.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-107EN.png",
                 "isHorizontal": false
             }
         },
@@ -4900,7 +5047,7 @@
                 "name": "Featherfolk Courier",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-108.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-108EN.png",
                 "isHorizontal": false
             }
         },
@@ -4921,7 +5068,7 @@
                 "name": "Peckish Al-mi'raj",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-109.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-109EN.png",
                 "isHorizontal": false
             }
         },
@@ -4942,7 +5089,7 @@
                 "name": "Blinding Faith",
                 "type": "Spell",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-110.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-110EN.png",
                 "isHorizontal": false
             }
         },
@@ -4963,7 +5110,7 @@
                 "name": "Mjerrabaine, Great Manifest",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-111.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-111EN.png",
                 "isHorizontal": false
             }
         },
@@ -4984,7 +5131,7 @@
                 "name": "Mjerrabaine, Great Manifest (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-112.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-112EN.png",
                 "isHorizontal": false
             }
         },
@@ -5005,7 +5152,28 @@
                 "name": "Gilnelise, Voracity Manifest",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-113.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-113EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gilnelise, Voracity Manifest",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen"
+    },
+    "BP20-U08EN": {
+        "id": "BP20-U08EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gilnelise, Voracity Manifest",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U08EN.png",
                 "isHorizontal": false
             }
         },
@@ -5026,7 +5194,7 @@
                 "name": "Dogged One",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-114.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-114EN.png",
                 "isHorizontal": false
             }
         },
@@ -5047,7 +5215,7 @@
                 "name": "Dogged One (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-115.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-115EN.png",
                 "isHorizontal": false
             }
         },
@@ -5068,7 +5236,7 @@
                 "name": "Inspirational One",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-116.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-116EN.png",
                 "isHorizontal": false
             }
         },
@@ -5089,7 +5257,7 @@
                 "name": "Tablet of Tribulations",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-117.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-117EN.png",
                 "isHorizontal": false
             }
         },
@@ -5110,7 +5278,7 @@
                 "name": "Apostle of Voracity",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-118.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-118EN.png",
                 "isHorizontal": false
             }
         },
@@ -5131,7 +5299,7 @@
                 "name": "Apostle of Voracity (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-119.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-119EN.png",
                 "isHorizontal": false
             }
         },
@@ -5152,7 +5320,7 @@
                 "name": "Greatness Ascended",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-120.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-120EN.png",
                 "isHorizontal": false
             }
         },
@@ -5173,7 +5341,7 @@
                 "name": "Crest: Krulle, Heir to Unkilling",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T01.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T01EN.png",
                 "isHorizontal": false
             }
         },
@@ -5194,7 +5362,7 @@
                 "name": "Crest: Octrice, Hollowness Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T02.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T02EN.png",
                 "isHorizontal": false
             }
         },
@@ -5215,7 +5383,7 @@
                 "name": "White Psalm, New Revelation",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T03.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T03EN.png",
                 "isHorizontal": false
             }
         },
@@ -5236,7 +5404,7 @@
                 "name": "Black Psalm, New Revelation",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T04.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T04EN.png",
                 "isHorizontal": false
             }
         },
@@ -5257,7 +5425,7 @@
                 "name": "Crest: Galmieux, Ardor Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T05.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T05EN.png",
                 "isHorizontal": false
             }
         },
@@ -5278,7 +5446,7 @@
                 "name": "Crest: Sham-Nacha, Heir to Entwining",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T06.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T06EN.png",
                 "isHorizontal": false
             }
         },
@@ -5299,7 +5467,7 @@
                 "name": "Crest: Marwynn, Despair Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T07.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T07EN.png",
                 "isHorizontal": false
             }
         },
@@ -5320,7 +5488,7 @@
                 "name": "Crest: Himeka, Heir to Repose",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T08.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T08EN.png",
                 "isHorizontal": false
             }
         },
@@ -5341,7 +5509,7 @@
                 "name": "Crest: Congregant of Repose",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T09.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T09EN.png",
                 "isHorizontal": false
             }
         },
@@ -5362,7 +5530,7 @@
                 "name": "Crest: Supplicant of Repose",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T10.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T10EN.png",
                 "isHorizontal": false
             }
         },
@@ -5383,7 +5551,7 @@
                 "name": "Crest: Mjerrabaine, Great Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T11.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T11EN.png",
                 "isHorizontal": false
             }
         },
@@ -5396,15 +5564,15 @@
         "Set": "BP20",
         "Trait": "Omen"
     },
-    "BP19-001": {
-        "id": "BP19-001",
+    "BP19-001EN": {
+        "id": "BP19-001EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Magachiyo, Barbed Convict",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-001.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-001EN.png",
                 "isHorizontal": false
             }
         },
@@ -5417,15 +5585,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-002": {
-        "id": "BP19-002",
+    "BP19-002EN": {
+        "id": "BP19-002EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Magachiyo, Barbed Convict (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-002.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-002EN.png",
                 "isHorizontal": false
             }
         },
@@ -5438,15 +5606,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-003": {
-        "id": "BP19-003",
+    "BP19-U01EN": {
+        "id": "BP19-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magachiyo, Barbed Convict (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magachiyo, Barbed Convict (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Elf"
+    },
+    "BP19-003EN": {
+        "id": "BP19-003EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Wimael, Redolent Enforcer",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-003.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-003EN.png",
                 "isHorizontal": false
             }
         },
@@ -5459,15 +5648,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Verdant / Insect"
     },
-    "BP19-004": {
-        "id": "BP19-004",
+    "BP19-004EN": {
+        "id": "BP19-004EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Zwei, Symphonic Heart",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-004.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-004EN.png",
                 "isHorizontal": false
             }
         },
@@ -5480,15 +5669,15 @@
         "Set": "BP19",
         "Trait": "Puppetry / Cutthroat"
     },
-    "BP19-005": {
-        "id": "BP19-005",
+    "BP19-005EN": {
+        "id": "BP19-005EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Verdant Lieutenant",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-005.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-005EN.png",
                 "isHorizontal": false
             }
         },
@@ -5501,15 +5690,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-006": {
-        "id": "BP19-006",
+    "BP19-006EN": {
+        "id": "BP19-006EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Verdant Lieutenant (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-006.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-006EN.png",
                 "isHorizontal": false
             }
         },
@@ -5522,15 +5711,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-007": {
-        "id": "BP19-007",
+    "BP19-007EN": {
+        "id": "BP19-007EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of Balms",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-007.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-007EN.png",
                 "isHorizontal": false
             }
         },
@@ -5543,15 +5732,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Verdant / Insect"
     },
-    "BP19-008": {
-        "id": "BP19-008",
+    "BP19-008EN": {
+        "id": "BP19-008EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Synchronous Hearts",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-008.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-008EN.png",
                 "isHorizontal": false
             }
         },
@@ -5564,15 +5753,15 @@
         "Set": "BP19",
         "Trait": "Puppetry / Cutthroat"
     },
-    "BP19-009": {
-        "id": "BP19-009",
+    "BP19-009EN": {
+        "id": "BP19-009EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Budding Initiate",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-009.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-009EN.png",
                 "isHorizontal": false
             }
         },
@@ -5585,15 +5774,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-010": {
-        "id": "BP19-010",
+    "BP19-010EN": {
+        "id": "BP19-010EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Budding Initiate (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-010.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-010EN.png",
                 "isHorizontal": false
             }
         },
@@ -5606,15 +5795,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-011": {
-        "id": "BP19-011",
+    "BP19-011EN": {
+        "id": "BP19-011EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Leafshade Assassin",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-011.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-011EN.png",
                 "isHorizontal": false
             }
         },
@@ -5627,15 +5816,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
-    "BP19-012": {
-        "id": "BP19-012",
+    "BP19-012EN": {
+        "id": "BP19-012EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Puppet Workout",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-012.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-012EN.png",
                 "isHorizontal": false
             }
         },
@@ -5648,15 +5837,15 @@
         "Set": "BP19",
         "Trait": "Puppetry"
     },
-    "BP19-013": {
-        "id": "BP19-013",
+    "BP19-013EN": {
+        "id": "BP19-013EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Beast Lancer",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-013.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-013EN.png",
                 "isHorizontal": false
             }
         },
@@ -5669,15 +5858,15 @@
         "Set": "BP19",
         "Trait": "Beast"
     },
-    "BP19-014": {
-        "id": "BP19-014",
+    "BP19-014EN": {
+        "id": "BP19-014EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Beast Lancer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-014.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-014EN.png",
                 "isHorizontal": false
             }
         },
@@ -5690,15 +5879,15 @@
         "Set": "BP19",
         "Trait": "Beast"
     },
-    "BP19-015": {
-        "id": "BP19-015",
+    "BP19-015EN": {
+        "id": "BP19-015EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Merchant of the Wood",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-015.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-015EN.png",
                 "isHorizontal": false
             }
         },
@@ -5711,15 +5900,15 @@
         "Set": "BP19",
         "Trait": "Merchant / Beast"
     },
-    "BP19-016": {
-        "id": "BP19-016",
+    "BP19-016EN": {
+        "id": "BP19-016EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Rogue Puppeteer",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-016.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-016EN.png",
                 "isHorizontal": false
             }
         },
@@ -5732,15 +5921,15 @@
         "Set": "BP19",
         "Trait": "Puppetry"
     },
-    "BP19-017": {
-        "id": "BP19-017",
+    "BP19-017EN": {
+        "id": "BP19-017EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Support Troop Elf",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-017.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-017EN.png",
                 "isHorizontal": false
             }
         },
@@ -5753,15 +5942,15 @@
         "Set": "BP19",
         "Trait": "Elf"
     },
-    "BP19-018": {
-        "id": "BP19-018",
+    "BP19-018EN": {
+        "id": "BP19-018EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Galepierce",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-018.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-018EN.png",
                 "isHorizontal": false
             }
         },
@@ -5774,15 +5963,15 @@
         "Set": "BP19",
         "Trait": "Elf"
     },
-    "BP19-019": {
-        "id": "BP19-019",
+    "BP19-019EN": {
+        "id": "BP19-019EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Barbaros, Briny Convict",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-019.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-019EN.png",
                 "isHorizontal": false
             }
         },
@@ -5795,15 +5984,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief"
     },
-    "BP19-020": {
-        "id": "BP19-020",
+    "BP19-SP01EN": {
+        "id": "BP19-SP01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Barbaros, Briny Convict",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-SP01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Barbaros, Briny Convict",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Thief"
+    },
+    "BP19-020EN": {
+        "id": "BP19-020EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Barbaros, Briny Convict (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-020.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-020EN.png",
                 "isHorizontal": false
             }
         },
@@ -5816,15 +6026,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief"
     },
-    "BP19-021": {
-        "id": "BP19-021",
+    "BP19-U02EN": {
+        "id": "BP19-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Barbaros, Briny Convict (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Barbaros, Briny Convict (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Thief"
+    },
+    "BP19-021EN": {
+        "id": "BP19-021EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Radiel, Valorous Enforcer",
                 "type": "Follower",
                 "cost": "7",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-021.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-021EN.png",
                 "isHorizontal": false
             }
         },
@@ -5837,15 +6068,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Commander"
     },
-    "BP19-022": {
-        "id": "BP19-022",
+    "BP19-022EN": {
+        "id": "BP19-022EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Gildaria, Anathema of Peace",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-022.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-022EN.png",
                 "isHorizontal": false
             }
         },
@@ -5858,15 +6089,15 @@
         "Set": "BP19",
         "Trait": "Anathema / Beast"
     },
-    "BP19-023": {
-        "id": "BP19-023",
+    "BP19-023EN": {
+        "id": "BP19-023EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Gildaria, Anathema of Peace (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-023.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-023EN.png",
                 "isHorizontal": false
             }
         },
@@ -5879,15 +6110,15 @@
         "Set": "BP19",
         "Trait": "Anathema / Beast"
     },
-    "BP19-024": {
-        "id": "BP19-024",
+    "BP19-024EN": {
+        "id": "BP19-024EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of Honor",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-024.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-024EN.png",
                 "isHorizontal": false
             }
         },
@@ -5900,15 +6131,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Commander"
     },
-    "BP19-025": {
-        "id": "BP19-025",
+    "BP19-025EN": {
+        "id": "BP19-025EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of Honor (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-025.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-025EN.png",
                 "isHorizontal": false
             }
         },
@@ -5921,15 +6152,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Commander"
     },
-    "BP19-026": {
-        "id": "BP19-026",
+    "BP19-026EN": {
+        "id": "BP19-026EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Tidal Gunner",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-026.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-026EN.png",
                 "isHorizontal": false
             }
         },
@@ -5942,15 +6173,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief"
     },
-    "BP19-027": {
-        "id": "BP19-027",
+    "BP19-027EN": {
+        "id": "BP19-027EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Prim, Princess's Picnic",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-027.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-027EN.png",
                 "isHorizontal": false
             }
         },
@@ -5963,15 +6194,15 @@
         "Set": "BP19",
         "Trait": "Commander / Princess"
     },
-    "BP19-028": {
-        "id": "BP19-028",
+    "BP19-028EN": {
+        "id": "BP19-028EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Storm-Wracked First Mate",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-028.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-028EN.png",
                 "isHorizontal": false
             }
         },
@@ -5984,15 +6215,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief"
     },
-    "BP19-029": {
-        "id": "BP19-029",
+    "BP19-029EN": {
+        "id": "BP19-029EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Storm-Wracked First Mate (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-029.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-029EN.png",
                 "isHorizontal": false
             }
         },
@@ -6005,15 +6236,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief"
     },
-    "BP19-030": {
-        "id": "BP19-030",
+    "BP19-030EN": {
+        "id": "BP19-030EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Deep-Sea Scout",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-030.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-030EN.png",
                 "isHorizontal": false
             }
         },
@@ -6026,15 +6257,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief"
     },
-    "BP19-031": {
-        "id": "BP19-031",
+    "BP19-031EN": {
+        "id": "BP19-031EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Return from the Brink",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-031.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-031EN.png",
                 "isHorizontal": false
             }
         },
@@ -6047,15 +6278,15 @@
         "Set": "BP19",
         "Trait": "Officer"
     },
-    "BP19-032": {
-        "id": "BP19-032",
+    "BP19-032EN": {
+        "id": "BP19-032EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Felpurr Maid",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-032.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-032EN.png",
                 "isHorizontal": false
             }
         },
@@ -6068,15 +6299,15 @@
         "Set": "BP19",
         "Trait": "Maid / Beast"
     },
-    "BP19-033": {
-        "id": "BP19-033",
+    "BP19-033EN": {
+        "id": "BP19-033EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Felpurr Maid (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-033.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-033EN.png",
                 "isHorizontal": false
             }
         },
@@ -6089,15 +6320,15 @@
         "Set": "BP19",
         "Trait": "Maid / Beast"
     },
-    "BP19-034": {
-        "id": "BP19-034",
+    "BP19-034EN": {
+        "id": "BP19-034EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Knightly Thief",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-034.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-034EN.png",
                 "isHorizontal": false
             }
         },
@@ -6110,15 +6341,15 @@
         "Set": "BP19",
         "Trait": "Officer / Thief"
     },
-    "BP19-035": {
-        "id": "BP19-035",
+    "BP19-035EN": {
+        "id": "BP19-035EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Heavy Warrior",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-035.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-035EN.png",
                 "isHorizontal": false
             }
         },
@@ -6131,15 +6362,15 @@
         "Set": "BP19",
         "Trait": "Officer"
     },
-    "BP19-036": {
-        "id": "BP19-036",
+    "BP19-036EN": {
+        "id": "BP19-036EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Ninja Onslaught",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-036.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-036EN.png",
                 "isHorizontal": false
             }
         },
@@ -6152,15 +6383,15 @@
         "Set": "BP19",
         "Trait": "Ninja"
     },
-    "BP19-037": {
-        "id": "BP19-037",
+    "BP19-037EN": {
+        "id": "BP19-037EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Cannon Volley",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-037.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-037EN.png",
                 "isHorizontal": false
             }
         },
@@ -6173,15 +6404,15 @@
         "Set": "BP19",
         "Trait": "Officer"
     },
-    "BP19-038": {
-        "id": "BP19-038",
+    "BP19-038EN": {
+        "id": "BP19-038EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sephie, Depraved Convict",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-038.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-038EN.png",
                 "isHorizontal": false
             }
         },
@@ -6194,15 +6425,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Alchemist / Forbidden"
     },
-    "BP19-039": {
-        "id": "BP19-039",
+    "BP19-039EN": {
+        "id": "BP19-039EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sephie, Depraved Convict (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-039.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-039EN.png",
                 "isHorizontal": false
             }
         },
@@ -6215,15 +6446,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Alchemist / Forbidden"
     },
-    "BP19-040": {
-        "id": "BP19-040",
+    "BP19-U03EN": {
+        "id": "BP19-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sephie, Depraved Convict (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sephie, Depraved Convict (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "4",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Alchemist / Forbidden"
+    },
+    "BP19-040EN": {
+        "id": "BP19-040EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Simael, Cleansing Enforcer",
                 "type": "Follower",
                 "cost": "10",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 1/BP19-040.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-040EN.png",
                 "isHorizontal": false
             }
         },
@@ -6236,15 +6488,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Mage"
     },
-    "BP19-041": {
-        "id": "BP19-041",
+    "BP19-041EN": {
+        "id": "BP19-041EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Kyrzael, Killshot Enforcer",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-041.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-041EN.png",
                 "isHorizontal": false
             }
         },
@@ -6257,15 +6509,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Machina"
     },
-    "BP19-042": {
-        "id": "BP19-042",
+    "BP19-042EN": {
+        "id": "BP19-042EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Obsessive Scholar",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-042.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-042EN.png",
                 "isHorizontal": false
             }
         },
@@ -6278,15 +6530,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Alchemist / Forbidden"
     },
-    "BP19-043": {
-        "id": "BP19-043",
+    "BP19-043EN": {
+        "id": "BP19-043EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Obsessive Scholar (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-043.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-043EN.png",
                 "isHorizontal": false
             }
         },
@@ -6299,15 +6551,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Alchemist / Forbidden"
     },
-    "BP19-044": {
-        "id": "BP19-044",
+    "BP19-044EN": {
+        "id": "BP19-044EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of the Trigger",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-044.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-044EN.png",
                 "isHorizontal": false
             }
         },
@@ -6320,15 +6572,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Machina"
     },
-    "BP19-045": {
-        "id": "BP19-045",
+    "BP19-045EN": {
+        "id": "BP19-045EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of the Arcane",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-045.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-045EN.png",
                 "isHorizontal": false
             }
         },
@@ -6341,15 +6593,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Mage"
     },
-    "BP19-046": {
-        "id": "BP19-046",
+    "BP19-046EN": {
+        "id": "BP19-046EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Devoted Researcher",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-046.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-046EN.png",
                 "isHorizontal": false
             }
         },
@@ -6362,15 +6614,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Alchemist / Forbidden"
     },
-    "BP19-047": {
-        "id": "BP19-047",
+    "BP19-047EN": {
+        "id": "BP19-047EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Devoted Researcher (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-047.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-047EN.png",
                 "isHorizontal": false
             }
         },
@@ -6383,15 +6635,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Alchemist / Forbidden"
     },
-    "BP19-048": {
-        "id": "BP19-048",
+    "BP19-048EN": {
+        "id": "BP19-048EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Volunteer Test Subject",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-048.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-048EN.png",
                 "isHorizontal": false
             }
         },
@@ -6404,15 +6656,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Arcanaform / Forbidden"
     },
-    "BP19-049": {
-        "id": "BP19-049",
+    "BP19-049EN": {
+        "id": "BP19-049EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Astral Dancer",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-049.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-049EN.png",
                 "isHorizontal": false
             }
         },
@@ -6425,15 +6677,15 @@
         "Set": "BP19",
         "Trait": "Mage / Dancer"
     },
-    "BP19-050": {
-        "id": "BP19-050",
+    "BP19-050EN": {
+        "id": "BP19-050EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Electrokitty",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-050.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-050EN.png",
                 "isHorizontal": false
             }
         },
@@ -6446,15 +6698,15 @@
         "Set": "BP19",
         "Trait": "Arcanaform"
     },
-    "BP19-051": {
-        "id": "BP19-051",
+    "BP19-051EN": {
+        "id": "BP19-051EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Electrokitty (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-051.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-051EN.png",
                 "isHorizontal": false
             }
         },
@@ -6467,15 +6719,15 @@
         "Set": "BP19",
         "Trait": "Arcanaform"
     },
-    "BP19-052": {
-        "id": "BP19-052",
+    "BP19-052EN": {
+        "id": "BP19-052EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Outdoorsmage",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-052.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-052EN.png",
                 "isHorizontal": false
             }
         },
@@ -6488,15 +6740,15 @@
         "Set": "BP19",
         "Trait": "Mage"
     },
-    "BP19-053": {
-        "id": "BP19-053",
+    "BP19-053EN": {
+        "id": "BP19-053EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Ultramarine Witch",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-053.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-053EN.png",
                 "isHorizontal": false
             }
         },
@@ -6509,15 +6761,15 @@
         "Set": "BP19",
         "Trait": "Mage"
     },
-    "BP19-054": {
-        "id": "BP19-054",
+    "BP19-054EN": {
+        "id": "BP19-054EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Feline Magic",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-054.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-054EN.png",
                 "isHorizontal": false
             }
         },
@@ -6530,15 +6782,15 @@
         "Set": "BP19",
         "Trait": "Mage / Arcanaform"
     },
-    "BP19-055": {
-        "id": "BP19-055",
+    "BP19-055EN": {
+        "id": "BP19-055EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Meandering Bolt",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-055.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-055EN.png",
                 "isHorizontal": false
             }
         },
@@ -6551,15 +6803,15 @@
         "Set": "BP19",
         "Trait": "Mage"
     },
-    "BP19-056": {
-        "id": "BP19-056",
+    "BP19-056EN": {
+        "id": "BP19-056EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Antemaria, Huntress Convict",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-056.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-056EN.png",
                 "isHorizontal": false
             }
         },
@@ -6572,15 +6824,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Dragonewt"
     },
-    "BP19-057": {
-        "id": "BP19-057",
+    "BP19-U04EN": {
+        "id": "BP19-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Antemaria, Huntress Convict",
+                "type": "Follower",
+                "cost": "6",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Antemaria, Huntress Convict",
+        "type": "Follower",
+        "cost": "6",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Dragonewt"
+    },
+    "BP19-057EN": {
+        "id": "BP19-057EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Drazael, Ravening Enforcer",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-057.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-057EN.png",
                 "isHorizontal": false
             }
         },
@@ -6593,15 +6866,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Wyrmkin"
     },
-    "BP19-058": {
-        "id": "BP19-058",
+    "BP19-058EN": {
+        "id": "BP19-058EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Drazael, Ravening Enforcer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-058.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-058EN.png",
                 "isHorizontal": false
             }
         },
@@ -6614,15 +6887,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Wyrmkin"
     },
-    "BP19-059": {
-        "id": "BP19-059",
+    "BP19-059EN": {
+        "id": "BP19-059EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Masamune, One-Eyed Dragon",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-059.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-059EN.png",
                 "isHorizontal": false
             }
         },
@@ -6635,15 +6908,15 @@
         "Set": "BP19",
         "Trait": "Dragonheart / Draconic Duelist"
     },
-    "BP19-060": {
-        "id": "BP19-060",
+    "BP19-060EN": {
+        "id": "BP19-060EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Scorched-Earth Tyrant",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-060.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-060EN.png",
                 "isHorizontal": false
             }
         },
@@ -6656,15 +6929,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Dragonewt"
     },
-    "BP19-061": {
-        "id": "BP19-061",
+    "BP19-061EN": {
+        "id": "BP19-061EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Scorched-Earth Tyrant (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-061.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-061EN.png",
                 "isHorizontal": false
             }
         },
@@ -6677,15 +6950,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Dragonewt"
     },
-    "BP19-062": {
-        "id": "BP19-062",
+    "BP19-062EN": {
+        "id": "BP19-062EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Neptune, Arbiter of Tides",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-062.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-062EN.png",
                 "isHorizontal": false
             }
         },
@@ -6698,15 +6971,15 @@
         "Set": "BP19",
         "Trait": "Dragonheart / Marine"
     },
-    "BP19-063": {
-        "id": "BP19-063",
+    "BP19-063EN": {
+        "id": "BP19-063EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of the Adamant Claw",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-063.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-063EN.png",
                 "isHorizontal": false
             }
         },
@@ -6719,15 +6992,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Wyrmkin"
     },
-    "BP19-064": {
-        "id": "BP19-064",
+    "BP19-064EN": {
+        "id": "BP19-064EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Hotheaded Marauder",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-064.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-064EN.png",
                 "isHorizontal": false
             }
         },
@@ -6740,15 +7013,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Dragonewt"
     },
-    "BP19-065": {
-        "id": "BP19-065",
+    "BP19-065EN": {
+        "id": "BP19-065EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Hotheaded Marauder (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-065.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-065EN.png",
                 "isHorizontal": false
             }
         },
@@ -6761,15 +7034,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Dragonewt"
     },
-    "BP19-066": {
-        "id": "BP19-066",
+    "BP19-066EN": {
+        "id": "BP19-066EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Razor-Clawed Thief",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-066.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-066EN.png",
                 "isHorizontal": false
             }
         },
@@ -6782,15 +7055,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Dragonewt"
     },
-    "BP19-067": {
-        "id": "BP19-067",
+    "BP19-067EN": {
+        "id": "BP19-067EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Seasoned Merman",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-067.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-067EN.png",
                 "isHorizontal": false
             }
         },
@@ -6803,15 +7076,15 @@
         "Set": "BP19",
         "Trait": "Marine"
     },
-    "BP19-068": {
-        "id": "BP19-068",
+    "BP19-068EN": {
+        "id": "BP19-068EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Dancing Crab",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-068.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-068EN.png",
                 "isHorizontal": false
             }
         },
@@ -6824,15 +7097,15 @@
         "Set": "BP19",
         "Trait": "Marine"
     },
-    "BP19-069": {
-        "id": "BP19-069",
+    "BP19-069EN": {
+        "id": "BP19-069EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Dancing Crab (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-069.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-069EN.png",
                 "isHorizontal": false
             }
         },
@@ -6845,15 +7118,15 @@
         "Set": "BP19",
         "Trait": "Marine"
     },
-    "BP19-070": {
-        "id": "BP19-070",
+    "BP19-070EN": {
+        "id": "BP19-070EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Mermaid Songstress",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-070.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-070EN.png",
                 "isHorizontal": false
             }
         },
@@ -6866,15 +7139,15 @@
         "Set": "BP19",
         "Trait": "Marine / Musical"
     },
-    "BP19-071": {
-        "id": "BP19-071",
+    "BP19-071EN": {
+        "id": "BP19-071EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Dark Mermaid",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-071.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-071EN.png",
                 "isHorizontal": false
             }
         },
@@ -6887,15 +7160,15 @@
         "Set": "BP19",
         "Trait": "Marine"
     },
-    "BP19-072": {
-        "id": "BP19-072",
+    "BP19-072EN": {
+        "id": "BP19-072EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Dragonewt's Might",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-072.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-072EN.png",
                 "isHorizontal": false
             }
         },
@@ -6908,15 +7181,15 @@
         "Set": "BP19",
         "Trait": "Dragonewt / Draconic Duelist"
     },
-    "BP19-073": {
-        "id": "BP19-073",
+    "BP19-073EN": {
+        "id": "BP19-073EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Call of the Megalorca",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-073.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-073EN.png",
                 "isHorizontal": false
             }
         },
@@ -6929,15 +7202,15 @@
         "Set": "BP19",
         "Trait": "Marine"
     },
-    "BP19-074": {
-        "id": "BP19-074",
+    "BP19-074EN": {
+        "id": "BP19-074EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Istyndet, Soul Convict",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-074.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-074EN.png",
                 "isHorizontal": false
             }
         },
@@ -6950,15 +7223,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Necromancer"
     },
-    "BP19-075": {
-        "id": "BP19-075",
+    "BP19-U05EN": {
+        "id": "BP19-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Istyndet, Soul Convict",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Istyndet, Soul Convict",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Necromancer"
+    },
+    "BP19-075EN": {
+        "id": "BP19-075EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Garodeth, Insurgent Convict",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-075.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-075EN.png",
                 "isHorizontal": false
             }
         },
@@ -6971,15 +7265,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-076": {
-        "id": "BP19-076",
+    "BP19-076EN": {
+        "id": "BP19-076EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Garodeth, Insurgent Convict (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-076.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-076EN.png",
                 "isHorizontal": false
             }
         },
@@ -6992,19 +7286,19 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-077": {
-        "id": "BP19-077",
+    "BP19-077EN": {
+        "id": "BP19-077EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Zeronua, Demon of Domination",
+                "name": "Zeronua, Demon Dominator",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-077.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-077EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Zeronua, Demon of Domination",
+        "name": "Zeronua, Demon Dominator",
         "type": "Follower",
         "cost": "2",
         "Class": [
@@ -7013,15 +7307,15 @@
         "Set": "BP19",
         "Trait": "Festive / Demon"
     },
-    "BP19-078": {
-        "id": "BP19-078",
+    "BP19-078EN": {
+        "id": "BP19-078EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Abyssal Colonel",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-078.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-078EN.png",
                 "isHorizontal": false
             }
         },
@@ -7034,15 +7328,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Departed"
     },
-    "BP19-079": {
-        "id": "BP19-079",
+    "BP19-079EN": {
+        "id": "BP19-079EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Abyssal Colonel (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-079.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-079EN.png",
                 "isHorizontal": false
             }
         },
@@ -7055,15 +7349,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Departed"
     },
-    "BP19-080": {
-        "id": "BP19-080",
+    "BP19-080EN": {
+        "id": "BP19-080EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Myroel, Death Enforcer",
                 "type": "Follower",
                 "cost": "7",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-080.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-080EN.png",
                 "isHorizontal": false
             }
         },
@@ -7076,15 +7370,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-081": {
-        "id": "BP19-081",
+    "BP19-081EN": {
+        "id": "BP19-081EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Genomuel, Wyrm Enforcer",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 2/BP19-081.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-081EN.png",
                 "isHorizontal": false
             }
         },
@@ -7097,15 +7391,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-082": {
-        "id": "BP19-082",
+    "BP19-082EN": {
+        "id": "BP19-082EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Underworld Lieutenant",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-082.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-082EN.png",
                 "isHorizontal": false
             }
         },
@@ -7118,15 +7412,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Departed"
     },
-    "BP19-083": {
-        "id": "BP19-083",
+    "BP19-083EN": {
+        "id": "BP19-083EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Underworld Lieutenant (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-083.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-083EN.png",
                 "isHorizontal": false
             }
         },
@@ -7139,15 +7433,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Departed"
     },
-    "BP19-084": {
-        "id": "BP19-084",
+    "BP19-084EN": {
+        "id": "BP19-084EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of Corpses",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-084.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-084EN.png",
                 "isHorizontal": false
             }
         },
@@ -7160,15 +7454,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-085": {
-        "id": "BP19-085",
+    "BP19-085EN": {
+        "id": "BP19-085EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Raging Commander",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-085.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-085EN.png",
                 "isHorizontal": false
             }
         },
@@ -7181,15 +7475,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-086": {
-        "id": "BP19-086",
+    "BP19-086EN": {
+        "id": "BP19-086EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Vicious Blitzer",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-086.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-086EN.png",
                 "isHorizontal": false
             }
         },
@@ -7202,15 +7496,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-087": {
-        "id": "BP19-087",
+    "BP19-087EN": {
+        "id": "BP19-087EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Vicious Blitzer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-087.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-087EN.png",
                 "isHorizontal": false
             }
         },
@@ -7223,15 +7517,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-088": {
-        "id": "BP19-088",
+    "BP19-088EN": {
+        "id": "BP19-088EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Fallen Sergeant",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-088.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-088EN.png",
                 "isHorizontal": false
             }
         },
@@ -7244,15 +7538,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Departed"
     },
-    "BP19-089": {
-        "id": "BP19-089",
+    "BP19-089EN": {
+        "id": "BP19-089EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Steamrolling Tank",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-089.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-089EN.png",
                 "isHorizontal": false
             }
         },
@@ -7265,15 +7559,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Demon"
     },
-    "BP19-090": {
-        "id": "BP19-090",
+    "BP19-090EN": {
+        "id": "BP19-090EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Howling Scream",
                 "type": "Spell",
                 "cost": "0",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-090.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-090EN.png",
                 "isHorizontal": false
             }
         },
@@ -7286,15 +7580,15 @@
         "Set": "BP19",
         "Trait": "Beast"
     },
-    "BP19-091": {
-        "id": "BP19-091",
+    "BP19-091EN": {
+        "id": "BP19-091EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Prison of Pain",
                 "type": "Amulet",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-091.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-091EN.png",
                 "isHorizontal": false
             }
         },
@@ -7307,15 +7601,15 @@
         "Set": "BP19",
         "Trait": "Demon"
     },
-    "BP19-092": {
-        "id": "BP19-092",
+    "BP19-092EN": {
+        "id": "BP19-092EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Erralde, Troth Convict",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-092.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-092EN.png",
                 "isHorizontal": false
             }
         },
@@ -7328,15 +7622,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Luminary"
     },
-    "BP19-093": {
-        "id": "BP19-093",
+    "BP19-U06EN": {
+        "id": "BP19-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Erralde, Troth Convict",
+                "type": "Follower",
+                "cost": "6",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Erralde, Troth Convict",
+        "type": "Follower",
+        "cost": "6",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Luminary"
+    },
+    "BP19-093EN": {
+        "id": "BP19-093EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Uneriel, Winged Enforcer",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-093.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-093EN.png",
                 "isHorizontal": false
             }
         },
@@ -7349,15 +7664,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Avian"
     },
-    "BP19-094": {
-        "id": "BP19-094",
+    "BP19-094EN": {
+        "id": "BP19-094EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Uneriel, Winged Enforcer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-094.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-094EN.png",
                 "isHorizontal": false
             }
         },
@@ -7370,15 +7685,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Avian"
     },
-    "BP19-095": {
-        "id": "BP19-095",
+    "BP19-095EN": {
+        "id": "BP19-095EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Zoe, Queen of Hope",
                 "type": "Follower",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-095.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-095EN.png",
                 "isHorizontal": false
             }
         },
@@ -7391,15 +7706,15 @@
         "Set": "BP19",
         "Trait": "Faith / Princess"
     },
-    "BP19-096": {
-        "id": "BP19-096",
+    "BP19-096EN": {
+        "id": "BP19-096EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of the Wings",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-096.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-096EN.png",
                 "isHorizontal": false
             }
         },
@@ -7412,15 +7727,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Avian"
     },
-    "BP19-097": {
-        "id": "BP19-097",
+    "BP19-097EN": {
+        "id": "BP19-097EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of the Wings (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-097.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-097EN.png",
                 "isHorizontal": false
             }
         },
@@ -7433,15 +7748,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Avian"
     },
-    "BP19-098": {
-        "id": "BP19-098",
+    "BP19-098EN": {
+        "id": "BP19-098EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Executor of the Oath",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-098.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-098EN.png",
                 "isHorizontal": false
             }
         },
@@ -7454,15 +7769,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Faith"
     },
-    "BP19-099": {
-        "id": "BP19-099",
+    "BP19-099EN": {
+        "id": "BP19-099EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Meus Gourmand",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-099.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-099EN.png",
                 "isHorizontal": false
             }
         },
@@ -7475,15 +7790,15 @@
         "Set": "BP19",
         "Trait": "Beast / Chef"
     },
-    "BP19-100": {
-        "id": "BP19-100",
+    "BP19-100EN": {
+        "id": "BP19-100EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Agent of the Commandments",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-100.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-100EN.png",
                 "isHorizontal": false
             }
         },
@@ -7496,15 +7811,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Faith"
     },
-    "BP19-101": {
-        "id": "BP19-101",
+    "BP19-101EN": {
+        "id": "BP19-101EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Agent of the Commandments (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-101.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-101EN.png",
                 "isHorizontal": false
             }
         },
@@ -7517,15 +7832,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Faith"
     },
-    "BP19-102": {
-        "id": "BP19-102",
+    "BP19-102EN": {
+        "id": "BP19-102EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Follower of the Precepts",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-102.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-102EN.png",
                 "isHorizontal": false
             }
         },
@@ -7538,15 +7853,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Faith"
     },
-    "BP19-103": {
-        "id": "BP19-103",
+    "BP19-103EN": {
+        "id": "BP19-103EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sacrosanct Temple",
                 "type": "Amulet",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-103.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-103EN.png",
                 "isHorizontal": false
             }
         },
@@ -7559,15 +7874,15 @@
         "Set": "BP19",
         "Trait": "Faith"
     },
-    "BP19-104": {
-        "id": "BP19-104",
+    "BP19-104EN": {
+        "id": "BP19-104EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sacred Tiger",
                 "type": "Follower",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-104.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-104EN.png",
                 "isHorizontal": false
             }
         },
@@ -7580,15 +7895,15 @@
         "Set": "BP19",
         "Trait": "Lightborne / Beast"
     },
-    "BP19-105": {
-        "id": "BP19-105",
+    "BP19-105EN": {
+        "id": "BP19-105EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sacred Tiger (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "6",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-105.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-105EN.png",
                 "isHorizontal": false
             }
         },
@@ -7601,15 +7916,15 @@
         "Set": "BP19",
         "Trait": "Lightborne / Beast"
     },
-    "BP19-106": {
-        "id": "BP19-106",
+    "BP19-106EN": {
+        "id": "BP19-106EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Avaricious Altruist",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-106.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-106EN.png",
                 "isHorizontal": false
             }
         },
@@ -7622,15 +7937,15 @@
         "Set": "BP19",
         "Trait": "Faith / Beast"
     },
-    "BP19-107": {
-        "id": "BP19-107",
+    "BP19-107EN": {
+        "id": "BP19-107EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Sword Al-mi'raj",
                 "type": "Follower",
                 "cost": "5",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-107.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-107EN.png",
                 "isHorizontal": false
             }
         },
@@ -7643,15 +7958,15 @@
         "Set": "BP19",
         "Trait": "Beast"
     },
-    "BP19-108": {
-        "id": "BP19-108",
+    "BP19-108EN": {
+        "id": "BP19-108EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Luminescent Gem",
                 "type": "Amulet",
                 "cost": "0",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-108.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-108EN.png",
                 "isHorizontal": false
             }
         },
@@ -7664,15 +7979,15 @@
         "Set": "BP19",
         "Trait": "Lightborne"
     },
-    "BP19-109": {
-        "id": "BP19-109",
+    "BP19-109EN": {
+        "id": "BP19-109EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Holybeast Ruins",
                 "type": "Amulet",
                 "cost": "4",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-109.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-109EN.png",
                 "isHorizontal": false
             }
         },
@@ -7685,15 +8000,15 @@
         "Set": "BP19",
         "Trait": "Faith / Eidolon"
     },
-    "BP19-110": {
-        "id": "BP19-110",
+    "BP19-110EN": {
+        "id": "BP19-110EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Cutthroat, Discord Convict",
                 "type": "Follower",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-110.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-110EN.png",
                 "isHorizontal": false
             }
         },
@@ -7706,15 +8021,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Supreme"
     },
-    "BP19-111": {
-        "id": "BP19-111",
+    "BP19-111EN": {
+        "id": "BP19-111EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Cutthroat, Discord Convict (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-111.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-111EN.png",
                 "isHorizontal": false
             }
         },
@@ -7727,15 +8042,36 @@
         "Set": "BP19",
         "Trait": "Condemned / Supreme"
     },
-    "BP19-112": {
-        "id": "BP19-112",
+    "BP19-U07EN": {
+        "id": "BP19-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cutthroat, Discord Convict (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cutthroat, Discord Convict (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "1",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Supreme"
+    },
+    "BP19-112EN": {
+        "id": "BP19-112EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Eudie, Maiden Reborn",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-112.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-112EN.png",
                 "isHorizontal": false
             }
         },
@@ -7748,15 +8084,36 @@
         "Set": "BP19",
         "Trait": "Supreme"
     },
-    "BP19-113": {
-        "id": "BP19-113",
+    "PCS01-003EN": {
+        "id": "PCS01-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eudie, Maiden Reborn",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PCS01/PCS01-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eudie, Maiden Reborn",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP19",
+        "Trait": "Supreme"
+    },
+    "BP19-113EN": {
+        "id": "BP19-113EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Zerael, Regent of Rebirth",
                 "type": "Follower",
                 "cost": "7",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-113.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-113EN.png",
                 "isHorizontal": false
             }
         },
@@ -7769,15 +8126,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Deity"
     },
-    "BP19-114": {
-        "id": "BP19-114",
+    "BP19-114EN": {
+        "id": "BP19-114EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Zerael, Regent of Vicissitude [A]",
                 "type": "Evolve Deck",
                 "cost": "9",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-114.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-114EN.png",
                 "isHorizontal": false
             }
         },
@@ -7790,15 +8147,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Deity"
     },
-    "BP19-115": {
-        "id": "BP19-115",
+    "BP19-115EN": {
+        "id": "BP19-115EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Ironforged Right Hand",
                 "type": "Follower",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-115.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-115EN.png",
                 "isHorizontal": false
             }
         },
@@ -7811,15 +8168,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Supreme"
     },
-    "BP19-116": {
-        "id": "BP19-116",
+    "BP19-116EN": {
+        "id": "BP19-116EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Azvaldt",
                 "type": "Amulet",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-116.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-116EN.png",
                 "isHorizontal": false
             }
         },
@@ -7832,15 +8189,15 @@
         "Set": "BP19",
         "Trait": "Condemned"
     },
-    "BP19-117": {
-        "id": "BP19-117",
+    "BP19-117EN": {
+        "id": "BP19-117EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Smeltwork Bodyguard",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-117.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-117EN.png",
                 "isHorizontal": false
             }
         },
@@ -7853,15 +8210,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Supreme"
     },
-    "BP19-118": {
-        "id": "BP19-118",
+    "BP19-118EN": {
+        "id": "BP19-118EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Smeltwork Bodyguard (Evolved)",
                 "type": "Evolve Deck",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-118.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-118EN.png",
                 "isHorizontal": false
             }
         },
@@ -7874,15 +8231,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Supreme"
     },
-    "BP19-119": {
-        "id": "BP19-119",
+    "BP19-119EN": {
+        "id": "BP19-119EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Warden of Recurrence",
                 "type": "Follower",
                 "cost": "8",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-119.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-119EN.png",
                 "isHorizontal": false
             }
         },
@@ -7895,15 +8252,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Angel"
     },
-    "BP19-120": {
-        "id": "BP19-120",
+    "BP19-120EN": {
+        "id": "BP19-120EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Blackrust Underling",
                 "type": "Follower",
                 "cost": "3",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-120.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-120EN.png",
                 "isHorizontal": false
             }
         },
@@ -7916,15 +8273,15 @@
         "Set": "BP19",
         "Trait": "Condemned / Supreme"
     },
-    "BP19-T01": {
-        "id": "BP19-T01",
+    "BP19-T01EN": {
+        "id": "BP19-T01EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Dread Pirate's Flag",
                 "type": "Token",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-T01.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-T01EN.png",
                 "isHorizontal": false
             }
         },
@@ -7937,19 +8294,19 @@
         "Set": "BP19",
         "Trait": "Condemned / Thief / Loot"
     },
-    "BP19-T02": {
-        "id": "BP19-T02",
+    "BP19-T02EN": {
+        "id": "BP19-T02EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Multi-Headed Test Subject",
+                "name": "Chimera Test Subject",
                 "type": "Token",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-T02.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-T02EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Multi-Headed Test Subject",
+        "name": "Chimera Test Subject",
         "type": "Token",
         "cost": "2",
         "Class": [
@@ -11957,6 +12314,27 @@
                 "type": "Follower",
                 "cost": 10,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-042EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ginger, Accursed Word",
+        "type": "Follower",
+        "cost": 10,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP18",
+        "Trait": "Mage"
+    },
+    "PCS01-002EN": {
+        "id": "PCS01-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ginger, Accursed Word",
+                "type": "Follower",
+                "cost": 10,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PCS01/PCS01-002EN.png",
                 "isHorizontal": false
             }
         },
@@ -19664,6 +20042,27 @@
                 "type": "Follower",
                 "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP16/BP16-039EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lilanthim, Anathema of Edacity",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP16",
+        "Trait": "Anathema / Mage"
+    },
+    "PCS01-001EN": {
+        "id": "PCS01-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lilanthim, Anathema of Edacity",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PCS01/PCS01-001EN.png",
                 "isHorizontal": false
             }
         },
@@ -84004,7 +84403,7 @@
                 "name": "Dread Pirate's Flag",
                 "type": "Token",
                 "cost": "1",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-T01.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-T01EN.png",
                 "isHorizontal": false
             }
         },
@@ -84022,14 +84421,14 @@
         "isToken": true,
         "face": {
             "front": {
-                "name": "Multi-Headed Test Subject",
+                "name": "Chimera Test Subject",
                 "type": "Token",
                 "cost": "2",
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP19 TEMP 3/BP19-T02.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-T02EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Multi-Headed Test Subject",
+        "name": "Chimera Test Subject",
         "type": "Token",
         "cost": "2",
         "Class": [
@@ -84046,7 +84445,7 @@
                 "name": "Crest: Krulle, Heir to Unkilling",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T01.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T01EN.png",
                 "isHorizontal": false
             }
         },
@@ -84067,7 +84466,7 @@
                 "name": "Crest: Octrice, Hollowness Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T02.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T02EN.png",
                 "isHorizontal": false
             }
         },
@@ -84088,7 +84487,7 @@
                 "name": "White Psalm, New Revelation",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T03.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T03EN.png",
                 "isHorizontal": false
             }
         },
@@ -84109,7 +84508,7 @@
                 "name": "Black Psalm, New Revelation",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T04.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T04EN.png",
                 "isHorizontal": false
             }
         },
@@ -84130,7 +84529,7 @@
                 "name": "Crest: Galmieux, Ardor Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T05.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T05EN.png",
                 "isHorizontal": false
             }
         },
@@ -84151,7 +84550,7 @@
                 "name": "Crest: Sham-Nacha, Heir to Entwining",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T06.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T06EN.png",
                 "isHorizontal": false
             }
         },
@@ -84172,7 +84571,7 @@
                 "name": "Crest: Marwynn, Despair Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T07.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T07EN.png",
                 "isHorizontal": false
             }
         },
@@ -84193,7 +84592,7 @@
                 "name": "Crest: Himeka, Heir to Repose",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T08.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T08EN.png",
                 "isHorizontal": false
             }
         },
@@ -84214,7 +84613,7 @@
                 "name": "Crest: Congregant of Repose",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T09.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T09EN.png",
                 "isHorizontal": false
             }
         },
@@ -84235,7 +84634,7 @@
                 "name": "Crest: Supplicant of Repose",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T10.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T10EN.png",
                 "isHorizontal": false
             }
         },
@@ -84256,7 +84655,7 @@
                 "name": "Crest: Mjerrabaine, Great Manifest",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP20 TEMP 3/BP20-T11.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-T11EN.png",
                 "isHorizontal": false
             }
         },
