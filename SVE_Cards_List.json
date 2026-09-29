@@ -1,4 +1,2787 @@
 {
+    "BP22-001EN": {
+        "id": "BP22-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Brilliant Fairy",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-001.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brilliant Fairy",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Pixie"
+    },
+    "BP22-002EN": {
+        "id": "BP22-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Noxious Elf",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-002.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Noxious Elf",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf / Cutthroat"
+    },
+    "BP22-003EN": {
+        "id": "BP22-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aerin, Forever Brilliant",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-003.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aerin, Forever Brilliant",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Crystalian"
+    },
+    "BP22-004EN": {
+        "id": "BP22-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aerin, Forever Brilliant (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-004.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aerin, Forever Brilliant (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Crystalian"
+    },
+    "BP22-005EN": {
+        "id": "BP22-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Flower Fox",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-005.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Flower Fox",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Verdant / Beast"
+    },
+    "BP22-006EN": {
+        "id": "BP22-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Flower Fox (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-006.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Flower Fox (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Verdant / Beast"
+    },
+    "BP22-007EN": {
+        "id": "BP22-007EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "King of Vines",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-007.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "King of Vines",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Verdant"
+    },
+    "BP22-008EN": {
+        "id": "BP22-008EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blast Fairy",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-008.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blast Fairy",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Pixie / Cutthroat"
+    },
+    "BP22-009EN": {
+        "id": "BP22-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wellspring Elf Princess",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-009.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wellspring Elf Princess",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf / Princess"
+    },
+    "BP22-010EN": {
+        "id": "BP22-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wellspring Elf Princess (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-010.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wellspring Elf Princess (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf / Princess"
+    },
+    "BP22-011EN": {
+        "id": "BP22-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aqua Fairy",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-011.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aqua Fairy",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Pixie"
+    },
+    "BP22-012EN": {
+        "id": "BP22-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lily, Crystalian Conductor",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-012.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lily, Crystalian Conductor",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Crystalian"
+    },
+    "BP22-013EN": {
+        "id": "BP22-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Coldhearted Dark Elf",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-013.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coldhearted Dark Elf",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf / Cutthroat"
+    },
+    "BP22-014EN": {
+        "id": "BP22-014EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Coldhearted Dark Elf (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-014.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coldhearted Dark Elf (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf / Cutthroat"
+    },
+    "BP22-015EN": {
+        "id": "BP22-015EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fairy Bringer",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-015.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fairy Bringer",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf "
+    },
+    "BP22-016EN": {
+        "id": "BP22-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wily Puck",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-016.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wily Puck",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Fae-Touched"
+    },
+    "BP22-017EN": {
+        "id": "BP22-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dungeoncrawl Fairy",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-017.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dungeoncrawl Fairy",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Pixie"
+    },
+    "BP22-018EN": {
+        "id": "BP22-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Seed Barrage",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-018.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Seed Barrage",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Elf / Verdant"
+    },
+    "BP22-019EN": {
+        "id": "BP22-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Victorious Blader",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-019.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Victorious Blader",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant"
+    },
+    "BP22-020EN": {
+        "id": "BP22-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Golden Warrior",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-020.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Golden Warrior",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer / Noble"
+    },
+    "BP22-021EN": {
+        "id": "BP22-021EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Opulent Strategist, Almerize",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-021.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Opulent Strategist, Almerize",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant / Noble"
+    },
+    "BP22-022EN": {
+        "id": "BP22-022EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Opulent Strategist, Almerize (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-022.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Opulent Strategist, Almerize (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant / Noble"
+    },
+    "BP22-023EN": {
+        "id": "BP22-023EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Assault Knight",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-023.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Assault Knight",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer"
+    },
+    "BP22-024EN": {
+        "id": "BP22-024EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Assault Knight (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-024.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Assault Knight (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer"
+    },
+    "BP22-025EN": {
+        "id": "BP22-025EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fangblade Slayer",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-025.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fangblade Slayer",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer"
+    },
+    "BP22-026EN": {
+        "id": "BP22-026EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Claymore Master",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-026.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Claymore Master",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant"
+    },
+    "BP22-027EN": {
+        "id": "BP22-027EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Axe Pirate",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-027.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Axe Pirate",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Thief"
+    },
+    "BP22-028EN": {
+        "id": "BP22-028EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Axe Pirate (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-028.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Axe Pirate (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Thief"
+    },
+    "BP22-029EN": {
+        "id": "BP22-029EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Armed Butler",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-029.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Armed Butler",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer"
+    },
+    "BP22-030EN": {
+        "id": "BP22-030EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shield Phalanx",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-030.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shield Phalanx",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer"
+    },
+    "BP22-031EN": {
+        "id": "BP22-031EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Calculating Captain",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-031.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Calculating Captain",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant"
+    },
+    "BP22-032EN": {
+        "id": "BP22-032EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Calculating Captain (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-032.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Calculating Captain (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant"
+    },
+    "BP22-033EN": {
+        "id": "BP22-033EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Suave Bandit",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-033.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Suave Bandit",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Thief"
+    },
+    "BP22-034EN": {
+        "id": "BP22-034EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sword-Swinging Bandit",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-034.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sword-Swinging Bandit",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Thief"
+    },
+    "BP22-035EN": {
+        "id": "BP22-035EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Resplendent Knight",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-035.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Resplendent Knight",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Commandant"
+    },
+    "BP22-036EN": {
+        "id": "BP22-036EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Wandering Knight",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-036.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Wandering Knight",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Officer"
+    },
+    "BP22-037EN": {
+        "id": "BP22-037EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chrono Witch",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-037.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chrono Witch",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-038EN": {
+        "id": "BP22-038EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chrono Witch (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-038.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chrono Witch (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-039EN": {
+        "id": "BP22-039EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pursuer Golem",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-039.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pursuer Golem",
+        "type": "Follower",
+        "cost": 9,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Golem"
+    },
+    "BP22-040EN": {
+        "id": "BP22-040EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Levi, Wizard of Ages",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-040.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Levi, Wizard of Ages",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-041EN": {
+        "id": "BP22-041EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Levi, Wizard of Ages (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-041.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Levi, Wizard of Ages (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-042EN": {
+        "id": "BP22-042EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Witching Moggy",
+                "type": "Follower ",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-042.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Witching Moggy",
+        "type": "Follower ",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage / Beast"
+    },
+    "BP22-043EN": {
+        "id": "BP22-043EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Witching Moggy (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-043.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Witching Moggy (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage / Beast"
+    },
+    "BP22-044EN": {
+        "id": "BP22-044EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Great Magician",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-044.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Great Magician",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-045EN": {
+        "id": "BP22-045EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lazuli, Gateway Homunculus",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-045.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lazuli, Gateway Homunculus",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-046EN": {
+        "id": "BP22-046EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elina, Winged Evangelist",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-046.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elina, Winged Evangelist",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-047EN": {
+        "id": "BP22-047EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elina, Winged Evangelist (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-047.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elina, Winged Evangelist (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-048EN": {
+        "id": "BP22-048EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Parasol Witch",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-048.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Parasol Witch",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-049EN": {
+        "id": "BP22-049EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Carnelia, Servant of Darkness",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-049.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carnelia, Servant of Darkness",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-050EN": {
+        "id": "BP22-050EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blade Mage",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-050.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blade Mage",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-051EN": {
+        "id": "BP22-051EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Blade Mage  (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-051.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Blade Mage  (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mage"
+    },
+    "BP22-052EN": {
+        "id": "BP22-052EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Frost Golem",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-052.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Frost Golem",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Golem"
+    },
+    "BP22-053EN": {
+        "id": "BP22-053EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Iceshard Beast",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-053.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Iceshard Beast",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Golem"
+    },
+    "BP22-054EN": {
+        "id": "BP22-054EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Golem Assault",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-054.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Golem Assault",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Alchemist / Golem"
+    },
+    "BP22-055EN": {
+        "id": "BP22-055EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mirrored Summoning",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-055.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mirrored Summoning",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Alchemist / Golem"
+    },
+    "BP22-056EN": {
+        "id": "BP22-056EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ignis Dragon",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-056.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ignis Dragon",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-057EN": {
+        "id": "BP22-057EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ignis Dragon (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-057.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ignis Dragon (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-058EN": {
+        "id": "BP22-058EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Brutal Dragonewt",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-058.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brutal Dragonewt",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Dragonewt"
+    },
+    "BP22-059EN": {
+        "id": "BP22-059EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Giselle, Ocean Star",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-059.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Giselle, Ocean Star",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Marine"
+    },
+    "BP22-060EN": {
+        "id": "BP22-060EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Noir & Blanc, Brothers",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-060.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Noir & Blanc, Brothers",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Dragonewt"
+    },
+    "BP22-061EN": {
+        "id": "BP22-061EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Noir & Blanc, Brothers (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-061.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Noir & Blanc, Brothers (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Dragonewt"
+    },
+    "BP22-062EN": {
+        "id": "BP22-062EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bejeweled Dragon",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-062.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bejeweled Dragon",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-063EN": {
+        "id": "BP22-063EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ethica, Firebrand Claw",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-063.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ethica, Firebrand Claw",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Dragonewt"
+    },
+    "BP22-064EN": {
+        "id": "BP22-064EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Coral Spirit",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-064.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coral Spirit",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Marine"
+    },
+    "BP22-065EN": {
+        "id": "BP22-065EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Coral Spirit (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-065.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Coral Spirit (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Marine"
+    },
+    "BP22-066EN": {
+        "id": "BP22-066EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shield Dragon",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-066.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shield Dragon",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-067EN": {
+        "id": "BP22-067EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Piercing Roar",
+                "type": "Spell",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-067.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Piercing Roar",
+        "type": "Spell",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-068EN": {
+        "id": "BP22-068EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hailwyrm",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-068.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hailwyrm",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-069EN": {
+        "id": "BP22-069EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hailwyrm (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-069.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hailwyrm (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-070EN": {
+        "id": "BP22-070EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ironscale Serpent Drake",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-070.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ironscale Serpent Drake",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-071EN": {
+        "id": "BP22-071EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Electrodrake",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-071.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Electrodrake",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-072EN": {
+        "id": "BP22-072EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Breath of the Salamander",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-072.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Breath of the Salamander",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-073EN": {
+        "id": "BP22-073EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Canyon of the Dragons",
+                "type": "Amulet",
+                "cost": 8,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-073.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Canyon of the Dragons",
+        "type": "Amulet",
+        "cost": 8,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "BP22-074EN": {
+        "id": "BP22-074EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Skeleton Raider",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-074.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Skeleton Raider",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Departed"
+    },
+    "BP22-075EN": {
+        "id": "BP22-075EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Emperor",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-075.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Emperor",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-076EN": {
+        "id": "BP22-076EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Emperor (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-076.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Emperor (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-077EN": {
+        "id": "BP22-077EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cernunnos",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-077.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cernunnos",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-078EN": {
+        "id": "BP22-078EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Suzy, Hexcaster",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-078.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Suzy, Hexcaster",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-079EN": {
+        "id": "BP22-079EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Suzy, Hexcaster (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-079.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Suzy, Hexcaster (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-080EN": {
+        "id": "BP22-080EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dog of the Dead",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-080.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dog of the Dead",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-081EN": {
+        "id": "BP22-081EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Reaper",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-081.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Reaper",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon / Goblin"
+    },
+    "BP22-082EN": {
+        "id": "BP22-082EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Scarlet Vampire",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-082.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Scarlet Vampire",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Vampire"
+    },
+    "BP22-083EN": {
+        "id": "BP22-083EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Scarlet Vampire (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-083.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Scarlet Vampire (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Vampire"
+    },
+    "BP22-084EN": {
+        "id": "BP22-084EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Deathcat Reaper",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-084.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Deathcat Reaper",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon / Beast"
+    },
+    "BP22-085EN": {
+        "id": "BP22-085EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Huginn & Muninn",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-085.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Huginn & Muninn",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-086EN": {
+        "id": "BP22-086EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Thunderbolt Fiend",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-086.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Thunderbolt Fiend",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-087EN": {
+        "id": "BP22-087EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Thunderbolt Fiend (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-087.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Thunderbolt Fiend (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-088EN": {
+        "id": "BP22-088EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lurching Corpse",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-088.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lurching Corpse",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Departed"
+    },
+    "BP22-089EN": {
+        "id": "BP22-089EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Zombie",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-089.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Zombie",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Departed / Goblin"
+    },
+    "BP22-090EN": {
+        "id": "BP22-090EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bubbly Reaper",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-090.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bubbly Reaper",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon"
+    },
+    "BP22-091EN": {
+        "id": "BP22-091EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Undead Stampede",
+                "type": "Spell",
+                "cost": 8,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-091.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Undead Stampede",
+        "type": "Spell",
+        "cost": 8,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Demon / Departed"
+    },
+    "BP22-092EN": {
+        "id": "BP22-092EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "God of Curses",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-092.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "God of Curses",
+        "type": "Follower",
+        "cost": 9,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Zealot"
+    },
+    "BP22-093EN": {
+        "id": "BP22-093EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Saber",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-093.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Saber",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Luminary"
+    },
+    "BP22-094EN": {
+        "id": "BP22-094EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Saber (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-094.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Saber (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Luminary"
+    },
+    "BP22-095EN": {
+        "id": "BP22-095EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aether, Guardian of Light",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-095.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aether, Guardian of Light",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Faith / Luminary / Lightborne"
+    },
+    "BP22-096EN": {
+        "id": "BP22-096EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sacred Lion",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-096.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sacred Lion",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne / Beast"
+    },
+    "BP22-097EN": {
+        "id": "BP22-097EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sacred Lion (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-097.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sacred Lion (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne / Beast"
+    },
+    "BP22-098EN": {
+        "id": "BP22-098EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cursed Maiden",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-098.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cursed Maiden",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Zealot"
+    },
+    "BP22-099EN": {
+        "id": "BP22-099EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Winged Sentinel Garuda",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-099.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Winged Sentinel Garuda",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Avian / Lightborne"
+    },
+    "BP22-100EN": {
+        "id": "BP22-100EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Carmia, Miracle Optimist",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-100.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carmia, Miracle Optimist",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne"
+    },
+    "BP22-101EN": {
+        "id": "BP22-101EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Carmia, Miracle Optimist (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-101.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Carmia, Miracle Optimist (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne"
+    },
+    "BP22-102EN": {
+        "id": "BP22-102EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ascended Prism Priestess",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-102.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ascended Prism Priestess",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Luminary / Avian"
+    },
+    "BP22-103EN": {
+        "id": "BP22-103EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sonia, Protector of Hope",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-103.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sonia, Protector of Hope",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Faith"
+    },
+    "BP22-104EN": {
+        "id": "BP22-104EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Kitty",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-104.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Kitty",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne / Beast"
+    },
+    "BP22-105EN": {
+        "id": "BP22-105EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Kitty (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-105.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Kitty (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne / Beast"
+    },
+    "BP22-106EN": {
+        "id": "BP22-106EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sacred Ice-Crusher",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-106.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sacred Ice-Crusher",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Lightborne / Beast"
+    },
+    "BP22-107EN": {
+        "id": "BP22-107EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tender Rabbit Healer",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-107.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tender Rabbit Healer",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Beast"
+    },
+    "BP22-108EN": {
+        "id": "BP22-108EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Khonsu",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-108.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Khonsu",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Luminary"
+    },
+    "BP22-109EN": {
+        "id": "BP22-109EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Forbidden Ritual",
+                "type": "Amulet",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-109.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forbidden Ritual",
+        "type": "Amulet",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Zealot"
+    },
+    "BP22-110EN": {
+        "id": "BP22-110EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Emperor",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-110.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Emperor",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Gobelin"
+    },
+    "BP22-111EN": {
+        "id": "BP22-111EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Advent of Peace",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-111.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Advent of Peace",
+        "type": "Spell",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-112EN": {
+        "id": "BP22-112EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Feena, Super Cute Hunter",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-112.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Feena, Super Cute Hunter",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Mercenary"
+    },
+    "BP22-113EN": {
+        "id": "BP22-113EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Leader",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-113.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Leader",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Gobelin"
+    },
+    "BP22-114EN": {
+        "id": "BP22-114EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Leader (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-114.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Leader (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Gobelin"
+    },
+    "BP22-115EN": {
+        "id": "BP22-115EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Mage",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-115.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Mage",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Gobelin"
+    },
+    "BP22-116EN": {
+        "id": "BP22-116EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "(Victory Road) Haru Urara",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-116.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "(Victory Road) Haru Urara",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Umamusume"
+    },
+    "BP22-117EN": {
+        "id": "BP22-117EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "(Extreme Speed) Oguri Cap",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-117.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "(Extreme Speed) Oguri Cap",
+        "type": "Follower",
+        "cost": 9,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Umamusume"
+    },
+    "BP22-118EN": {
+        "id": "BP22-118EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "(Extreme Speed) Oguri Cap (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 9,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-118.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "(Extreme Speed) Oguri Cap (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 9,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Umamusume"
+    },
+    "BP22-T01EN": {
+        "id": "BP22-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Her Holiness's Decree",
+                "type": "Token / Spell",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Her Holiness's Decree",
+        "type": "Token / Spell",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Luminary"
+    },
+    "BP22-T02EN": {
+        "id": "BP22-T02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shadow General",
+                "type": "Token / Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shadow General",
+        "type": "Token / Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-T03EN": {
+        "id": "BP22-T03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Radiant Artifact",
+                "type": "Token / Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Radiant Artifact",
+        "type": "Token / Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
     "BP21-001EN": {
         "id": "BP21-001EN",
         "isToken": false,
@@ -3674,6 +6457,27 @@
         "Set": "BP20",
         "Trait": "Omen / Idolatry"
     },
+    "PR-565EN": {
+        "id": "PR-565EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Devastating Soprano",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-565EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Devastating Soprano",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Idolatry"
+    },
     "BP20-046EN": {
         "id": "BP20-046EN",
         "isToken": false,
@@ -4544,6 +7348,27 @@
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-085EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Supplicant of Entwining",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Necromancer / Demon"
+    },
+    "PR-566EN": {
+        "id": "PR-566EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Supplicant of Entwining",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-566EN.png",
                 "isHorizontal": false
             }
         },
@@ -5585,6 +8410,27 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
+    "PR-546EN": {
+        "id": "PR-546EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Magachiyo, Barbed Convict",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-546EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magachiyo, Barbed Convict",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Elf"
+    },
     "BP19-002EN": {
         "id": "BP19-002EN",
         "isToken": false,
@@ -5774,6 +8620,27 @@
         "Set": "BP19",
         "Trait": "Condemned / Elf"
     },
+    "PR-557EN": {
+        "id": "PR-557EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Budding Initiate",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-557EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Budding Initiate",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Elf"
+    },
     "BP19-010EN": {
         "id": "BP19-010EN",
         "isToken": false,
@@ -5783,6 +8650,27 @@
                 "type": "Evolve Deck",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Budding Initiate (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "1",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Elf"
+    },
+    "PR-558EN": {
+        "id": "PR-558EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Budding Initiate (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-558EN.png",
                 "isHorizontal": false
             }
         },
@@ -6035,6 +8923,27 @@
                 "type": "Evolve Deck",
                 "cost": "4",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-U02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Barbaros, Briny Convict (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned / Thief"
+    },
+    "PR-543EN": {
+        "id": "PR-543EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Barbaros, Briny Convict (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-543EN.png",
                 "isHorizontal": false
             }
         },
@@ -7790,6 +10699,27 @@
         "Set": "BP19",
         "Trait": "Beast / Chef"
     },
+    "PR-567EN": {
+        "id": "PR-567EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Meus Gourmand",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-567EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Meus Gourmand",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP19",
+        "Trait": "Beast / Chef"
+    },
     "BP19-100EN": {
         "id": "BP19-100EN",
         "isToken": false,
@@ -8177,6 +11107,27 @@
                 "type": "Amulet",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP19/BP19-116EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Azvaldt",
+        "type": "Amulet",
+        "cost": "1",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP19",
+        "Trait": "Condemned"
+    },
+    "PR-568EN": {
+        "id": "PR-568EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Azvaldt",
+                "type": "Amulet",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-568EN.png",
                 "isHorizontal": false
             }
         },
@@ -9008,6 +11959,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Labyrinth"
     },
+    "PR-539EN": {
+        "id": "PR-539EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shizuru",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-539EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shizuru",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Labyrinth"
+    },
     "CP04-030EN": {
         "id": "CP04-030EN",
         "isToken": false,
@@ -9080,6 +12052,27 @@
                 "type": "Follower",
                 "cost": "4",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-033EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mitsuki",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twilight Caravan"
+    },
+    "PR-507EN": {
+        "id": "PR-507EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mitsuki",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-507EN.png",
                 "isHorizontal": false
             }
         },
@@ -9281,6 +12274,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Seven Crowns"
     },
+    "PR-514EN": {
+        "id": "PR-514EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Neneka",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-514EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Neneka",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Seven Crowns"
+    },
     "CP04-041EN": {
         "id": "CP04-041EN",
         "isToken": false,
@@ -9449,6 +12463,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Friendship Club"
     },
+    "PR-508EN": {
+        "id": "PR-508EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Chloe",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-508EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chloe",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Friendship Club"
+    },
     "CP04-049EN": {
         "id": "CP04-049EN",
         "isToken": false,
@@ -9596,6 +12631,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Gourmet Guild"
     },
+    "PR-542EN": {
+        "id": "PR-542EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sheffy",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-542EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sheffy",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
     "CP04-056EN": {
         "id": "CP04-056EN",
         "isToken": false,
@@ -9659,6 +12715,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Dragon's Nest"
     },
+    "PR-538EN": {
+        "id": "PR-538EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Homare",
+                "type": "Follower",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-538EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Homare",
+        "type": "Follower",
+        "cost": "5",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Dragon's Nest"
+    },
     "CP04-058EN": {
         "id": "CP04-058EN",
         "isToken": false,
@@ -9668,6 +12745,27 @@
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-058EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Muimi",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne"
+    },
+    "PR-515EN": {
+        "id": "PR-515EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Muimi",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-515EN.png",
                 "isHorizontal": false
             }
         },
@@ -9764,6 +12862,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Twinkle Wish"
     },
+    "PR-509EN": {
+        "id": "PR-509EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hiyori",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-509EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hiyori",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twinkle Wish"
+    },
     "CP04-062EN": {
         "id": "CP04-062EN",
         "isToken": false,
@@ -9815,6 +12934,27 @@
                 "type": "Evolve Deck",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-064EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Inori (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Dragon's Nest"
+    },
+    "PR-510EN": {
+        "id": "PR-510EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Inori (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-510EN.png",
                 "isHorizontal": false
             }
         },
@@ -10205,6 +13345,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Twinkle Wish"
     },
+    "PR-511EN": {
+        "id": "PR-511EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rei",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-511EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rei",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twinkle Wish"
+    },
     "CP04-081EN": {
         "id": "CP04-081EN",
         "isToken": false,
@@ -10382,6 +13543,27 @@
                 "type": "Follower",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-089EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eriko",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twilight Caravan"
+    },
+    "PR-540EN": {
+        "id": "PR-540EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eriko",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-540EN.png",
                 "isHorizontal": false
             }
         },
@@ -10583,6 +13765,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Twinkle Wish"
     },
+    "PR-512EN": {
+        "id": "PR-512EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yui (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-512EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yui (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twinkle Wish"
+    },
     "CP04-097EN": {
         "id": "CP04-097EN",
         "isToken": false,
@@ -10676,6 +13879,27 @@
                 "type": "Follower",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-101EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Misato",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Forestier"
+    },
+    "PR-513EN": {
+        "id": "PR-513EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Misato",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-513EN.png",
                 "isHorizontal": false
             }
         },
@@ -11024,6 +14248,27 @@
         "Set": "CP04",
         "Trait": "Priconne"
     },
+    "PR-541EN": {
+        "id": "PR-541EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ameth (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-541EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ameth (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne"
+    },
     "CP04-117EN": {
         "id": "CP04-117EN",
         "isToken": false,
@@ -11054,6 +14299,27 @@
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-118EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kasumi",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Caon"
+    },
+    "PR-516EN": {
+        "id": "PR-516EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kasumi",
+                "type": "Follower",
+                "cost": "2",
+                "image": "http://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-516EN.png",
                 "isHorizontal": false
             }
         },
@@ -11957,6 +15223,27 @@
                 "type": "Follower",
                 "cost": 4,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP18/BP18-026EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Darksaber Melissa",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP18",
+        "Trait": "Commander / Princess"
+    },
+    "PR-489EN": {
+        "id": "PR-489EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Darksaber Melissa",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-489EN.png",
                 "isHorizontal": false
             }
         },
@@ -14069,6 +17356,27 @@
         "Set": "BP18",
         "Trait": "Togh Keyoh"
     },
+    "PR-491EN": {
+        "id": "PR-491EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Warped Progress",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-491EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Warped Progress",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP18",
+        "Trait": "Togh Keyoh"
+    },
     "BP18-120EN": {
         "id": "BP18-120EN",
         "isToken": false,
@@ -14468,6 +17776,27 @@
         "Set": "BP17",
         "Trait": "Elf"
     },
+    "PR-572EN": {
+        "id": "PR-572EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arisa, Evergreen Arrow",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-572EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arisa, Evergreen Arrow",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Elf"
+    },
     "BP17-002EN": {
         "id": "BP17-002EN",
         "isToken": false,
@@ -14603,6 +17932,27 @@
                 "type": "Spell",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP17/BP17-007EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Friendly Embrace",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Machina / Natura / Beast"
+    },
+    "PR-476EN": {
+        "id": "PR-476EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Friendly Embrace",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-476EN.png",
                 "isHorizontal": false
             }
         },
@@ -15266,6 +18616,27 @@
         "Set": "BP17",
         "Trait": "Mage"
     },
+    "PR-547EN": {
+        "id": "PR-547EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Isabelle, Intrepid Mage",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-547EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Isabelle, Intrepid Mage",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Mage"
+    },
     "BP17-038EN": {
         "id": "BP17-038EN",
         "isToken": false,
@@ -15296,6 +18667,27 @@
                 "type": "Follower",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP17/BP17-039EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eleanor, Glorious Flower",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Mage"
+    },
+    "PR-550EN": {
+        "id": "PR-550EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eleanor, Glorious Flower",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-550EN.png",
                 "isHorizontal": false
             }
         },
@@ -16211,6 +19603,27 @@
         "Set": "BP17",
         "Trait": "Machina / Demon"
     },
+    "PR-448EN": {
+        "id": "PR-448EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aenea, Creative Amethyst",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-448EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aenea, Creative Amethyst",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Machina / Demon"
+    },
     "BP17-078EN": {
         "id": "BP17-078EN",
         "isToken": false,
@@ -16274,6 +19687,27 @@
         "Set": "BP17",
         "Trait": "Machina / Demon"
     },
+    "PR-549EN": {
+        "id": "PR-549EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Steeled Hopes",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-549EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Steeled Hopes",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Machina / Demon"
+    },
     "BP17-081EN": {
         "id": "BP17-081EN",
         "isToken": false,
@@ -16295,6 +19729,27 @@
         "Set": "BP17",
         "Trait": "Demon"
     },
+    "PR-474EN": {
+        "id": "PR-474EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Amy, Psychopomp Guide",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-474EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Amy, Psychopomp Guide",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Demon"
+    },
     "BP17-082EN": {
         "id": "BP17-082EN",
         "isToken": false,
@@ -16304,6 +19759,27 @@
                 "type": "Evolve Deck",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP17/BP17-082EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Amy, Psychopomp Guide (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP17",
+        "Trait": "Demon"
+    },
+    "PR-475EN": {
+        "id": "PR-475EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Amy, Psychopomp Guide (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-475EN.png",
                 "isHorizontal": false
             }
         },
@@ -20453,6 +23929,27 @@
         "Set": "BP16",
         "Trait": "Dragonheart"
     },
+    "PR-449EN": {
+        "id": "PR-449EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Forte, Blackwing Dragoon",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-449EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forte, Blackwing Dragoon",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP16",
+        "Trait": "Dragonheart"
+    },
     "BP16-U04EN": {
         "id": "BP16-U04EN",
         "isToken": false,
@@ -23078,6 +26575,27 @@
         "Set": "BP15",
         "Trait": "Omen / Idolatry"
     },
+    "PR-424EN": {
+        "id": "PR-424EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lishenna, Melodious Destruction",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-424EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lishenna, Melodious Destruction",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP15",
+        "Trait": "Omen / Idolatry"
+    },
     "BP15-040EN": {
         "id": "BP15-040EN",
         "isToken": false,
@@ -23162,6 +26680,27 @@
         "Set": "BP15",
         "Trait": "Golem / Arcanaform / Forbidden"
     },
+    "PR-439EN": {
+        "id": "PR-439EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Acid Golem",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-439EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Acid Golem",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP15",
+        "Trait": "Golem / Arcanaform / Forbidden"
+    },
     "BP15-044EN": {
         "id": "BP15-044EN",
         "isToken": false,
@@ -23171,6 +26710,27 @@
                 "type": "Evolve Deck",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP15/BP15-044EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Acid Golem (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP15",
+        "Trait": "Golem / Arcanaform / Forbidden"
+    },
+    "PR-421EN": {
+        "id": "PR-421EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Acid Golem (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-421EN.png",
                 "isHorizontal": false
             }
         },
@@ -24884,6 +28444,27 @@
         "Set": "BP15",
         "Trait": "Fallen Angel"
     },
+    "PR-445EN": {
+        "id": "PR-445EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Resolve of the Fallen",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-445EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Resolve of the Fallen",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP15",
+        "Trait": "Fallen Angel"
+    },
     "BP15-119EN": {
         "id": "BP15-119EN",
         "isToken": false,
@@ -25922,6 +29503,27 @@
                 "type": "Follower",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP14/BP14-024EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bumpkin Recruit",
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP14",
+        "Trait": "Officer"
+    },
+    "PR-406EN": {
+        "id": "BP14-024EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Bumpkin Recruit",
+                "type": "Follower",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-406EN.png",
                 "isHorizontal": false
             }
         },
@@ -27593,6 +31195,27 @@
         "Set": "BP14",
         "Trait": "Zealot"
     },
+    "PR-495EN": {
+        "id": "PR-495EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spiritual Blow",
+                "type": "Spell",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-495EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spiritual Blow",
+        "type": "Spell",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP14",
+        "Trait": "Zealot"
+    },
     "BP14-099EN": {
         "id": "BP14-099EN",
         "isToken": false,
@@ -27980,6 +31603,27 @@
                 "type": "Spell",
                 "cost": 1,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP14/BP14-115EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Stay in Paradise",
+        "type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP14",
+        "Trait": "Festive"
+    },
+    "PR-450EN": {
+        "id": "PR-450EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Stay in Paradise",
+                "type": "Spell",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-450EN.png",
                 "isHorizontal": false
             }
         },
@@ -31961,15 +35605,57 @@
         "Set": "BP13",
         "Trait": "Faith / Beast"
     },
+    "PR-410EN": {
+        "id": "PR-410EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lunerian Paladin",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-410EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lunerian Paladin",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP13",
+        "Trait": "Faith / Beast"
+    },
     "BP13-092EN": {
         "id": "BP13-092EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Lunerian Paladin",
+                "name": "Lunerian Paladin (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP13/BP13-092EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lunerian Paladin (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP13",
+        "Trait": "Faith / Beast"
+    },
+    "PR-411EN": {
+        "id": "PR-411EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lunerian Paladin (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-411EN.png",
                 "isHorizontal": false
             }
         },
@@ -33881,6 +37567,27 @@
                 "type": "Follower",
                 "cost": 9,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP12/BP12-054EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jerva, Wyrm Transcendent",
+        "type": "Follower",
+        "cost": 9,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP12",
+        "Trait": "Dragonheart"
+    },
+    "PR-496EN": {
+        "id": "PR-496EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jerva, Wyrm Transcendent",
+                "type": "Follower",
+                "cost": 9,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-496EN.png",
                 "isHorizontal": false
             }
         },
@@ -43091,6 +46798,27 @@
         "Set": "BP10",
         "Trait": "Dragonheart"
     },
+    "PR-422EN": {
+        "id": "PR-422EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aiela, Devoted Knight",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-422EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aiela, Devoted Knight",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP10",
+        "Trait": "Dragonheart"
+    },
     "BP10-057EN": {
         "id": "BP10-057EN",
         "isToken": false,
@@ -44372,6 +48100,27 @@
         "Set": "BP10",
         "Trait": "Deity"
     },
+    "PR-446EN": {
+        "id": "PR-446EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fieran, Havensent Wind God",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-446EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fieran, Havensent Wind God",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP10",
+        "Trait": "Deity"
+    },
     "BP10-114EN": {
         "id": "BP10-114EN",
         "isToken": false,
@@ -44591,6 +48340,27 @@
                 "type": "Token",
                 "cost": 5,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Devoted Dragon",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP10",
+        "Trait": "Wyrmkin"
+    },
+    "PR-423EN": {
+        "id": "PR-423EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Devoted Dragon",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-423EN.png",
                 "isHorizontal": false
             }
         },
@@ -72092,6 +75862,27 @@
         "Set": "",
         "Trait": "Crystalian"
     },
+    "PR-444EN": {
+        "id": "PR-444EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crystalia Lily",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-444EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crystalia Lily",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP02",
+        "Trait": "Crystalian"
+    },
     "BP02-009EN": {
         "id": "BP02-009EN",
         "isToken": false,
@@ -79547,6 +83338,27 @@
         "Set": "BP01",
         "Trait": "Vampire"
     },
+    "PR-441EN": {
+        "id": "PR-441EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Forest Bat",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-441EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forest Bat",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP01",
+        "Trait": "Vampire"
+    },
     "BP01-T16EN": {
         "id": "BP01-T16EN",
         "isToken": false,
@@ -81644,6 +85456,27 @@
         "Trait": "Vampire",
         "Set": "BP01"
     },
+    "PR-441EN_TOKEN": {
+        "id": "PR-441EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Forest Bat",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-441EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forest Bat",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Vampire",
+        "Set": "BP01"
+    },
     "BP01-T16EN_TOKEN": {
         "id": "BP01-T16EN_TOKEN",
         "isToken": true,
@@ -82724,6 +86557,27 @@
                 "type": "Token",
                 "cost": 5,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP10/BP10-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Devoted Dragon",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Trait": "Wyrmkin",
+        "Set": "BP10"
+    },
+    "PR-423EN_TOKEN": {
+        "id": "PR-423EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Devoted Dragon",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-423EN.png",
                 "isHorizontal": false
             }
         },
@@ -87355,5 +91209,74 @@
         ],
         "Set": "GF",
         "Trait": "Faith / Eidolon"
+    },
+    "BP22-T01EN_TOKEN": {
+        "id": "BP22-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Her Holiness's Decree",
+                "type": "Token / Spell",
+                "cost": 1,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T01.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Her Holiness's Decree",
+        "type": "Token / Spell",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Luminary"
+    },
+    "BP22-T02EN_TOKEN": {
+        "id": "BP22-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Shadow General",
+                "type": "Token / Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T02.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shadow General",
+        "type": "Token / Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
+    },
+    "BP22-T03EN_TOKEN": {
+        "id": "BP22-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Radiant Artifact",
+                "type": "Token / Follower",
+                "cost": 5,
+                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T03.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Radiant Artifact",
+        "type": "Token / Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "BP22"
+        ],
+        "Trait": "Supreme"
     }
 }
