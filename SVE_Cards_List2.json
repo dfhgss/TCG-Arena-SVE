@@ -83317,6 +83317,27 @@
         "Set": "BP01",
         "Trait": "Departed"
     },
+    "BP01-T15EN": {
+        "id": "BP01-T15EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Forest Bat",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forest Bat",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP01",
+        "Trait": "Vampire"
+    },
     "PR-441EN": {
         "id": "PR-441EN",
         "isToken": false,
@@ -85412,6 +85433,27 @@
             "Abysscraft"
         ],
         "Trait": "Departed",
+        "Set": "BP01"
+    },
+    "BP01-T15EN_TOKEN": {
+        "id": "BP01-T15EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Forest Bat",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Forest Bat",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Trait": "Vampire",
         "Set": "BP01"
     },
     "PR-441EN_TOKEN": {
