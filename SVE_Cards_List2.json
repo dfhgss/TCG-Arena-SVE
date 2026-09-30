@@ -948,14 +948,14 @@
         "face": {
             "front": {
                 "name": "Witching Moggy",
-                "type": "Follower ",
+                "type": "Follower",
                 "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-042.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Witching Moggy",
-        "type": "Follower ",
+        "type": "Follower",
         "cost": 2,
         "Class": [
             "Runecraft"
@@ -2719,14 +2719,14 @@
         "face": {
             "front": {
                 "name": "Her Holiness's Decree",
-                "type": "Token / Spell",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T01.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Her Holiness's Decree",
-        "type": "Token / Spell",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Havencraft"
@@ -2742,14 +2742,14 @@
         "face": {
             "front": {
                 "name": "Shadow General",
-                "type": "Token / Follower",
+                "type": "Token",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T02.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Shadow General",
-        "type": "Token / Follower",
+        "type": "Token",
         "cost": 5,
         "Class": [
             "Neutral"
@@ -2765,14 +2765,14 @@
         "face": {
             "front": {
                 "name": "Radiant Artifact",
-                "type": "Token / Follower",
+                "type": "Token",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T03.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Radiant Artifact",
-        "type": "Token / Follower",
+        "type": "Token",
         "cost": 5,
         "Class": [
             "Neutral"
@@ -91216,14 +91216,14 @@
         "face": {
             "front": {
                 "name": "Her Holiness's Decree",
-                "type": "Token / Spell",
+                "type": "Token",
                 "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T01.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Her Holiness's Decree",
-        "type": "Token / Spell",
+        "type": "Token",
         "cost": 1,
         "Class": [
             "Havencraft"
@@ -91239,14 +91239,14 @@
         "face": {
             "front": {
                 "name": "Shadow General",
-                "type": "Token / Follower",
+                "type": "Token",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T02.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Shadow General",
-        "type": "Token / Follower",
+        "type": "Token",
         "cost": 5,
         "Class": [
             "Neutral"
@@ -91262,14 +91262,14 @@
         "face": {
             "front": {
                 "name": "Radiant Artifact",
-                "type": "Token / Follower",
+                "type": "Token",
                 "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T03.jpg",
                 "isHorizontal": false
             }
         },
         "name": "Radiant Artifact",
-        "type": "Token / Follower",
+        "type": "Token",
         "cost": 5,
         "Class": [
             "Neutral"
