@@ -17,9 +17,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Pixie"
     },
     "BP22-002EN": {
@@ -40,9 +38,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf / Cutthroat"
     },
     "BP22-003EN": {
@@ -63,9 +59,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Crystalian"
     },
     "BP22-004EN": {
@@ -86,9 +80,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Crystalian"
     },
     "BP22-005EN": {
@@ -109,9 +101,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Verdant / Beast"
     },
     "BP22-006EN": {
@@ -132,9 +122,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Verdant / Beast"
     },
     "BP22-007EN": {
@@ -155,9 +143,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Verdant"
     },
     "BP22-008EN": {
@@ -178,9 +164,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Pixie / Cutthroat"
     },
     "BP22-009EN": {
@@ -201,9 +185,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf / Princess"
     },
     "BP22-010EN": {
@@ -224,9 +206,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf / Princess"
     },
     "BP22-011EN": {
@@ -247,9 +227,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Pixie"
     },
     "BP22-012EN": {
@@ -270,9 +248,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Crystalian"
     },
     "BP22-013EN": {
@@ -293,9 +269,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf / Cutthroat"
     },
     "BP22-014EN": {
@@ -316,9 +290,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf / Cutthroat"
     },
     "BP22-015EN": {
@@ -339,9 +311,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf "
     },
     "BP22-016EN": {
@@ -362,9 +332,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Fae-Touched"
     },
     "BP22-017EN": {
@@ -385,9 +353,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Pixie"
     },
     "BP22-018EN": {
@@ -408,9 +374,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Elf / Verdant"
     },
     "BP22-019EN": {
@@ -431,9 +395,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant"
     },
     "BP22-020EN": {
@@ -454,9 +416,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer / Noble"
     },
     "BP22-021EN": {
@@ -477,9 +437,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant / Noble"
     },
     "BP22-022EN": {
@@ -500,9 +458,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant / Noble"
     },
     "BP22-023EN": {
@@ -523,9 +479,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer"
     },
     "BP22-024EN": {
@@ -546,9 +500,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer"
     },
     "BP22-025EN": {
@@ -569,9 +521,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer"
     },
     "BP22-026EN": {
@@ -592,9 +542,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant"
     },
     "BP22-027EN": {
@@ -615,9 +563,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Thief"
     },
     "BP22-028EN": {
@@ -638,9 +584,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Thief"
     },
     "BP22-029EN": {
@@ -661,9 +605,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer"
     },
     "BP22-030EN": {
@@ -684,9 +626,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer"
     },
     "BP22-031EN": {
@@ -707,9 +647,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant"
     },
     "BP22-032EN": {
@@ -730,9 +668,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant"
     },
     "BP22-033EN": {
@@ -753,9 +689,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Thief"
     },
     "BP22-034EN": {
@@ -776,9 +710,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Thief"
     },
     "BP22-035EN": {
@@ -799,9 +731,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Commandant"
     },
     "BP22-036EN": {
@@ -822,9 +752,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Officer"
     },
     "BP22-037EN": {
@@ -845,9 +773,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-038EN": {
@@ -868,9 +794,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-039EN": {
@@ -891,9 +815,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Golem"
     },
     "BP22-040EN": {
@@ -914,9 +836,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-041EN": {
@@ -937,9 +857,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-042EN": {
@@ -960,9 +878,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage / Beast"
     },
     "BP22-043EN": {
@@ -983,9 +899,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage / Beast"
     },
     "BP22-044EN": {
@@ -1006,9 +920,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-045EN": {
@@ -1029,9 +941,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-046EN": {
@@ -1052,9 +962,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-047EN": {
@@ -1075,9 +983,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-048EN": {
@@ -1098,9 +1004,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-049EN": {
@@ -1121,9 +1025,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-050EN": {
@@ -1144,9 +1046,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-051EN": {
@@ -1167,9 +1067,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mage"
     },
     "BP22-052EN": {
@@ -1190,9 +1088,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Golem"
     },
     "BP22-053EN": {
@@ -1213,9 +1109,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Golem"
     },
     "BP22-054EN": {
@@ -1236,9 +1130,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Alchemist / Golem"
     },
     "BP22-055EN": {
@@ -1259,9 +1151,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Alchemist / Golem"
     },
     "BP22-056EN": {
@@ -1282,9 +1172,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-057EN": {
@@ -1305,9 +1193,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-058EN": {
@@ -1328,9 +1214,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Dragonewt"
     },
     "BP22-059EN": {
@@ -1351,9 +1235,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Marine"
     },
     "BP22-060EN": {
@@ -1374,9 +1256,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Dragonewt"
     },
     "BP22-061EN": {
@@ -1397,9 +1277,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Dragonewt"
     },
     "BP22-062EN": {
@@ -1420,9 +1298,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-063EN": {
@@ -1443,9 +1319,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Dragonewt"
     },
     "BP22-064EN": {
@@ -1466,9 +1340,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Marine"
     },
     "BP22-065EN": {
@@ -1489,9 +1361,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Marine"
     },
     "BP22-066EN": {
@@ -1512,9 +1382,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-067EN": {
@@ -1535,9 +1403,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-068EN": {
@@ -1558,9 +1424,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-069EN": {
@@ -1581,9 +1445,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-070EN": {
@@ -1604,9 +1466,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-071EN": {
@@ -1627,9 +1487,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-072EN": {
@@ -1650,9 +1508,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-073EN": {
@@ -1673,9 +1529,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Wyrmkin"
     },
     "BP22-074EN": {
@@ -1696,9 +1550,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Departed"
     },
     "BP22-075EN": {
@@ -1719,9 +1571,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-076EN": {
@@ -1742,9 +1592,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-077EN": {
@@ -1765,9 +1613,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-078EN": {
@@ -1788,9 +1634,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-079EN": {
@@ -1811,9 +1655,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-080EN": {
@@ -1834,9 +1676,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-081EN": {
@@ -1857,9 +1697,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon / Goblin"
     },
     "BP22-082EN": {
@@ -1880,9 +1718,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Vampire"
     },
     "BP22-083EN": {
@@ -1903,9 +1739,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Vampire"
     },
     "BP22-084EN": {
@@ -1926,9 +1760,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon / Beast"
     },
     "BP22-085EN": {
@@ -1949,9 +1781,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-086EN": {
@@ -1972,9 +1802,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-087EN": {
@@ -1995,9 +1823,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-088EN": {
@@ -2018,9 +1844,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Departed"
     },
     "BP22-089EN": {
@@ -2041,9 +1865,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Departed / Goblin"
     },
     "BP22-090EN": {
@@ -2064,9 +1886,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon"
     },
     "BP22-091EN": {
@@ -2087,9 +1907,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Demon / Departed"
     },
     "BP22-092EN": {
@@ -2110,9 +1928,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Zealot"
     },
     "BP22-093EN": {
@@ -2133,9 +1949,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Luminary"
     },
     "BP22-094EN": {
@@ -2156,9 +1970,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Luminary"
     },
     "BP22-095EN": {
@@ -2179,9 +1991,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Faith / Luminary / Lightborne"
     },
     "BP22-096EN": {
@@ -2202,9 +2012,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne / Beast"
     },
     "BP22-097EN": {
@@ -2225,9 +2033,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne / Beast"
     },
     "BP22-098EN": {
@@ -2248,9 +2054,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Zealot"
     },
     "BP22-099EN": {
@@ -2271,9 +2075,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Avian / Lightborne"
     },
     "BP22-100EN": {
@@ -2294,9 +2096,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne"
     },
     "BP22-101EN": {
@@ -2317,9 +2117,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne"
     },
     "BP22-102EN": {
@@ -2340,9 +2138,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Luminary / Avian"
     },
     "BP22-103EN": {
@@ -2363,9 +2159,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Faith"
     },
     "BP22-104EN": {
@@ -2386,9 +2180,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne / Beast"
     },
     "BP22-105EN": {
@@ -2409,9 +2201,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne / Beast"
     },
     "BP22-106EN": {
@@ -2432,9 +2222,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Lightborne / Beast"
     },
     "BP22-107EN": {
@@ -2455,9 +2243,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Beast"
     },
     "BP22-108EN": {
@@ -2478,9 +2264,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Luminary"
     },
     "BP22-109EN": {
@@ -2501,9 +2285,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Zealot"
     },
     "BP22-110EN": {
@@ -2524,9 +2306,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Gobelin"
     },
     "BP22-111EN": {
@@ -2547,9 +2327,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-112EN": {
@@ -2570,9 +2348,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Mercenary"
     },
     "BP22-113EN": {
@@ -2593,9 +2369,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Gobelin"
     },
     "BP22-114EN": {
@@ -2616,9 +2390,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Gobelin"
     },
     "BP22-115EN": {
@@ -2639,9 +2411,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Gobelin"
     },
     "BP22-116EN": {
@@ -2662,9 +2432,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Umamusume"
     },
     "BP22-117EN": {
@@ -2685,9 +2453,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Umamusume"
     },
     "BP22-118EN": {
@@ -2708,9 +2474,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Umamusume"
     },
     "BP22-T01EN": {
@@ -2731,9 +2495,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Luminary"
     },
     "BP22-T02EN": {
@@ -2754,9 +2516,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-T03EN": {
@@ -2777,9 +2537,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP21-001EN": {
@@ -91228,9 +90986,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Luminary"
     },
     "BP22-T02EN_TOKEN": {
@@ -91251,9 +91007,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     },
     "BP22-T03EN_TOKEN": {
@@ -91274,9 +91028,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "BP22"
-        ],
+        "Set": "BP22",
         "Trait": "Supreme"
     }
 }
