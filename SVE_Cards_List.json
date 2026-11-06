@@ -6866,27 +6866,6 @@
         "Set": "BP20",
         "Trait": "Omen / Necromancer / Demon"
     },
-    "BP20-U06EN": {
-        "id": "BP20-U06EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Rulenye & Valnareik",
-                "type": "Follower",
-                "cost": 3,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U06EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Rulenye & Valnareik",
-        "type": "Follower",
-        "cost": 3,
-        "Class": [
-            "Abysscraft"
-        ],
-        "Set": "BP20",
-        "Trait": "Omen / Necromancer / Demon"
-    },
     "BP20-075EN": {
         "id": "BP20-075EN",
         "isToken": false,
@@ -6896,6 +6875,27 @@
                 "type": "Evolve Deck",
                 "cost": 3,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-075EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rulenye & Valnareik (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP20",
+        "Trait": "Omen / Necromancer / Demon"
+    },
+    "BP20-U06EN": {
+        "id": "BP20-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rulenye & Valnareik (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP20/BP20-U06EN.png",
                 "isHorizontal": false
             }
         },
