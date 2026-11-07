@@ -7,7 +7,28 @@
                 "name": "Brilliant Fairy",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-001.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brilliant Fairy",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Pixie"
+    },
+    "BP22-U01EN": {
+        "id": "BP22-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Brilliant Fairy",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U01EN.png",
                 "isHorizontal": false
             }
         },
@@ -28,7 +49,7 @@
                 "name": "Noxious Elf",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-002.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-002EN.png",
                 "isHorizontal": false
             }
         },
@@ -49,7 +70,7 @@
                 "name": "Aerin, Forever Brilliant",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-003.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-003EN.png",
                 "isHorizontal": false
             }
         },
@@ -70,7 +91,7 @@
                 "name": "Aerin, Forever Brilliant (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-004.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-004EN.png",
                 "isHorizontal": false
             }
         },
@@ -91,7 +112,7 @@
                 "name": "Flower Fox",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-005.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-005EN.png",
                 "isHorizontal": false
             }
         },
@@ -112,7 +133,7 @@
                 "name": "Flower Fox (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-006.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-006EN.png",
                 "isHorizontal": false
             }
         },
@@ -133,7 +154,7 @@
                 "name": "King of Vines",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-007.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-007EN.png",
                 "isHorizontal": false
             }
         },
@@ -154,7 +175,7 @@
                 "name": "Blast Fairy",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-008.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-008EN.png",
                 "isHorizontal": false
             }
         },
@@ -175,7 +196,7 @@
                 "name": "Wellspring Elf Princess",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-009.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-009EN.png",
                 "isHorizontal": false
             }
         },
@@ -196,7 +217,7 @@
                 "name": "Wellspring Elf Princess (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-010.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-010EN.png",
                 "isHorizontal": false
             }
         },
@@ -217,7 +238,7 @@
                 "name": "Aqua Fairy",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-011.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-011EN.png",
                 "isHorizontal": false
             }
         },
@@ -238,7 +259,7 @@
                 "name": "Lily, Crystalian Conductor",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-012.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-012EN.png",
                 "isHorizontal": false
             }
         },
@@ -259,7 +280,7 @@
                 "name": "Coldhearted Dark Elf",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-013.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-013EN.png",
                 "isHorizontal": false
             }
         },
@@ -280,7 +301,7 @@
                 "name": "Coldhearted Dark Elf (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-014.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-014EN.png",
                 "isHorizontal": false
             }
         },
@@ -301,7 +322,7 @@
                 "name": "Fairy Bringer",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-015.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-015EN.png",
                 "isHorizontal": false
             }
         },
@@ -322,7 +343,7 @@
                 "name": "Wily Puck",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-016.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-016EN.png",
                 "isHorizontal": false
             }
         },
@@ -343,7 +364,7 @@
                 "name": "Dungeoncrawl Fairy",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-017.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-017EN.png",
                 "isHorizontal": false
             }
         },
@@ -364,7 +385,7 @@
                 "name": "Seed Barrage",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-018.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-018EN.png",
                 "isHorizontal": false
             }
         },
@@ -385,7 +406,28 @@
                 "name": "Victorious Blader",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-019.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-019EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Victorious Blader",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Commandant"
+    },
+    "BP22-U02EN": {
+        "id": "BP22-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Victorious Blader",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U02EN.png",
                 "isHorizontal": false
             }
         },
@@ -406,7 +448,7 @@
                 "name": "Golden Warrior",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-020.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-020EN.png",
                 "isHorizontal": false
             }
         },
@@ -427,7 +469,7 @@
                 "name": "Opulent Strategist, Almerize",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-021.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-021EN.png",
                 "isHorizontal": false
             }
         },
@@ -448,7 +490,7 @@
                 "name": "Opulent Strategist, Almerize (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-022.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-022EN.png",
                 "isHorizontal": false
             }
         },
@@ -469,7 +511,7 @@
                 "name": "Assault Knight",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-023.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-023EN.png",
                 "isHorizontal": false
             }
         },
@@ -490,7 +532,7 @@
                 "name": "Assault Knight (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-024.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-024EN.png",
                 "isHorizontal": false
             }
         },
@@ -511,7 +553,7 @@
                 "name": "Fangblade Slayer",
                 "type": "Follower",
                 "cost": 8,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-025.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-025EN.png",
                 "isHorizontal": false
             }
         },
@@ -532,7 +574,7 @@
                 "name": "Claymore Master",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-026.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-026EN.png",
                 "isHorizontal": false
             }
         },
@@ -553,7 +595,7 @@
                 "name": "Axe Pirate",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-027.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-027EN.png",
                 "isHorizontal": false
             }
         },
@@ -574,7 +616,7 @@
                 "name": "Axe Pirate (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-028.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-028EN.png",
                 "isHorizontal": false
             }
         },
@@ -595,7 +637,7 @@
                 "name": "Armed Butler",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-029.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-029EN.png",
                 "isHorizontal": false
             }
         },
@@ -616,7 +658,7 @@
                 "name": "Shield Phalanx",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-030.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-030EN.png",
                 "isHorizontal": false
             }
         },
@@ -637,7 +679,7 @@
                 "name": "Calculating Captain",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-031.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-031EN.png",
                 "isHorizontal": false
             }
         },
@@ -658,7 +700,7 @@
                 "name": "Calculating Captain (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-032.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-032EN.png",
                 "isHorizontal": false
             }
         },
@@ -679,7 +721,7 @@
                 "name": "Suave Bandit",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-033.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-033EN.png",
                 "isHorizontal": false
             }
         },
@@ -700,7 +742,7 @@
                 "name": "Sword-Swinging Bandit",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-034.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-034EN.png",
                 "isHorizontal": false
             }
         },
@@ -721,7 +763,7 @@
                 "name": "Resplendent Knight",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-035.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-035EN.png",
                 "isHorizontal": false
             }
         },
@@ -742,7 +784,7 @@
                 "name": "Wandering Knight",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-036.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-036EN.png",
                 "isHorizontal": false
             }
         },
@@ -763,7 +805,7 @@
                 "name": "Chrono Witch",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-037.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-037EN.png",
                 "isHorizontal": false
             }
         },
@@ -784,7 +826,7 @@
                 "name": "Chrono Witch (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-038.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-038EN.png",
                 "isHorizontal": false
             }
         },
@@ -805,7 +847,7 @@
                 "name": "Pursuer Golem",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-039.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-039EN.png",
                 "isHorizontal": false
             }
         },
@@ -826,7 +868,7 @@
                 "name": "Levi, Wizard of Ages",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-040.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-040EN.png",
                 "isHorizontal": false
             }
         },
@@ -847,7 +889,28 @@
                 "name": "Levi, Wizard of Ages (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 1/BP22-041.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-041EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Levi, Wizard of Ages (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 4,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Mage"
+    },
+    "BP22-U03EN": {
+        "id": "BP22-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Levi, Wizard of Ages (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U03EN.png",
                 "isHorizontal": false
             }
         },
@@ -868,7 +931,7 @@
                 "name": "Witching Moggy",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-042.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-042EN.png",
                 "isHorizontal": false
             }
         },
@@ -889,7 +952,7 @@
                 "name": "Witching Moggy (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-043.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-043EN.png",
                 "isHorizontal": false
             }
         },
@@ -910,7 +973,7 @@
                 "name": "Great Magician",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-044.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-044EN.png",
                 "isHorizontal": false
             }
         },
@@ -931,7 +994,7 @@
                 "name": "Lazuli, Gateway Homunculus",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-045.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-045EN.png",
                 "isHorizontal": false
             }
         },
@@ -952,7 +1015,7 @@
                 "name": "Elina, Winged Evangelist",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-046.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-046EN.png",
                 "isHorizontal": false
             }
         },
@@ -973,7 +1036,7 @@
                 "name": "Elina, Winged Evangelist (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-047.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-047EN.png",
                 "isHorizontal": false
             }
         },
@@ -994,7 +1057,7 @@
                 "name": "Parasol Witch",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-048.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-048EN.png",
                 "isHorizontal": false
             }
         },
@@ -1015,7 +1078,7 @@
                 "name": "Carnelia, Servant of Darkness",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-049.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-049EN.png",
                 "isHorizontal": false
             }
         },
@@ -1036,7 +1099,7 @@
                 "name": "Blade Mage",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-050.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-050EN.png",
                 "isHorizontal": false
             }
         },
@@ -1057,7 +1120,7 @@
                 "name": "Blade Mage  (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-051.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-051EN.png",
                 "isHorizontal": false
             }
         },
@@ -1078,7 +1141,7 @@
                 "name": "Frost Golem",
                 "type": "Follower",
                 "cost": 8,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-052.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-052EN.png",
                 "isHorizontal": false
             }
         },
@@ -1099,7 +1162,7 @@
                 "name": "Iceshard Beast",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-053.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-053EN.png",
                 "isHorizontal": false
             }
         },
@@ -1120,7 +1183,7 @@
                 "name": "Golem Assault",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-054.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-054EN.png",
                 "isHorizontal": false
             }
         },
@@ -1141,7 +1204,7 @@
                 "name": "Mirrored Summoning",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-055.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-055EN.png",
                 "isHorizontal": false
             }
         },
@@ -1162,7 +1225,28 @@
                 "name": "Ignis Dragon",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-056.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-056EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ignis Dragon",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Wyrmkin"
+    },
+    "BP22-U04EN": {
+        "id": "BP22-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ignis Dragon",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U04EN.png",
                 "isHorizontal": false
             }
         },
@@ -1183,7 +1267,7 @@
                 "name": "Ignis Dragon (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-057.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-057EN.png",
                 "isHorizontal": false
             }
         },
@@ -1204,7 +1288,7 @@
                 "name": "Brutal Dragonewt",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-058.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-058EN.png",
                 "isHorizontal": false
             }
         },
@@ -1225,7 +1309,7 @@
                 "name": "Giselle, Ocean Star",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-059.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-059EN.png",
                 "isHorizontal": false
             }
         },
@@ -1246,7 +1330,7 @@
                 "name": "Noir & Blanc, Brothers",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-060.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-060EN.png",
                 "isHorizontal": false
             }
         },
@@ -1267,7 +1351,7 @@
                 "name": "Noir & Blanc, Brothers (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-061.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-061EN.png",
                 "isHorizontal": false
             }
         },
@@ -1288,7 +1372,7 @@
                 "name": "Bejeweled Dragon",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-062.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-062EN.png",
                 "isHorizontal": false
             }
         },
@@ -1309,7 +1393,7 @@
                 "name": "Ethica, Firebrand Claw",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-063.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-063EN.png",
                 "isHorizontal": false
             }
         },
@@ -1330,7 +1414,7 @@
                 "name": "Coral Spirit",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-064.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-064EN.png",
                 "isHorizontal": false
             }
         },
@@ -1351,7 +1435,7 @@
                 "name": "Coral Spirit (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-065.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-065EN.png",
                 "isHorizontal": false
             }
         },
@@ -1372,7 +1456,7 @@
                 "name": "Shield Dragon",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-066.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-066EN.png",
                 "isHorizontal": false
             }
         },
@@ -1393,7 +1477,7 @@
                 "name": "Piercing Roar",
                 "type": "Spell",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-067.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-067EN.png",
                 "isHorizontal": false
             }
         },
@@ -1414,7 +1498,7 @@
                 "name": "Hailwyrm",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-068.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-068EN.png",
                 "isHorizontal": false
             }
         },
@@ -1435,7 +1519,7 @@
                 "name": "Hailwyrm (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-069.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-069EN.png",
                 "isHorizontal": false
             }
         },
@@ -1456,7 +1540,7 @@
                 "name": "Ironscale Serpent Drake",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-070.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-070EN.png",
                 "isHorizontal": false
             }
         },
@@ -1477,7 +1561,7 @@
                 "name": "Electrodrake",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-071.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-071EN.png",
                 "isHorizontal": false
             }
         },
@@ -1498,7 +1582,7 @@
                 "name": "Breath of the Salamander",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-072.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-072EN.png",
                 "isHorizontal": false
             }
         },
@@ -1519,7 +1603,7 @@
                 "name": "Canyon of the Dragons",
                 "type": "Amulet",
                 "cost": 8,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-073.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-073EN.png",
                 "isHorizontal": false
             }
         },
@@ -1540,7 +1624,7 @@
                 "name": "Skeleton Raider",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-074.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-074EN.png",
                 "isHorizontal": false
             }
         },
@@ -1561,7 +1645,7 @@
                 "name": "Dark Emperor",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-075.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-075EN.png",
                 "isHorizontal": false
             }
         },
@@ -1582,7 +1666,7 @@
                 "name": "Dark Emperor (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-076.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-076EN.png",
                 "isHorizontal": false
             }
         },
@@ -1603,7 +1687,28 @@
                 "name": "Cernunnos",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-077.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-077EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cernunnos",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Demon"
+    },
+    "BP22-U05EN": {
+        "id": "BP22-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Cernunnos",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U05EN.png",
                 "isHorizontal": false
             }
         },
@@ -1624,7 +1729,7 @@
                 "name": "Suzy, Hexcaster",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-078.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-078EN.png",
                 "isHorizontal": false
             }
         },
@@ -1645,7 +1750,7 @@
                 "name": "Suzy, Hexcaster (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-079.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-079EN.png",
                 "isHorizontal": false
             }
         },
@@ -1666,7 +1771,7 @@
                 "name": "Dog of the Dead",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-080.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-080EN.png",
                 "isHorizontal": false
             }
         },
@@ -1687,7 +1792,7 @@
                 "name": "Goblin Reaper",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 2/BP22-081.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-081EN.png",
                 "isHorizontal": false
             }
         },
@@ -1708,7 +1813,7 @@
                 "name": "Scarlet Vampire",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-082.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-082EN.png",
                 "isHorizontal": false
             }
         },
@@ -1729,7 +1834,7 @@
                 "name": "Scarlet Vampire (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-083.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-083EN.png",
                 "isHorizontal": false
             }
         },
@@ -1750,7 +1855,7 @@
                 "name": "Deathcat Reaper",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-084.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-084EN.png",
                 "isHorizontal": false
             }
         },
@@ -1771,7 +1876,7 @@
                 "name": "Huginn & Muninn",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-085.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-085EN.png",
                 "isHorizontal": false
             }
         },
@@ -1792,7 +1897,7 @@
                 "name": "Thunderbolt Fiend",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-086.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-086EN.png",
                 "isHorizontal": false
             }
         },
@@ -1813,7 +1918,7 @@
                 "name": "Thunderbolt Fiend (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-087.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-087EN.png",
                 "isHorizontal": false
             }
         },
@@ -1834,7 +1939,7 @@
                 "name": "Lurching Corpse",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-088.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-088EN.png",
                 "isHorizontal": false
             }
         },
@@ -1855,7 +1960,7 @@
                 "name": "Goblin Zombie",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-089.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-089EN.png",
                 "isHorizontal": false
             }
         },
@@ -1876,7 +1981,7 @@
                 "name": "Bubbly Reaper",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-090.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-090EN.png",
                 "isHorizontal": false
             }
         },
@@ -1897,7 +2002,7 @@
                 "name": "Undead Stampede",
                 "type": "Spell",
                 "cost": 8,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-091.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-091EN.png",
                 "isHorizontal": false
             }
         },
@@ -1918,7 +2023,7 @@
                 "name": "God of Curses",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-092.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-092EN.png",
                 "isHorizontal": false
             }
         },
@@ -1939,7 +2044,7 @@
                 "name": "Holy Saber",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-093.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-093EN.png",
                 "isHorizontal": false
             }
         },
@@ -1960,7 +2065,28 @@
                 "name": "Holy Saber (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-094.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-094EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Saber (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Luminary"
+    },
+    "BP22-U06EN": {
+        "id": "BP22-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Holy Saber (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U06EN.png",
                 "isHorizontal": false
             }
         },
@@ -1981,7 +2107,7 @@
                 "name": "Aether, Guardian of Light",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-095.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-095EN.png",
                 "isHorizontal": false
             }
         },
@@ -2002,7 +2128,7 @@
                 "name": "Sacred Lion",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-096.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-096EN.png",
                 "isHorizontal": false
             }
         },
@@ -2023,7 +2149,7 @@
                 "name": "Sacred Lion (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-097.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-097EN.png",
                 "isHorizontal": false
             }
         },
@@ -2044,7 +2170,7 @@
                 "name": "Cursed Maiden",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-098.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-098EN.png",
                 "isHorizontal": false
             }
         },
@@ -2065,7 +2191,7 @@
                 "name": "Winged Sentinel Garuda",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-099.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-099EN.png",
                 "isHorizontal": false
             }
         },
@@ -2086,7 +2212,7 @@
                 "name": "Carmia, Miracle Optimist",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-100.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-100EN.png",
                 "isHorizontal": false
             }
         },
@@ -2107,7 +2233,7 @@
                 "name": "Carmia, Miracle Optimist (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-101.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-101EN.png",
                 "isHorizontal": false
             }
         },
@@ -2128,7 +2254,7 @@
                 "name": "Ascended Prism Priestess",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-102.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-102EN.png",
                 "isHorizontal": false
             }
         },
@@ -2149,7 +2275,7 @@
                 "name": "Sonia, Protector of Hope",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-103.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-103EN.png",
                 "isHorizontal": false
             }
         },
@@ -2170,7 +2296,7 @@
                 "name": "Holy Kitty",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-104.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-104EN.png",
                 "isHorizontal": false
             }
         },
@@ -2191,7 +2317,7 @@
                 "name": "Holy Kitty (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-105.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-105EN.png",
                 "isHorizontal": false
             }
         },
@@ -2212,7 +2338,7 @@
                 "name": "Sacred Ice-Crusher",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-106.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-106EN.png",
                 "isHorizontal": false
             }
         },
@@ -2233,7 +2359,7 @@
                 "name": "Tender Rabbit Healer",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-107.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-107EN.png",
                 "isHorizontal": false
             }
         },
@@ -2254,7 +2380,7 @@
                 "name": "Khonsu",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-108.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-108EN.png",
                 "isHorizontal": false
             }
         },
@@ -2275,7 +2401,7 @@
                 "name": "Forbidden Ritual",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-109.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-109EN.png",
                 "isHorizontal": false
             }
         },
@@ -2296,7 +2422,28 @@
                 "name": "Goblin Emperor",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-110.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-110EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Goblin Emperor",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP22",
+        "Trait": "Goblin"
+    },
+    "BP22-U07EN": {
+        "id": "BP22-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Goblin Emperor",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-U07EN.png",
                 "isHorizontal": false
             }
         },
@@ -2317,7 +2464,7 @@
                 "name": "Advent of Peace",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-111.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-111EN.png",
                 "isHorizontal": false
             }
         },
@@ -2338,7 +2485,7 @@
                 "name": "Feena, Super Cute Hunter",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-112.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-112EN.png",
                 "isHorizontal": false
             }
         },
@@ -2359,7 +2506,7 @@
                 "name": "Goblin Leader",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-113.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-113EN.png",
                 "isHorizontal": false
             }
         },
@@ -2380,7 +2527,7 @@
                 "name": "Goblin Leader (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-114.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-114EN.png",
                 "isHorizontal": false
             }
         },
@@ -2401,7 +2548,7 @@
                 "name": "Goblin Mage",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-115.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-115EN.png",
                 "isHorizontal": false
             }
         },
@@ -2422,7 +2569,7 @@
                 "name": "(Victory Road) Haru Urara",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-116.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-116EN.png",
                 "isHorizontal": false
             }
         },
@@ -2443,7 +2590,7 @@
                 "name": "(Extreme Speed) Oguri Cap",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-117.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-117EN.png",
                 "isHorizontal": false
             }
         },
@@ -2464,7 +2611,7 @@
                 "name": "(Extreme Speed) Oguri Cap (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-118.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-118EN.png",
                 "isHorizontal": false
             }
         },
@@ -2485,7 +2632,7 @@
                 "name": "Her Holiness's Decree",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T01.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-T01EN.png",
                 "isHorizontal": false
             }
         },
@@ -2506,7 +2653,7 @@
                 "name": "Shadow General",
                 "type": "Token",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T02.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-T02EN.png",
                 "isHorizontal": false
             }
         },
@@ -2527,7 +2674,70 @@
                 "name": "Radiant Artifact",
                 "type": "Token",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T03.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Radiant Artifact",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP22",
+        "Trait": "Supreme"
+    },
+    "BP22-T01EN_TOKEN": {
+        "id": "BP22-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Her Holiness's Decree",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Her Holiness's Decree",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP22",
+        "Trait": "Luminary"
+    },
+    "BP22-T02EN_TOKEN": {
+        "id": "BP22-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Shadow General",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shadow General",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP22",
+        "Trait": "Supreme"
+    },
+    "BP22-T03EN_TOKEN": {
+        "id": "BP22-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Radiant Artifact",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-T03EN.png",
                 "isHorizontal": false
             }
         },
@@ -2548,7 +2758,7 @@
                 "name": "Castelle, Budding Mage",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-001.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-001EN.png",
                 "isHorizontal": false
             }
         },
@@ -2569,7 +2779,7 @@
                 "name": "Lyelth, Immaculate Idol",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-002.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-002EN.png",
                 "isHorizontal": false
             }
         },
@@ -2590,7 +2800,7 @@
                 "name": "Lyelth, Immaculate Idol (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-003.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-003EN.png",
                 "isHorizontal": false
             }
         },
@@ -2611,7 +2821,28 @@
                 "name": "Titania, Queen of Fairies",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-004.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-004EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Titania, Queen of Fairies",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Pixie / Princess"
+    },
+    "BP21-U01EN": {
+        "id": "BP21-U01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Titania, Queen of Fairies",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U01EN.png",
                 "isHorizontal": false
             }
         },
@@ -2632,7 +2863,7 @@
                 "name": "Cleaver Cat",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-005.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-005EN.png",
                 "isHorizontal": false
             }
         },
@@ -2653,7 +2884,7 @@
                 "name": "Cleaver Cat (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-006.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-006EN.png",
                 "isHorizontal": false
             }
         },
@@ -2674,7 +2905,7 @@
                 "name": "Cynthia, Chivalrous Elf",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-007.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-007EN.png",
                 "isHorizontal": false
             }
         },
@@ -2695,7 +2926,7 @@
                 "name": "Dwarven Lumberjack",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-008.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-008EN.png",
                 "isHorizontal": false
             }
         },
@@ -2716,7 +2947,7 @@
                 "name": "Elven Farmhand",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-009.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-009EN.png",
                 "isHorizontal": false
             }
         },
@@ -2737,7 +2968,7 @@
                 "name": "Elven Farmhand (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-010.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-010EN.png",
                 "isHorizontal": false
             }
         },
@@ -2758,7 +2989,7 @@
                 "name": "Fauna Handler",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-011.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-011EN.png",
                 "isHorizontal": false
             }
         },
@@ -2779,7 +3010,7 @@
                 "name": "Fairy Funfact",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-012.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-012EN.png",
                 "isHorizontal": false
             }
         },
@@ -2800,7 +3031,7 @@
                 "name": "Bladebunny",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-013.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-013EN.png",
                 "isHorizontal": false
             }
         },
@@ -2821,7 +3052,7 @@
                 "name": "Bladebunny (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-014.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-014EN.png",
                 "isHorizontal": false
             }
         },
@@ -2842,7 +3073,7 @@
                 "name": "Vanguard Tigress",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-015.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-015EN.png",
                 "isHorizontal": false
             }
         },
@@ -2863,7 +3094,7 @@
                 "name": "Flying Mistletoe Squirrel",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-016.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-016EN.png",
                 "isHorizontal": false
             }
         },
@@ -2884,7 +3115,7 @@
                 "name": "Spiritelementalist",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-017.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-017EN.png",
                 "isHorizontal": false
             }
         },
@@ -2905,7 +3136,7 @@
                 "name": "Wild Profusion",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-018.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-018EN.png",
                 "isHorizontal": false
             }
         },
@@ -2926,7 +3157,7 @@
                 "name": "Lecia & Nano, Twilight Trainees",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-019.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-019EN.png",
                 "isHorizontal": false
             }
         },
@@ -2947,7 +3178,7 @@
                 "name": "Galdr, Heroic Headmaster",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-020.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-020EN.png",
                 "isHorizontal": false
             }
         },
@@ -2968,7 +3199,7 @@
                 "name": "Galdr, Heroic Headmaster (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-021.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-021EN.png",
                 "isHorizontal": false
             }
         },
@@ -2989,7 +3220,28 @@
                 "name": "Yurius, Levin Authority",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-022.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-022EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yurius, Levin Authority",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Noble / Levin"
+    },
+    "BP21-U02EN": {
+        "id": "BP21-U02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yurius, Levin Authority",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U02EN.png",
                 "isHorizontal": false
             }
         },
@@ -3010,7 +3262,7 @@
                 "name": "Agile Twinblader",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-023.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-023EN.png",
                 "isHorizontal": false
             }
         },
@@ -3031,7 +3283,7 @@
                 "name": "Agile Twinblader (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-024.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-024EN.png",
                 "isHorizontal": false
             }
         },
@@ -3052,7 +3304,7 @@
                 "name": "Weiss, Discerning Professor",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-025.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-025EN.png",
                 "isHorizontal": false
             }
         },
@@ -3073,7 +3325,7 @@
                 "name": "Twilight and Silver",
                 "type": "Spell",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-026.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-026EN.png",
                 "isHorizontal": false
             }
         },
@@ -3094,7 +3346,7 @@
                 "name": "Tony, Plucky Polliwog",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-027.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-027EN.png",
                 "isHorizontal": false
             }
         },
@@ -3115,7 +3367,7 @@
                 "name": "Tony, Plucky Polliwog (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-028.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-028EN.png",
                 "isHorizontal": false
             }
         },
@@ -3136,7 +3388,7 @@
                 "name": "Deadeye Trainee",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-029.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-029EN.png",
                 "isHorizontal": false
             }
         },
@@ -3157,7 +3409,7 @@
                 "name": "Sharp Strategist",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-030.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-030EN.png",
                 "isHorizontal": false
             }
         },
@@ -3178,7 +3430,7 @@
                 "name": "Kitty Sergeant",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-031.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-031EN.png",
                 "isHorizontal": false
             }
         },
@@ -3199,7 +3451,7 @@
                 "name": "Kitty Sergeant (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-032.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-032EN.png",
                 "isHorizontal": false
             }
         },
@@ -3220,7 +3472,7 @@
                 "name": "Fervent Fist-Fighter",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-033.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-033EN.png",
                 "isHorizontal": false
             }
         },
@@ -3241,7 +3493,7 @@
                 "name": "Levin Archer",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-034.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-034EN.png",
                 "isHorizontal": false
             }
         },
@@ -3262,7 +3514,7 @@
                 "name": "Aggressive Advance",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-035.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-035EN.png",
                 "isHorizontal": false
             }
         },
@@ -3283,7 +3535,7 @@
                 "name": "Lieutenant's Report",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-036.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-036EN.png",
                 "isHorizontal": false
             }
         },
@@ -3304,7 +3556,7 @@
                 "name": "Amaryllis, the Princess",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-037.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-037EN.png",
                 "isHorizontal": false
             }
         },
@@ -3325,7 +3577,7 @@
                 "name": "Anne, Brilliant Mage",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-038.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-038EN.png",
                 "isHorizontal": false
             }
         },
@@ -3346,7 +3598,7 @@
                 "name": "Anne, Brilliant Mage (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-039.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-039EN.png",
                 "isHorizontal": false
             }
         },
@@ -3367,7 +3619,28 @@
                 "name": "Ceridwen, Eternal Duality",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-040.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-040EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ceridwen, Eternal Duality",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Alchemist / Forbidden"
+    },
+    "BP21-U03EN": {
+        "id": "BP21-U03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ceridwen, Eternal Duality",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U03EN.png",
                 "isHorizontal": false
             }
         },
@@ -3388,7 +3661,7 @@
                 "name": "Grea, Crimson Promise",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-041.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-041EN.png",
                 "isHorizontal": false
             }
         },
@@ -3409,7 +3682,7 @@
                 "name": "Grea, Crimson Promise (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 1/BP21-042.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-042EN.png",
                 "isHorizontal": false
             }
         },
@@ -3430,7 +3703,7 @@
                 "name": "Mysterian Exchange Party",
                 "type": "Spell",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-043.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-043EN.png",
                 "isHorizontal": false
             }
         },
@@ -3451,7 +3724,7 @@
                 "name": "Mystic Rune",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-044.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-044EN.png",
                 "isHorizontal": false
             }
         },
@@ -3472,7 +3745,7 @@
                 "name": "Gruinne, Leonardian Provost",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-045.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-045EN.png",
                 "isHorizontal": false
             }
         },
@@ -3493,7 +3766,7 @@
                 "name": "Gruinne, Leonardian Provost (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-046.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-046EN.png",
                 "isHorizontal": false
             }
         },
@@ -3514,7 +3787,7 @@
                 "name": "Leeds, Pining Witch",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-047.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-047EN.png",
                 "isHorizontal": false
             }
         },
@@ -3535,7 +3808,7 @@
                 "name": "Bell Witch",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-048.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-048EN.png",
                 "isHorizontal": false
             }
         },
@@ -3556,7 +3829,7 @@
                 "name": "Wolf Whisperer",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-049.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-049EN.png",
                 "isHorizontal": false
             }
         },
@@ -3577,7 +3850,7 @@
                 "name": "Wolf Whisperer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-050.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-050EN.png",
                 "isHorizontal": false
             }
         },
@@ -3598,7 +3871,7 @@
                 "name": "Evamia, Spinner of Threads",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-051.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-051EN.png",
                 "isHorizontal": false
             }
         },
@@ -3619,7 +3892,7 @@
                 "name": "Arcane Instruction",
                 "type": "Spell",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-052.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-052EN.png",
                 "isHorizontal": false
             }
         },
@@ -3640,7 +3913,7 @@
                 "name": "Aqueous Sphere",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-053.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-053EN.png",
                 "isHorizontal": false
             }
         },
@@ -3661,7 +3934,7 @@
                 "name": "Binding Ritual",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-054.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-054EN.png",
                 "isHorizontal": false
             }
         },
@@ -3682,7 +3955,7 @@
                 "name": "Lilium, the Wyrmwitch",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-055.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-055EN.png",
                 "isHorizontal": false
             }
         },
@@ -3703,7 +3976,7 @@
                 "name": "Lilium, the Witchwyrm (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-056.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-056EN.png",
                 "isHorizontal": false
             }
         },
@@ -3724,7 +3997,7 @@
                 "name": "Coach Joe, Fiery Counselor",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-057.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-057EN.png",
                 "isHorizontal": false
             }
         },
@@ -3745,7 +4018,28 @@
                 "name": "Lumiore, Prestigious Gold",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-058.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-058EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lumiore, Prestigious Gold",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Dragonewt"
+    },
+    "BP21-U04EN": {
+        "id": "BP21-U04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lumiore, Prestigious Gold",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U04EN.png",
                 "isHorizontal": false
             }
         },
@@ -3766,7 +4060,7 @@
                 "name": "Grand Slam Tamer",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-059.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-059EN.png",
                 "isHorizontal": false
             }
         },
@@ -3787,7 +4081,7 @@
                 "name": "Grand Slam Tamer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-060.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-060EN.png",
                 "isHorizontal": false
             }
         },
@@ -3808,7 +4102,7 @@
                 "name": "Dion, Scarlet Scion",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-061.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-061EN.png",
                 "isHorizontal": false
             }
         },
@@ -3829,7 +4123,7 @@
                 "name": "Argente, Purest Silver",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-062.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-062EN.png",
                 "isHorizontal": false
             }
         },
@@ -3850,7 +4144,7 @@
                 "name": "Dragonborn Striker",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-063.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-063EN.png",
                 "isHorizontal": false
             }
         },
@@ -3871,7 +4165,7 @@
                 "name": "Dragonborn Striker (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-064.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-064EN.png",
                 "isHorizontal": false
             }
         },
@@ -3892,7 +4186,7 @@
                 "name": "Gunbein, Lofty Dragonewt",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-065.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-065EN.png",
                 "isHorizontal": false
             }
         },
@@ -3913,7 +4207,7 @@
                 "name": "Charlotte, Dragonewt",
                 "type": "Follower",
                 "cost": 10,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-066.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-066EN.png",
                 "isHorizontal": false
             }
         },
@@ -3934,7 +4228,7 @@
                 "name": "Ipupiara",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-067.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-067EN.png",
                 "isHorizontal": false
             }
         },
@@ -3955,7 +4249,7 @@
                 "name": "Ipupiara (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-068.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-068EN.png",
                 "isHorizontal": false
             }
         },
@@ -3976,7 +4270,7 @@
                 "name": "Megalorca Rider",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-069.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-069EN.png",
                 "isHorizontal": false
             }
         },
@@ -3997,7 +4291,7 @@
                 "name": "Augite Wyrm",
                 "type": "Follower",
                 "cost": 9,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-070.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-070EN.png",
                 "isHorizontal": false
             }
         },
@@ -4018,7 +4312,7 @@
                 "name": "Stormscale",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-071.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-071EN.png",
                 "isHorizontal": false
             }
         },
@@ -4039,7 +4333,7 @@
                 "name": "Dragon Hunt",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-072.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-072EN.png",
                 "isHorizontal": false
             }
         },
@@ -4060,7 +4354,7 @@
                 "name": "Cornelius, the Corpse King",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-073.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-073EN.png",
                 "isHorizontal": false
             }
         },
@@ -4081,7 +4375,7 @@
                 "name": "Cornelius, the Corpse King (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-074.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-074EN.png",
                 "isHorizontal": false
             }
         },
@@ -4102,7 +4396,28 @@
                 "name": "Galom, Empress Fist",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-075.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-075EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Galom, Empress Fist",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Demon / Academic"
+    },
+    "BP21-U05EN": {
+        "id": "BP21-U05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Galom, Empress Fist",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U05EN.png",
                 "isHorizontal": false
             }
         },
@@ -4123,7 +4438,7 @@
                 "name": "Vulgus, Infernal Headmistress",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-076.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-076EN.png",
                 "isHorizontal": false
             }
         },
@@ -4144,7 +4459,7 @@
                 "name": "Arka, Sin Spinner",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-077.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-077EN.png",
                 "isHorizontal": false
             }
         },
@@ -4165,7 +4480,7 @@
                 "name": "Arka, Sin Spinner (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-078.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-078EN.png",
                 "isHorizontal": false
             }
         },
@@ -4186,7 +4501,7 @@
                 "name": "Exella, Nocturnal General",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-079.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-079EN.png",
                 "isHorizontal": false
             }
         },
@@ -4207,7 +4522,7 @@
                 "name": "Bad-Girl Life",
                 "type": "Spell",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-080.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-080EN.png",
                 "isHorizontal": false
             }
         },
@@ -4228,7 +4543,7 @@
                 "name": "Mach-Speed Maron",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-081.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-081EN.png",
                 "isHorizontal": false
             }
         },
@@ -4249,7 +4564,7 @@
                 "name": "Mach-Speed Maron (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-082.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-082EN.png",
                 "isHorizontal": false
             }
         },
@@ -4270,7 +4585,7 @@
                 "name": "Demon-Eyed Gangster",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-083.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-083EN.png",
                 "isHorizontal": false
             }
         },
@@ -4291,7 +4606,7 @@
                 "name": "Noble Demoness",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 2/BP21-084.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-084EN.png",
                 "isHorizontal": false
             }
         },
@@ -4312,7 +4627,7 @@
                 "name": "Bonebreaker Bladesman",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-085.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-085EN.png",
                 "isHorizontal": false
             }
         },
@@ -4333,7 +4648,7 @@
                 "name": "Bonebreaker Bladesman (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-086.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-086EN.png",
                 "isHorizontal": false
             }
         },
@@ -4354,7 +4669,7 @@
                 "name": "Denan, Big Bad Boss",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-087.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-087EN.png",
                 "isHorizontal": false
             }
         },
@@ -4375,7 +4690,7 @@
                 "name": "Malicious Blader",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-088.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-088EN.png",
                 "isHorizontal": false
             }
         },
@@ -4396,7 +4711,7 @@
                 "name": "Serenading Succubus",
                 "type": "Follower",
                 "cost": 6,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-089.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-089EN.png",
                 "isHorizontal": false
             }
         },
@@ -4417,7 +4732,7 @@
                 "name": "Spirit Invasion",
                 "type": "Spell",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-090.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-090EN.png",
                 "isHorizontal": false
             }
         },
@@ -4438,7 +4753,7 @@
                 "name": "Verdilia, Rogue Professor",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-091.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-091EN.png",
                 "isHorizontal": false
             }
         },
@@ -4459,7 +4774,7 @@
                 "name": "Verdilia, Rogue Professor (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-092.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-092EN.png",
                 "isHorizontal": false
             }
         },
@@ -4480,7 +4795,28 @@
                 "name": "Elluvia, Graceful Lady",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-093.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-093EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elluvia, Graceful Lady",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Faith / Academic / Lightborne"
+    },
+    "BP21-U06EN": {
+        "id": "BP21-U06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Elluvia, Graceful Lady",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U06EN.png",
                 "isHorizontal": false
             }
         },
@@ -4501,7 +4837,7 @@
                 "name": "Wilbert, Desolate Paladin",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-094.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-094EN.png",
                 "isHorizontal": false
             }
         },
@@ -4522,7 +4858,7 @@
                 "name": "Wilbert, Desolate Paladin (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-095.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-095EN.png",
                 "isHorizontal": false
             }
         },
@@ -4543,7 +4879,7 @@
                 "name": "Lou, Lady-in-Training",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-096.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-096EN.png",
                 "isHorizontal": false
             }
         },
@@ -4564,7 +4900,7 @@
                 "name": "Lou, Lady-in-Training (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-097.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-097EN.png",
                 "isHorizontal": false
             }
         },
@@ -4585,7 +4921,7 @@
                 "name": "Kira, Resilient Maiden",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-098.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-098EN.png",
                 "isHorizontal": false
             }
         },
@@ -4606,7 +4942,7 @@
                 "name": "Orchid's Examination Hall",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-099.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-099EN.png",
                 "isHorizontal": false
             }
         },
@@ -4627,7 +4963,7 @@
                 "name": "Pureflame Lady",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-100.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-100EN.png",
                 "isHorizontal": false
             }
         },
@@ -4648,7 +4984,7 @@
                 "name": "Pureflame Lady (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-101.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-101EN.png",
                 "isHorizontal": false
             }
         },
@@ -4669,7 +5005,7 @@
                 "name": "Kyrie, Fragment of Hope",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-102.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-102EN.png",
                 "isHorizontal": false
             }
         },
@@ -4690,7 +5026,7 @@
                 "name": "Pureflower Maiden",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-103.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-103EN.png",
                 "isHorizontal": false
             }
         },
@@ -4711,7 +5047,7 @@
                 "name": "Zlatorog",
                 "type": "Follower",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-104.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-104EN.png",
                 "isHorizontal": false
             }
         },
@@ -4732,7 +5068,7 @@
                 "name": "Zlatorog (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-105.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-105EN.png",
                 "isHorizontal": false
             }
         },
@@ -4753,7 +5089,7 @@
                 "name": "Aqua Priestess",
                 "type": "Follower",
                 "cost": 7,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-106.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-106EN.png",
                 "isHorizontal": false
             }
         },
@@ -4774,7 +5110,7 @@
                 "name": "Holy Armored Cheetah",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-107.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-107EN.png",
                 "isHorizontal": false
             }
         },
@@ -4795,7 +5131,7 @@
                 "name": "Hierophant's Implements",
                 "type": "Amulet",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-108.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-108EN.png",
                 "isHorizontal": false
             }
         },
@@ -4816,7 +5152,7 @@
                 "name": "Sublime Talisman",
                 "type": "Amulet",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-109.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-109EN.png",
                 "isHorizontal": false
             }
         },
@@ -4837,7 +5173,7 @@
                 "name": "Lucius, Travelled Trainer",
                 "type": "Follower",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-110.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-110EN.png",
                 "isHorizontal": false
             }
         },
@@ -4858,7 +5194,7 @@
                 "name": "Lucius, Travelled Trainer (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-111.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-111EN.png",
                 "isHorizontal": false
             }
         },
@@ -4879,7 +5215,28 @@
                 "name": "Gretina, Champion Fighter",
                 "type": "Follower",
                 "cost": 4,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-112.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-112EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gretina, Champion Fighter",
+        "type": "Follower",
+        "cost": 4,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "BP21",
+        "Trait": "Machina / Academic / Supreme"
+    },
+    "BP21-U07EN": {
+        "id": "BP21-U07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Gretina, Champion Fighter",
+                "type": "Follower",
+                "cost": 4,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-U07EN.png",
                 "isHorizontal": false
             }
         },
@@ -4900,7 +5257,7 @@
                 "name": "Arriet, Luxvoice Learner",
                 "type": "Follower",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-113.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-113EN.png",
                 "isHorizontal": false
             }
         },
@@ -4921,7 +5278,7 @@
                 "name": "Lainecrest Academy",
                 "type": "Amulet",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-114.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-114EN.png",
                 "isHorizontal": false
             }
         },
@@ -4942,7 +5299,7 @@
                 "name": "Goblin Genius",
                 "type": "Follower",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-115.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-115EN.png",
                 "isHorizontal": false
             }
         },
@@ -4963,7 +5320,7 @@
                 "name": "Goblin's Gratitude",
                 "type": "Spell",
                 "cost": 3,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-116.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-116EN.png",
                 "isHorizontal": false
             }
         },
@@ -4984,7 +5341,7 @@
                 "name": "Lyelth's Marionette",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T01.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T01EN.png",
                 "isHorizontal": false
             }
         },
@@ -5005,7 +5362,7 @@
                 "name": "Verdant Prayer",
                 "type": "Token",
                 "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T02.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T02EN.png",
                 "isHorizontal": false
             }
         },
@@ -5026,7 +5383,7 @@
                 "name": "Curse of Suffering",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T03.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T03EN.png",
                 "isHorizontal": false
             }
         },
@@ -5047,7 +5404,7 @@
                 "name": "Emergency Summoning",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T04.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T04EN.png",
                 "isHorizontal": false
             }
         },
@@ -5068,7 +5425,7 @@
                 "name": "Reactive Barrier",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T05.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T05EN.png",
                 "isHorizontal": false
             }
         },
@@ -5089,7 +5446,7 @@
                 "name": "Lilium's Hatchling",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T06.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T06EN.png",
                 "isHorizontal": false
             }
         },
@@ -5110,7 +5467,7 @@
                 "name": "Lilium's Dragon",
                 "type": "Token",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T07.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T07EN.png",
                 "isHorizontal": false
             }
         },
@@ -5131,7 +5488,7 @@
                 "name": "Holy Cavalier",
                 "type": "Token",
                 "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T08.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T08EN.png",
                 "isHorizontal": false
             }
         },
@@ -5152,7 +5509,7 @@
                 "name": "Cyclical Guidance",
                 "type": "Token",
                 "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T09.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T09EN.png",
                 "isHorizontal": false
             }
         },
@@ -5173,7 +5530,217 @@
                 "name": "Crest: Wilbert, Desolate Paladin",
                 "type": "Token",
                 "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T10.jpg",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crest: Wilbert, Desolate Paladin",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Arena / Luminary"
+    },
+    "BP21-T01EN_TOKEN": {
+        "id": "BP21-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Lyelth's Marionette",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lyelth's Marionette",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Puppetry / Academic"
+    },
+    "BP21-T02EN_TOKEN": {
+        "id": "BP21-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Verdant Prayer",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Verdant Prayer",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Elf / Academic / Supreme"
+    },
+    "BP21-T03EN_TOKEN": {
+        "id": "BP21-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Curse of Suffering",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Curse of Suffering",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Mage / Academic / Princess"
+    },
+    "BP21-T04EN_TOKEN": {
+        "id": "BP21-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Emergency Summoning",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Emergency Summoning",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Alchemist / Earth Sigil"
+    },
+    "BP21-T05EN_TOKEN": {
+        "id": "BP21-T05EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Reactive Barrier",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Reactive Barrier",
+        "type": "Token",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Alchemist / Earth Sigil"
+    },
+    "BP21-T06EN_TOKEN": {
+        "id": "BP21-T06EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Lilium's Hatchling",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lilium's Hatchling",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Wyrmkin / Academic"
+    },
+    "BP21-T07EN_TOKEN": {
+        "id": "BP21-T07EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Lilium's Dragon",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T07EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lilium's Dragon",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Wyrmkin / Academic"
+    },
+    "BP21-T08EN_TOKEN": {
+        "id": "BP21-T08EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Holy Cavalier",
+                "type": "Token",
+                "cost": 1,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T08EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Holy Cavalier",
+        "type": "Token",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Luminary"
+    },
+    "BP21-T09EN_TOKEN": {
+        "id": "BP21-T09EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Cyclical Guidance",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T09EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cyclical Guidance",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "BP21",
+        "Trait": "Luminary / Academic"
+    },
+    "BP21-T10EN_TOKEN": {
+        "id": "BP21-T10EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Crest: Wilbert, Desolate Paladin",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-T10EN.png",
                 "isHorizontal": false
             }
         },
