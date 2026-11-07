@@ -466,14 +466,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Opulent Strategist, Almerize",
+                "name": "Almaelys, Opulent Strategist",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-021EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Opulent Strategist, Almerize",
+        "name": "Almaelys, Opulent Strategist",
         "type": "Follower",
         "cost": 2,
         "Class": [
@@ -487,14 +487,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Opulent Strategist, Almerize (Evolved)",
+                "name": "Almaelys, Opulent Strategist (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-022EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Opulent Strategist, Almerize (Evolved)",
+        "name": "Almaelys, Opulent Strategist (Evolved)",
         "type": "Evolve Deck",
         "cost": 2,
         "Class": [
@@ -2566,14 +2566,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "(Victory Road) Haru Urara",
+                "name": "Haru Urara [I'll Win Someday!]",
                 "type": "Follower",
                 "cost": 2,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-116EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "(Victory Road) Haru Urara",
+        "name": "Haru Urara [I'll Win Someday!]",
         "type": "Follower",
         "cost": 2,
         "Class": [
@@ -2587,14 +2587,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "(Extreme Speed) Oguri Cap",
+                "name": "Oguri Cap [Surging Beast]",
                 "type": "Follower",
                 "cost": 9,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-117EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "(Extreme Speed) Oguri Cap",
+        "name": "Oguri Cap [Surging Beast]",
         "type": "Follower",
         "cost": 9,
         "Class": [
@@ -2608,14 +2608,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "(Extreme Speed) Oguri Cap (Evolved)",
+                "name": "Oguri Cap [Surging Beast] (Evolved)",
                 "type": "Evolve Deck",
                 "cost": 9,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP22/BP22-118EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "(Extreme Speed) Oguri Cap (Evolved)",
+        "name": "Oguri Cap [Surging Beast] (Evolved)",
         "type": "Evolve Deck",
         "cost": 9,
         "Class": [
@@ -88847,216 +88847,6 @@
         "Set": "BP20",
         "Trait": "Omen"
     },
-    "BP21-T01EN_TOKEN": {
-        "id": "BP21-T01EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Lyelth's Marionette",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T01.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Lyelth's Marionette",
-        "type": "Token",
-        "cost": 0,
-        "Class": [
-            "Forestcraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Puppetry / Academic"
-    },
-    "BP21-T02EN_TOKEN": {
-        "id": "BP21-T02EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Verdant Prayer",
-                "type": "Token",
-                "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T02.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Verdant Prayer",
-        "type": "Token",
-        "cost": 5,
-        "Class": [
-            "Forestcraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Elf / Academic / Supreme"
-    },
-    "BP21-T03EN_TOKEN": {
-        "id": "BP21-T03EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Curse of Suffering",
-                "type": "Token",
-                "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T03.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Curse of Suffering",
-        "type": "Token",
-        "cost": 1,
-        "Class": [
-            "Runecraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Mage / Academic / Princess"
-    },
-    "BP21-T04EN_TOKEN": {
-        "id": "BP21-T04EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Emergency Summoning",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T04.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Emergency Summoning",
-        "type": "Token",
-        "cost": 0,
-        "Class": [
-            "Runecraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Alchemist / Earth Sigil"
-    },
-    "BP21-T05EN_TOKEN": {
-        "id": "BP21-T05EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Reactive Barrier",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T05.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Reactive Barrier",
-        "type": "Token",
-        "cost": 0,
-        "Class": [
-            "Runecraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Alchemist / Earth Sigil"
-    },
-    "BP21-T06EN_TOKEN": {
-        "id": "BP21-T06EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Lilium's Hatchling",
-                "type": "Token",
-                "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T06.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Lilium's Hatchling",
-        "type": "Token",
-        "cost": 1,
-        "Class": [
-            "Dragoncraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Wyrmkin / Academic"
-    },
-    "BP21-T07EN_TOKEN": {
-        "id": "BP21-T07EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Lilium's Dragon",
-                "type": "Token",
-                "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T07.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Lilium's Dragon",
-        "type": "Token",
-        "cost": 2,
-        "Class": [
-            "Dragoncraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Wyrmkin / Academic"
-    },
-    "BP21-T08EN_TOKEN": {
-        "id": "BP21-T08EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Holy Cavalier",
-                "type": "Token",
-                "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T08.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Holy Cavalier",
-        "type": "Token",
-        "cost": 1,
-        "Class": [
-            "Havencraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Luminary"
-    },
-    "BP21-T09EN_TOKEN": {
-        "id": "BP21-T09EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Cyclical Guidance",
-                "type": "Token",
-                "cost": 2,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T09.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Cyclical Guidance",
-        "type": "Token",
-        "cost": 2,
-        "Class": [
-            "Havencraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Luminary / Academic"
-    },
-    "BP21-T10EN_TOKEN": {
-        "id": "BP21-T10EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Crest: Wilbert, Desolate Paladin",
-                "type": "Token",
-                "cost": 0,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP21 TEMP 3/BP21-T10.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Crest: Wilbert, Desolate Paladin",
-        "type": "Token",
-        "cost": 0,
-        "Class": [
-            "Havencraft"
-        ],
-        "Set": "BP21",
-        "Trait": "Arena / Luminary"
-    },
     "GFE01-001EN": {
         "id": "GFE01-001EN",
         "isToken": false,
@@ -91534,68 +91324,5 @@
         ],
         "Set": "GF",
         "Trait": "Faith / Eidolon"
-    },
-    "BP22-T01EN_TOKEN": {
-        "id": "BP22-T01EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Her Holiness's Decree",
-                "type": "Token",
-                "cost": 1,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T01.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Her Holiness's Decree",
-        "type": "Token",
-        "cost": 1,
-        "Class": [
-            "Havencraft"
-        ],
-        "Set": "BP22",
-        "Trait": "Luminary"
-    },
-    "BP22-T02EN_TOKEN": {
-        "id": "BP22-T02EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Shadow General",
-                "type": "Token",
-                "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T02.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Shadow General",
-        "type": "Token",
-        "cost": 5,
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "BP22",
-        "Trait": "Supreme"
-    },
-    "BP22-T03EN_TOKEN": {
-        "id": "BP22-T03EN_TOKEN",
-        "isToken": true,
-        "face": {
-            "front": {
-                "name": "Radiant Artifact",
-                "type": "Token",
-                "cost": 5,
-                "image": "https://dfhgss.github.io/TCG-Arena-SVE/BP22 TEMP 3/BP22-T03.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Radiant Artifact",
-        "type": "Token",
-        "cost": 5,
-        "Class": [
-            "Neutral"
-        ],
-        "Set": "BP22",
-        "Trait": "Supreme"
     }
 }
