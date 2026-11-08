@@ -157,7 +157,7 @@
                     "Mana",
                     "PP",
                     "EP",
-		    "Leader"
+                    "Leader"
                 ],
                 "layout": {
                     "direction": "column",
@@ -225,8 +225,7 @@
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "30%"
+                                        "background-position": "center"
                                     }
                                 },
                                 {
@@ -253,7 +252,7 @@
                     "Evolve Deck->Evolve_Deck",
                     "PP",
                     "EP",
-		    "Leader"
+                    "Leader"
                 ],
                 "autoPlayFromHand": {
                     "Follower": "Stack",
@@ -442,7 +441,7 @@
                         "title": "Leader",
                         "isHidden": "no",
                         "height": "18",
-                        "alignment": "DECK",
+                        "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
