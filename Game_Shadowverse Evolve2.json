@@ -225,14 +225,13 @@
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "21%"
+                                        "background-position": "center"
                                     }
                                 },
                                 {
                                     "section": "Leader",
                                     "style": {
-                                        "width": "9%"
+                                        "width": "13.9vh"
                                     }
                                 },
                                 {
@@ -241,7 +240,8 @@
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
-                                        "background-position": "center"
+                                        "background-position": "center",
+                                        "width": "70%"
                                     }
                                 }
                             ],
