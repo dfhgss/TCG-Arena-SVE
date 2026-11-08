@@ -226,7 +226,6 @@
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
                                         "background-position": "center",
-                                        "width": "20%"
                                     }
                                 },
                                 {
@@ -438,7 +437,7 @@
                         "showHiddenCardInHistory": false,
                         "cardBackColor": "#e0e0e0"
                     },
-                    "Leader ": {
+                    "Leader": {
                         "title": "Leader",
                         "isHidden": "no",
                         "height": "18",
