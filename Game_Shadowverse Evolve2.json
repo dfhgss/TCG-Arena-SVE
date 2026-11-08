@@ -181,8 +181,7 @@
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "15%"
+                                        "background-position": "center"
                                     }
                                 },
                                 {
@@ -192,7 +191,7 @@
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
                                         "background-position": "center",
-                                        "width": "15%"
+                                        "width": "27.8vh"
                                     }
                                 },
                                 {
