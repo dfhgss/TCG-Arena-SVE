@@ -225,7 +225,8 @@
                                         "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
                                         "background-size": "contain",
                                         "background-repeat": "no-repeat",
-                                        "background-position": "center"
+                                        "background-position": "center",
+                                        "width": "20%"
                                     }
                                 },
                                 {
