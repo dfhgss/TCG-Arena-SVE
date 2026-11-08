@@ -203,12 +203,6 @@
                                         "background-repeat": "no-repeat",
                                         "background-position": "center"
                                     }
-                                },
-                                {
-                                    "section": "Leader",
-                                    "style": {
-                                        "width": "13.9vh"
-                                    }
                                 }
                             ],
                             "isSymetricalForOpponents": true
@@ -233,6 +227,12 @@
                                         "background-repeat": "no-repeat",
                                         "background-position": "center",
                                         "width": "30%"
+                                    }
+                                },
+                                {
+                                    "section": "Leader",
+                                    "style": {
+                                        "width": "13.9vh"
                                     }
                                 },
                                 {
