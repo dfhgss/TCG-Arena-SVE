@@ -156,7 +156,8 @@
                     "Faceup_Evolved_Advanced",
                     "Mana",
                     "PP",
-                    "EP"
+                    "EP",
+		    "Leader"
                 ],
                 "layout": {
                     "direction": "column",
@@ -202,6 +203,12 @@
                                         "background-repeat": "no-repeat",
                                         "background-position": "center"
                                     }
+                                },
+                                {
+                                    "section": "Leader",
+                                    "style": {
+                                        "width": "13.9vh"
+                                    }
                                 }
                             ],
                             "isSymetricalForOpponents": true
@@ -245,7 +252,8 @@
                 "categoriesAlreadyOnBoard": [
                     "Evolve Deck->Evolve_Deck",
                     "PP",
-                    "EP"
+                    "EP",
+		    "Leader"
                 ],
                 "autoPlayFromHand": {
                     "Follower": "Stack",
@@ -416,6 +424,23 @@
                     "Evolve_Deck": {
                         "title": "Evolve_Deck",
                         "isHidden": "yes",
+                        "height": "18",
+                        "alignment": "DECK",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "cardBackColor": "#e0e0e0"
+                    },
+                    "Leader ": {
+                        "title": "Leader",
+                        "isHidden": "no",
                         "height": "18",
                         "alignment": "DECK",
                         "opponentAlignment": false,
