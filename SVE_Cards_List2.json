@@ -18119,15 +18119,15 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Kokkoro (Evolved)",
-                "type": "Evolve Deck",
+                "name": "Kokkoro",
+                "type": "Follower",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL01EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Kokkoro (Evolved)",
-        "type": "Evolve Deck",
+        "name": "Kokkoro",
+        "type": "Follower",
         "cost": "1",
         "Class": [
             "Forestcraft"
@@ -18144,6 +18144,27 @@
                 "type": "Evolve Deck",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-002EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kokkoro (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "1",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-SL02EN": {
+        "id": "CP04-SL02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kokkoro (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL02EN.png",
                 "isHorizontal": false
             }
         },
@@ -18387,6 +18408,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Caon"
     },
+    "CP04-P04EN": {
+        "id": "CP04-P04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Makoto",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Makoto",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Caon"
+    },
     "CP04-009EN": {
         "id": "CP04-009EN",
         "isToken": false,
@@ -18408,6 +18450,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Labyrinth"
     },
+    "CP04-P05EN": {
+        "id": "CP04-P05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rino",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P05EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rino",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Labyrinth"
+    },
     "CP04-010EN": {
         "id": "CP04-010EN",
         "isToken": false,
@@ -18417,6 +18480,27 @@
                 "type": "Evolve Deck",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rino (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "1",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Labyrinth"
+    },
+    "CP04-P06EN": {
+        "id": "CP04-P06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rino (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P06EN.png",
                 "isHorizontal": false
             }
         },
@@ -18576,6 +18660,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Lucent Academy"
     },
+    "CP04-P13EN": {
+        "id": "CP04-P13EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Suzuna",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P13EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Suzuna",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Lucent Academy"
+    },
     "CP04-018EN": {
         "id": "CP04-018EN",
         "isToken": false,
@@ -18585,6 +18690,27 @@
                 "type": "Spell",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-018EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aurora Healing",
+        "type": "Spell",
+        "cost": "1",
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-P14EN": {
+        "id": "CP04-P14EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Aurora Healing",
+                "type": "Spell",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P14EN.png",
                 "isHorizontal": false
             }
         },
@@ -18644,15 +18770,15 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Pecorine (Evolved)",
-                "type": "Evolve Deck",
+                "name": "Pecorine",
+                "type": "Follower",
                 "cost": "3",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL05EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Pecorine (Evolved)",
-        "type": "Evolve Deck",
+        "name": "Pecorine",
+        "type": "Follower",
         "cost": "3",
         "Class": [
             "Swordcraft"
@@ -18669,6 +18795,27 @@
                 "type": "Evolve Deck",
                 "cost": "3",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-020EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pecorine (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-SL06EN": {
+        "id": "CP04-SL06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pecorine (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL06EN.png",
                 "isHorizontal": false
             }
         },
@@ -18912,6 +19059,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Richmond Corporation"
     },
+    "CP04-P18EN": {
+        "id": "CP04-P18EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Creditta",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P18EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Creditta",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Richmond Corporation"
+    },
     "CP04-027EN": {
         "id": "CP04-027EN",
         "isToken": false,
@@ -18975,6 +19143,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Labyrinth"
     },
+    "CP04-P21EN": {
+        "id": "CP04-P21EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shizuru",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P21EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shizuru",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Labyrinth"
+    },
     "PR-539EN": {
         "id": "PR-539EN",
         "isToken": false,
@@ -19005,6 +19194,27 @@
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-030EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ruka",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twilight Caravan"
+    },
+    "CP04-P22EN": {
+        "id": "CP04-P22EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ruka",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P22EN.png",
                 "isHorizontal": false
             }
         },
@@ -19143,6 +19353,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Weissflügel"
     },
+    "CP04-P27EN": {
+        "id": "CP04-P27EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ninon",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P27EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ninon",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Weissflügel"
+    },
     "CP04-036EN": {
         "id": "CP04-036EN",
         "isToken": false,
@@ -19152,6 +19383,27 @@
                 "type": "Spell",
                 "cost": "3",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-036EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Princess Strike",
+        "type": "Spell",
+        "cost": "3",
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-P28EN": {
+        "id": "CP04-P28EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Princess Strike",
+                "type": "Spell",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P28EN.png",
                 "isHorizontal": false
             }
         },
@@ -19211,15 +19463,15 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Karyl (Evolved)",
-                "type": "Evolve Deck",
+                "name": "Karyl",
+                "type": "Follower",
                 "cost": "4",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL09EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Karyl (Evolved)",
-        "type": "Evolve Deck",
+        "name": "Karyl",
+        "type": "Follower",
         "cost": "4",
         "Class": [
             "Runecraft"
@@ -19236,6 +19488,27 @@
                 "type": "Evolve Deck",
                 "cost": "4",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-038EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Karyl (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "4",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-SL10EN": {
+        "id": "CP04-SL10EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Karyl (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL10EN.png",
                 "isHorizontal": false
             }
         },
@@ -19479,6 +19752,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Caon"
     },
+    "CP04-P29EN": {
+        "id": "CP04-P29EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maho",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P29EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maho",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Caon"
+    },
     "CP04-042EN": {
         "id": "CP04-042EN",
         "isToken": false,
@@ -19563,6 +19857,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Little Lyrical"
     },
+    "CP04-P33EN": {
+        "id": "CP04-P33EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kyoka",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P33EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kyoka",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Little Lyrical"
+    },
     "CP04-046EN": {
         "id": "CP04-046EN",
         "isToken": false,
@@ -19572,6 +19887,27 @@
                 "type": "Evolve Deck",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-046EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kyoka (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Little Lyrical"
+    },
+    "CP04-P34EN": {
+        "id": "CP04-P34EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kyoka (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P34EN.png",
                 "isHorizontal": false
             }
         },
@@ -19731,6 +20067,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Twilight Caravan"
     },
+    "CP04-P40EN": {
+        "id": "CP04-P40EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nanaka",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P40EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nanaka",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twilight Caravan"
+    },
     "CP04-053EN": {
         "id": "CP04-053EN",
         "isToken": false,
@@ -19761,6 +20118,27 @@
                 "type": "Spell",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-054EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Eclipse",
+        "type": "Spell",
+        "cost": "2",
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-P42EN": {
+        "id": "CP04-P42EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dark Eclipse",
+                "type": "Spell",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P42EN.png",
                 "isHorizontal": false
             }
         },
@@ -19820,15 +20198,15 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Sheffy (Evolved)",
-                "type": "Evolve Deck",
+                "name": "Sheffy",
+                "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL13EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Sheffy (Evolved)",
-        "type": "Evolve Deck",
+        "name": "Sheffy",
+        "type": "Follower",
         "cost": "2",
         "Class": [
             "Dragoncraft"
@@ -19866,6 +20244,27 @@
                 "type": "Evolve Deck",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-056EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sheffy (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "2",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Gourmet Guild"
+    },
+    "CP04-SL14EN": {
+        "id": "CP04-SL14EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sheffy (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-SL14EN.png",
                 "isHorizontal": false
             }
         },
@@ -20088,6 +20487,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Dragon's Nest"
     },
+    "CP04-P43EN": {
+        "id": "CP04-P43EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaya",
+                "type": "Follower",
+                "cost": "6",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P43EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaya",
+        "type": "Follower",
+        "cost": "6",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Dragon's Nest"
+    },
     "CP04-060EN": {
         "id": "CP04-060EN",
         "isToken": false,
@@ -20109,6 +20529,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Dragon's Nest"
     },
+    "CP04-P44EN": {
+        "id": "CP04-P44EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaya (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "6",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P44EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaya (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "6",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Dragon's Nest"
+    },
     "CP04-061EN": {
         "id": "CP04-061EN",
         "isToken": false,
@@ -20118,6 +20559,27 @@
                 "type": "Follower",
                 "cost": "4",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-061EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hiyori",
+        "type": "Follower",
+        "cost": "4",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twinkle Wish"
+    },
+    "CP04-P45EN": {
+        "id": "CP04-P45EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hiyori",
+                "type": "Follower",
+                "cost": "4",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P45EN.png",
                 "isHorizontal": false
             }
         },
@@ -20181,6 +20643,27 @@
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-063EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Inori",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Dragon's Nest"
+    },
+    "CP04-P47EN": {
+        "id": "CP04-P47EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Inori",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P47EN.png",
                 "isHorizontal": false
             }
         },
@@ -20340,6 +20823,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Caon"
     },
+    "CP04-P53EN": {
+        "id": "CP04-P53EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kaori",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P53EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaori",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Caon"
+    },
     "CP04-070EN": {
         "id": "CP04-070EN",
         "isToken": false,
@@ -20391,6 +20895,27 @@
                 "type": "Amulet",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-072EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prank Proclamation",
+        "type": "Amulet",
+        "cost": "1",
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Little Lyrical"
+    },
+    "CP04-P56EN": {
+        "id": "CP04-P56EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prank Proclamation",
+                "type": "Amulet",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P56EN.png",
                 "isHorizontal": false
             }
         },
@@ -20697,6 +21222,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Diabolos"
     },
+    "CP04-P57EN": {
+        "id": "CP04-P57EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shinobu",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P57EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shinobu",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Diabolos"
+    },
     "CP04-078EN": {
         "id": "CP04-078EN",
         "isToken": false,
@@ -20706,6 +21252,27 @@
                 "type": "Evolve Deck",
                 "cost": "3",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-078EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shinobu (Evolved)",
+        "type": "Evolve Deck",
+        "cost": "3",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Diabolos"
+    },
+    "CP04-P58EN": {
+        "id": "CP04-P58EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shinobu (Evolved)",
+                "type": "Evolve Deck",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P58EN.png",
                 "isHorizontal": false
             }
         },
@@ -20760,6 +21327,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Twinkle Wish"
     },
+    "CP04-P60EN": {
+        "id": "CP04-P60EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rei",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P60EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rei",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twinkle Wish"
+    },
     "PR-511EN": {
         "id": "PR-511EN",
         "isToken": false,
@@ -20790,6 +21378,27 @@
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-081EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yori",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Diabolos"
+    },
+    "CP04-P61EN": {
+        "id": "CP04-P61EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yori",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P61EN.png",
                 "isHorizontal": false
             }
         },
@@ -20844,6 +21453,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Diabolos"
     },
+    "CP04-P63EN": {
+        "id": "CP04-P63EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Akari",
+                "type": "Follower",
+                "cost": "3",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P63EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Akari",
+        "type": "Follower",
+        "cost": "3",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Diabolos"
+    },
     "CP04-084EN": {
         "id": "CP04-084EN",
         "isToken": false,
@@ -20853,6 +21483,27 @@
                 "type": "Follower",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-084EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Miyako",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Diabolos"
+    },
+    "CP04-P64EN": {
+        "id": "CP04-P64EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Miyako",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P64EN.png",
                 "isHorizontal": false
             }
         },
@@ -20949,6 +21600,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Lucent Academy"
     },
+    "CP04-P68EN": {
+        "id": "CP04-P68EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Io",
+                "type": "Follower",
+                "cost": "5",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P68EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Io",
+        "type": "Follower",
+        "cost": "5",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Lucent Academy"
+    },
     "CP04-089EN": {
         "id": "CP04-089EN",
         "isToken": false,
@@ -21000,6 +21672,27 @@
                 "type": "Spell",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-090EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Demonic Salvation: Infinity",
+        "type": "Spell",
+        "cost": "1",
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twilight Caravan"
+    },
+    "CP04-P70EN": {
+        "id": "CP04-P70EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Demonic Salvation: Infinity",
+                "type": "Spell",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P70EN.png",
                 "isHorizontal": false
             }
         },
@@ -21327,6 +22020,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Twinkle Wish"
     },
+    "CP04-P71EN": {
+        "id": "CP04-P71EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yui",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P71EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yui",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Twinkle Wish"
+    },
     "CP04-096EN": {
         "id": "CP04-096EN",
         "isToken": false,
@@ -21411,6 +22125,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Mercurius Foundation"
     },
+    "CP04-P74EN": {
+        "id": "CP04-P74EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yukari",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P74EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yukari",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Mercurius Foundation"
+    },
     "CP04-099EN": {
         "id": "CP04-099EN",
         "isToken": false,
@@ -21474,6 +22209,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Forestier"
     },
+    "CP04-P77EN": {
+        "id": "CP04-P77EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Misato",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P77EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Misato",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Forestier"
+    },
     "PR-513EN": {
         "id": "PR-513EN",
         "isToken": false,
@@ -21504,6 +22260,27 @@
                 "type": "Amulet",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-102EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Threading Snare",
+        "type": "Amulet",
+        "cost": "2",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Carmina"
+    },
+    "CP04-P78EN": {
+        "id": "CP04-P78EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Threading Snare",
+                "type": "Amulet",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P78EN.png",
                 "isHorizontal": false
             }
         },
@@ -21621,6 +22398,27 @@
         "Set": "CP04",
         "Trait": "Priconne / Sarendia Orphanage"
     },
+    "CP04-P83EN": {
+        "id": "CP04-P83EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kurumi",
+                "type": "Follower",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P83EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kurumi",
+        "type": "Follower",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Sarendia Orphanage"
+    },
     "CP04-108EN": {
         "id": "CP04-108EN",
         "isToken": false,
@@ -21630,6 +22428,27 @@
                 "type": "Amulet",
                 "cost": "1",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-108EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Amped on Acorns",
+        "type": "Amulet",
+        "cost": "1",
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne / Elizabeth Park"
+    },
+    "CP04-P84EN": {
+        "id": "CP04-P84EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Amped on Acorns",
+                "type": "Amulet",
+                "cost": "1",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P84EN.png",
                 "isHorizontal": false
             }
         },
@@ -21945,6 +22764,27 @@
                 "type": "Follower",
                 "cost": "2",
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-115EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ameth",
+        "type": "Follower",
+        "cost": "2",
+        "Class": [
+            "Neutral"
+        ],
+        "Set": "CP04",
+        "Trait": "Priconne"
+    },
+    "CP04-P85EN": {
+        "id": "CP04-P85EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ameth",
+                "type": "Follower",
+                "cost": "2",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-P85EN.png",
                 "isHorizontal": false
             }
         },
