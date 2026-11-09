@@ -182,7 +182,7 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "15%"
+                        "width": "41.75vh"
                     }
                 },
                 {
@@ -227,13 +227,13 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "15%"
+                        "width": "48.65vh"
                     }
                 },
                 {
                     "section": "Leader",
                     "style": {
-                        "width": "20.8vh"
+                        "width": "13.9vh"
                     }
                 },
                 {
