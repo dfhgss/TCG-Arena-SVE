@@ -117630,19 +117630,42 @@
         "Set": "GF",
         "Trait": "Faith / Eidolon"
     },
+    "SD01-LD01EN": {
+        "id": "SD01-LD01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Arisa Leader",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-LD01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Arisa Leader",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Forestcraft"
+        ],
+        "Set": [
+            "SD01"
+        ],
+        "Trait": ""
+    },
     "BP01-LD01EN": {
         "id": "BP01-LD01EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Arisa",
+                "name": "Arisa Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD01EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Arisa",
+        "name": "Arisa Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -117676,19 +117699,42 @@
         ],
         "Trait": ""
     },
+    "SD02-LD01EN": {
+        "id": "SD02-LD01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Erika Leader",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-LD01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Erika Leader",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "SD02"
+        ],
+        "Trait": ""
+    },
     "BP01-LD03EN": {
         "id": "BP01-LD03EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Erika",
+                "name": "Erika Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD03EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Erika",
+        "name": "Erika Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -117722,19 +117768,42 @@
         ],
         "Trait": ""
     },
+    "SD03-LD01EN": {
+        "id": "SD03-LD01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Isabelle Leader",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-LD01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Isabelle Leader",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "SD03"
+        ],
+        "Trait": ""
+    },
     "BP01-LD05EN": {
         "id": "BP01-LD05EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Isabelle",
+                "name": "Isabelle Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD05EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Isabelle",
+        "name": "Isabelle Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -117768,19 +117837,42 @@
         ],
         "Trait": ""
     },
+    "SD04-LD01EN": {
+        "id": "SD04-LD01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rowen Leader",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-LD01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rowen Leader",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "SD04"
+        ],
+        "Trait": ""
+    },
     "BP01-LD07EN": {
         "id": "BP01-LD07EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Rowen",
+                "name": "Rowen Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD07EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Rowen",
+        "name": "Rowen Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -117814,19 +117906,42 @@
         ],
         "Trait": ""
     },
+    "SD05-LD01EN": {
+        "id": "SD05-LD01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Luna Leader",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-LD01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Luna Leader",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "SD05"
+        ],
+        "Trait": ""
+    },
     "BP01-LD09EN": {
         "id": "BP01-LD09EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Luna",
+                "name": "Luna Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD09EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Luna",
+        "name": "Luna Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -117860,19 +117975,42 @@
         ],
         "Trait": ""
     },
+    "SD06-LD01EN": {
+        "id": "SD06-LD01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eris Leader",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-LD01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eris Leader",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "SD06"
+        ],
+        "Trait": ""
+    },
     "BP01-LD11EN": {
         "id": "BP01-LD11EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "Eris",
+                "name": "Eris Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD11EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Eris",
+        "name": "Eris Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -118072,14 +118210,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Witch of Calamity, Millie Parfait",
+                "name": "Witch of Calamity, Millie Parfait Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-LDⓈ01EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Witch of Calamity, Millie Parfait",
+        "name": "Witch of Calamity, Millie Parfait Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -119838,15 +119976,15 @@
         ],
         "Trait": ""
     },
-    "CP04-PR01EN": {
-        "id": "CP04-PR01EN",
+    "CP04-PR08EN": {
+        "id": "CP04-PR08EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Kokkoro [Princess Form]",
                 "type": "Leader",
                 "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR01EN.png",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR08EN.png",
                 "isHorizontal": false
             }
         },
@@ -119861,153 +119999,15 @@
         ],
         "Trait": ""
     },
-    "CP04-PR02EN": {
-        "id": "CP04-PR02EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Pecorine [Princess Form]",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR02EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Pecorine [Princess Form]",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Swordcraft"
-        ],
-        "Set": [
-            "CP04"
-        ],
-        "Trait": ""
-    },
-    "CP04-PR03EN": {
-        "id": "CP04-PR03EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Karyl [Princess Form]",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR03EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Karyl [Princess Form]",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Runecraft"
-        ],
-        "Set": [
-            "CP04"
-        ],
-        "Trait": ""
-    },
-    "CP04-PR04EN": {
-        "id": "CP04-PR04EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Sheffy [Princess Form]",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR04EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Sheffy [Princess Form]",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Dragoncraft"
-        ],
-        "Set": [
-            "CP04"
-        ],
-        "Trait": ""
-    },
-    "CP04-PR05EN": {
-        "id": "CP04-PR05EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Hiyori [Princess Form]",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR05EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Hiyori [Princess Form]",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Dragoncraft"
-        ],
-        "Set": [
-            "CP04"
-        ],
-        "Trait": ""
-    },
-    "CP04-PR06EN": {
-        "id": "CP04-PR06EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Rei [Princess Form]",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR06EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Rei [Princess Form]",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Abysscraft"
-        ],
-        "Set": [
-            "CP04"
-        ],
-        "Trait": ""
-    },
-    "CP04-PR07EN": {
-        "id": "CP04-PR07EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Yui [Princess Form]",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR07EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Yui [Princess Form]",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Havencraft"
-        ],
-        "Set": [
-            "CP04"
-        ],
-        "Trait": ""
-    },
-    "CP04-PR08EN": {
-        "id": "CP04-PR08EN",
+    "CP04-PR01EN": {
+        "id": "CP04-PR01EN",
         "isToken": false,
         "face": {
             "front": {
                 "name": "Kokkoro [Princess Form]",
                 "type": "Leader",
                 "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR08EN.png",
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR01EN.png",
                 "isHorizontal": false
             }
         },
@@ -120045,6 +120045,29 @@
         ],
         "Trait": ""
     },
+    "CP04-PR02EN": {
+        "id": "CP04-PR02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pecorine [Princess Form]",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pecorine [Princess Form]",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Swordcraft"
+        ],
+        "Set": [
+            "CP04"
+        ],
+        "Trait": ""
+    },
     "CP04-PR10EN": {
         "id": "CP04-PR10EN",
         "isToken": false,
@@ -120054,6 +120077,29 @@
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR10EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Karyl [Princess Form]",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "CP04"
+        ],
+        "Trait": ""
+    },
+    "CP04-PR03EN": {
+        "id": "CP04-PR03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Karyl [Princess Form]",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR03EN.png",
                 "isHorizontal": false
             }
         },
@@ -120091,6 +120137,29 @@
         ],
         "Trait": ""
     },
+    "CP04-PR04EN": {
+        "id": "CP04-PR04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sheffy [Princess Form]",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sheffy [Princess Form]",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "CP04"
+        ],
+        "Trait": ""
+    },
     "CP04-PR12EN": {
         "id": "CP04-PR12EN",
         "isToken": false,
@@ -120100,6 +120169,29 @@
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR12EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hiyori [Princess Form]",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "CP04"
+        ],
+        "Trait": ""
+    },
+    "CP04-PR05EN": {
+        "id": "CP04-PR05EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hiyori [Princess Form]",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR05EN.png",
                 "isHorizontal": false
             }
         },
@@ -120137,6 +120229,29 @@
         ],
         "Trait": ""
     },
+    "CP04-PR06EN": {
+        "id": "CP04-PR06EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Rei [Princess Form]",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR06EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rei [Princess Form]",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "CP04"
+        ],
+        "Trait": ""
+    },
     "CP04-PR14EN": {
         "id": "CP04-PR14EN",
         "isToken": false,
@@ -120146,6 +120261,29 @@
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR14EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yui [Princess Form]",
+        "type": "Leader",
+        "cost": 0,
+        "Class": [
+            "Havencraft"
+        ],
+        "Set": [
+            "CP04"
+        ],
+        "Trait": ""
+    },
+    "CP04-PR07EN": {
+        "id": "CP04-PR07EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Yui [Princess Form]",
+                "type": "Leader",
+                "cost": 0,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP04/CP04-PR07EN.png",
                 "isHorizontal": false
             }
         },
@@ -120556,14 +120694,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Witch of Calamity, Millie Parfait",
+                "name": "Witch of Calamity, Millie Parfait Leader",
                 "type": "Leader",
                 "cost": 0,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-041EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Witch of Calamity, Millie Parfait",
+        "name": "Witch of Calamity, Millie Parfait Leader",
         "type": "Leader",
         "cost": 0,
         "Class": [
@@ -120571,144 +120709,6 @@
         ],
         "Set": [
             "PR"
-        ],
-        "Trait": ""
-    },
-    "SD01-LD01EN": {
-        "id": "SD01-LD01EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Arisa",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-LD01EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Arisa",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Forestcraft"
-        ],
-        "Set": [
-            "SD01"
-        ],
-        "Trait": ""
-    },
-    "SD02-LD01EN": {
-        "id": "SD02-LD01EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Erika",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-LD01EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Erika",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Swordcraft"
-        ],
-        "Set": [
-            "SD02"
-        ],
-        "Trait": ""
-    },
-    "SD03-LD01EN": {
-        "id": "SD03-LD01EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Isabelle",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-LD01EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Isabelle",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Runecraft"
-        ],
-        "Set": [
-            "SD03"
-        ],
-        "Trait": ""
-    },
-    "SD04-LD01EN": {
-        "id": "SD04-LD01EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Rowen",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-LD01EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Rowen",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Dragoncraft"
-        ],
-        "Set": [
-            "SD04"
-        ],
-        "Trait": ""
-    },
-    "SD05-LD01EN": {
-        "id": "SD05-LD01EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Luna",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-LD01EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Luna",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Abysscraft"
-        ],
-        "Set": [
-            "SD05"
-        ],
-        "Trait": ""
-    },
-    "SD06-LD01EN": {
-        "id": "SD06-LD01EN",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Eris",
-                "type": "Leader",
-                "cost": 0,
-                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-LD01EN.png",
-                "isHorizontal": false
-            }
-        },
-        "name": "Eris",
-        "type": "Leader",
-        "cost": 0,
-        "Class": [
-            "Havencraft"
-        ],
-        "Set": [
-            "SD06"
         ],
         "Trait": ""
     },
