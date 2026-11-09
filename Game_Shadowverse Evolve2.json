@@ -168,85 +168,87 @@
                             "style": {
                                 "align": "center"
                             },
-                            "content": [
-                                {
-                                    "section": "Evolve_Deck",
-                                    "style": {
-                                        "width": "13.9vh"
-                                    }
-                                },
-                                {
-                                    "section": "Faceup_Evolved_Advanced",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "15%"
-                                    }
-                                },
-                                {
-                                    "section": "EP",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "20.8vh"
-                                    }
-                                },
-                                {
-                                    "section": "Field",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center"
-                                    }
-                                }
-                            ],
-                            "isSymetricalForOpponents": true
-                        },
-                        {
-                            "direction": "row",
-                            "style": {
-                                "align": "center"
-                            },
-                            "content": [
-                                {
-                                    "section": "PP",
-                                    "style": {
-                                        "width": "13.9vh"
-                                    }
-                                },
-                                {
-                                    "section": "Mana",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "25%"
-                                    }
-                                },
-                                {
-                                    "section": "Leader",
-                                    "style": {
-                                        "width": "13.9vh"
-                                    }
-                                },
-                                {
-                                    "section": "EX_Area",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center"
-                                    }
-                                }
-                            ],
-                            "isSymetricalForOpponents": true
-                        }
+            "content": [
+                {
+                    "section": "Evolve_Deck",
+                    "style": {
+                        "width": "13.9vh"
+                    }
+                },
+                {
+                    "section": "Faceup_Evolved_Advanced",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "15%"
+                    }
+                },
+                {
+                    "section": "EP",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "20.8vh"
+                    }
+                },
+                {
+                    "section": "Field",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "flex": "1"
+                    }
+                }
+            ],
+            "isSymetricalForOpponents": true
+        },
+        {
+            "direction": "row",
+            "style": {
+                "align": "center"
+            },
+            "content": [
+                {
+                    "section": "PP",
+                    "style": {
+                        "width": "13.9vh"
+                    }
+                },
+                {
+                    "section": "Mana",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "15%"
+                    }
+                },
+                {
+                    "section": "Leader",
+                    "style": {
+                        "width": "20.8vh"
+                    }
+                },
+                {
+                    "section": "EX_Area",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "flex": "1"
+                    }
+                }
+            ],
+            "isSymetricalForOpponents": true
+        }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
