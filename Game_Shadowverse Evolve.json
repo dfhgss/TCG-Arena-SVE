@@ -45,6 +45,7 @@
     "gameplay": {
         "Classic": {
             "beforeGameStart": {
+		"chooseAnotherStartingPlayer": true,
                 "initialBoardSetup": {
                     "0": [
                         {
@@ -156,7 +157,8 @@
                     "Faceup_Evolved_Advanced",
                     "Mana",
                     "PP",
-                    "EP"
+                    "EP",
+                    "Leader"
                 ],
                 "layout": {
                     "direction": "column",
@@ -167,85 +169,94 @@
                             "style": {
                                 "align": "center"
                             },
-                            "content": [
-                                {
-                                    "section": "Evolve_Deck",
-                                    "style": {
-                                        "width": "13.9vh"
-                                    }
-                                },
-                                {
-                                    "section": "Faceup_Evolved_Advanced",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "15%"
-                                    }
-                                },
-                                {
-                                    "section": "EP",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "15%"
-                                    }
-                                },
-                                {
-                                    "section": "Field",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center"
-                                    }
-                                }
-                            ],
-                            "isSymetricalForOpponents": true
-                        },
-                        {
-                            "direction": "row",
-                            "style": {
-                                "align": "center"
-                            },
-                            "content": [
-                                {
-                                    "section": "PP",
-                                    "style": {
-                                        "width": "13.9vh"
-                                    }
-                                },
-                                {
-                                    "section": "Mana",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
-                                        "width": "30%"
-                                    }
-                                },
-                                {
-                                    "section": "EX_Area",
-                                    "style": {
-                                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center"
-                                    }
-                                }
-                            ],
-                            "isSymetricalForOpponents": true
-                        }
+            "content": [
+                {
+                    "section": "Evolve_Deck",
+                    "style": {
+                        "width": "13.9vh"
+                    }
+                },
+                {
+                    "section": "Faceup_Evolved_Advanced",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundFaceupEvolveDeck.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "27.9vh"
+                    }
+                },
+                {
+                    "section": "EP",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEvolutionPoints.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "20.8vh"
+                    }
+                },
+                {
+                    "section": "Field",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundField.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "flex": "1"
+                    }
+                }
+            ],
+            "isSymetricalForOpponents": true
+        },
+        {
+            "direction": "row",
+            "style": {
+                "align": "center"
+            },
+            "content": [
+                {
+                    "section": "PP",
+                    "style": {
+                        "width": "13.9vh"
+                    }
+                },
+                {
+                    "section": "Mana",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundPlayPoints.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "48.7vh"
+                    }
+                },
+                {
+                    "section": "Leader",
+                    "style": {
+                        "width": "13.9vh"
+                    }
+                },
+                {
+                    "section": "EX_Area",
+                    "style": {
+                        "background-image": "url('https://dfhgss.github.io/TCG-Arena-SVE/1/BackgroundEXArea.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "flex": "1"
+                    }
+                }
+            ],
+            "isSymetricalForOpponents": true
+        }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
                     "Evolve Deck->Evolve_Deck",
                     "PP",
-                    "EP"
+                    "EP",
+                    "Leader"
                 ],
                 "autoPlayFromHand": {
                     "Follower": "Stack",
@@ -418,6 +429,23 @@
                         "isHidden": "yes",
                         "height": "18",
                         "alignment": "DECK",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "cardBackColor": "#e0e0e0"
+                    },
+                    "Leader": {
+                        "title": "Leader",
+                        "isHidden": "no",
+                        "height": "18",
+                        "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
