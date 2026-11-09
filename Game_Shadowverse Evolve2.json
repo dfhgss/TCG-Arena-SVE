@@ -45,6 +45,7 @@
     "gameplay": {
         "Classic": {
             "beforeGameStart": {
+		"chooseAnotherStartingPlayer": true,
                 "initialBoardSetup": {
                     "0": [
                         {
