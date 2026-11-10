@@ -1333,21 +1333,23 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                
-                "cost": 0,
+                "name": "Razia, Vengeful Cannonlancer",
+                "type": "Follower",
+                "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-060.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        
-        "cost": 0,
-        "Class": [],
+        "name": "Razia, Vengeful Cannonlancer",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Dragoncraft"
+        ],
         "Set": [
             "CP05"
         ],
-        "Trait": ""
+        "Trait": "Granblue / Earth"
     },
     "CP05-061EN": {
         "id": "CP05-061EN",
@@ -1530,21 +1532,23 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                
-                "cost": 0,
+                "name": "Ayer, Ashen Brawler",
+                "type": "Follower",
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-069.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        
-        "cost": 0,
-        "Class": [],
+        "name": "Ayer, Ashen Brawler",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Dragoncraft"
+        ],
         "Set": [
             "CP05"
         ],
-        "Trait": ""
+        "Trait": "Granblue / Earth"
     },
     "CP05-070EN": {
         "id": "CP05-070EN",
