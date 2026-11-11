@@ -1964,21 +1964,23 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                
-                "cost": 0,
+                "name": "Anre, the Enlightened One",
+                "type": "Follower",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-089.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
-        "cost": 0,
-        "Class": [],
+        "type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Havencraft"
+        ],
         "Set": [
             "CP05"
         ],
-        "Trait": ""
+        "Trait": ""Granblue / The Eternals / Water"
     },
     "CP05-090EN": {
         "id": "CP05-090EN",
