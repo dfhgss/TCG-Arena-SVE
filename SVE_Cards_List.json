@@ -115158,6 +115158,650 @@
         "Set": "BP20",
         "Trait": "Omen"
     },
+    "GFE02-001EN": {
+        "id": "GFE02-001EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Slumbering Calamity",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-001EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Slumbering Calamity",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Forbidden / Beast"
+    },
+    "GFE02-002EN": {
+        "id": "GFE02-002EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Slumbering Calamity (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-002EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Slumbering Calamity",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Runecraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Forbidden / Beast"
+    },
+    "GFE02-003EN": {
+        "id": "GFE02-003EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Frenzied Drake",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-003EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Frenzied Drake",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Dragoncraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Wyrmkin"
+    },
+    "GFE02-004EN": {
+        "id": "GFE02-004EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Calamity Bringer",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-004EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Calamity Bringer",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Gigant"
+    },
+    "GFE02-005EN": {
+        "id": "GFE02-005EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Calamity Bringer (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-005EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Calamity Bringer (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 7,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Gigant"
+    },
+    "GFE02-006EN": {
+        "id": "GFE02-006EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maelstrom Serpent",
+                "type": "Follower",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-006EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maelstrom Serpent",
+        "type": "Follower",
+        "cost": 8,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon"
+    },
+    "GFE02-007EN": {
+        "id": "GFE02-007EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Maelstrom Serpent (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 8,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-007EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Maelstrom Serpent (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 8,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon"
+    },
+    "GFE02-008EN": {
+        "id": "GFE02-008EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lord of the Flies",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-008EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lord of the Flies",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-009EN": {
+        "id": "GFE02-009EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Lord of the Flies (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-009EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Lord of the Flies (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-010EN": {
+        "id": "GFE02-010EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nerea, Beast Empress",
+                "type": "Follower",
+                "cost": 6,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-010EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nerea, Beast Empress",
+        "type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Beast"
+    },
+    "GFE02-011EN": {
+        "id": "GFE02-011EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nacht",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-011EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nacht",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon"
+    },
+    "GFE02-012EN": {
+        "id": "GFE02-012EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Baphomet",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-012EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Baphomet",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon"
+    },
+    "GFE02-013EN": {
+        "id": "GFE02-013EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Baphomet (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-013EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Baphomet (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon"
+    },
+    "GFE02-014EN": {
+        "id": "GFE02-014EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crow, Regent of Darkness",
+                "type": "Follower",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-014EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crow, Regent of Darkness",
+        "type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Necromancer / Beast"
+    },
+    "GFE02-015EN": {
+        "id": "GFE02-015EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Crow, Regent of Darkness (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-015EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crow, Regent of Darkness (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Necromancer / Beast"
+    },
+    "GFE02-016EN": {
+        "id": "GFE02-016EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zombie Party",
+                "type": "Spell",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-016EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zombie Party",
+        "type": "Spell",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Departed"
+    },
+    "GFE02-017EN": {
+        "id": "GFE02-017EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zeus, the Supreme",
+                "type": "Follower",
+                "cost": 7,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-017EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zeus, the Supreme",
+        "type": "Follower",
+        "cost": 7,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Deity"
+    },
+    "GFE02-018EN": {
+        "id": "GFE02-018EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hamsa, Hallowed Fowl",
+                "type": "Follower",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-018EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hamsa, Hallowed Fowl",
+        "type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Lightborne"
+    },
+    "GFE02-019EN": {
+        "id": "GFE02-019EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hamsa, Hallowed Fowl (Evolved)",
+                "type": "Evolve Deck",
+                "cost": 3,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-019EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hamsa, Hallowed Fowl (Evolved)",
+        "type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Lightborne"
+    },
+    "GFE02-020EN": {
+        "id": "GFE02-020EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Apollo",
+                "type": "Follower",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-020EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Apollo",
+        "type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Neutral"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Deity"
+    },
+    "GFE02-T01EN": {
+        "id": "GFE02-T01EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Velocious Beetle",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Velocious Beetle",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-T01EN_TOKEN": {
+        "id": "GFE02-T01EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Velocious Beetle",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T01EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Velocious Beetle",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-T02EN": {
+        "id": "GFE02-T02EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Virulent Hornet",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Virulent Hornet",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-T02EN_TOKEN": {
+        "id": "GFE02-T02EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Virulent Hornet",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T02EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Virulent Hornet",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-T03EN": {
+        "id": "GFE02-T03EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vicious Scorpion",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vicious Scorpion",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-T03EN_TOKEN": {
+        "id": "GFE02-T03EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Vicious Scorpion",
+                "type": "Token",
+                "cost": 2,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T03EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vicious Scorpion",
+        "type": "Token",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Demon / Insect"
+    },
+    "GFE02-T04EN": {
+        "id": "GFE02-T04EN",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Infernal Crown",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Infernal Crown",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Necromancer / Beast"
+    },
+    "GFE02-T04EN_TOKEN": {
+        "id": "GFE02-T04EN_TOKEN",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Infernal Crown",
+                "type": "Token",
+                "cost": 5,
+                "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/GFE02/GFE02-T04EN.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Infernal Crown",
+        "type": "Token",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
+        "Set": [
+            "GF"
+        ],
+        "Trait": "Necromancer / Beast"
+    },
     "GFE01-001EN": {
         "id": "GFE01-001EN",
         "isToken": false,
