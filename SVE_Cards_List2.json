@@ -17,9 +17,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Light"
     },
     "CP05-002EN": {
@@ -40,9 +38,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire / Water"
     },
     "CP05-003EN": {
@@ -51,19 +47,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-003.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-004EN": {
@@ -72,19 +64,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-004.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-005EN": {
@@ -93,19 +81,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-005.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-006EN": {
@@ -114,19 +98,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-006.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-007EN": {
@@ -147,9 +127,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-008EN": {
@@ -170,9 +148,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-009EN": {
@@ -193,9 +169,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-010EN": {
@@ -216,9 +190,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-011EN": {
@@ -239,9 +211,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-012EN": {
@@ -250,19 +220,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-012.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-013EN": {
@@ -283,9 +249,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-014EN": {
@@ -306,9 +270,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-015EN": {
@@ -329,9 +291,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-016EN": {
@@ -352,9 +312,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light / Dark"
     },
     "CP05-017EN": {
@@ -375,9 +333,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-018EN": {
@@ -398,9 +354,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-019EN": {
@@ -409,19 +363,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-019.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-020EN": {
@@ -442,9 +392,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Earth"
     },
     "CP05-021EN": {
@@ -465,9 +413,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Six-Dragon / Light"
     },
     "CP05-022EN": {
@@ -488,9 +434,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Six-Dragon / Light"
     },
     "CP05-023EN": {
@@ -499,19 +443,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-023.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-024EN": {
@@ -520,19 +460,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-024.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-025EN": {
@@ -553,9 +489,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-026EN": {
@@ -576,9 +510,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire / Water / Wind / Earth"
     },
     "CP05-027EN": {
@@ -587,19 +519,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-027.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-028EN": {
@@ -608,19 +536,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-028.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-029EN": {
@@ -641,9 +565,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-030EN": {
@@ -664,9 +586,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-031EN": {
@@ -687,9 +607,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-032EN": {
@@ -710,9 +628,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-033EN": {
@@ -733,9 +649,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-034EN": {
@@ -756,9 +670,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-035EN": {
@@ -779,9 +691,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-036EN": {
@@ -802,9 +712,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-037EN": {
@@ -825,9 +733,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Fire"
     },
     "CP05-038EN": {
@@ -848,9 +754,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Water"
     },
     "CP05-039EN": {
@@ -859,19 +763,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-039.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-040EN": {
@@ -880,19 +780,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-040.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-041EN": {
@@ -913,9 +809,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth / Light / Dark"
     },
     "CP05-042EN": {
@@ -936,9 +830,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth / Light / Dark"
     },
     "CP05-043EN": {
@@ -959,9 +851,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-044EN": {
@@ -982,9 +872,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-045EN": {
@@ -1005,9 +893,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-046EN": {
@@ -1028,9 +914,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-047EN": {
@@ -1051,9 +935,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-048EN": {
@@ -1074,9 +956,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-049EN": {
@@ -1085,19 +965,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-049.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-050EN": {
@@ -1106,19 +982,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-050.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-051EN": {
@@ -1139,9 +1011,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-052EN": {
@@ -1162,9 +1032,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-053EN": {
@@ -1185,9 +1053,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth / Light / Dark"
     },
     "CP05-054EN": {
@@ -1208,9 +1074,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Earth"
     },
     "CP05-055EN": {
@@ -1231,9 +1095,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-056EN": {
@@ -1254,9 +1116,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Six-Dragon / Fire"
     },
     "CP05-057EN": {
@@ -1277,9 +1137,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Six-Dragon / Fire"
     },
     "CP05-058EN": {
@@ -1300,9 +1158,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-059EN": {
@@ -1323,9 +1179,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-060EN": {
@@ -1346,9 +1200,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-061EN": {
@@ -1357,19 +1209,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-061.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-062EN": {
@@ -1378,19 +1226,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-062.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-063EN": {
@@ -1399,19 +1243,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-063.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-064EN": {
@@ -1420,19 +1260,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-064.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-065EN": {
@@ -1453,9 +1289,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-066EN": {
@@ -1476,9 +1310,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-067EN": {
@@ -1499,9 +1331,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-068EN": {
@@ -1522,9 +1352,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-069EN": {
@@ -1545,9 +1373,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-070EN": {
@@ -1568,9 +1394,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-071EN": {
@@ -1579,19 +1403,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-071.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-072EN": {
@@ -1600,19 +1420,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-072.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-073EN": {
@@ -1621,19 +1437,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-073.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-074EN": {
@@ -1642,19 +1454,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-074.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-075EN": {
@@ -1663,19 +1471,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-075.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-076EN": {
@@ -1684,19 +1488,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-076.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-077EN": {
@@ -1705,19 +1505,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-077.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-078EN": {
@@ -1738,9 +1534,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-079EN": {
@@ -1749,19 +1543,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-079.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-080EN": {
@@ -1770,19 +1560,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-080.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-081EN": {
@@ -1791,19 +1577,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-081.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-082EN": {
@@ -1824,9 +1606,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-083EN": {
@@ -1835,19 +1615,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-083.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-084EN": {
@@ -1856,19 +1632,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-084.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-085EN": {
@@ -1877,19 +1649,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-085.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-086EN": {
@@ -1910,9 +1678,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-087EN": {
@@ -1921,19 +1687,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-087.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-088EN": {
@@ -1954,9 +1716,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-089EN": {
@@ -1977,9 +1737,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Water"
     },
     "CP05-090EN": {
@@ -2000,9 +1758,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / The Eternals / Light"
     },
     "CP05-091EN": {
@@ -2011,19 +1767,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-091.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-092EN": {
@@ -2032,19 +1784,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-092.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-093EN": {
@@ -2065,9 +1813,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-094EN": {
@@ -2088,9 +1834,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-095EN": {
@@ -2111,9 +1855,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-096EN": {
@@ -2134,9 +1876,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-097EN": {
@@ -2157,9 +1897,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-098EN": {
@@ -2180,9 +1918,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-099EN": {
@@ -2203,9 +1939,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-100EN": {
@@ -2214,19 +1948,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-100.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-101EN": {
@@ -2247,9 +1977,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-102EN": {
@@ -2270,9 +1998,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-103EN": {
@@ -2293,9 +2019,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-104EN": {
@@ -2316,9 +2040,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-105EN": {
@@ -2339,9 +2061,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-106EN": {
@@ -2362,9 +2082,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-107EN": {
@@ -2385,9 +2103,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Any"
     },
     "CP05-108EN": {
@@ -2408,9 +2124,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Any"
     },
     "CP05-109EN": {
@@ -2431,9 +2145,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Any"
     },
     "CP05-110EN": {
@@ -2454,9 +2166,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Any"
     },
     "CP05-111EN": {
@@ -2477,9 +2187,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-112EN": {
@@ -2488,19 +2196,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-112.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-113EN": {
@@ -2509,19 +2213,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-113.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-114EN": {
@@ -2530,19 +2230,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-114.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-115EN": {
@@ -2551,19 +2247,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-115.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-116EN": {
@@ -2572,19 +2264,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-116.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-117EN": {
@@ -2593,19 +2281,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-117.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-118EN": {
@@ -2614,19 +2298,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-118.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-119EN": {
@@ -2635,19 +2315,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-119.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-120EN": {
@@ -2656,19 +2332,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-120.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-121EN": {
@@ -2677,19 +2349,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-121.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-T01EN": {
@@ -2710,9 +2378,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-T02EN": {
@@ -2721,19 +2387,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-T02.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-T03EN": {
@@ -2754,9 +2416,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-T04EN": {
@@ -2777,9 +2437,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-T05EN": {
@@ -2800,9 +2458,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-T06EN": {
@@ -2823,9 +2479,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-T07EN": {
@@ -2846,9 +2500,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-T08EN": {
@@ -2869,9 +2521,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth / Light / Dark"
     },
     "CP05-T09EN": {
@@ -2892,9 +2542,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-T10EN": {
@@ -2915,9 +2563,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-T11EN": {
@@ -2938,9 +2584,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-T12EN": {
@@ -2961,9 +2605,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-T13EN": {
@@ -2984,9 +2626,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-T14EN": {
@@ -3007,9 +2647,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-T15EN": {
@@ -3030,9 +2668,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue"
     },
     "CP05-T01EN_TOKEN": {
@@ -3053,9 +2689,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-T02EN_TOKEN": {
@@ -3064,19 +2698,15 @@
         "face": {
             "front": {
                 "name": "",
-                
                 "cost": 0,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 3/CP05-T02.jpg",
                 "isHorizontal": false
             }
         },
         "name": "",
-        
         "cost": 0,
         "Class": [],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": ""
     },
     "CP05-T03EN_TOKEN": {
@@ -3097,9 +2727,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-T04EN_TOKEN": {
@@ -3120,9 +2748,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-T05EN_TOKEN": {
@@ -3143,9 +2769,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-T06EN_TOKEN": {
@@ -3166,9 +2790,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-T07EN_TOKEN": {
@@ -3189,9 +2811,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-T08EN_TOKEN": {
@@ -3212,9 +2832,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth / Light / Dark"
     },
     "CP05-T09EN_TOKEN": {
@@ -3235,9 +2853,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Fire"
     },
     "CP05-T10EN_TOKEN": {
@@ -3258,9 +2874,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Water"
     },
     "CP05-T11EN_TOKEN": {
@@ -3281,9 +2895,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Earth"
     },
     "CP05-T12EN_TOKEN": {
@@ -3304,9 +2916,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Wind"
     },
     "CP05-T13EN_TOKEN": {
@@ -3327,9 +2937,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Light"
     },
     "CP05-T14EN_TOKEN": {
@@ -3350,9 +2958,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue / Dark"
     },
     "CP05-T15EN_TOKEN": {
@@ -3373,9 +2979,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "CP05"
-        ],
+        "Set": "CP05",
         "Trait": "Granblue"
     },
     "BP22-001EN": {
@@ -31452,7 +31056,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "ECP02-018EN": {
@@ -34161,7 +33764,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer"
     },
     "BP16-026EN": {
@@ -35883,7 +35485,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Departed"
     },
     "BP16-085EN": {
@@ -36492,7 +36093,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith"
     },
     "BP16-107EN": {
@@ -37437,7 +37037,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Elf"
     },
     "BP15-005EN": {
@@ -37500,7 +37099,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Elf"
     },
     "BP15-006EN": {
@@ -41238,7 +40836,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Festive / Beast"
     },
     "BP14-002EN": {
@@ -41301,7 +40898,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Festive / Beast"
     },
     "BP14-003EN": {
@@ -44367,7 +43963,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP14-111EN": {
@@ -52284,7 +51879,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage"
     },
     "BP12-041EN": {
@@ -54195,7 +53789,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP12-107EN": {
@@ -55770,7 +55363,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Wasteland / Thief"
     },
     "BP11-020EN": {
@@ -57282,7 +56874,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Wasteland / Departed"
     },
     "BP11-075EN": {
@@ -58122,7 +57713,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Wasteland / Mercenary"
     },
     "BP11-106EN": {
@@ -58164,7 +57754,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Wasteland / Mercenary"
     },
     "BP11-107EN": {
@@ -58626,7 +58215,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Vanguard / Aqua Force"
     },
     "CP03-003EN": {
@@ -60222,7 +59810,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Vanguard / Pale Moon"
     },
     "CP03-046EN": {
@@ -61209,7 +60796,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Vanguard / Kagero"
     },
     "CP03-130EN": {
@@ -61650,7 +61236,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Vanguard / Shadow Paladin"
     },
     "CP03-087EN": {
@@ -62364,7 +61949,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Vanguard / Oracle Think Tank"
     },
     "CP03-113EN": {
@@ -62910,7 +62494,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Supreme"
     },
     "BP10-004EN": {
@@ -63960,7 +63543,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage"
     },
     "BP10-040EN": {
@@ -64275,7 +63857,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage"
     },
     "BP10-054EN": {
@@ -65976,7 +65557,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Arcana / Deity"
     },
     "BP10-111EN": {
@@ -66900,7 +66480,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Commander"
     },
     "BP09-019EN": {
@@ -67152,7 +66731,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer / Maid"
     },
     "BP09-024EN": {
@@ -67677,7 +67255,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage / Academic / Princess"
     },
     "BP09-039EN": {
@@ -69440,7 +69017,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Vampire"
     },
     "BP09-094EN": {
@@ -69860,7 +69436,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Luminary"
     },
     "BP09-107EN": {
@@ -69944,7 +69519,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Luminary"
     },
     "BP09-108EN": {
@@ -70112,7 +69686,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Beast"
     },
     "BP09-113EN": {
@@ -70511,7 +70084,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP09-127EN": {
@@ -70553,7 +70125,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP09-128EN": {
@@ -71162,7 +70733,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Puppetry / Cutthroat"
     },
     "BP08-005EN": {
@@ -71225,7 +70795,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Puppetry / Cutthroat"
     },
     "BP08-006EN": {
@@ -71288,7 +70857,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Hunter / Beast"
     },
     "BP08-008EN": {
@@ -72317,7 +71885,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage / Academic"
     },
     "BP08-043EN": {
@@ -72380,7 +71947,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage / Academic"
     },
     "BP08-044EN": {
@@ -72758,7 +72324,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Dragonewt / Princess"
     },
     "BP08-056EN": {
@@ -72821,7 +72386,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Dragonewt / Princess"
     },
     "BP08-057EN": {
@@ -73367,7 +72931,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Demon"
     },
     "BP08-075EN": {
@@ -73850,7 +73413,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Beast"
     },
     "BP08-092EN": {
@@ -74480,7 +74042,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP08-113EN": {
@@ -75278,7 +74839,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Natura / Commander / Princess"
     },
     "BP07-021EN": {
@@ -75362,7 +74922,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Assassin"
     },
     "BP07-023EN": {
@@ -75404,7 +74963,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Assassin"
     },
     "BP07-024EN": {
@@ -77294,7 +76852,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Machina / Faith"
     },
     "BP07-093EN": {
@@ -77693,7 +77250,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Machina / Angel"
     },
     "BP07-107EN": {
@@ -77735,7 +77291,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Natura / Mercenary"
     },
     "BP07-108EN": {
@@ -78071,7 +77626,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Natura"
     },
     "CP02-001EN": {
@@ -78218,7 +77772,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-SP01bEN": {
@@ -78239,7 +77792,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-U01aEN": {
@@ -78260,7 +77812,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-U01bEN": {
@@ -78281,7 +77832,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "PR-150EN": {
@@ -78302,7 +77852,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "PR-462EN": {
@@ -78323,7 +77872,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-004EN": {
@@ -78449,7 +77997,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-007EN": {
@@ -78512,7 +78059,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-009EN": {
@@ -78596,7 +78142,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-012EN": {
@@ -79121,7 +78666,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "CP02-021EN": {
@@ -79247,7 +78791,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-026EN": {
@@ -79331,7 +78874,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-029EN": {
@@ -79520,7 +79062,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "CP02-115EN": {
@@ -79919,7 +79460,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-035EN": {
@@ -80276,7 +79816,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "CP02-042EN": {
@@ -80381,7 +79920,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-046EN": {
@@ -80486,7 +80024,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "iM@S CG / Cute"
     },
     "CP02-050EN": {
@@ -80948,7 +80485,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-056EN": {
@@ -81116,7 +80652,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "CP02-063EN": {
@@ -81662,7 +81197,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-076EN": {
@@ -81893,7 +81427,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "iM@S CG / Cool"
     },
     "CP02-125EN": {
@@ -82313,7 +81846,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "CP02-094EN": {
@@ -82418,7 +81950,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "iM@S CG / Passion"
     },
     "CP02-098EN": {
@@ -82985,7 +82516,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "iM@S CG"
     },
     "PR-154EN": {
@@ -83006,7 +82536,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "iM@S CG"
     },
     "ECP02-SL34EN": {
@@ -83804,7 +83333,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Arena / Officer"
     },
     "BP06-019EN": {
@@ -83951,7 +83479,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer / Supreme"
     },
     "BP06-020EN": {
@@ -84035,7 +83562,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer / Supreme"
     },
     "BP06-021EN": {
@@ -84413,7 +83939,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Arena / Onmyoji"
     },
     "BP06-036EN": {
@@ -84623,7 +84148,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Golem / Forbidden"
     },
     "BP06-041EN": {
@@ -85064,7 +84588,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Dragonewt"
     },
     "BP06-055EN": {
@@ -85526,7 +85049,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Arena / Yokai"
     },
     "BP06-070EN": {
@@ -85610,7 +85132,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Arena / Yokai"
     },
     "BP06-071EN": {
@@ -85757,7 +85278,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Demon"
     },
     "BP06-076EN": {
@@ -86072,7 +85592,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Arena / Luminary"
     },
     "BP06-087EN": {
@@ -86576,7 +86095,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Deity / Lightborne"
     },
     "BP06-105EN": {
@@ -86702,7 +86220,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Lightborne"
     },
     "BP06-107EN": {
@@ -86765,7 +86282,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Lightborne"
     },
     "BP06-108EN": {
@@ -87206,7 +86722,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Supreme"
     },
     "BP05-004EN": {
@@ -88193,7 +87708,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Arcanaform / Forbidden"
     },
     "BP05-041EN": {
@@ -88571,7 +88085,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Omen / Wyrmkin"
     },
     "BP05-053EN": {
@@ -88655,7 +88168,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Omen / Wyrmkin"
     },
     "BP05-054EN": {
@@ -89327,7 +88839,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Omen / Demon"
     },
     "BP05-079EN": {
@@ -90083,7 +89594,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Omen"
     },
     "BP05-106EN": {
@@ -90188,7 +89698,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP05-109EN": {
@@ -90251,7 +89760,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Mercenary"
     },
     "BP05-110EN": {
@@ -90986,7 +90494,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Elf"
     },
     "BP04-016EN": {
@@ -91049,7 +90556,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Elf"
     },
     "BP04-017EN": {
@@ -91910,7 +91416,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage / Academic"
     },
     "BP04-047EN": {
@@ -92435,7 +91940,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Phoenix / Celestial"
     },
     "BP04-065EN": {
@@ -92477,7 +91981,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Phoenix / Celestial"
     },
     "BP04-066EN": {
@@ -93380,7 +92883,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Luminary / Lightborne"
     },
     "BP04-099EN": {
@@ -93506,7 +93008,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Princess"
     },
     "BP04-102EN": {
@@ -93548,7 +93049,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Princess"
     },
     "BP04-103EN": {
@@ -94073,7 +93573,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Musical"
     },
     "BP04-122EN": {
@@ -94304,7 +93803,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Demon"
     },
     "BP04-T02EN": {
@@ -94976,7 +94474,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Assassin / Fable"
     },
     "BP03-022EN": {
@@ -95501,7 +94998,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage / Academic"
     },
     "BP03-040EN": {
@@ -97601,7 +97097,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Musical / Fable / Princess"
     },
     "BP03-115EN": {
@@ -99113,7 +98608,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Umamusume"
     },
     "CP01-041EN": {
@@ -100982,7 +100476,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Crystalian"
     },
     "PR-444EN": {
@@ -101087,7 +100580,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Crystalian"
     },
     "BP02-010EN": {
@@ -101381,7 +100873,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Commander / Levin"
     },
     "BP02-019EN": {
@@ -101465,7 +100956,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Commander / Levin"
     },
     "BP02-020EN": {
@@ -101675,7 +101165,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer / Levin"
     },
     "BP02-026EN": {
@@ -101738,7 +101227,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer / Levin"
     },
     "BP02-027EN": {
@@ -101801,7 +101289,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Noble / Levin"
     },
     "BP02-028EN": {
@@ -103040,7 +102527,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Necromancer"
     },
     "BP02-073EN": {
@@ -103376,7 +102862,6 @@
         "Class": [
             "Havencraft"
         ],
-
         "Trait": "Faith / Eidolon"
     },
     "BP02-087EN": {
@@ -103880,7 +103365,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Fallen Angel"
     },
     "BP02-104EN": {
@@ -103943,7 +103427,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Deity / Supreme"
     },
     "BP02-105EN": {
@@ -104111,7 +103594,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Mercenary"
     },
     "BP02-110EN": {
@@ -104216,7 +103698,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Fiend / Chef"
     },
     "BP02-113EN": {
@@ -104930,7 +104411,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Pixie"
     },
     "BP01-016EN": {
@@ -105917,7 +105397,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage"
     },
     "BP01-054EN": {
@@ -106022,7 +105501,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Mage"
     },
     "BP01-058EN": {
@@ -106442,7 +105920,6 @@
         "Class": [
             "Runecraft"
         ],
-
         "Trait": "Earth Sigil"
     },
     "BP01-076EN": {
@@ -107072,7 +106549,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Wyrmkin"
     },
     "BP01-099EN": {
@@ -107240,7 +106716,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Demon"
     },
     "BP01-102EN": {
@@ -107324,7 +106799,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Demon"
     },
     "BP01-103EN": {
@@ -107702,7 +107176,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Departed"
     },
     "BP01-117EN": {
@@ -109130,7 +108603,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Fiend"
     },
     "BP01-169EN": {
@@ -109193,7 +108665,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Lightborne"
     },
     "BP01-171EN": {
@@ -109424,7 +108895,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP01-180EN": {
@@ -109466,7 +108936,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "Angel"
     },
     "BP01-T01EN": {
@@ -109571,7 +109040,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Pixie"
     },
     "BP01-T04EN": {
@@ -109634,7 +109102,6 @@
         "Class": [
             "Swordcraft"
         ],
-
         "Trait": "Officer"
     },
     "BP01-T06EN": {
@@ -110012,7 +109479,6 @@
         "Class": [
             "Forestcraft"
         ],
-
         "Trait": "Pixie / Princess"
     },
     "SD01-002EN": {
@@ -110831,7 +110297,6 @@
         "Class": [
             "Dragoncraft"
         ],
-
         "Trait": "Wyrmkin"
     },
     "SD04-003EN": {
@@ -111314,7 +110779,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Vampire"
     },
     "SD06-001EN": {
@@ -112592,7 +112056,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "iM@S CG"
     },
     "PR-154EN_TOKEN": {
@@ -112613,7 +112076,6 @@
         "Class": [
             "Neutral"
         ],
-
         "Trait": "iM@S CG"
     },
     "ECP02-SL34EN_TOKEN": {
@@ -114629,7 +114091,6 @@
         "Class": [
             "Abysscraft"
         ],
-
         "Trait": "Demon"
     },
     "CP04-T01_TOKEN": {
@@ -115175,9 +114636,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Forbidden / Beast"
     },
     "GFE02-002EN": {
@@ -115198,9 +114657,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Forbidden / Beast"
     },
     "GFE02-003EN": {
@@ -115221,9 +114678,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Wyrmkin"
     },
     "GFE02-004EN": {
@@ -115244,9 +114699,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Gigant"
     },
     "GFE02-005EN": {
@@ -115267,9 +114720,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Gigant"
     },
     "GFE02-006EN": {
@@ -115290,9 +114741,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon"
     },
     "GFE02-007EN": {
@@ -115313,9 +114762,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon"
     },
     "GFE02-008EN": {
@@ -115336,9 +114783,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-009EN": {
@@ -115359,9 +114804,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-010EN": {
@@ -115382,9 +114825,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Beast"
     },
     "GFE02-011EN": {
@@ -115405,9 +114846,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon"
     },
     "GFE02-012EN": {
@@ -115428,9 +114867,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon"
     },
     "GFE02-013EN": {
@@ -115451,9 +114888,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon"
     },
     "GFE02-014EN": {
@@ -115474,9 +114909,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Necromancer / Beast"
     },
     "GFE02-015EN": {
@@ -115497,9 +114930,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Necromancer / Beast"
     },
     "GFE02-016EN": {
@@ -115520,9 +114951,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Departed"
     },
     "GFE02-017EN": {
@@ -115543,9 +114972,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Deity"
     },
     "GFE02-018EN": {
@@ -115566,9 +114993,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Lightborne"
     },
     "GFE02-019EN": {
@@ -115589,9 +115014,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Lightborne"
     },
     "GFE02-020EN": {
@@ -115612,9 +115035,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Deity"
     },
     "GFE02-T01EN": {
@@ -115635,9 +115056,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-T01EN_TOKEN": {
@@ -115658,9 +115077,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-T02EN": {
@@ -115681,9 +115098,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-T02EN_TOKEN": {
@@ -115704,9 +115119,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-T03EN": {
@@ -115727,9 +115140,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-T03EN_TOKEN": {
@@ -115750,9 +115161,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Demon / Insect"
     },
     "GFE02-T04EN": {
@@ -115773,9 +115182,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Necromancer / Beast"
     },
     "GFE02-T04EN_TOKEN": {
@@ -115796,9 +115203,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GF"
-        ],
+        "Set": "GF",
         "Trait": "Necromancer / Beast"
     },
     "GFE01-001EN": {
@@ -118297,9 +117702,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "SD01"
-        ],
+        "Set": "SD01",
         "Trait": ""
     },
     "BP01-LD01EN": {
@@ -118320,9 +117723,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP01-LD02EN": {
@@ -118343,9 +117744,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "SD02-LD01EN": {
@@ -118366,9 +117765,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "SD02"
-        ],
+        "Set": "SD02",
         "Trait": ""
     },
     "BP01-LD03EN": {
@@ -118389,9 +117786,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP01-LD04EN": {
@@ -118412,9 +117807,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "SD03-LD01EN": {
@@ -118435,9 +117828,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "SD03"
-        ],
+        "Set": "SD03",
         "Trait": ""
     },
     "BP01-LD05EN": {
@@ -118458,9 +117849,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP01-LD06EN": {
@@ -118481,9 +117870,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "SD04-LD01EN": {
@@ -118504,9 +117891,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "SD04"
-        ],
+        "Set": "SD04",
         "Trait": ""
     },
     "BP01-LD07EN": {
@@ -118527,9 +117912,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP01-LD08EN": {
@@ -118550,9 +117933,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "SD05-LD01EN": {
@@ -118573,9 +117954,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "SD05"
-        ],
+        "Set": "SD05",
         "Trait": ""
     },
     "BP01-LD09EN": {
@@ -118596,9 +117975,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP01-LD10EN": {
@@ -118619,9 +117996,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "SD06-LD01EN": {
@@ -118642,9 +118017,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "SD06"
-        ],
+        "Set": "SD06",
         "Trait": ""
     },
     "BP01-LD11EN": {
@@ -118665,9 +118038,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP01-LD12EN": {
@@ -118688,9 +118059,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP01"
-        ],
+        "Set": "BP01",
         "Trait": ""
     },
     "BP02-LD01EN": {
@@ -118711,9 +118080,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP02"
-        ],
+        "Set": "BP02",
         "Trait": ""
     },
     "BP02-LD02EN": {
@@ -118734,9 +118101,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP02"
-        ],
+        "Set": "BP02",
         "Trait": ""
     },
     "BP03-LD01EN": {
@@ -118757,9 +118122,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP03"
-        ],
+        "Set": "BP03",
         "Trait": ""
     },
     "BP03-LD02EN": {
@@ -118780,9 +118143,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP03"
-        ],
+        "Set": "BP03",
         "Trait": ""
     },
     "BP03-LD03EN": {
@@ -118803,9 +118164,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP03"
-        ],
+        "Set": "BP03",
         "Trait": ""
     },
     "BP03-LD04EN": {
@@ -118826,9 +118185,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP03"
-        ],
+        "Set": "BP03",
         "Trait": ""
     },
     "BP03-LD05EN": {
@@ -118849,9 +118206,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP03"
-        ],
+        "Set": "BP03",
         "Trait": ""
     },
     "BP03-LDⓈ01EN": {
@@ -118872,9 +118227,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP03"
-        ],
+        "Set": "BP03",
         "Trait": ""
     },
     "BP04-LD01EN": {
@@ -118895,9 +118248,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD02EN": {
@@ -118918,9 +118269,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD03EN": {
@@ -118941,9 +118290,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD04EN": {
@@ -118964,9 +118311,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD05EN": {
@@ -118987,9 +118332,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD06EN": {
@@ -119010,9 +118353,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD07EN": {
@@ -119033,9 +118374,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD08EN": {
@@ -119056,9 +118395,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD09EN": {
@@ -119079,9 +118416,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LD10EN": {
@@ -119102,9 +118437,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP04-LDⓈ01EN": {
@@ -119125,9 +118458,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP04"
-        ],
+        "Set": "BP04",
         "Trait": ""
     },
     "BP05-LD01EN": {
@@ -119148,9 +118479,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP05"
-        ],
+        "Set": "BP05",
         "Trait": ""
     },
     "BP05-LD02EN": {
@@ -119171,9 +118500,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP05"
-        ],
+        "Set": "BP05",
         "Trait": ""
     },
     "BP05-LD03EN": {
@@ -119194,9 +118521,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP05"
-        ],
+        "Set": "BP05",
         "Trait": ""
     },
     "BP05-LD04EN": {
@@ -119217,9 +118542,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP05"
-        ],
+        "Set": "BP05",
         "Trait": ""
     },
     "BP05-LD05EN": {
@@ -119240,9 +118563,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP05"
-        ],
+        "Set": "BP05",
         "Trait": ""
     },
     "BP05-LD06EN": {
@@ -119263,9 +118584,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP05"
-        ],
+        "Set": "BP05",
         "Trait": ""
     },
     "BP06-LD01EN": {
@@ -119286,9 +118605,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP06"
-        ],
+        "Set": "BP06",
         "Trait": ""
     },
     "BP06-LD02EN": {
@@ -119309,9 +118626,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP06"
-        ],
+        "Set": "BP06",
         "Trait": ""
     },
     "BP07-LD01EN": {
@@ -119332,9 +118647,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP07"
-        ],
+        "Set": "BP07",
         "Trait": ""
     },
     "BP07-LD02EN": {
@@ -119355,9 +118668,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP07"
-        ],
+        "Set": "BP07",
         "Trait": ""
     },
     "BP07-LD03EN": {
@@ -119378,9 +118689,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP07"
-        ],
+        "Set": "BP07",
         "Trait": ""
     },
     "BP10-LD01EN": {
@@ -119401,9 +118710,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD02EN": {
@@ -119424,9 +118731,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD03EN": {
@@ -119447,9 +118752,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD04EN": {
@@ -119470,9 +118773,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD05EN": {
@@ -119493,9 +118794,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD06EN": {
@@ -119516,9 +118815,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD07EN": {
@@ -119539,9 +118836,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD08EN": {
@@ -119562,9 +118857,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD09EN": {
@@ -119585,9 +118878,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD10EN": {
@@ -119608,9 +118899,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD11EN": {
@@ -119631,9 +118920,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD12EN": {
@@ -119654,9 +118941,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD13EN": {
@@ -119677,9 +118962,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP10-LD14EN": {
@@ -119700,9 +118983,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP10"
-        ],
+        "Set": "BP10",
         "Trait": ""
     },
     "BP15-PR01EN": {
@@ -119723,9 +119004,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR02EN": {
@@ -119746,9 +119025,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR03EN": {
@@ -119769,9 +119046,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR04EN": {
@@ -119792,9 +119067,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR05EN": {
@@ -119815,9 +119088,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR06EN": {
@@ -119838,9 +119109,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR07EN": {
@@ -119861,9 +119130,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP15-PR08EN": {
@@ -119884,9 +119151,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP15"
-        ],
+        "Set": "BP15",
         "Trait": ""
     },
     "BP20-LD01EN": {
@@ -119907,9 +119172,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "BP20"
-        ],
+        "Set": "BP20",
         "Trait": ""
     },
     "BP20-LD02EN": {
@@ -119930,9 +119193,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "BP20"
-        ],
+        "Set": "BP20",
         "Trait": ""
     },
     "BP20-LD03EN": {
@@ -119953,9 +119214,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "BP20"
-        ],
+        "Set": "BP20",
         "Trait": ""
     },
     "BP20-LD04EN": {
@@ -119976,9 +119235,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "BP20"
-        ],
+        "Set": "BP20",
         "Trait": ""
     },
     "BP20-LD05EN": {
@@ -119999,9 +119256,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "BP20"
-        ],
+        "Set": "BP20",
         "Trait": ""
     },
     "BP20-LD06EN": {
@@ -120022,9 +119277,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "BP20"
-        ],
+        "Set": "BP20",
         "Trait": ""
     },
     "CP01-LD01EN": {
@@ -120045,9 +119298,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD02EN": {
@@ -120068,9 +119319,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD03EN": {
@@ -120091,9 +119340,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD04EN": {
@@ -120114,9 +119361,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD05EN": {
@@ -120137,9 +119382,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD06EN": {
@@ -120160,9 +119403,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD07EN": {
@@ -120183,9 +119424,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP01-LD08EN": {
@@ -120206,9 +119445,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP01"
-        ],
+        "Set": "CP01",
         "Trait": ""
     },
     "CP02-LD01EN": {
@@ -120229,9 +119466,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP02"
-        ],
+        "Set": "CP02",
         "Trait": ""
     },
     "CP02-LD02EN": {
@@ -120252,9 +119487,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP02"
-        ],
+        "Set": "CP02",
         "Trait": ""
     },
     "CP02-LD03EN": {
@@ -120275,9 +119508,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP02"
-        ],
+        "Set": "CP02",
         "Trait": ""
     },
     "CP02-LD04EN": {
@@ -120298,9 +119529,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP02"
-        ],
+        "Set": "CP02",
         "Trait": ""
     },
     "CP02-LD05EN": {
@@ -120321,9 +119550,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP02"
-        ],
+        "Set": "CP02",
         "Trait": ""
     },
     "CP02-LD06EN": {
@@ -120344,9 +119571,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP02"
-        ],
+        "Set": "CP02",
         "Trait": ""
     },
     "CP03-LD01EN": {
@@ -120367,9 +119592,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD02EN": {
@@ -120390,9 +119613,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD03EN": {
@@ -120413,9 +119634,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD04EN": {
@@ -120436,9 +119655,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD05EN": {
@@ -120459,9 +119676,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD06EN": {
@@ -120482,9 +119697,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD07EN": {
@@ -120505,9 +119718,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD08EN": {
@@ -120528,9 +119739,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD09EN": {
@@ -120551,9 +119760,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD10EN": {
@@ -120574,9 +119781,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD11EN": {
@@ -120597,9 +119802,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP03-LD12EN": {
@@ -120620,9 +119823,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP03"
-        ],
+        "Set": "CP03",
         "Trait": ""
     },
     "CP04-PR08EN": {
@@ -120643,9 +119844,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR01EN": {
@@ -120666,9 +119865,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR09EN": {
@@ -120689,9 +119886,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR02EN": {
@@ -120712,9 +119907,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR10EN": {
@@ -120735,9 +119928,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR03EN": {
@@ -120758,9 +119949,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR11EN": {
@@ -120781,9 +119970,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR04EN": {
@@ -120804,9 +119991,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR12EN": {
@@ -120827,9 +120012,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR05EN": {
@@ -120850,9 +120033,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR13EN": {
@@ -120873,9 +120054,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR06EN": {
@@ -120896,9 +120075,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR14EN": {
@@ -120919,9 +120096,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CP04-PR07EN": {
@@ -120942,9 +120117,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "CP04"
-        ],
+        "Set": "CP04",
         "Trait": ""
     },
     "CSD01-LD01EN": {
@@ -120965,9 +120138,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CSD01"
-        ],
+        "Set": "CSD01",
         "Trait": ""
     },
     "CSD02a-LD01EN": {
@@ -120988,9 +120159,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD02a"
-        ],
+        "Set": "CSD02a",
         "Trait": ""
     },
     "CSD02a-LDⓈ01EN": {
@@ -121011,9 +120180,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD02a"
-        ],
+        "Set": "CSD02a",
         "Trait": ""
     },
     "CSD02b-LD01EN": {
@@ -121034,9 +120201,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD02b"
-        ],
+        "Set": "CSD02b",
         "Trait": ""
     },
     "CSD02b-LDⓈ01EN": {
@@ -121057,9 +120222,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD02b"
-        ],
+        "Set": "CSD02b",
         "Trait": ""
     },
     "CSD02c-LD01EN": {
@@ -121080,9 +120243,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD02c"
-        ],
+        "Set": "CSD02c",
         "Trait": ""
     },
     "CSD02c-LDⓈ01EN": {
@@ -121103,9 +120264,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD02c"
-        ],
+        "Set": "CSD02c",
         "Trait": ""
     },
     "CSD03a-LD01EN": {
@@ -121126,9 +120285,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "CSD03a"
-        ],
+        "Set": "CSD03a",
         "Trait": ""
     },
     "CSD03b-LD01EN": {
@@ -121149,9 +120306,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "CSD03b"
-        ],
+        "Set": "CSD03b",
         "Trait": ""
     },
     "GFB01a-LD01EN": {
@@ -121172,9 +120327,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "GFB01a"
-        ],
+        "Set": "GFB01a",
         "Trait": ""
     },
     "GFB01b-LD01EN": {
@@ -121195,9 +120348,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "GFB01b"
-        ],
+        "Set": "GFB01b",
         "Trait": ""
     },
     "GFB01c-LD01EN": {
@@ -121218,9 +120369,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "GFB01c"
-        ],
+        "Set": "GFB01c",
         "Trait": ""
     },
     "GFB01d-LD01EN": {
@@ -121241,9 +120390,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "GFB01d"
-        ],
+        "Set": "GFB01d",
         "Trait": ""
     },
     "GFD01-LD01EN": {
@@ -121264,9 +120411,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "GFD01"
-        ],
+        "Set": "GFD01",
         "Trait": ""
     },
     "GFD02-LD01EN": {
@@ -121287,9 +120432,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "GFD02"
-        ],
+        "Set": "GFD02",
         "Trait": ""
     },
     "GFE01-LD01EN": {
@@ -121310,9 +120453,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "GFE01"
-        ],
+        "Set": "GFE01",
         "Trait": ""
     },
     "GFE02-LD01EN": {
@@ -121333,9 +120474,7 @@
         "Class": [
             "Neutral"
         ],
-        "Set": [
-            "GFE02"
-        ],
+        "Set": "GFE02",
         "Trait": ""
     },
     "PR-041EN": {
@@ -121356,9 +120495,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "PR"
-        ],
+        "Set": "PR",
         "Trait": ""
     },
     "SDD01-LD01EN": {
@@ -121379,9 +120516,7 @@
         "Class": [
             "Forestcraft"
         ],
-        "Set": [
-            "SDD01"
-        ],
+        "Set": "SDD01",
         "Trait": ""
     },
     "SDD02-LD01EN": {
@@ -121402,9 +120537,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "SDD02"
-        ],
+        "Set": "SDD02",
         "Trait": ""
     },
     "SDD03-LD01EN": {
@@ -121425,9 +120558,7 @@
         "Class": [
             "Runecraft"
         ],
-        "Set": [
-            "SDD03"
-        ],
+        "Set": "SDD03",
         "Trait": ""
     },
     "SDD04-LD01EN": {
@@ -121448,9 +120579,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "SDD04"
-        ],
+        "Set": "SDD04",
         "Trait": ""
     },
     "SDD05-LD01EN": {
@@ -121471,9 +120600,7 @@
         "Class": [
             "Abysscraft"
         ],
-        "Set": [
-            "SDD05"
-        ],
+        "Set": "SDD05",
         "Trait": ""
     },
     "SDD06-LD01EN": {
@@ -121494,9 +120621,7 @@
         "Class": [
             "Havencraft"
         ],
-        "Set": [
-            "SDD06"
-        ],
+        "Set": "SDD06",
         "Trait": ""
     },
     "SS01-LD01EN": {
@@ -121517,9 +120642,7 @@
         "Class": [
             "Swordcraft"
         ],
-        "Set": [
-            "SS01"
-        ],
+        "Set": "SS01",
         "Trait": ""
     },
     "SS02-LD01EN": {
@@ -121540,9 +120663,7 @@
         "Class": [
             "Dragoncraft"
         ],
-        "Set": [
-            "SS02"
-        ],
+        "Set": "SS02",
         "Trait": ""
     }
 }
