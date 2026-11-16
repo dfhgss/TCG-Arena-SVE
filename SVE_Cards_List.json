@@ -8532,14 +8532,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Charlotte, Dragonewt",
+                "name": "Dragonewt Charlotte",
                 "type": "Follower",
                 "cost": 10,
                 "image": "https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP21/BP21-066EN.png",
                 "isHorizontal": false
             }
         },
-        "name": "Charlotte, Dragonewt",
+        "name": "Dragonewt Charlotte",
         "type": "Follower",
         "cost": 10,
         "Class": [
