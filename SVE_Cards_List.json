@@ -227,17 +227,21 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Chloe, What a Gal",
+		"type": "Follower",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-012.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Chloe, What a Gal",
+	"type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-013EN": {
         "id": "CP05-013EN",
@@ -996,34 +1000,42 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Lunalu, Fangirl A",
+		"type": "Follower",
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-049.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Lunalu, Fangirl A",
+	"type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-050EN": {
         "id": "CP05-050EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Lunalu, Fangirl A (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-050.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Lunalu, Fangirl A (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Runecraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-051EN": {
         "id": "CP05-051EN",
