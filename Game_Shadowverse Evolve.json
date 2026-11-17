@@ -316,7 +316,7 @@
                         "isHorizontalAllowed": false,
                         "isGroupForbidden": true,
                         "opponentAlignment": false,
-                        "noAutoPayTo": false,
+                        "noAutoPayTo": true,
                         "displayedTitle": "",
                         "noQuickActions": false,
                         "enterTapped": false,
