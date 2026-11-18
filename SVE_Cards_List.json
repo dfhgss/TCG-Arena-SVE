@@ -1273,34 +1273,42 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Mugen, Steel-Bodied Honesty",
+		"type": "Follower",
+                "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-062.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Mugen, Steel-Bodied Honesty",
+	"type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Light"
     },
     "CP05-063EN": {
         "id": "CP05-063EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Mugen, Steel-Bodied Honesty (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-063.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Mugen, Steel-Bodied Honesty (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 5,
+        "Class": [
+            "Dragoncraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Light"
     },
     "CP05-064EN": {
         "id": "CP05-064EN",
@@ -1454,34 +1462,42 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Albacore",
+		"type": "Amulet",
+                "cost": 4,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-071.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Albacore",
+	"type": "Amulet",
+        "cost": 4,
+        "Class": [
+            "Dragoncraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-072EN": {
         "id": "CP05-072EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Seox, Heavenly Howl",
+		"type": "Follower",
+                "cost": 6,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-072.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Seox, Heavenly Howl",
+	"type": "Follower",
+        "cost": 6,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / The Eternals / Dark"
     },
     "CP05-073EN": {
         "id": "CP05-073EN",
