@@ -46,34 +46,42 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Ewiyar, Wind Personified",
+		"type": "Follower",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-003.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Ewiyar, Wind Personified",
+	"type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Six-Dragon / Wind"
     },
     "CP05-004EN": {
         "id": "CP05-004EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Ewiyar, Wind Personified (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-004.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Ewiyar, Wind Personified (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Forestcraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Six-Dragon / Wind"
     },
     "CP05-005EN": {
         "id": "CP05-005EN",
@@ -374,17 +382,21 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Seofon, Star Sword Sovereign",
+		"type": "Follower",
+                "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 1/CP05-019.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Seofon, Star Sword Sovereign",
+	"type": "Follower",
+        "cost": 5,
+        "Class": [
+            "Swordcraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / The Eternals / Wind"
     },
     "CP05-020EN": {
         "id": "CP05-020EN",
@@ -1525,68 +1537,84 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Fediel, Darkness Personified",
+		"type": "Follower",
+                "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-074.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Fediel, Darkness Personified",
+	"type": "Follower",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Six-Dragon / Dark"
     },
     "CP05-075EN": {
         "id": "CP05-075EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Fediel, Darkness Personified (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 3,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-075.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Fediel, Darkness Personified (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 3,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Six-Dragon / Dark"
     },
     "CP05-076EN": {
         "id": "CP05-076EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Ferry, Spirit Maiden",
+		"type": "Follower",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-076.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Ferry, Spirit Maiden",
+	"type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-077EN": {
         "id": "CP05-077EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Ferry, Spirit Maiden (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-077.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Ferry, Spirit Maiden (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-078EN": {
         "id": "CP05-078EN",
@@ -1614,51 +1642,63 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Celeste Omega",
+		"type": "Amulet",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-079.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Celeste Omega",
+	"type": "Amulet",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-080EN": {
         "id": "CP05-080EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Danua, Grim Puppetmaster",
+		"type": "Follower",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-080.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Danua, Grim Puppetmaster",
+	"type": "Follower",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Light"
     },
     "CP05-081EN": {
         "id": "CP05-081EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Danua, Grim Puppetmaster (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-081.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Danua, Grim Puppetmaster (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Light"
     },
     "CP05-082EN": {
         "id": "CP05-082EN",
@@ -1686,51 +1726,63 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Corruption",
+		"type": "Spell",
+                "cost": 5,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-083.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Corruption",
+	"type": "Spell",
+        "cost": 5,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-084EN": {
         "id": "CP05-084EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Lady Grey, Deathweaver",
+		"type": "Follower",
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-084.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Lady Grey, Deathweaver",
+	"type": "Follower",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-085EN": {
         "id": "CP05-085EN",
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Lady Grey, Deathweaver (Evolved)",
+		"type": "Evolve Deck",
+                "cost": 2,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-085.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Lady Grey, Deathweaver (Evolved)",
+	"type": "Evolve Deck",
+        "cost": 2,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-086EN": {
         "id": "CP05-086EN",
@@ -1758,17 +1810,21 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "",
-                "cost": 0,
+                "name": "Ewige Freundschaft",
+		"type": "Spell",
+                "cost": 1,
                 "image": "https://dfhgss.github.io/TCG-Arena-SVE/CP05 TEMP 2/CP05-087.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "",
-        "cost": 0,
-        "Class": [],
+        "name": "Ewige Freundschaft",
+	"type": "Spell",
+        "cost": 1,
+        "Class": [
+            "Abysscraft"
+        ],
         "Set": "CP05",
-        "Trait": ""
+        "Trait": "Granblue / Dark"
     },
     "CP05-088EN": {
         "id": "CP05-088EN",
